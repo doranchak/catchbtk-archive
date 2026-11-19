@@ -1,0 +1,236 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 547/Where BTK lives right now-->
+<!--Level 1: 547/Where BTK lives right now-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Where BTK lives right now</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Where BTK lives right now</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+Where BTK lives right now
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=547"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=547"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 8205--><!--Time: 1108984181-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8205"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Raidar<!--/name--></b></a><br>Username: <!--field:uname-->Raidar<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 3:09 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have been thinkin this for a while. I mean i see all the drops and everything but i really think he lives away from wichita. He obviously doesnt feel threatened to keep doing drops. I think he feels secure of where he lives..still close enough,but yet far enough away.I just wonder if maybe he lives on the inside of one of the surrounding states. Does anyone know where you contact to talk to about someone. Just wondering.  <BR> <BR>RAIDAR<!--/Text--></td></tr>
+<!--/Post: 8205-->
+<!--Post: 8218--><!--Time: 1109006308-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8218"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 9:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Reminds me of Ted Kacksinski. He attacked people in California and othe states, but none in his home-state. <BR> <BR>Who was to say before he was caught, that the person lived in the middle of nowhere, miles away from his victims? <BR> <BR>Then again, he might be under their very noses. <BR> <BR>:|<!--/Text--></td></tr>
+<!--/Post: 8218-->
+<!--Post: 8294--><!--Time: 1109040317-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8294"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 6:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;After a thing like Fox, I come home and go about life like anyone else. And I will be like that until the urge hits me again.&#34; <BR> <BR>&#34;come home and go about life&#34; <BR> <BR>Either his life focuses around his home...or he was far away from home when he murdered Nancy Fox. Nothing definate, but possibly an exploitable slip of the tongue. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 8294-->
+<!--Post: 8296--><!--Time: 1109041352-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8296"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Raidar<!--/name--></b></a><br>Username: <!--field:uname-->Raidar<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 7:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That is a good point Bmodule. I was just thinkin about the drops he has been doin. I mean he could live 100 or 200 miles away and just drive there to do the drops.Could be Okla. or Mo. i just think there is a chance of this. I do have a few more feelings, just kinda scared to voice my opinion.  <BR> <BR>RAIDAR<!--/Text--></td></tr>
+<!--/Post: 8296-->
+<!--Post: 8300--><!--Time: 1109041627-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8300"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 7:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Being that the area is known for aircraft businesses and manufacturers, one has to consider the possibility that he owns a plane. If that&#39;s the case, then he could be anywhere from Canada to Florida, or from California to New York. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 8300-->
+<!--Post: 8306--><!--Time: 1109046517-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8306"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 8:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Speak up Raidar. BTK uses disimformation to cover his trail, leaving false clues. The cops are baffled because they look for solid evidence being afraid they will look dumb for examining false leads. I say : Investigate everything, believe nothing, The truth will shake out from cross-referencing and patterns. <BR><!--/Text--></td></tr>
+<!--/Post: 8306-->
+<!--Post: 8336--><!--Time: 1109062082-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8336"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Metalhead<!--/name--></b></a><br>Username: <!--field:uname-->Metalhead<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 12:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->he watches the local news in wichita so he would have to live there or close by.<!--/Text--></td></tr>
+<!--/Post: 8336-->
+<!--Post: 8340--><!--Time: 1109076585-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8340"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Raidar<!--/name--></b></a><br>Username: <!--field:uname-->Raidar<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 4:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I live in Southeast TX and i watch everything on the news about BTK on my laptop from Wichita News. I even watch my hometown news when im away, so if he is computer savey he can do the same.  <BR> <BR>RAIDAR<!--/Text--></td></tr>
+<!--/Post: 8340-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/547">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/547" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

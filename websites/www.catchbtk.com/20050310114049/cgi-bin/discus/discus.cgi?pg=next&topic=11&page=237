@@ -1,0 +1,237 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 238/Plausible disguises?-->
+<!--Level 1: 238/Plausible disguises?-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Plausible disguises?</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Plausible disguises?</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+Plausible disguises?
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=238"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=238"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 2624--><!--Time: 1103850535-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2624"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dee<!--/name--></b></a><br>Username: <!--field:uname-->Dee<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 5:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This may be a duplicate post.  If so, I apologize, but has the theory that person&#40;s&#41;responsible for all of this may be dressed as a priest, doctor, business man, etc. &#40;i.e. a person no one would even look twice at as being suspicious&#41;?  For instance, I read a post that all of the murder scenes were in close proximity to city parks.  Could the person&#40;s&#41; be dressed as a park employee or security?  I&#39;m not familiar with Wichita to know if park employees and/or security personnel are commonly seen in the area, nor what a park employee would be wearing &#40;orange pants?&#41;, but I thought I would throw it out there.<!--/Text--></td></tr>
+<!--/Post: 2624-->
+<!--Post: 2632--><!--Time: 1103857889-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2632"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 7:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dressed as a Doctor? What... in scrubs... in a park or at the door? <BR> <BR>A Priest? Maybe in 1974. These days, with all the Catholic Church scandals a Priest might get more than a second look. <BR> <BR>Workman/Uniformed of some type, is more likely.<!--/Text--></td></tr>
+<!--/Post: 2632-->
+<!--Post: 2834--><!--Time: 1104175896-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2834"><font face="Verdana" size="1"><b><!--email--><a href="mailto:jsk@jvlnet.com" target="_blank"><!--/email--><!--name-->Vdubguy<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vdubguy<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 27, 2004 - 11:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I like the idea...but no one saw ANYTHING. Not even someone who looked &#39;unsuspicious&#39;. Which leads me to belive he came in a back door sometime after dark. <!--/Text--></td></tr>
+<!--/Post: 2834-->
+<!--Post: 2858--><!--Time: 1104202850-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2858"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Oklahoma_mike<!--/name--></b></a><br>Username: <!--field:uname-->Oklahoma_mike<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 27, 2004 - 7:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The example that has come to my mind ever since I visited all the crime scene neighborhoods is an old story by G.K.Chesterton, in a literature collection way back in high school.  The title was, &#34;The Invisible Man&#34;.  This had nothing to do with Wells novels of the same name.  I forget some of the details but in the story a man is murdered at his business, a small shop on a downtown street during mid-morning.  When the owners and empolyees of all neighboring businesses all up and down the street are questioned by police they all swear they saw no customers enter the store, and saw nothing suspicious.  There is only the front door in and out, and that is right on the sidewalk.  The detective is puzzeled.  Was the killer truly invisible or is everyone lying under oath?  Finally, the case is solved through traditional methods by looking at the victims life and trying to determine who would have a motive.  It turned out the crime was a crime of passion or revenge &#40;I forget some of the details&#41; and the killer was the regular postman, who did it on his regular rounds!  The man delivering the mail was there every morning, he as a part of the environment, faded into the background, so none of the witnesses even remembered to mention it.  He was supposed to be there every day, was part of the routine, thus &#34;invisible&#34;. <BR>Somehow, I am convinced that is the answer to how BTK moved around the neighborhoods, did surveillance and eventually came and went to most of the crimes.  He was so ubiqutious and ordinary that nobody remembered him.   <BR>As I said before, some type of utility, delivery or service worker.  Either real, or in that guise.<!--/Text--></td></tr>
+<!--/Post: 2858-->
+<!--Post: 2860--><!--Time: 1104204157-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2860"><font face="Verdana" size="1"><b><!--email--><a href="mailto:jsk@jvlnet.com" target="_blank"><!--/email--><!--name-->Vdubguy<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vdubguy<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 27, 2004 - 7:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Interesting theory...say for instance that he observed someone in the neighborhood that wore certain clothes while walking a dog...He could emulate that and not be out of the ordinary..<!--/Text--></td></tr>
+<!--/Post: 2860-->
+<!--Post: 3303--><!--Time: 1104769671-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3303"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 8:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i>cross posted from <a href="http://www.catchbtk.com/discus/messages/11/260.html?1104752588">here</a></i> <BR> <BR>In his first letter, BTK wrote &#34;It a big compicated game my friend of the monster play putting victims number down, follow them, checking up on them waiting in the dark,...&#34; &#40; <a href="http://www.christianityoasis.com/PurityPublication" target=_top>http://www.christianityoasis.com/PurityPublication</a> s/5003/BTK/Home.htm &#41; <BR> <BR>What if this is a clue as to how he selects his victims? Meter readers &#40;or electric co. employees&#41; and telephone co. professionals &#40;line repairman?&#41; come to mind as types that &#34;put down numbers&#34; of people as part of their work, and would totally &#34;blend in&#34; or be &#34;invisible&#34; as we&#39;re discussing in this thread &#40;and in parallel in another&#41;. In different ways, both professions might provide time and opportunity for &#34;scoping out&#34; or &#34;casing&#34; victims&#39; homes as well. <BR> <BR>Where I live &#40;in California&#41;, it is not unusual at all for the electric company meter readers to enter our back yards to read our meters in the very early dark of morning. Also, on a couple of occasions I&#39;ve had disputes with the electric company over usage and the customer service people have told me that the reader must not have been able to &#34;scope&#34; the meter, and estimated my usage instead of getting a precise read. That is to say: meter readers around here carry telescopes/binoculars. I have owned a home and worked from my home office for four years, and can only remember seeing my meter reader on two occasions. Are these things also true in Wichita? <BR> <BR>At this site: <a href="http://www.thoughtpeach.com/archives/000411.html" target=_top>http://www.thoughtpeach.com/archives/000411.html</a>, a commenter calling himself &#34;DWD&#34; says his dad was the man waiting for the payphone while BTK was using it to call WPD, and that his dad said BTK wore a uniform similar to what &#34;a KG&amp;E employee might wear&#34;. I assume KG&amp;E is the Wichita electric company. <BR> <BR>Also, <a href="http://www.kansas.com/mld/kansas/news/special_packages/btk/archive/8348962.htm" target="_blank">here is an excellent summary of the case</a> which I haven&#39;t seen a link posted to elsewhere on catchbtk.com.  It provides lots of details I hadn&#39;t seen reported elsewhere, many regarding issues being &#34;theorized&#34; about in this message board. It confirms the firefighter eyewitness of the BTK payphone call, and his description of BTK as wearing a &#34;grey industrial uniform&#34;, and adds that he was driving a panel van, possibly with writing on the side.  This is precisely the kind of vehicle utility workers around here drive- how about in Wichita?<!--/Text--></td></tr>
+<!--/Post: 3303-->
+<!--Post: 4323--><!--Time: 1106153217-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4323"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jim44095<!--/name--></b></a><br>Username: <!--field:uname-->Jim44095<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 19, 2005 - 8:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have always thought the disguises he used were more elaborate ,especially after hearing he carried a duffel bag with him.When I was in high school there was a guy who could have passed for a girl,we used to call him he/she&#40;cruel I know&#41;. <BR>About 4yrs after graduating we saw him in a bar trying to flirt with a guy,I walked up to him and said hey didn&#39;t you used to be so and so and he/she gave me the most evil look,the person was so pumped up physically but you could only tell if you really looked at his/her arms because they were obscured by a long sleeved dress,needless to say I walked away pretty fast because he looked like he could kick my ass at that time.Just remembering something btk said in one of his letters,&#34;I look totally different in the daytime&#34; or something like that maybe these people thought they were opening up there door to a female?Yeah I had a very strange graduating class and that was in the 60&#39;s heh!<!--/Text--></td></tr>
+<!--/Post: 4323-->
+<!--Post: 5792--><!--Time: 1107378904-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5792"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 1:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have never been very enthused with the disguise idea.  I don&#39;t think a person really needs a disguise in most cases. <BR> <BR>People, for the most part, are very trusting.  If someone rings the doorbell, we think, &#34;Hmmm... I wonder what what they want...?&#34;  We rarely think, &#34;Oh my God - that person looks like he wants to kill me.&#34; <BR> <BR>So, I think a person, as long as they look like a normally-dressed individual could gain entrance to most homes, just by knocking.  I have never not opened my door to someone because I did not know them.  And frankly, I wouldn&#39;t want to live that way.  We shouldn&#39;t have to peek from behind the blinds.   <BR> <BR>Didn&#39;t they say Bundy was the epitome of the &#39;boy next door&#39;?<!--/Text--></td></tr>
+<!--/Post: 5792-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/238">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/238" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,236 @@
+<html>
+<!--Topic: 8/Possible BTK Victims-->
+<!--Me: 124/Shannon Olson-->
+<!--Level 1: 124/Shannon Olson-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 8-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Shannon Olson</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Shannon Olson</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/8/8.html"><font color="#f7f7f7">Possible BTK Victims</font></a> &#187;
+Shannon Olson
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=8&page=124"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=8&page=124"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 753--><!--Time: 1092494630-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST753"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 14, 2004 - 7:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oct. 31, 1987: Shannon Olson, 15, left her home in the 1100 block of <b>South Hydraulic</b> shortly after 11 p.m., saying she was going to run an errand. Two fishermen found her nude body floating in an old sand pit at 33rd and Hillside the next day. Her hands were tied behind her back with her bra. <BR><!--/Text--></td></tr>
+<!--/Post: 753-->
+<!--Post: 818--><!--Time: 1092921001-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST818"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Beckyks<!--/name--></b></a><br>Username: <!--field:uname-->Beckyks<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, August 19, 2004 - 6:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This girl was a friend of mine.  We went to school together.  I&#39;ve often wondered what really happened to her.  Would appreciate any ideas people have.<!--/Text--></td></tr>
+<!--/Post: 818-->
+<!--Post: 848--><!--Time: 1093096476-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST848"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 21, 2004 - 6:54 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Being Halloween nite, she may not have been suspicious of anyone in a costume. Neither would anyone else. Maybe Halloween was a motive for killing her that nite, but I don&#39;t know if trick or treat is done ON Halloween day in Wichita. <BR> <BR>If it was BTK using the water MO of the Zodiac, Shannon lived on Hydraulic and was found in water.<!--/Text--></td></tr>
+<!--/Post: 848-->
+<!--Post: 1319--><!--Time: 1099112845-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1319"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Gingin<!--/name--></b></a><br>Username: <!--field:uname-->Gingin<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, October 29, 2004 - 10:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi all. I knew Shannon Olson way back in the early to mid 80&#39;s. She was a couple years older than me. We used to hang out together at the Golden Cue, which was a game room. It was also right next door to a place called the circle cinama which is an adult movie theatre.  <BR> <BR>She was pretty wild for her age and drank and did drugs &#40;just weed I think&#41;, we all did though. Some of her friends were into devil worshipping. She might have been to, but I really don&#39;t know for sure.  <BR> <BR>When I first learned of her death, not long after it happened, my first thought was she was sacrificed in some sort of satan ritual. I stopped hanging out at the Golden Cue after that and also stopped hanging out with those people.  <BR> <BR>Shannon&#39;s best friend at the time, she scared the hell out of me. She just had this wicked vibe all around her.  <BR> <BR>I don&#39;t know who killed Shannon or why, but in my heart, I really don&#39;t think the BTK did it.  <BR> <BR>It could have been some sicko from the adult theatre. It wasn&#39;t uncommon for us to hang around outside the Golden Cue and men going into the theatre would approach us often. <BR> <BR>Hope they find out who did it someday.<!--/Text--></td></tr>
+<!--/Post: 1319-->
+<!--Post: 1320--><!--Time: 1099176573-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1320"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@cox.net" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, October 30, 2004 - 3:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Gingin, <BR> <BR>I think those drugs really did a number on your brain.  Back in the 80&#39;s and currently now, circle cinema is on seneca st., whats more there was never a Golden Cue around it.  Maybe a pizza Hut a mexican restarant, or even a liquor store, although 29 hundreds blocks North there was a copper cue, next to a strip club.  This would have been at Maple and Seneca.  Tell me if you knew shannon very well, answer me this did she have sister, and if so what was her name? <BR> <BR>wichitan <BR><!--/Text--></td></tr>
+<!--/Post: 1320-->
+<!--Post: 1321--><!--Time: 1099180385-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1321"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Gingin<!--/name--></b></a><br>Username: <!--field:uname-->Gingin<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, October 30, 2004 - 4:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wichitan, <BR> <BR>Excuse me, but there is no need to be so rude. Maybe I was wrong about the name of the adult theatre. The place I am talking about is located at the corner of Harry and Oliver. The Golden Cue was on the corner, which is now a pawn shop and the adult theatre is in the same parking lot. <BR> <BR>To answer your question, I didn&#39;t know Shannon that well. I basically knew her through a few  friends and only hung out with her a couple of times, although I seen her at the gameroom often. Back when I knew her, she went by the nickname of Angel. <BR> <BR>Ginny<!--/Text--></td></tr>
+<!--/Post: 1321-->
+<!--Post: 1326--><!--Time: 1099248063-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1326"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@cox.net" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, October 31, 2004 - 10:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->My post wasn&#39;t to offend you, and I&#39;m sorry it came off that way.  Your first post, was hard to understand, and from the way you talked, I thought you might have known her a little better. <BR>Clearly, that isn&#39;t the case at all. <BR> <BR>thanks and sorry again, <BR> <BR>wichitan<!--/Text--></td></tr>
+<!--/Post: 1326-->
+<!--Post: 1332--><!--Time: 1099331996-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1332"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Beckyks<!--/name--></b></a><br>Username: <!--field:uname-->Beckyks<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, November 01, 2004 - 9:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wichitan - Her sister&#39;s name was either Michelle or Heather...it&#39;s hard to remember after 17 years.  They were either half or step sisters.  She went by a different last name than Shannon. <BR>I&#39;m curious...How well did YOU know her? <BR> <BR>Ginny - You and I probably know each other.<!--/Text--></td></tr>
+<!--/Post: 1332-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="8/124">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=8/124" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

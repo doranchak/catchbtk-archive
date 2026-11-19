@@ -1,0 +1,291 @@
+<html>
+<!--Topic: 8/Possible BTK Victims-->
+<!--Me: 85/Carol Marstellar-->
+<!--Level 1: 85/Carol Marstellar-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 8-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Carol Marstellar</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Carol Marstellar</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/8/8.html"><font color="#f7f7f7">Possible BTK Victims</font></a> &#187;
+Carol Marstellar
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=8&page=85"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=8&page=85"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 476--><!--Time: 1089818551-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST476"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Micaela<!--/name--></b></a><br>Username: <!--field:uname-->Micaela<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, July 14, 2004 - 8:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->06/09/75 - Carol Marstellar, 32 yo Wichita woman found in a ditch northeast of Wichita. She had been stabbed may times to the abdomen. She had also been beatem in the head and chest by possible the knife handle. She was last seen about 11:30 pm Wednesday leaving the Brookside Club at , &#40;get this address&#41; 717 S. Market Roomate was Katherine Long, who last saw her. <BR> <BR>The body lay face up amoung weeds. The left hand lay across the woman&#39;s midsection. <BR> <BR>Jaden<!--/Text--></td></tr>
+<!--/Post: 476-->
+<!--Post: 602--><!--Time: 1090897525-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST602"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, July 26, 2004 - 8:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This sounds like a &#34;personal cause&#34; homicide but a few things indicate she may have been a BTK victim.<!--/Text--></td></tr>
+<!--/Post: 602-->
+<!--Post: 1151--><!--Time: 1097455608-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1151"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Quell<!--/name--></b></a><br>Username: <!--field:uname-->Quell<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, October 10, 2004 - 5:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have read elsewhere that serial killers very much do pose their victims.  This posing situation would match the Wegerle photo.  BTK without a doubt.  Sexual serial killers gravitate toward mutilation/maiming as well as placing foreign objects in the victims&#39; sexual areas.  Was there anything found on ANY of these victims?<!--/Text--></td></tr>
+<!--/Post: 1151-->
+<!--Post: 8502--><!--Time: 1109178907-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8502"><font face="Verdana" size="1"><b><!--email--><a href="mailto:whoisbtk@yahoo.com" target="_blank"><!--/email--><!--name-->Whoisbtk<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 9:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->G <BR>   There are some curious coincidences here.  <BR>   VERY curious. <BR> <BR>Let’s look at David G. Packard: <BR> <BR>    He was born in 1950, and is 6&#39;2&#34; tall with light brown hair.  <BR>   <BR>    Carol Martstellar was killed June 5, 1975.  On July 14, 1986 David G. Packard was arrested and charged with her murder in Sedgwick County district court case 86CR774.  <BR> <BR>    At the time of his arrest, he was employed by East Tulsa Office Supply. [copiers ?] <BR> <BR>    Packard posted bond on July 31, 1986.  He was required to stay in Tulsa County Oklahoma and call the Tulsa Co Sheriff nightly at 6:00pm.  He could not leave Tulsa Co. except for court or to visit his lawyer in Wichita. <BR>   <BR>     He had required court appearances on August 6th 1986 and September 29th 1986, and would have been meeting with his lawyer during the time of the Wegerly homicide September 13th 1986. <BR>   <BR>     His lawyer&#39;s office was in the 1400 block of north Broadway, 1.98 miles from the Wegerly home. <BR> <BR>     The Wegerly home is on 13th street, which is a direct route between the lawyer’s office and Hwy 235, which links to I-35 to Oklahoma.  <BR> <BR>     Packard had to use direct routes to comply with his bond conditions. <BR> <BR>     Mr. Wegerly&#39;s sister was a Sedgwick County court reporter who worked on the floor where Packard&#39;s preliminary hearing was held on August 6th 1986. <BR> <BR>     Packard was convicted and taken into custody on Mar 25, 1987.  Kansas Department of Correction records show that he spent 18 years in Lansing penitentiary, until he reported to his parole officer in Oklahoma on Mar 23, 2004. He was released on parole in Kansas earlier and then transferred to Oklahoma.  He was out of prison March 19th 2004. <BR> <BR>     There were no BTK communications or killings while Packard was in prison. <BR> <BR>     Packard gave a DNA sample when he was placed on parole, but the backlog is so massive that it probably hasn&#39;t been tested.   <BR> <BR>     Link to news article about the parole hearing: <a href="http://www.kake.com/news/headlines/515277.html" target=_top>http://www.kake.com/news/headlines/515277.html</a> <BR> <BR>     Link to parole website for Packard with photo: <a href="http://www.dc.state.ks.us/kasper2/offender.asp?id=15497" target=_top>http://www.dc.state.ks.us/kasper2/offender.asp?id= 15497</a> <BR> <BR>    Hmmmmmmmmmmm….. <BR> <BR><a href="mailto:whoisbtk@yahoo.com">whoisbtk@yahoo.com</a> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 8502-->
+<!--Post: 8527--><!--Time: 1109184392-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8527"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Blade<!--/name--></b></a><br>Username: <!--field:uname-->Blade<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 10:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Very interesting, law enforcement needs to take a look at this guy.<!--/Text--></td></tr>
+<!--/Post: 8527-->
+<!--Post: 8539--><!--Time: 1109189856-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8539"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 12:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->good work<!--/Text--></td></tr>
+<!--/Post: 8539-->
+<!--Post: 8559--><!--Time: 1109208207-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8559"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Blade<!--/name--></b></a><br>Username: <!--field:uname-->Blade<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 5:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Whoisbtk, <BR> <BR>Excellent work, this is one of the best POI that I have seen.<!--/Text--></td></tr>
+<!--/Post: 8559-->
+<!--Post: 8564--><!--Time: 1109210095-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8564"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 5:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Has anyone actually forwarded this to the BTK tip email? If not, what is the email and I will. Does anyone know where to send tips these days? <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 8564-->
+<!--Post: 8599--><!--Time: 1109224287-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8599"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 9:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Fascinating, Who!  But was he out on March 17, when the March 19 2004 letter was postmarked?  Or is there another explanation for the mailing time?  I just want to see in black and white when he was out the door and on the street in order to get to a Wichita mailbox on March 17.  Thanks.<!--/Text--></td></tr>
+<!--/Post: 8599-->
+<!--Post: 8616--><!--Time: 1109251887-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8616"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Topsailgrl<!--/name--></b></a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 5:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->According to his current status, he was released/paroled out of state on March 23rd 2004. So on March 17th he was not in Wichita, he was at Oaklahoma State.  <BR> <BR>  <BR><!--/Text--></td></tr>
+<!--/Post: 8616-->
+<!--Post: 8617--><!--Time: 1109251945-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8617"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Blade<!--/name--></b></a><br>Username: <!--field:uname-->Blade<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 5:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->He is still out of prison two days before the communciations begain. We need to find out all we can on DAVID GEORGE PACKARD.<!--/Text--></td></tr>
+<!--/Post: 8617-->
+<!--Post: 8618--><!--Time: 1109252510-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8618"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Topsailgrl<!--/name--></b></a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 5:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->His first communication was received on March 19th and post marked March 17th 2004. I say he is very interesting, but the dates of the first confirmed communication do not match. The first communication contained Vickie Weargerle&#39;s drivers license and photo&#39;s of the crime scene that were apparently taken by the killer.<!--/Text--></td></tr>
+<!--/Post: 8618-->
+<!--Post: 8624--><!--Time: 1109254090-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8624"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Blade<!--/name--></b></a><br>Username: <!--field:uname-->Blade<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 6:08 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tops, <BR>I just called the Kansas Parole Department I want to know if there might be a window from release date to parole date since he transferred out of state.  <BR> <BR>I will have to wait 2 hours due to the time difference their office opens at 8 am.  <BR><!--/Text--></td></tr>
+<!--/Post: 8624-->
+<!--Post: 8628--><!--Time: 1109255004-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8628"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Topsailgrl<!--/name--></b></a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 6:23 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Great Blade! Hopefully we can get a precise answer. Because they clearly clearly state twice that his movement date and release date is the 23rd of March. I coudnt understand where whoisbtk was getting that he was out on the 19th. I have tried to find any information that supports it but so far have not. He would be a prime POI if this can be supported.  <BR> <BR>Kind of off topic-why in hell is this guy on parole??? I know his family proclaims he is innocent but he was tried and convicted! If his family only <i>knew</i> how many inmates &#34;didnt do it!&#34; <BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 8628-->
+<!--Post: 8649--><!--Time: 1109265767-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8649"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Blade<!--/name--></b></a><br>Username: <!--field:uname-->Blade<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 9:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just got of the phone with the state of Kansas D.O.C and there could be a window. According to KDOC.  <BR> <BR>He is still in the race! <BR><!--/Text--></td></tr>
+<!--/Post: 8649-->
+<!--Post: 8800--><!--Time: 1109350459-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8800"><font face="Verdana" size="1"><b><!--email--><a href="mailto:topsailgrl@yahoo.com" target="_blank"><!--/email--><!--name-->Topsailgrl<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 8:54 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have no clue if this is going to work or not. But, I took the 1978 composite and the picture of Packard and put them side by side. See if this link will work <BR> <BR><a href="http://photobucket.com/albums/v737/topsailgrl/" target=_top>http://photobucket.com/albums/v737/topsailgrl/</a><!--/Text--></td></tr>
+<!--/Post: 8800-->
+<!--Post: 8801--><!--Time: 1109351232-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8801"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 9:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->WOW - everything is the same except the hair!!!! <BR>Good job TopS!<!--/Text--></td></tr>
+<!--/Post: 8801-->
+<!--Post: 8808--><!--Time: 1109353865-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8808"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 9:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Double WOW!!!He&#39;s got the look. His DNA should be on file too should&#39;nt it? It should be pretty easy to check out.<!--/Text--></td></tr>
+<!--/Post: 8808-->
+<!--Post: 8815--><!--Time: 1109359730-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8815"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 11:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Do you know TopS if his DNA has been checked or if it is indeed on file??<!--/Text--></td></tr>
+<!--/Post: 8815-->
+<!--Post: 8818--><!--Time: 1109360084-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8818"><font face="Verdana" size="1"><b><!--email--><a href="mailto:topsailgrl@yahoo.com" target="_blank"><!--/email--><!--name-->Topsailgrl<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 11:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have no clue........read the above post by whoisbtk. I am not convinced this is the guy, but after whoisbtk pointing out a few things and Blade calling the KDOC, there seems to be a possibility at least. At this point, I would look at anyone.<!--/Text--></td></tr>
+<!--/Post: 8818-->
+<!--Post: 10466--><!--Time: 1109967882-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10466"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 12:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This sounds exactly like him, can someone try to dig up more about her life, see if we can find out what she was doing a few days prior where she went, where she ate? if she had pets etc<!--/Text--></td></tr>
+<!--/Post: 10466-->
+<!--Post: 10555--><!--Time: 1110000792-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10555"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 9:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ember-  Carol Marsteller&#39;s murderer has already been found.  This is actuallya  closed case.<!--/Text--></td></tr>
+<!--/Post: 10555-->
+<!--Post: 10595--><!--Time: 1110045974-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10595"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 05, 2005 - 10:06 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->ok can yo tell me who it was<!--/Text--></td></tr>
+<!--/Post: 10595-->
+<!--Post: 10608--><!--Time: 1110056131-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10608"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 05, 2005 - 12:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.dc.state.ks.us/kasper2/offender.asp?id=15497" target=_top>http://www.dc.state.ks.us/kasper2/offender.asp?id= 15497</a> <BR> <BR>David Packard was fingered for this case. <BR> <BR><a href="http://www.kake.com/news/headlines/515277.html" target=_top>http://www.kake.com/news/headlines/515277.html</a><!--/Text--></td></tr>
+<!--/Post: 10608-->
+<!--Post: 10621--><!--Time: 1110065317-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10621"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 05, 2005 - 3:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->thank you Verm<!--/Text--></td></tr>
+<!--/Post: 10621-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="8/85">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=8/85" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

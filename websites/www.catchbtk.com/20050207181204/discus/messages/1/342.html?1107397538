@@ -1,0 +1,282 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 342/In Cold Blood; Coincidences Galore!-->
+<!--Level 1: 342/In Cold Blood; Coincidences Galore!-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: In Cold Blood; Coincidences Galore!</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">In Cold Blood; Coincidences Galore!</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+In Cold Blood; Coincidences Galore!
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=342"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=342"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4420--><!--Time: 1106346954-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4420"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 2:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A 1967 movie, set entirely in Kansas albeit western Kansas. I&#39;m talking about <i>In Cold Blood</i> of course. In my opinion, not only did BTK see this movie perhaps five times when it was first released, he&#39;s got a copy of the thing and has probably seen the film at home on countless occasions. In fact if BTK honestly listed his five favorite movies I&#39;d bet <i>In Cold Blood</i> would come in first or second place. In 1967, BTK was probably a teen and when you consider how image-orinted BTK was and is, as well as the incredible amount of <i>rope</i> used to <i>restrain</i> the victims, including restraining one victim from a <i>pipe</i> in the <i>basement</i> and that at least one victim was <i>hogtied</i> - &#40;they may <i>all</i> have been hogtied, I don&#39;t remember&#41; - there may be something here. <BR> <BR>Additionally, Scott Wilson is <i>hanged</i> by rope and far more powerfully, Robert Blake is also <i>hanged</i> by <i>rope</i> - in slow motion - and there are lines such as: Dick: &#34;It&#39;s a <i>cinch</i>, cause we&#39;re leaving <i>no witnesses.&#34;</i> Dick: &#34;I swear honey, we&#39;ll blast hair all over those walls.&#34; Dick, to the elder Clutter&#39;s in the bathroom: &#34;Make one move, holler once, and we&#39;ll <i>cut</i> their [Kenyon, Mr. Clutter] throats.&#34; &#40;Kathryn Bright was assualted by knife.&#41; And remember the scene in the hardware store where Dick mimics a stretch of thick white tape covering and then uncovering his mouth? Pretty cold. I could think of twenty more such things, even though I haven&#39;t seen the film in at least four years. <BR> <BR>Finally, I know the Clutters were shotgunned, and there were two perps. Although Herb, &#40;Mr. Clutter&#41;, did indeed have his throat cut &#40;but was shotgunned anyway&#41;. That makes no difference in this case. The question is simply this: did BTK see this film and if so was it fantasy fodder for him? In my opinion, this film had a huge impact on BTK &#40;note that BTK mentions neither Dick Hickock nor Perry Smith in his letter.&#41; And while I believe that the Otero attack was aimed only at Mrs. Otero, the fact remains that four Oteros were killed and four Clutters were killed. <BR> <BR>I&#39;m sure BTK read Capote&#39;s book from which the film is drawn, but the film would be the way to go. This dark, disconcerting film, if released today, would get an &#34;R&#34; rating - <i>that&#39;s</i> how galvanizing it is. Thoughts? Or maybe it&#39;s just a coincidence? <BR> <BR>Challenge: If you have a copy of this film, I say it&#39;s 50/50 that some of the phrases BTK uses in his writing are clearly limned in this film. Easy way to find out. Pop a copy in, turn on closed-captioning, and write down each word of dialogue and possibly each word of narrative <b>in sequential order.</b> I suggest closed-captioning because it is easier to copy; if you don&#39;t care to use this feature, cool. Just get the dialogue and narration down, in sequential order. I have this film but the first thirty minutes were recorded over by a different show. Still, I&#39;ll check what I do have, anyway. As we know, BTK wasn&#39;t shy about plaigerising those more intelligent than he - a classic psychopathic trait. <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4420-->
+<!--Post: 4424--><!--Time: 1106351672-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4424"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 3:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Two sentences: The acting, across-the-board, is impeccable; much more, it&#39;s a harrowing but very accurate look at violent crime and motive. I&#39;m convinced that BTK has seen this photoplay many, many times.<!--/Text--></td></tr>
+<!--/Post: 4424-->
+<!--Post: 4426--><!--Time: 1106352842-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4426"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 4:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Duh. I finally remembered my unmentioned point: Serial killers, more and more, use movie dialogue in written correspondences. I believe the JonBenet note had phrases from <i>Dirty Harry,</i> for instance.<!--/Text--></td></tr>
+<!--/Post: 4426-->
+<!--Post: 4430--><!--Time: 1106357259-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4430"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jujuree<!--/name--></b></a><br>Username: <!--field:uname-->Jujuree<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 5:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George, now that you bring it up, it wouldn&#39;t surprise me one bit if BTK used ICB as &#34;fantasy fodder.&#34;  It was probably a very inspiring film to him as he imagined himself in the place of the killers. <BR> <BR>I &#42;think&#42; I saw part of this movie when I was a kid &#40;way too young&#41;, and stopped watching part way through because it scared me.  Next time I rent movies, I&#39;m going to look for it. <BR> <BR>    <!--/Text--></td></tr>
+<!--/Post: 4430-->
+<!--Post: 4448--><!--Time: 1106367497-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4448"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 8:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Jujuree, COOL! I appreciate it. <!--/Text--></td></tr>
+<!--/Post: 4448-->
+<!--Post: 4462--><!--Time: 1106383086-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4462"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 12:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->When I first heard of BTK I thought of the film &#39;In Cold Blood.&#39;  <BR>There was a movie out in 1974 that I wondered if it gave BTK any inspiration. It stared Warren Oates in a heavy dark film that had nothing to do with mass murder but it was about the illegal and underground practice of cockfighting.  <BR>It was originally called &#39;Cockfighter&#39; which didn&#39;t go over well so it was re-released as &#39;Born To Kill.&#39;<!--/Text--></td></tr>
+<!--/Post: 4462-->
+<!--Post: 4465--><!--Time: 1106393689-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4465"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nugzter<!--/name--></b></a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 3:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George, you never cease to amaze me. Your awesome. Im gonna rent the movie tomorrow if I can find it in Germany. If not, Ill look for it on the net. That is a very sound observation, and something any family member would know if their 60plus dad/husband was a ICB fan. But not just a fan, a freak...<!--/Text--></td></tr>
+<!--/Post: 4465-->
+<!--Post: 4746--><!--Time: 1106706852-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4746"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 6:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I am thinking the book is by Truman Capote.  I think that book is his jewel.  From what I recall Capote and Norman Mailer had an argument in the early 80&#39;s over which novelist could claim &#39;creative rights&#39; for having invented the technique of mixing MOSTLY FACT with a little fiction to create a basically TRUE crime novel. <BR><!--/Text--></td></tr>
+<!--/Post: 4746-->
+<!--Post: 4791--><!--Time: 1106753051-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4791"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tucker<!--/name--></b></a><br>Username: <!--field:uname-->Tucker<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 7:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George....not trying to be smart, as you are correct that the JonBenet killer did quote a movie, but it was &#39;Speed&#39; that he/she quoted, and the line was said by Dennis Hopper, and I am paraphrasing, but it was along the lines of, &#34;Don&#39;t attempt to grow a brain.&#34;  I am sure the comment was directed toward police, or perhaps the parents.  <!--/Text--></td></tr>
+<!--/Post: 4791-->
+<!--Post: 4882--><!--Time: 1106791168-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4882"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kayjay<!--/name--></b></a><br>Username: <!--field:uname-->Kayjay<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 5:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have no doubt that BTK was exposed to the Clutter murders that took place in Kansas in 1955? <BR>To what extent did they influence his MO? What is interesting is that one of the killers attempted to rape the bound Clutter daughter and was stopped by the other killer {who apparantly had high morals in that dept}. Did BTK fantasize about how that aspect of the crime may have played out? <BR> <BR>The book was re-released only a couple of years ago so shouldn&#39;t be hard to get hold of. Certainly a classic.<!--/Text--></td></tr>
+<!--/Post: 4882-->
+<!--Post: 4909--><!--Time: 1106810742-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4909"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 11:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tucker, thanks. Yes, it was <i>Speed</i>.  <BR> <BR>Kayjay, I had wondered whether or not the movie &#34;In Cold Blood&#34; was one BTK viewed several times. What I was going to do was transcribe all narrative and dialogue and see if BTK&#39;s written words could be found. I remember the scene of which you speak. Technically, BTK didn&#39;t rape any victim; he had a psycho-sexual problem of some sort. Rope plays a large role in the film and even though it&#39;s a long way west, the killings did occur in Kansas. I&#39;ve been trying to notice if there is any movie dialogue in BTK&#39;s letters. It&#39;s just a little experiment.<!--/Text--></td></tr>
+<!--/Post: 4909-->
+<!--Post: 4929--><!--Time: 1106828890-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4929"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stuart_m<!--/name--></b></a><br>Username: <!--field:uname-->Stuart_m<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 4:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Johno: <BR> <BR>There is a 1947 film called &#39;Born To Kill&#39; as well. Interesting with the dates.  <BR> <BR><a href="http://www.imdb.com/title/tt0039211/" target=_top>http://www.imdb.com/title/tt0039211/</a><!--/Text--></td></tr>
+<!--/Post: 4929-->
+<!--Post: 4946--><!--Time: 1106837771-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4946"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kayjay<!--/name--></b></a><br>Username: <!--field:uname-->Kayjay<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 6:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George, this type of killer thrives on fantasy fed by watching movies etc, but fantasy only sustains him for so long. I saw the movie several years ago but I&#39;m not sure how much &#39;creative licence&#39; was used. The book is factual so I&#39;ll dig out my copy and skim through it as I do remember thinking {at the time I read it} how many similarities there were with the BTK killings.<!--/Text--></td></tr>
+<!--/Post: 4946-->
+<!--Post: 5134--><!--Time: 1106895909-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5134"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kayjay<!--/name--></b></a><br>Username: <!--field:uname-->Kayjay<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 11:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok, just picked up the book and skimmed over 2 pages. The phone was off the hook and the line cut. Im only up to the finding of Nancy&#39;s body so far....Quoting from book &#34;her hands were tied behind her and her ankles were roped together with the kind of cord you see on venetian blinds&#34; <BR> <BR>OH MY GOD....Mrs Clutters hands were tied with the cord running down and tied around her ankles then continued down and tied to the footboard of the bed! <BR> <BR>to be continued....<!--/Text--></td></tr>
+<!--/Post: 5134-->
+<!--Post: 5135--><!--Time: 1106904542-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5135"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 28, 2005 - 1:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wow! <BR> <BR>I think it&#39;s almost safe to say that we&#39;re looking for somebody who really got off on this book and movie.  Probably enough that any friends or acquaintances at the time would have thought it was a little weird.  A little more investigation is going to sew this angle up, I&#39;ll bet. <BR> <BR>Pet rat as a kid.  In Cold Blood fascination.  Poetry...Aphra Behn...maybe a beatnik wannabe.  Neat freak.  I think we&#39;re slowly building a way better picture of BTK than the one he gave the WPD.<!--/Text--></td></tr>
+<!--/Post: 5135-->
+<!--Post: 5141--><!--Time: 1106922835-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5141"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kayjay<!--/name--></b></a><br>Username: <!--field:uname-->Kayjay<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 28, 2005 - 6:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The only thing taken from the Clutter house was a pair of binoculars a small amount of money and.....a radio from the sons bedroom! Also a purse was rifled and left on the kitchen floor. Note in BTK Otero letter, he mentioned a purse left on the floor near the table {indicating the kitchen?} and also that in the boys room &#34;the radio was blaring&#34;.  <BR>There was a rope hanging over a pipe on the basement ceiling which had been cut. Perry admitted that he had tied Mr Clutter to it but cut him down later. <BR>Mr BTK if your reading this......nice little subliminal hint re the radio! Did you also leave a chair in the bathroom? Dick Hickock also liked little girls, but you know that, dont you.<!--/Text--></td></tr>
+<!--/Post: 5141-->
+<!--Post: 5147--><!--Time: 1106926149-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5147"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 28, 2005 - 7:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here is some info about an assisting proffesor at WSU, who is very interested in &#34;in Cold Blood&#34; but the ass.proffesor is a woman so she is not BTK, but maybe she had a pupil that would bee worth looking into?: <BR> <BR><a href="http://webs.wichita.edu/dt/insidewsu/show/printthis/?106" target=_top>http://webs.wichita.edu/dt/insidewsu/show/printthi s/?106</a><!--/Text--></td></tr>
+<!--/Post: 5147-->
+<!--Post: 5187--><!--Time: 1106942963-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5187"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 28, 2005 - 12:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->One of the two Killers in the movie version of Truman Capote&#39;s semi-factual account of the Clutter family Murders, &#34;In Cold Blood&#34; was played by Robert Blake who is on trial right now for murdering his wife. <BR> <BR>The other killer was played by Scott Wilson who has appeared in many films including &#34;Dead Man Walking&#34; and &#34;Monster&#34; <BR>He was also in a short film &#34;Chosen&#34; recently with an interesting plot: <a href="http://www.imdb.com/title/tt0436173/" target=_top>http://www.imdb.com/title/tt0436173/</a> <BR> <BR>Now get this: Scott Wilson is in a movie that&#39;s not come out yet called: &#34;Behind the Mask: The Rise of Leslie Vernon&#34; Plot Summary: The next great psycho horror slasher has given a documentary crew exclusive access to his life as he plans his reign of terror over the sleepy town of Glen Echo, all the while deconstructing the conventions and archetypes of the horror genre for them. <BR> <BR> <BR> <BR> <BR> <BR>&#34;For the sake of realism, In Cold Blood was filmed in Holcomb, Kansas at the Clutter farm where the actual murders took place as well as the other actual locations. At the trial portion of the film, six of the original jurors were used as actors in the jury box. When Hickock and Smith are hanged, the hangman you see is the same man who performed the real hanging.&#34; <BR>From: <a href="http://www.destgulch.com/movies/incold/" target=_top>http://www.destgulch.com/movies/incold/</a> <BR> <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 5187-->
+<!--Post: 5191--><!--Time: 1106944942-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5191"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 28, 2005 - 12:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Q thanks for the information. That last item is incredible! Another movie with Scott Wilson was <i>In The Heat Of The Night</i>, he played a criminal, I think, but am not positive. Here&#39;s irony: The two scariest movies I&#39;ve ever seen are <i>Rosemary&#39;s Baby,</i> 1968 and <i>In Cold Blood,</i> 1967. In other words, long before the slasher movies with highly graphic violence were everywhere, these two, which are scary because they are psychological didn&#39;t need unnecessary violence. I&#39;m making myself sound old. I was born in 1964 and I know these and other films because I&#39;m a movie buff; I was alive when these two came out but was only age three and four in &#39;67 and &#39;68. Thanks again, Q. <BR><!--/Text--></td></tr>
+<!--/Post: 5191-->
+<!--Post: 5192--><!--Time: 1106945346-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5192"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 28, 2005 - 12:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Kayjay, Pax, everyone, thanks! With events of the past few days I didn&#39;t even get back to this thread until just now. Skov, thanks for the link, I&#39;ll check it.<!--/Text--></td></tr>
+<!--/Post: 5192-->
+<!--Post: 5213--><!--Time: 1106951832-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5213"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 28, 2005 - 2:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Q, Most of what you wrote is true however Charles McAtee who was the Kansas State Corrections Director at the time of filming the movie &#39;In Cold Blood&#39; dispelled the myth of the hangman by stating in 2002 that the hangman was played by an actor and not the actual hangman.<!--/Text--></td></tr>
+<!--/Post: 5213-->
+<!--Post: 5837--><!--Time: 1107397538-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5837"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 6:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Something else in the film. I haven&#39;t been able to locate a copy but I remember a character, played by Paul Stewart, reciting statistics from &#34;The Menninger Clinic, right here in Kansas,&#34; to John Forsythe. Stewart continues, remarks he has a paper called &#34;Murder Without Apparent Motive.&#34; He concludes, &#34;The killers were found to have [I don&#39;t remember] and <i>described themselves as feeling sexually inadequate.&#34;</i> This is more of an interesting coincidence than a meaningful point, thought I&#39;d mention it. That I can recall almost all of the above word for word after having gone years without seeing ICB is a testament to how powerful this film is!<!--/Text--></td></tr>
+<!--/Post: 5837-->
+<!--Post: 6284--><!--Time: 1107657526-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6284"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Mel1pred<!--/name--></b></a><br>Username: <!--field:uname-->Mel1pred<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 6:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I happen to know of a tie to Wichita - remote, but a tie.  The Clutter families minister, who is mentioned in the book, is Reverand Cowan.  He was the minister at St. Pauls Methodist Church at 13th and N. Broadway in the early 60&#39;s.  Thought it might be worth mentioning.  <!--/Text--></td></tr>
+<!--/Post: 6284-->
+<!--Post: 6408--><!--Time: 1107757823-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6408"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Medusa<!--/name--></b></a><br>Username: <!--field:uname-->Medusa<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 06, 2005 - 10:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.gctelegram.com/obits/2001/July/3/lcowan03" target=_top>http://www.gctelegram.com/obits/2001/July/3/lcowan 03</a><!--/Text--></td></tr>
+<!--/Post: 6408-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/342">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/342" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

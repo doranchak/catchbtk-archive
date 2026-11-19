@@ -1,0 +1,226 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 435/Open Letter To BTK-->
+<!--Level 1: 435/Open Letter To BTK-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Open Letter To BTK</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Open Letter To BTK</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Open Letter To BTK
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=435"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=435"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 6273--><!--Time: 1107647591-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6273"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Researcher<!--/name--></b></a><br>Username: <!--field:uname-->Researcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 3:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->An Open Letter To BTK from the Internet Community <BR> <BR>Title is to be kept as is. To be copied and signed by nick and posted on every BTK Internet site. Simple copy/paste and add your nick to the original message and keep the post growing. <BR> <BR> <BR>BTK, <BR> <BR>In all of your communications with the media and the WPD you reference messages  that cannot be passed on to the public due to the ongoing investigation into your activities. <BR> <BR>As you know you have been receiving publicity not just from the local Wichita media, but also from national media.  But what about the Internet community? <BR> <BR>There is a large group of people interested in the BTK case for various reasons. Many are in the Wichita area as well as the United States and overseas. Some use <BR>blogs, web pages and discussion boards to study the case. <BR> <BR>We the undersigned ask you to address us directly in your next communication with whatever you want to say. What is your message to us? <BR> <BR>Specifically, we ask that you request that KAKE pass your message on to us through the media - something that will not have to be filtered through the WPD.   <BR> <BR>I sign my name first as the originator of this message to you. <BR> <BR>We await your reply. <BR> <BR>Investigator <BR>Sardonicus <BR>thekota <BR>researcher<!--/Text--></td></tr>
+<!--/Post: 6273-->
+<!--Post: 6276--><!--Time: 1107648536-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6276"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 4:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->DITTO! <!--/Text--></td></tr>
+<!--/Post: 6276-->
+<!--Post: 6291--><!--Time: 1107661639-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6291"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 7:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->OK. I am all for challenging BTK. To get help, to turn himself in. To give us valuable information that would help the families or justice.  <BR>To ask him to copy us on his next &#34;communication&#34; because we feel left out is, with all due respect, WAY, WAY, WAY beyond the pale. Just my opinion, but I cannot support this one. Sorry. If it served some pubic good or served a helpful purpose, it would be one thing. I fail to see how this does that <i>at all</i>, even a little bit.<!--/Text--></td></tr>
+<!--/Post: 6291-->
+<!--Post: 6296--><!--Time: 1107663102-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6296"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 8:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK won&#39;t ever do what someone asks or requests he do. He must be in charge. Study the next drop  carefully and maybe you&#39;ll see a little wink to something on the boards, but it&#39;ll be on BTK&#39;s terms. Control. I agree with Dpinva, and as Tom wrote a while back: <i>&#34;BTK&#39;s done his own thing for 30 years and I doubt he can be manipulated.&#34;</i> <BR><!--/Text--></td></tr>
+<!--/Post: 6296-->
+<!--Post: 6319--><!--Time: 1107677997-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6319"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bmodule<!--/name--></b></a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 06, 2005 - 12:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->He can&#39;t control the Monster. I guess it&#39;s true: Everyone has a Boss. <BR> <BR>Researcher is correct though. BTK is being very inefficient in dispersing his information through the media and the police exclusively. They both have alterior agendas. The BTK case makes a great excuse for cost overruns and &#39;secret case files&#39; in the department. To the Media: BTK case=Advertizing$ &#40;as long as it keeps people interested&#41;. Either way, neither group has any incentive to do anything other than say &#34;There is a serial killer at large and we are staying right on top of events as they unfold. Pay attention to us and don&#39;t ask questions and we will take care of it&#34;. It&#39;s a formula that&#39;s served them well for thirty years. <BR> <BR>&#40;do you suppose that if the mayor get&#39;s a traffic ticket he calls the chief and asks &#34;can you put this in the BTK file?&#34;.&#41;<!--/Text--></td></tr>
+<!--/Post: 6319-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/435">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/435" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

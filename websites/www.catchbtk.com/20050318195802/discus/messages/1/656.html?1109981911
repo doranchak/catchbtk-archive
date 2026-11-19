@@ -1,0 +1,289 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 656/Rev. Michael Clark-->
+<!--Level 1: 656/Rev. Michael Clark-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Rev. Michael Clark</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Rev. Michael Clark</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Rev. Michael Clark
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=656"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=656"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 10272--><!--Time: 1109869299-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10272"><font face="Verdana" size="1"><b><!--email--><a href="mailto:topsailgrl@yahoo.com" target="_blank"><!--/email--><!--name-->Topsailgrl<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 9:01 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Is it just me or is this guy a little wacked in the head??? <BR> <BR><a href="http://www.cnn.com/2005/LAW/03/03/btk.killings.ap/index.html" target=_top>http://www.cnn.com/2005/LAW/03/03/btk.killings.ap/ index.html</a> <BR> <BR>&#34;We are not going to cut him off. I could tell that he was relieved,&#34; Clark told The Associated Press...........UH..........He was relieved? Who gives a big fat sh!t if <b>HE</b> is relieved or not?! This statement is a slap in the damn face of all of his victims! <BR> <BR>&#34;His demeanor seemed to be OK,&#34; Clark said. &#34;He seems to be handling things as well as he can.&#34;..........Again, who cares how he is handling this?! ......I would like his victims families the oportunity to talk to the &#34;REV&#34; I put that in quotations because if he was truley a man of God he would think about these victims before he spouted this KurAP to the media! <BR> <BR>For now, Rader remains president of Christ Lutheran Church Council, although he will eventually have to relinquish some church leadership positions, Clark said........uh.......SOME curch leadership positions? What kind of church is this?! This church scares the hell out of me! <BR> <BR>Rader used the computer at least once, when he printed out a council agenda in late January, Clark said. The pastor said he had to show Rader how to put the disk into the computer and use it.....I&#39;m sorry, but I think this statement from the good REV is false. <BR> <BR>GRRRRRRR! I&#39;m sorry about some of the language in this post but this REV really pisses me off! <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10272-->
+<!--Post: 10273--><!--Time: 1109870340-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10273"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hkenley@san.rr.com" target="_blank"><!--/email--><!--name-->Chiefron<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Chiefron<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 9:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Topsail, <BR> <BR>I am certainly glad both Reverand Clark and Jesus Christ had the ability to forgive. It seems it is lost on us in the modern world. <BR> <BR>Clark is a true man of God, he is fulfilling his charge to tend his flock. <BR> <BR>Dennis Rader is presumed innocent of these crimes in this great nation until he either confesses or is found guilty by a jury of his peers. <BR> <BR>Do I believe he did it? Yes. However my belief, nor speculation and rumor floating around Wichita concerning Rader confessing to the murders cannot be accepted as &#34;the truth&#34; of the matter.  <BR> <BR>I am sure Rev. Clark is fighting a terrible internal battle over this one, but like the shepherd he does not slaughter the ram that lost its way, he tries to lead it back to the path. That is his job. <BR> <BR>Ron<!--/Text--></td></tr>
+<!--/Post: 10273-->
+<!--Post: 10281--><!--Time: 1109872851-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10281"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lakesguy<!--/name--></b></a><br>Username: <!--field:uname-->Lakesguy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 10:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I guess the minister is doing his job, but I have a hard time with the &#39;easy Jesus&#39; school of theology. Personally, if there is an Almighty, I hope It&#39;s a little more discriminating about forgiveness. And, yes, I understand the admonishemnt about &#39;not casting stones&#39;, and yes, I admit I&#39;ve &#39;sinned&#39; according to the Bible, but I haven&#39;t murdered 10 or more people, let alone hanged a pubescent girl from a drain pipe.  <BR> <BR>I&#39;ll let the Rev. and Jesus forgive Rader, I won&#39;t.<!--/Text--></td></tr>
+<!--/Post: 10281-->
+<!--Post: 10282--><!--Time: 1109873253-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10282"><font face="Verdana" size="1"><b><!--email--><a href="mailto:topsailgrl@yahoo.com" target="_blank"><!--/email--><!--name-->Topsailgrl<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 10:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->While I agree with you Chief in some aspects I think it would benifit him, his flock, and the living victims of Dennis Rader for Rev. Clark to keep his comments to a bare minimum right now. He seems to focus his comments towards how Rader is taking this, how Rader &#34;feels&#34;. How about how his congregation is taking this, how his congregation feels. Why cant he just say that his conversations with Rader are between him, Rader, and God? I find it insulting to the living victims to have to hear how Rader is fairing. <BR> <BR>I am sure that Rev. Clark is indeed fighting a terrible internal battle and I am sure he feels very perplexed that a cold blooded murderer/sexual deviant was part of his flock. But the Rev. needs to not comment on how Rader is feeling and think about how those kinds comments sting. They stung me pretty hard and I live no where close to Wichita. <!--/Text--></td></tr>
+<!--/Post: 10282-->
+<!--Post: 10286--><!--Time: 1109875279-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10286"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lakesguy<!--/name--></b></a><br>Username: <!--field:uname-->Lakesguy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 10:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree with Topsail, about Rev. Clark being a little more discrete in his comments right now. In spite of the tone of my first comment above, I do think the Rev. is doing what he has to do in visiting Rader. He is attending to one of his flock, and he deserves credit for that. But at the same time, he needs to be mindful of the hurt he may cause Rader&#39;s victim&#39;s families with any comments he makes about Rader&#39;s present condition, emotional, spiritual or otherwise.  <BR> <BR>I followed this case, not because I was interested in the psyche of the killer, but because I was haunted by a story I read in the New York Times back in the late 1970&#39;s that mentioned BTK and his murder of the Otero family, and his hanging of Josephine. That seemed so incredibly cruel and monstrous, I still can&#39;t comprehend the mind that could do it. I just wanted the guy caught and brought to some sort of justice. I understand that Rader is a human being, and not some sort of boogieman, but I care a lot more about the welfare of his victims&#39; families than I do about his. Just read about the damage this man has done to the surviving Otero&#39;s, or Shirley Vian&#39;s children, or any of the other people who loved and cherished one of his victims.  <BR> <BR>I think Rev. Clark should, indeed, keep his impressions of Rader to himself, and his God. <!--/Text--></td></tr>
+<!--/Post: 10286-->
+<!--Post: 10292--><!--Time: 1109879207-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10292"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hkenley@san.rr.com" target="_blank"><!--/email--><!--name-->Chiefron<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Chiefron<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 11:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I can agree with that. Im not even sure why Clark feels the need to speak with the media. Apparently he is actually an active discussion board participant at ks.com and can&#39;t seem to shut up over there either. <BR> <BR>Ron<!--/Text--></td></tr>
+<!--/Post: 10292-->
+<!--Post: 10305--><!--Time: 1109887241-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10305"><font face="Verdana" size="1"><b><!--email--><a href="mailto:williammichael@direcway.com" target="_blank"><!--/email--><!--name-->Oklahoma_mike<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Oklahoma_mike<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 2:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->First let me state I am not a relegious man.  Agnostic is an appropriate description of my beliefs. I do understand the basics of the Lutheran faith as my wife was raised in that church, in fact, just 40 miles south of Wichita.  <BR>That said, I understand how a man of the cloth cannot rule out the ultimate possibility of redemption.  If you don&#39;t believe that, you cannot really minister to a congregation.  In that way I understand Rev. Clark&#39;s actions. <BR>However, he needs eventually to come to grips with the fact that dck &#40;dog catcher killer&#41; was manipulating the church and congregation for his own ends.  And he still is.  The killer will continue to manipulate to get everything he can out of the church, the Rev. Clark, and the congregation.  It may sound good, but now matter how sincerely dck looks you in the eyes and proclaims either his innocence or his asking of forgiveness it is not true.  Remember, dck has been living the most monstrous lie of anyone in the state of Kansas for over 30 years. <BR>The fact that Rev. Clarks remarks seem to focus on how &#39;Dennis is taking this&#39; tell me that dck is still manipulating, making himself the focus of the attention and the needs.  Not the victims, not the families, not the church, but it is all about him and always has been. <BR>I understand Rev. Clarks need to visit dck, but if the church does not cut itself off from in in other ways asap that church will be destroyed by him.   <BR>Just wait, there will be factions develop in the church to argue about dck, his guilt or innocence, whether or not to set up a defense fund &#40;!&#41;, all of which will be from dck continuing to manipulate his last victims.<!--/Text--></td></tr>
+<!--/Post: 10305-->
+<!--Post: 10308--><!--Time: 1109890909-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10308"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brady<!--/name--></b></a><br>Username: <!--field:uname-->Brady<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 3:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If I had to &#34;label&#34; my beliefs, I guess you could say I&#39;m also Agnostic.  I have a sister-in-law who is now a born-again Christian &#40;once an atheist!&#41;.  She likes to tell me now how I&#39;m a sinner and going to Hell.  It just boggles my mind how someone like Dennie Rader AKA &#34;BTK&#34; can commit multiple, horrific murders but if he asks for Jesus&#39;s forgiveness, he&#39;ll go to heaven.  But I&#39;m a decent human being who loves animals and my fellow man and I&#39;m going to hell. <BR> <BR>Sorry - my goal here is not to get all &#34;religous&#34; or get into the great Jesus/God debate.  I get enough of that from my sister-in-law.  Just venting I guess....<!--/Text--></td></tr>
+<!--/Post: 10308-->
+<!--Post: 10316--><!--Time: 1109895424-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10316"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 4:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I not big on religion either, But the overall scheme of justice can&#39;t focus on revenge. Otherwise there would be no progression to society.&#40;see Hatfields and McCoys&#41; <!--/Text--></td></tr>
+<!--/Post: 10316-->
+<!--Post: 10320--><!--Time: 1109896794-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10320"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 4:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree with Mike, Rader craves attention and now this is how he is getting it, I don&#39;t however feel that the good Rev, sould be saying anything, because he has a church full of people who need his guidance right now more than Rader, Rader is not sorry for what he did, nor are any of us feeling sorry for him, His family needs the church and support not Rader.<!--/Text--></td></tr>
+<!--/Post: 10320-->
+<!--Post: 10326--><!--Time: 1109897799-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10326"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 4:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The Reverend Michael Clark ultimately has no authority to decide to retain or dismiss Dennis Rader of his position as President of Christ Lutheran Church of Park City. <BR>As an officer of the congregation of his church Rader would have to adhere to the constitution and bylaws and continuing resolutions of the governing body of which that church belongs which would be the Evangelical Lutheran Church in America. <BR>Rader in that position would be required to live a Christian life in accordance with the word of God and teachings of the Lutheran Church. <BR>He would have to follow principlals and procedures of the church and it would be essesential for him to follow the examples and teachings of Jesus Christ and strive to stengthen values among children and youth and parishoners. <BR>Mental incapacity and moral and spiritual incompetence and conduct unbecoming a member of the Church of Christ would be grounds for dismissal from his post and possibly the congregation itself. <BR>Church leaders who represent the governing body of the Church of Christ of Park City can and most likely will over rule Reverend Clark at any time.<!--/Text--></td></tr>
+<!--/Post: 10326-->
+<!--Post: 10339--><!--Time: 1109902911-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10339"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tornado<!--/name--></b></a><br>Username: <!--field:uname-->Tornado<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 6:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Nice Post Johno...I agree 100% <BR>And...... <BR>The church will eventually distance themselves from Rader or the flock will distance themselves from that church.  <!--/Text--></td></tr>
+<!--/Post: 10339-->
+<!--Post: 10357--><!--Time: 1109910583-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10357"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 8:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Go to Heaven for the climate, Hell for the company. <BR>- Twain <BR> <BR>This is a bizarre 15 minutes for the Reverend Mike. I sure don’t envy him. <BR>I hope when my 15 minutes comes it will involve Charlize Theron, not theology. <BR> <BR>The Rev’s in shock and Denny’s still manipulating him. The press is too. When Mike realizes that he and his flock and The Father, Son and Holy Ghost were just camouflage for his president, he’ll do a little sinning of his own. <BR> <BR>“Mike… can you give me a hand with this garsh darn computer. I’m looking for personal information on parishioners I might want to kill some day. I hope you’ll remember how stupid I looked trying to find the ON switch, so that when you read about the BTK being computer savy in the Eagle, you’ll never suspect me when I Freyja something. Now, what the heck does this CTRL button do?” <BR> <BR>As ConvictD blossoms into a model prisoner, leading Bible studies and mopping the chapel floor, we’ll read about it in the papers. <BR> <BR>When he gets on his knees to repent… again, W.W.J.D? <BR> <BR>ME H. ME! You again?... I know…I know… enough with the begging. Peter, can you believe this schmuck? What did the attorney’s say about the C.C.&amp;R’s? Oh.. I forgot… we don’t have any lawyers here. Look, if we said we’d let him in, then let him in! But…he has to sit at the same lunch table as Berkow…whatshisname and Torquemada… and no more DAD DAMN doughnuts for those losers… I mean it! <BR> <BR> <BR> <BR>  <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10357-->
+<!--Post: 10361--><!--Time: 1109914916-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10361"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 9:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If a person believes that the Bible, is indeed, the inspired Word of God, and I do, then you understand how a person could do what Dennis Rader had done and still go to heaven. Let me do a little Bible thumping here. As a believer, I know from the word of God that the only way into heaven is through belief in Jesus Christ as God&#39;s Son. Also that you allow him, Christ, to be the Lord of your life. There is no perfect person. Adam and Eve were perfect but they messed that up. Because of Adam and Eve there is original sin that we are all born with. Christ is the sacrafice for all of our sins. We could never be perfect enough to make it to heaven. We could never be nice enough or good enough. We still have that original sin. Christ being without any sin was able to be the sacrafice for us so that we are able to get to heaven. NOW, does that mean that all that Dennis Rader has do to is say &#34;I&#39;m sorry, please forgive me, in the name of Jesus&#34; and he will be forgiven of all the horrible things he&#39;s done? according to scripture, yes. If he is truly repentent in his heart &#40;and God sees the heart&#41; then, yes he will be forgiven. Only God will be able to judge. As a Christian we have a responsibility to lead the kind of lives that are a good example to those around us. We are to be the salt of the earth. We mess up. I&#39;ve messed up on this website. You can look back on some of my posts where I&#39;ve cussed or used symbols in place of &#40;@#$@$&#41;. That, sorry to say, is not a good example. Now, have I killed any one? No. Unfortunatley in God&#39;s eyes it is still sin. I know it&#39;s hard to reconcile but that&#39;s what the Good Book says.  <BR> <BR>Now, that said, I will say that I can&#39;t even begin to understand Dennis Rader nor do I want to. I think he&#39;s a despicable human being. I guess it&#39;s a good thing I&#39;m not God.<!--/Text--></td></tr>
+<!--/Post: 10361-->
+<!--Post: 10363--><!--Time: 1109915008-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10363"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 9:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Beware of the hypocrite, honor they neighbor, and thou shall not kill, forgive us for our trespasses and those who trespass against us. His hypocracy has no bounds. Honor they neighbor and don&#39;t kill them. Excuse me for my trespasses, and by the way I need to BTK you! And the bible says that we need to pray for souls like this! <!--/Text--></td></tr>
+<!--/Post: 10363-->
+<!--Post: 10400--><!--Time: 1109920620-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10400"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 11:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Orininal sin is selfishness and it&#39;s hardwired. But I think Denny took it to a level that would even meke Jesus call an 800 number for some tech advice.<!--/Text--></td></tr>
+<!--/Post: 10400-->
+<!--Post: 10405--><!--Time: 1109921337-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10405"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 11:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe the Jehovah&#39;s are right - earth is hell!<!--/Text--></td></tr>
+<!--/Post: 10405-->
+<!--Post: 10406--><!--Time: 1109921617-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10406"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 11:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That doesn&#39;t mean we have to answer the door...............does it?<!--/Text--></td></tr>
+<!--/Post: 10406-->
+<!--Post: 10422--><!--Time: 1109939181-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10422"><font face="Verdana" size="1"><b><!--email--><a href="mailto:topsailgrl@yahoo.com" target="_blank"><!--/email--><!--name-->Topsailgrl<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 4:26 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I hope you are right Johno and have a feeling that you are. I dont know alot about the Lutheran Church.  <BR> <BR>I didnt mean to strike  up a religous debate but If it can be done without people going nuts I guess it&#39;s ok. Seems like there are two things that can get people really fired up and hatefull and thats religion and abortion. Two very volitile subjects.  <BR> <BR>Bmodule-no, we dont have to answer the door! One thing I have never been able to understand about the Jehovah&#39;s......If they honestly believe that only 144,000 are going to heaven, then why are they still recruiting??? I would be like this...I got my ticket, you worry about yours! The tickets are bound to be sold out by now!  <BR> <BR>I agree Lostdog-and Oaklahoma Mike-He is just manipulating the good Rev and the church! <!--/Text--></td></tr>
+<!--/Post: 10422-->
+<!--Post: 10452--><!--Time: 1109963232-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10452"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 11:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->B - No we don&#39;t! I think the First Amendment has something to do with it!<!--/Text--></td></tr>
+<!--/Post: 10452-->
+<!--Post: 10495--><!--Time: 1109973391-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10495"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 1:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I wonder how much redemption the good Rev would feel if it was his baby daughter bound, gagged, hung up, and gutted from a rafter ? How willing would he be to redeem the soul of a souless killer if the victim was his own family ?  <BR> <BR>It is always easiest to redeem those who have not truly touched you.  .  .  <!--/Text--></td></tr>
+<!--/Post: 10495-->
+<!--Post: 10500--><!--Time: 1109974567-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10500"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 2:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Funny, no one profiled BTK as a door to door proselytizer. <BR> <BR>Talk about a Watchtower to watch from without being watched. <BR> <BR>Hmmm… “a well dressed man” … a bag or briefcase… <BR> <BR>Apologies to any J.W.s out there. You guys take enough flack as it is… plus the whole doorknocking, pioneering thing probably doesn’t play too well in the Wichita metro area these days. <BR> <BR>Sorry. <BR> <BR>One question… where do you go to the bathroom? <BR> <BR>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  _ <BR> <BR>Reverend Mike, are you out there? <BR> <BR>Within days it will become clear that you were a piece of meat stitched into the leatherface you came to know and admire as President Dennis. <BR> <BR>Running a good church has immeasurable rewards. It is also a hard headache of inconsolable widows, baby funerals, shotgun weddings and money troubles. It can be hellabad lonely too. <BR> <BR>Here was a guy who made things easier. You could depend on him. He was punctual and quick to pull out his checkbook.  He was a problem solver. I’ll bet he treated you like a man – not a man of God. You could be yourself around him. He grasped your right hand firmly with both of his and looked you deep in the eye…He was staunch, upright, impeccable, devout. <BR> <BR>Masterful. <BR> <BR>“When in the House of the Lord, I am a Saint.  <BR>In uniform, I am a martinet. <BR>At the head of my table, I am a leader.  <BR>When I prowl, when I write, when I fantasize, <BR>when I pounce, when I hit,  when I collect, <BR> I am Bind, Torture, Kill.” <BR> <BR>…A one man show, a costume tragedy with you in the chorus, Mike. <BR> <BR>You are the living victim of evil incarnate. You are the spiritual leader of a character actor. Those were the roles he assigned to you. <BR> <BR>The Dennis you loved was a hollow audio-animatronic, hardwired by the devil himself. <BR>The phantom who betrayed all of God’s creation is in a freefall powered by the unforgiving gravity of evil. <BR> <BR>That’s the best explanation I can offer to you. <BR>President Dennis can’t explain. Would you listen if he tried to? <BR> <BR>Christ has the answer… and you know Him. He will withhold it. <BR>He’ll guide you and monitor your growth.  <BR>He’ll watch from the wings as you privately question your faith. <BR>He’ll understand your struggle with forgiveness. <BR>The parent still looks to their middle aged child for signs of improvement. <BR> <BR>His instructions are simple, it’s the practice that’s complex. <BR> <BR>As for the phantom, there is no soul to save. <BR>Jesus may plan to shovel up President Dennis’ splattered remains and mold a new heart in his perfect hands… but the fall is far from over.  <BR> <BR>He fooled you. He cannot fool The Christ. <BR> <BR> <BR>I will pray for you Mike – for the Dietz family and your flock – just as I’ve prayed for his victims, living and dead, known and unknown. <BR> <BR>Peace. <BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR>  <BR><!--/Text--></td></tr>
+<!--/Post: 10500-->
+<!--Post: 10523--><!--Time: 1109981911-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10523"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lctrip<!--/name--></b></a><br>Username: <!--field:uname-->Lctrip<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 4:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->LDog, while I &#40;respectfully&#41; disagreed with your thoughts regarding Rader&#39;s backyard I think this latest post on this thread is outstanding and on the mark.  Wish I had your talent for expressing my thoughts.<!--/Text--></td></tr>
+<!--/Post: 10523-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/656">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/656" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

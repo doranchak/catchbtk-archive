@@ -1,0 +1,284 @@
+<html>
+<!--Topic: 59/Messages To/From BTK-->
+<!--Me: 128/Messages to BTK-->
+<!--Level 1: 128/Messages to BTK-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 59-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Messages to BTK</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Messages to BTK</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/59/59.html"><font color="#f7f7f7">Messages To/From BTK</font></a> &#187;
+Messages to BTK
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=59&page=128"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=59&page=128"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 810--><!--Time: 1092798512-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST810"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, August 17, 2004 - 8:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->On August 17, 2004 I moved several of the messages into one thread.<!--/Text--></td></tr>
+<!--/Post: 810-->
+<!--Post: 370--><!--Time: 1088619193-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST370"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->A Criminal Lawyer<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, June 30, 2004 - 11:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dear BTK, <BR> <BR>Whereas others refuse to listen to your plaintive cries, I&#39;d be happy to listen to your story.  I&#39;m a semiretired criminal lawyer and have represented many killers.  My goal is not to capture or even identify BTK, but to quiet the monster, so that the HURTING STOPS. <BR> <BR>As a criminal defense lawyer, I can find a sympathetic counselor in your area, who will listen to you without snitching.  Rest assured, I will never betray you.  However, I will do everything possible to provide the counseling needed to quiet the monster and STOP THE HURTING. <BR> <BR>To facilitate communication, I&#39;ll reserve an email address for us at your high school &#40;all lower case, minus the word school&#41;@yahoo.com.  Your password will be the nickname of your first camera. <BR> <BR>Take care and I&#39;ll communicate with you soon. <BR> <BR>A Criminal Lawyer <BR>  <!--/Text--></td></tr>
+<!--/Post: 370-->
+<!--Post: 387--><!--Time: 1089090252-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST387"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, July 05, 2004 - 10:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK, if you want to go down in the history books, turn yourself in and let the history lesson get started. Old fashioned pens will be scratching and modern computers will be whirring with information. Can you imagine the emails and telephone calls that will be generated by your confession? Please do it now. We are waiting for you... <BR>-flytodeb<!--/Text--></td></tr>
+<!--/Post: 387-->
+<!--Post: 395--><!--Time: 1089225874-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST395"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jaden<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, July 07, 2004 - 11:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey BTK, <BR> <BR>You are dying anyway. You know it and I know it. I do not feel sorry for you. They are on your tail now. You are the ultimate PU$$Y. Killing little children and women. Masturbating over thier lifeless bodies. SICK, SICK, SICK! <BR> <BR>You better hop on your private plane and get the heck outta the desert. Tick, Tick, Tick, Tick... Time is not on your side. Coleman covered a hell of a lot for you. They are singing like birds now.  <BR> <BR>Feel the hot breath of justcie on your neck? I just bet you do! <BR> <BR>Your Priest will not have enough Hail Mary&#39;s to gain God&#39;s forgiveness. What a good Catholic you are, Coach.  <BR> <BR>Jaden<!--/Text--></td></tr>
+<!--/Post: 395-->
+<!--Post: 551--><!--Time: 1090549061-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST551"><font face="Verdana" size="1"><b><!--email--><a href="mailto:littledaisymae2003@yahoo.com" target="_blank"><!--/email--><!--name-->M. C. Adamson<!--/name--></b></a>
+</a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, July 22, 2004 - 7:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK Please do turnyourself  in.  This is not a game tp hide behind. 5 people are dead at your hand.  Or so we are led to believe.  Actually, I think you are a fake and didn&#39;t kill anyone.  So you need help.  Please contact that attorney.  <!--/Text--></td></tr>
+<!--/Post: 551-->
+<!--Post: 583--><!--Time: 1090827111-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST583"><font face="Verdana" size="1"><b><!--email--><a href="mailto:toadieskids@yahoo.com" target="_blank"><!--/email--><!--name-->toadie<!--/name--></b></a>
+</a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, July 26, 2004 - 12:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK, <BR>I have been praying for you to do the right thing, and get this over with asap... <BR>We want to hear your story, and you want us to know, and I am sure  you are very anxious to tell us, so therefore what are you waiting for? <BR> <BR>It would not be very wise to try and kill someone now, because you would most likely be killed then we may never know your story, and that would not make us or YOU happy.... <BR> <BR>Please turn yourself in, and let us all &#40;including yourself&#41;, be safe and happy!!!!<!--/Text--></td></tr>
+<!--/Post: 583-->
+<!--Post: 840--><!--Time: 1093060012-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST840"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, August 20, 2004 - 8:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK: Are you color blind? 6% of males of European decent are color blind. a genetic anomaly, you know. <BR> <BR>ACL, what do you think?<!--/Text--></td></tr>
+<!--/Post: 840-->
+<!--Post: 849--><!--Time: 1093109933-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST849"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->ACL<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 21, 2004 - 10:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dear BTK, <BR> <BR>Short answers to the queries: <BR> <BR>1&#41; Problems with red/green color perception, but NOT completely color blind, as in only being able to see the grey scale. <BR> <BR>2&#41; Mixed parentage.  Enrollment records were the linchpin of my initial investigation.  From there, I went to your business records and am now monitoring your plastic and paper trails.  Dang, you sure like expensive toys. <BR> <BR>3&#41; Z used a .22 pistol with LR ammo in the Stine killing.  I trust what he told his &#34;roomie&#34;, who was my client, far more than any disinformation the police have issued.  According to my client, Z carried a black satchel, like a Dr.&#39;s bag, which contained a change of clothes, the .22 pistol, Stines car keys and shirttail wrapped in waxed paper.  According to my client, Foukes and Zelms did make contact with Z and he told them he was returning home for the night. Someone should check with the three witnesses and ask if Z was carrying a black bag.  If they say that he was, perhaps Foukes is basking in the limelight of his own incompetence.  The alleged reason that he wiped down the cab was that, at that time, he was still using scotch tape around his fingertips to mask his prints and one of the tapes fell off.  At one time, he used airplane glue, except that it gave him contact dermatitis. Then, several months later, he discovered that women&#39;s clear nail polish over his fingertips worked quite well.  <BR> <BR>4&#41; Tommie should be safe, so long as he comes prepared and uses protection.   However, I&#39;ll bet that you&#39;ll shove another banana up his tail pipe at every opportunity.  What&#39;s next, love poems? <BR> <BR>LE is tracing my IP&#39;s and there aren&#39;t enough Starbucks to go around.  Cannot stay on the net and risk getting popped for a felony.  Will answer future questions through the mail drop. <BR> <BR>Keep those btk babies sleepy and if you need any splash to keep them happy, just drop a line. I can respond in &#34;yes&#34;, &#34;no&#34; fashion to each numbered question at Kansas.com, under thread titles and monikers of your choosing. <BR> <BR>ACL <BR>   <!--/Text--></td></tr>
+<!--/Post: 849-->
+<!--Post: 850--><!--Time: 1093126396-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST850"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Doone<!--/name--></b></a><br>Username: <!--field:uname-->Doone<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 21, 2004 - 3:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey ACL. You have the most vivid yet extremely optimistic fantasy life of anyone I&#39;ve encountered while BTK sleuthing. Good luck with your meanderings. <BR>To BTK: <BR>Make sure and be quite clear when hurrying to respond to ACL,I think that he&#39;s running out of parlor tricks to accept your much anticipated response. Please, in the memory of Dr Wyatt, appease him. He has accused so many of being you, I&#39;m afraid he&#39;s going to blow a brain gasket. Thanks in advance.<!--/Text--></td></tr>
+<!--/Post: 850-->
+<!--Post: 856--><!--Time: 1093213968-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST856"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->A gerber baby<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, August 22, 2004 - 3:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have several questions about the attorney and his posting. <BR>1&#41;  How can you adequately listen and represent him? <BR>2&#41;  Is there a difference between attorney/client privilege and turning him on murder warrants? <BR>3&#41;  Is it a death penalty case? <BR>4&#41;  Can yourself and a counselor be protected by client privelege and the law if you don&#39;t turn him in when there are possible felony charges taht carry very serious felony charges with possibly very steep penalties? <BR> <BR>I would think that there is a difference between attorney/counselor/client privelege and not turning this man in as a murderer.  I am not an attorney or a couselor.  I do not know what the law is.<!--/Text--></td></tr>
+<!--/Post: 856-->
+<!--Post: 857--><!--Time: 1093214179-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST857"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->A gerber baby<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, August 22, 2004 - 3:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->By the way I am not trying to be antagonistic to anyone. <BR> <BR>Nor Am I BTK or a fan.  I am just very curious as to what makes a serial Killer and what it takes to counsel people or represent them as an attorney.  <!--/Text--></td></tr>
+<!--/Post: 857-->
+<!--Post: 864--><!--Time: 1093238616-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST864"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->One Big Ho Hum!<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, August 22, 2004 - 10:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Is ACL a criminal lawyer, Zodiac, or BTK? <!--/Text--></td></tr>
+<!--/Post: 864-->
+<!--Post: 868--><!--Time: 1093253913-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST868"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bubbles<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 23, 2004 - 2:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->LE is tracing my IP&#39;s and there aren&#39;t enough Starbucks to go around. Cannot stay on the net and risk getting popped for a felony.  <BR> <BR>Sounds like somebody is a manure salesman. <BR><!--/Text--></td></tr>
+<!--/Post: 868-->
+<!--Post: 872--><!--Time: 1093285140-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST872"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->One Big Ho Hum!<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 23, 2004 - 11:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think ACL might be closer to BTK then we think. <BR>And I think Toadie has an excellent idea:  To pray for BTK.  I think God will have to be the one to quiet the monsters and help him.<!--/Text--></td></tr>
+<!--/Post: 872-->
+<!--Post: 879--><!--Time: 1093313612-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST879"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Not A Criminal Lawyer<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 23, 2004 - 7:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->ACL, <BR>Please verify following - <BR>1978 Multiple identity letter writing <BR>1979-1981 Choosing of character <BR>1982 Abilene, Texas involvement <BR> <BR>What about 1983 &amp; 1984 ? <BR><!--/Text--></td></tr>
+<!--/Post: 879-->
+<!--Post: 880--><!--Time: 1093316263-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST880"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->MMEAD61<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 23, 2004 - 7:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Old man, <BR>I  dont know you..No person does..And even though you know you better than anyone else..even you cannot completely see you ..it is only slighty sad..you are complex..you are human..you know your weakness..very bright,sad,and yet you know how trivial and childish you can be... <BR>yes i can see an outline of you but so much i cannot. <BR>do i want you to be caught?... <BR>yes..and no.. <BR>what a story if you were never caught. <BR>But what a story if you were... <BR>sometimes you think about helping others. <BR>I have been so close to being in your place. <BR>But as terrified as i am,it is the fear that keeps me in line.like cattle. <BR>has always kept me in line except for much more minor bad deeds.. <BR>Your &#34;deeds&#34; cross the line to the left and i make every effort for my current &#34;deeds&#34; to move to the right hoping for, desperately hoping for <BR>the good and satisfying outcome.. trying to make up for the past. <BR>and you have done the same. <BR>Are you even who you say you are or someone who is playing a game that has discovered your secret after your death? <BR>Who knows for sure? <BR>My best guess? You Are The Real Deal.... <BR>You have an energy inside you that could have manifested in so many ways..circumstances? <BR>society?.NO..you know and i know you made the choice. <BR>the choice.         the choice. <BR>what is left to say? <BR> <BR>the &#34;experts&#34;,the scholars,parents,friends with good intentions.....all repeat.....Life is all about Choices..........maybe so.......We  <BR>                                 DO <BR>                                 Still <BR>                               make whatever choice we wish. <BR>Amazing how we can turn a perverted wish/thought <BR>into Reality..if we want to. <BR>and never get caught..  if we dont want to.. <BR>but as you know we can also be helpful. <BR> <BR>You have been helpful. <BR>For many years you were as you are still. <BR>But the temptation now is growing. <BR> In the end in retrospect...it will be seen as a choice.You Made.. <BR>The younger you wants the games to begin anew but without the danger and fear and planning and presence of mind to plot and plan and have the bad fun..and you know this is pure childlike fantasy ...the stage has been set and you cannot make the past more exciting than it was without new action... <BR>and you are not up to new action. <BR>and you dont even want new action.... <BR>you want the excitement of the past with a taunt to try to build it.. <BR>it wont be long before you are a national Joke... <BR> <BR>choices.. <BR>the ball always was and still is in your court.. <BR>...you are wise in so many ways.. <BR>will we only discover your message upon a landlord cleaning out your place or a distant relative finding something odd or maybe you will just vanish..??? <BR>what a legacy that will be ..sad... <BR>that is exactly where you are heading. <BR> <BR>your story is just a story to me but to you it is your life and as you know that life will stop and as you know that story will be told.It absolutely Will be told. <BR>Who will tell it? Who will be The One to tell Your story  ?? it absolutely really will  be told someday but by what mindless local newscaster?     <BR>i wish you would. <BR> <BR>I wish you would. <BR> <BR>one thing we all can do...Yes even you...... is absolutely be the author of the last chapter..... <BR> <BR>be the author of the last chapter.. <BR>it is a choice <BR>to do nothing is pure cowardice. <BR> <BR>cowardice=btk     i think not <BR> <BR>dont want to do what i suggest or what anyone else suggests?  fine  <BR>even now you really are writing the last chapters. <BR>btk=  ?? <BR> <BR> <BR>btk =  ? <BR> <BR>you started this saga. <BR>i do wish you well. <BR>i just want you to finish in standup fashion.. <BR>     <BR>you have never been alone. <BR> <BR>MMEAD61 <BR> <BR> <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 880-->
+<!--Post: 886--><!--Time: 1093371216-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST886"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->One Big Ho Hum!<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, August 24, 2004 - 11:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->So BTK you are 1 big question mark.  And that is not even original.  You seemed to have borrowed that too. Just like all your other messages and deeds.  Experts have mentioned the Zodiac killer and David Berkowitz.  At least David Berkowitz stood up and took resposibility for what he did. <BR>Like Zodiac, you can&#39;t even stand the light of day, because everyone would know you for what you are.  Stand up and take responsibility.  You have already had a criminal lawyer offer you help, shakey as that may be. Unlike MMEad I do not think you are wise.  You are playing a dangerous game.  If you like imitaing, imitate David Berkowitz.  Change your life and make a more postive difference. <!--/Text--></td></tr>
+<!--/Post: 886-->
+<!--Post: 893--><!--Time: 1093401845-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST893"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, August 24, 2004 - 7:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK: We are waiting. Describe the perfect victim as you perceive her to be. In the ultimate fantasy, tell of the encounter and what that victim has that has drawn you to her. How does she fulfill your dreams of good and evil. <BR> <BR>If I am pleased with your answer, I have a poem for you.<!--/Text--></td></tr>
+<!--/Post: 893-->
+<!--Post: 896--><!--Time: 1093421385-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST896"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->A Texan<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, August 25, 2004 - 1:09 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK, <BR>   I admire your ability to avoid being captured. You got in and out of all your victims residences without anyone spotting you well enough to ID you. I just hope that if you are dying you leave some sort of mechanism to enable us to know with absolute certainty who you were. <!--/Text--></td></tr>
+<!--/Post: 896-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="59/128">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Post:</b>
+</font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Username:</b>
+</font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a public posting area.  Enter your username and password if you have an account. Otherwise, enter your full name as your username and leave the password blank.  Your e-mail address is optional.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Password:</b>
+</font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>E-mail:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><input type="text" name="email" value="" size=51></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Action:</b>
+</font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=59/128" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

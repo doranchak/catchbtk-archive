@@ -1,0 +1,278 @@
+<html>
+<!--Topic: 76/BTK Media-->
+<!--Me: 458/WSU Files-->
+<!--Level 1: 458/WSU Files-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 76-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: WSU Files</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">WSU Files</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/76/76.html"><font color="#f7f7f7">BTK Media</font></a> &#187;
+WSU Files
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=76&page=458"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=76&page=458"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 6750--><!--Time: 1107994427-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6750"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 4:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Just heard on KAKE news someone has hacked into WSU school files on their computer system &#34;but&#34;,,, nothing was downloaded. very interesting to me,could this be BTK ?? maybe he wanted to back track to see if there be any clues to track him down<!--/Text--></td></tr>
+<!--/Post: 6750-->
+<!--Post: 6763--><!--Time: 1107999938-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6763"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 5:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yeah...that is possible IMO Skiller. <BR> <BR>Or...maybe he has a specfic victim in mind as his next venture..and he needed an exact address.  But..if that is the case, why didn&#39;t he just consult a phone book.  UNLESS, the person whose address he needs is conveniently unlisted?   <BR> <BR>Just a wild thought. <BR> <BR>I just have to wonder how anyone would know exactly how to bust into University files, not need to download anything...what could it have been that they needed.  Obviously something short in terms enough to either be written down or memorized.  That would be what I would think.  Either that, or someone accidentally hacked it...by error.   <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6763-->
+<!--Post: 6883--><!--Time: 1108062075-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6883"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 11:01 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.kake.com/home/headlines/1246627.html" target=_top>http://www.kake.com/home/headlines/1246627.html</a> <BR>  <BR>Hacker Attack  <BR>Chris Frank <BR>  <BR>February 9 - Students at WSU are targeted in a hacker attack. A computer security breach prompts an FBI investigation.  <BR><!--/Text--></td></tr>
+<!--/Post: 6883-->
+<!--Post: 6887--><!--Time: 1108062977-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6887"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 11:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Featherw any Ideas where he might live?   <BR>I feel like there is a link to BTK on wsu files<!--/Text--></td></tr>
+<!--/Post: 6887-->
+<!--Post: 6941--><!--Time: 1108085461-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6941"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 5:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I wish I had an idea Skiller.  I don&#39;t live in Kansas. I keep thinking Kechi, KS.  <BR> <BR>I think there is a possible link to BTK and the WSU files myself.   <BR> <BR>Notice the particular serverst that were hacked were ones used by specific students of specific studies.. <BR> <BR>&#39;The servers contained data for students and faculty in the College of Education, clients of the Speech-Language-Hearing Clinic and international students.&#39; <BR> <BR>...Clients of the Speech-LANGUAGE-Hearing Clinic and INTERNATIONAL students... <BR> <BR>I have to wonder what kind of LANGUAGE files were there... <BR> <BR>Thanks...<!--/Text--></td></tr>
+<!--/Post: 6941-->
+<!--Post: 6942--><!--Time: 1108086007-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6942"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 5:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->NATIONAL AMERICAN UNIVERSITY, <BR>3620 ARROWHEAD AVENUE, INDEPENDENCE, ... UNIVERSITY, 66 WEST 12TH STREET, NEW ...  <BR>  <BR><a href="http://www.ksdot.org/burtransplan/maps/city-pdf/kechi.pdf" target=_top>http://www.ksdot.org/burtransplan/maps/city-pdf/ke chi.pdf</a> <BR>  <BR>City of Kechi...Sedgewick County..Kansas<!--/Text--></td></tr>
+<!--/Post: 6942-->
+<!--Post: 6946--><!--Time: 1108086671-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6946"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 5:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This question by BTK to Kevin Bright keeps me wondering... <BR> <BR>“At one time he just asked me, ‘Haven’t I seen you at the university?’ I had nothing to do with the university, so I said, ‘No,’” says Bright. <BR> <BR>Anyone know which UNIVERSITY BTK may have been referring to in this question to Kevin Bright? <BR> <BR>Thanks.. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6946-->
+<!--Post: 6982--><!--Time: 1108106781-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6982"><font face="Verdana" size="1"><b><!--email--><a href="mailto:tbjostad@cox.net" target="_blank"><!--/email--><!--name-->Toto<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Toto<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 11:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Featherw - It&#39;s always been accepted that he meant WSU.   <!--/Text--></td></tr>
+<!--/Post: 6982-->
+<!--Post: 7006--><!--Time: 1108129687-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7006"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 5:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks.  That is what I was thinking.  I just have to wonder why BTK would have said that to Kevin Bright. Seems like BTK did not have any idea as he was asking Kevin that question that Kevin would make it out alive.  Had BTK known that, he probably would not have given out that much info through a question.  I think there is some reason why he asked Kevin that. I do have to wonder why BTK thought he had seen Kevin at the UNIVERSITY? <BR> <BR>Thanks...<!--/Text--></td></tr>
+<!--/Post: 7006-->
+<!--Post: 7009--><!--Time: 1108131153-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7009"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 6:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Featherw thanks for your input on BTK and his home <BR>Do you understand where i am going with this ? If you get enough people together in saying where he might live will help in finding this coward maybe we can all get together here in kansas and hunt him down. After all Kechi is not a very big town. <BR>enough people together could go door to door on foot and cover the whole town in one day. Also did you know Kake news just said this morning, that wednesday night they would revail the contents of the cerial box and what the last post card said.  i cant wait,  I bet he feels like someone pissed in his toasties right now.<!--/Text--></td></tr>
+<!--/Post: 7009-->
+<!--Post: 7047--><!--Time: 1108148863-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7047"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 11:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ha!  Skiller..I loved the way you ended your post above: &#39; I bet he feels like someone pissed in his toasties right now.&#39;... <BR> <BR>I agree.   <BR> <BR>WOW...I was not aware that KAKE had a specific time to reveal what the contents of the cereal box is.  I wonder why they are waiting until Wednesday. Could be that maybe they are waiting on some other piece of information to go along with it.  Who knows...but I can hardly wait either. <BR> <BR>Yah...I am all for getting together in Kansas and hunting him down. <BR> <BR>I get the feeling this guy DOES NOT live in Wichita, but within a city close to Wichita that also has streets called Iriquois and Arrowhead.  I live in another state, and there is still a section of town called &#34;Indian Hills&#34;..and Arrowhead street is near Iriquois street.  Interesting.   <BR> <BR>I understand there is an Arrowhead street in Kechi...would wonder if there is also an Iriqois street.  However, if these two streets do exist in Kechi as well as WICHITA, I would be willing to bet that Arrowhead does not turn onto Iriquois in Wichita... <BR> <BR>I don&#39;t know...Just surmising. <BR> <BR>Make it a plan.  Let&#39;s get a group together. <BR> <BR>Thanks...<!--/Text--></td></tr>
+<!--/Post: 7047-->
+<!--Post: 7048--><!--Time: 1108149548-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7048"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 11:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->KAKE is only going to reveal what BTK typed on the postcard. KAKE doesn&#39;t know what is in the cereal box because KAKE never touched the box and WPD took possession of it. Since WPD asked KAKE not to show that section of the postcard that said what was inside the box, WPD must have finished their investigation and told KAKE go ahead and tell people what the postcard said. <BR>-Deb<!--/Text--></td></tr>
+<!--/Post: 7048-->
+<!--Post: 7057--><!--Time: 1108158032-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7057"><font face="Verdana" size="1"><b><!--email--><a href="mailto:tbjostad@cox.net" target="_blank"><!--/email--><!--name-->Toto<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Toto<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 1:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Skiller  - I&#39;m with Featherw - that cracked me up. LOL &#40;-: <BR> <BR>Flytodeb - thanks for the clarification. &#40;I knew it was too good to be true&#41;.   <BR> <BR>I&#39;ll be watching, but I&#39;m not holding my breath for a really significant clue.... <!--/Text--></td></tr>
+<!--/Post: 7057-->
+<!--Post: 7059--><!--Time: 1108159389-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7059"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 2:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Flyt, I bet you are right.  If KAKE never touched the box, WPD got to it first and there may never be an exact report on what was in the box.  Would have been nice if a reporter could have gotten close enough to the box to peek inside it...but from what I recall from the pics of the box, it was stuffed with some crepe paper that stuck out of the box.  So...I guess without touching it, noone could peek inside to see what was in it. <BR> <BR>So KAKE is only going to reveal what was typed on the postcard?  I am with Toto...I am not holding my breath for a major clue from that postcard.  It will probably be another form of his NOVEL THINKING for us to figure out...or a new way to tell WPD they are &#39;way off bases&#39;. lol.. <BR> <BR>Thanks for the info..<!--/Text--></td></tr>
+<!--/Post: 7059-->
+<!--Post: 7078--><!--Time: 1108172766-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7078"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 5:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Another article mentioning the hacking at WSU: <BR> <BR><a href="http://www.kansas.com/mld/kansas/news/10861834.htm" target=_top>http://www.kansas.com/mld/kansas/news/10861834.htm</a> <BR>WSU says hacker gained access to three servers <BR>Posted on Thu, Feb. 10, 2005 <BR>Officials think the person may have intended to use university servers to store music and movie files for downloading by others. <BR> <BR>No credit card numbers were in the files, but there were Social Security and passport numbers in some cases. <BR> <BR>The university sent letters or e-mails to about 7,500 people whose information was in the databases to alert them to watch for identity theft, said Peter Zoller, WSU&#39;s chief information officer. He said the university has not heard of any complaints of identity theft. <BR> <BR>----- <BR>ID theft? Whew....<!--/Text--></td></tr>
+<!--/Post: 7078-->
+<!--Post: 7081--><!--Time: 1108173799-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7081"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 6:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I note the mention of a particular DEPT. that was hacked... <BR> <BR>Speech-Language-Hearing Clinic <BR> <BR>Here is a site link to that DEPT at WSU: <BR><a href="http://webs.wichita.edu/?u=cds&amp;p=index" target=_top>http://webs.wichita.edu/?u=cds&amp;p=index</a> <BR>  <BR>Welcome to the Department of Communication Sciences and Disorders &#40;CSD&#41; <BR>================================================ <BR><a href="http://webs.wichita.edu/?u=vbain&amp;p=/index" target=_top>http://webs.wichita.edu/?u=vbain&amp;p=/index</a> <BR>Welcome to the Wichita State University <BR>Speech-Language-Hearing Clinic <BR>  <BR>SPEECH-LANGUAGE .  <BR>Accent Modification. <BR>Aphasia Group. <BR>Augmentative/Alternative. <BR>Aural Rehabilitation. <BR>Autism Spectrum Clinic. <BR>Diagnostic Clinic. <BR>Fluency Disorders Program. <BR>Kaleidoscope. <BR>Language Literacy Group. <BR>Phonology Clinic. <BR>Speech-Language Fees. <BR>Tongue Thrust. <BR>======================================== <BR> <BR><a href="http://www.kansas.com/mld/kansas/news/8635745.htm" target=_top>http://www.kansas.com/mld/kansas/news/8635745.htm</a> <BR> <BR>The department of modern and classical languages had 14 full-time professors when she started in 1991. It now has nine. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 7081-->
+<!--Post: 7191--><!--Time: 1108268694-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7191"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 8:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Look at Bill Thomas on this page... <BR> <BR><a href="http://webs.wichita.edu/ielc/facultybio-IE.html" target=_top>http://webs.wichita.edu/ielc/facultybio-IE.html</a> <BR> <BR>Mr. Bill Thomas obtained his Masters degree in linguistics from Indiana University in Bloomington, Indiana. Teaching at Wichita State in the 1970’s, Mr. Thomas left for California to work as a teacher for the Xerox Company. In 1991, he returned to teach English again, and now concentrates on Speaking and Listening classes. In addition, Mr. Thomas coordinates the New Student Orientation and Wednesday Conversation classes for the Intensive English Language Center. <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 7191-->
+<!--Post: 7194--><!--Time: 1108270782-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7194"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 8:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Featherw  Keep up the good work Im kind of doing a profile search on a few people. something is drawing me to clearwater Ks  <!--/Text--></td></tr>
+<!--/Post: 7194-->
+<!--Post: 7201--><!--Time: 1108273757-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7201"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 9:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks Skiller.  Clearwater...hmmmmm.. <BR> <BR>Note in the above link that the Bill Thomas mentioned has a connection to linguistics and taught at the XEROX co.  <BR> <BR> Note in the articles below the mentions of BTK&#39;s use of a WSU copy machine to copy a poem to Professor WYATT...and BTK was comfortable enough as a STUDENT at WSU to use the copier....Also note the request to look at the poem&#39;s...LINGUISTICS... <BR><a href="http://www.kansas.com/mld/kansas/10309381.htm" target=_top>http://www.kansas.com/mld/kansas/10309381.htm</a> <BR> <BR>Continued links to WSU <BR> <BR>Word that BTK claims to have repaired copiers and business equipment prompted officials at Wichita State University to review records to see whether they could determine who worked on copiers and business equipment at the university in the 1970s. <BR> <BR>&#34;There&#39;s no luck as of now, but we&#39;re going to continue our efforts&#34; today, said R Lowe, WSU&#39;s vice president for operations and finance. <BR>==================== <BR><a href="http://www.kansas.com/mld/kansas/news/special_packages/btk/archive/9458680.htm" target=_top>http://www.kansas.com/mld/kansas/news/special_pack ages/btk/archive/9458680.htm</a> <BR>Police seek tips on BTK-professor link <BR>Posted on Sat, Aug. 21, 2004 <BR>Beattie said a former detective who investigated the killings during the 1970s told him that investigators interviewed Wyatt to see whether she could recognize the poem&#39;s linguistics.  <BR> <BR>BTK used a WSU copying machine for a 1978 letter he sent. He reportedly made a reference to the school&#39;s campus to the survivor of one attack. <BR> <BR>BTK&#39;s use of the WSU copier indicates he felt comfortable using the campus, McCrary said. Told of the other links between BTK and WSU, McCrary said it&#39;s clear why the investigation seems to be focusing at least partly on WSU connections. <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 7201-->
+<!--Post: 7216--><!--Time: 1108286609-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7216"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 13, 2005 - 1:23 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Gee...looks like I am pigging this thread. ha! <BR> <BR>Anyway...Clearwater, Kansas. <BR> <BR>I notice a mention of the  freight train wagon route to Indian Territory...an easy crossing of the Ninnescah &#40;an Osage-Sioux name meaning &#34;water clear&#34;&#41; <BR> <BR>OSAGE street...Was it Osage that BTK mentioned in one of his earlier posts? <BR> <BR><a href="http://skyways.lib.ks.us/towns/Clearwater/" target=_top>http://skyways.lib.ks.us/towns/Clearwater/</a> <BR>History <BR>In 1865, Jesse Chisholm broke the trail for a freight train wagon route to Indian Territory and made an easy crossing of the Ninnescah &#40;an Osage-Sioux name meaning &#34;water clear&#34;&#41; River southeast of the present town of Clearwater. The town was founded because of the trail and today has a population close to 2,000. The first cattle drive on the trail took place in 1867. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 7216-->
+<!--Post: 7279--><!--Time: 1108352717-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7279"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 13, 2005 - 7:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oh how interesting... a BTK and maintenance of FREIGHT cars...probably a coincidence..but interesting... <BR> <BR><a href="http://www.wfk-kl.de/englisch/news/news01.html" target=_top>http://www.wfk-kl.de/englisch/news/news01.html</a> <BR>Business Notes <BR>BTK <BR> <BR>The Bahntechnik Kaiserslautern GmbH build a new workshop. The investment of about 3,1 million € will be subsidized by funds of the European Union, the Federal Government and the State of Rheinland-Pfalz in the amount of 300.000 €.  <BR> <BR>The BTK is active in corrective repair, maintenance and modernization of freight cars and components. The central plant for rework, repair and maintenance of train equipments of the Keystone Europe group &#40;BTK belong to&#41; is located in Kaiserslautern. Most important customer is the Deutsche Bahn AG. Keystone Europe is the largest company group of the American corporate group Amstedt Industries in Europe. Head office is in Chicago. Amstedt Industries is represented in 11 countries with altogether 9.200 employees. BTK is one of the biggest production facilities of Kaiserslautern with 250 employees. The new workshop will secure 14 job positions.  <BR>========================================== <BR><!--/Text--></td></tr>
+<!--/Post: 7279-->
+<!--Post: 8050--><!--Time: 1108841599-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8050"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 11:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://weberstudies.weber.edu/archive/archive%20A%" target=_top>http://weberstudies.weber.edu/archive/archive%20A%</a> 20%20Vol.%201-10.3/Vol.%207.1/7.1skeen.htm  <BR> <BR>Anita SKEEN poetry...another page...  <BR> <BR>Humanities Seminar  <BR> <BR>Excerpted from the page:  <BR>4.  <BR> <BR>A woman drives south down the interstate  <BR>to see her lover.  <BR>She suspects this is the last  <BR>time. She concentrates hard.  <BR>She turns all their names over  <BR>again and again  <BR>like unfamiliar rocks.  <BR>She procounces them sofly,  <BR>sifts the vowels from the consonants.  <BR>================== <BR> <BR>Author Name:   Skeen, Anita. <BR> <BR>Title:    Each Hand a Map.  <BR> <BR><a href="http://www.junebugbookstore.com/si/12012.html" target=_top>http://www.junebugbookstore.com/si/12012.html</a> <BR>  <BR>Keywords:    Poetry Lesbian Poetry Gay &amp; Lesbian Anita Skeen  <BR> <BR>==================================== <BR><!--/Text--></td></tr>
+<!--/Post: 8050-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="76/458">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=76/458" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

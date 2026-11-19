@@ -1,0 +1,349 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 46/Recipe to identify BTK-->
+<!--Level 1: 46/Recipe to identify BTK-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Recipe to identify BTK</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Recipe to identify BTK</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Recipe to identify BTK
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=46"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=46"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 269--><!--Time: 1087075637-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST269"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, June 12, 2004 - 2:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Step 1&#41; Allow the public to view BTK&#39;s drawings that were included in at least one of his correspondences.  <BR> <BR>Step 2&#41; Let stand 24 hours.  <BR> <BR>Step 3&#41; Arrest BTK.  <BR> <BR>My father is an artist and every time he sketches someone, each drawing shares characteristics with his others. BTK&#39;s artwork is probably the same in that regard. Someone would surely recognize the style &#40;if not the content&#41; and, just like Ted Kaczynski, BTK would be identified through the release of his own creation to the public.  <BR> <BR>I can think of no reasonable explanation for the Wichita police to not allow at least portions of the artwork to be released to the public. <BR><!--/Text--></td></tr>
+<!--/Post: 269-->
+<!--Post: 271--><!--Time: 1087140333-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST271"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, June 13, 2004 - 8:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, The drawings of the  Otero crime scene,I thought were from the killer ? When I first saw that drawing I thought it was WPD,but after reading post on other message boards, I concluded it was the killers drawing. I know you will get to the bottom of this, and give us the real facts. And by the way,I for one would love to see his art work.I am a collector of SK&#39;s art work.<!--/Text--></td></tr>
+<!--/Post: 271-->
+<!--Post: 278--><!--Time: 1087157815-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST278"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Warren_b<!--/name--></b></a><br>Username: <!--field:uname-->Warren_b<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, June 13, 2004 - 1:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think the drawings of the Otero crime scene were done by the newspaper. <!--/Text--></td></tr>
+<!--/Post: 278-->
+<!--Post: 359--><!--Time: 1088471671-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST359"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Midtown<!--/name--></b></a><br>Username: <!--field:uname-->Midtown<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, June 28, 2004 - 6:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sandy: <BR>I remember reading on another message board that they were drawn by the killer, too.  I will go to that board in the next couple of days and try to find that information for us. <BR> <BR>Midtown<!--/Text--></td></tr>
+<!--/Post: 359-->
+<!--Post: 592--><!--Time: 1090881265-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST592"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, July 26, 2004 - 3:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, <BR>The idea you propose in your initial post simply makes too much sense to ever be used. <BR> <BR>WPD also needs to release ninety percent of the content of BTK&#39;s letters, all of his letters. <BR>And they need to do so photographically. <BR> <BR>And I hope a geographical profiler is part of the team. Too many murders are clustered in an area which really isn&#39;t very large!  <BR> <BR>WPD is making VPD look like NSA! <BR> <BR>I don&#39;t blame WPD for not kowing the Otero attack <BR>was the work of a sadistic serial killer, especially way back in 1974. It&#39;s nice to see WPD go proactive, but they need to go <b>far more proactive</b> than they&#39;ve yet done. <!--/Text--></td></tr>
+<!--/Post: 592-->
+<!--Post: 593--><!--Time: 1090889793-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST593"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Clarice<!--/name--></b></a><br>Username: <!--field:uname-->Clarice<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, July 26, 2004 - 5:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->LE, tell us more about the 6% factor.  Someone may recognize that trait in a suspect and call the tip-line.  Better than nada.<!--/Text--></td></tr>
+<!--/Post: 593-->
+<!--Post: 595--><!--Time: 1090895984-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST595"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, July 26, 2004 - 7:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good idea, Clarice. It couldn&#39;t hurt. I don&#39;t think BTK is gay, but he may well be latently gay. <BR>The Otero crime has &#34;latently gay&#34; written all over it, but the other attacks don&#39;t. Well, maybe the Bright attack does, too. &#40;BTK did what he did <BR>while a grown man, Kevin Bright, was very close by.&#41; That one&#39;s a stretch but you never know, I guess.<!--/Text--></td></tr>
+<!--/Post: 595-->
+<!--Post: 743--><!--Time: 1092468568-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST743"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Breathtaking<!--/name--></b></a><br>Username: <!--field:uname-->Breathtaking<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 14, 2004 - 12:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->O.K. Tom, I&#39;m interested in your take. What do you &#40;or for that matter, anyone else&#41; believe to be the reason WPD has never released the letters &#40;minus signature&#41; for public consumption? The upside is that somebody recognizes something, producing the first break in a case nearly a third of a century old. What could be the downside? For the life of me, I can&#39;t begin to understand. Somebody, please: WHERE ARE THEIR HEADS? WHY WON&#39;T THEY LET US TRY TO HELP? It is simply baffling, maddening, and damn stupid.<!--/Text--></td></tr>
+<!--/Post: 743-->
+<!--Post: 744--><!--Time: 1092468903-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST744"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 14, 2004 - 12:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I truly don&#39;t know...<!--/Text--></td></tr>
+<!--/Post: 744-->
+<!--Post: 745--><!--Time: 1092491327-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST745"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 14, 2004 - 6:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Breathtaking: Your slimmest prayer would be to hope that BTK sends a letter to the NY <i>Times</i> or Washington <i>Post</i>. If BTK is ever apprehended, it won&#39;t be because of WPD, it will be in spite of them. <BR>How many Wichitans are still swallowing the company line? You know, the one drifting about since March: that WPD really has their eye on someone and just needs a little more time? <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 745-->
+<!--Post: 757--><!--Time: 1092495944-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST757"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 14, 2004 - 8:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Breathtaking: <BR>I&#39;m not anti-cop; heat of the moment thing, re: WPD. And yes, WPD can catch him. BUT does local media have the onions to press the cops? I sense that may be happening, and if so, good. But it needs to happen faster. <BR> <BR>I&#39;m 1,800 miles from Wichita and share in your bewilderment. <BR> <BR>I know WPD has at times worked with the FBI. And that&#39;s what actually makes things worse. Not just the egotism &#40;FBI will always take credit if solved&#41; but more than that, I think it&#39;s probable that FBI would have told WPD to be far more proactive than they are being. The whole thing is extremely frustrating.<!--/Text--></td></tr>
+<!--/Post: 757-->
+<!--Post: 758--><!--Time: 1092496734-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST758"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Shyra<!--/name--></b></a><br>Username: <!--field:uname-->Shyra<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 14, 2004 - 8:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree.  They need to work together more.<!--/Text--></td></tr>
+<!--/Post: 758-->
+<!--Post: 760--><!--Time: 1092517390-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST760"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 14, 2004 - 2:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe the BTK letters are not handwritten but typed, so there can be no handwriting analysis. Also, they have released some excerpts that we have read. Perhaps they have decided not to release any more because it is too graphic, obscene, or terrifying for the gentle readers. <BR>-Deb<!--/Text--></td></tr>
+<!--/Post: 760-->
+<!--Post: 766--><!--Time: 1092552885-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST766"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 14, 2004 - 11:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Plenty of analysis can be done on typewritten paper, from a psychological standpoint. Also, via font size and shape, a typewriter model can usually be discerned. I&#39;d bet you&#39;re right about BTK not having handwritten anything, Flytodeb. Very good point. <BR> <BR>BTK wanted to be in the paper. My guess is that he probably kept out objectionable language, etc. And if he didn&#39;t, <BR>I think WPD would have said so. For several reasons.<!--/Text--></td></tr>
+<!--/Post: 766-->
+<!--Post: 817--><!--Time: 1092879293-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST817"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, August 18, 2004 - 6:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In the 1974 BTK letter, talking about the &#34;three dude&#34; in custody BTK says, &#34;They know nothing at all. I did it by myself and with no ones help. There has been no talk either. Let&#39;s put this straight.&#34; Floyd Hannon, chief of police at that time, said, &#34;The writer of the letter would have had to be inside the house when the crime was committed or participated in the crime.&#34; After giving the details, the letter continued: &#34;I&#39;m sorry this happen to society. They are the ones who suffer the most. It hard to control myself. You probably call me &#39;psychotic with sexual perversion hang-up.&#39;&#34; From: <BR><a href="http://www.kansas.com/mld/kansas/news/special_packages/btk/history/8321038.htm" target=_top>http://www.kansas.com/mld/kansas/news/special_pack ages/btk/history/8321038.htm</a> <BR> <BR>&#34;Police are withholding parts of the letter to try to prevent cranks from learning details that might entice them to convincingly claim they are the killer. Also, police asked that specifics about the sexual nature of the killings not be published in order to hindering [sic] the investigation.&#34; From:  <BR><a href="http://www.kansas.com/mld/kansas/news/special_packages/btk/history/8313855.htm" target=_top>http://www.kansas.com/mld/kansas/news/special_pack ages/btk/history/8313855.htm</a> <BR>    <BR>It was precisely those details, that the WPD have not told us about, that perhaps are graphic, obscene, terrifying, etc.  <BR>-Deb<!--/Text--></td></tr>
+<!--/Post: 817-->
+<!--Post: 888--><!--Time: 1093372916-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST888"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, August 24, 2004 - 11:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->WPD has told us a great many things...<!--/Text--></td></tr>
+<!--/Post: 888-->
+<!--Post: 1647--><!--Time: 1102521607-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1647"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ace<!--/name--></b></a><br>Username: <!--field:uname-->Ace<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 08, 2004 - 8:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->No the FBI wont take credit. <BR>The case belongs to WPD period. <BR>The murders took place in there jurisdiction.<!--/Text--></td></tr>
+<!--/Post: 1647-->
+<!--Post: 1723--><!--Time: 1102670210-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1723"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 10, 2004 - 1:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If BTK is using Zodiac as an inspiration, then BTK would know that the few times Zodiac &#34;swore&#34; in his letters, there was plenty of other material from his letters the papers could use. In fact, we can see how conscious Zodiac was of how his letters might appear, should they be printed. <a href="http://www.zodiackiller.com/BombLetter3.html" target=_top>http://www.zodiackiller.com/BombLetter3.html</a> <BR>Look at the left side and note, &#34;must print in paper.&#34; Now, look at the very next sentence, the first one outside of the area Zodiac bracketed. <BR>Zodiac, in my opinion, knew that sentence wouldn&#39;t/couldn&#39;t be printed at that time and therefore didn&#39;t bother demanding that it must be printed. I still see BTK lacking this sort of media savvy which Zodiac had in spades. But BTK still tries.. <BR> <BR>Ace: Using the US mails to implicate one&#39;s self as a murderer is a Federal offense. The FBI can move in full-force anytime they please. BTK also fits the role of terrorist under newer laws which resulted from 9/11. Apart from profiling, I wonder if the FBI <i>wants</i> to move in.<!--/Text--></td></tr>
+<!--/Post: 1723-->
+<!--Post: 4369--><!--Time: 1106249133-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4369"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 11:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Back on June 12, 2004, Tom provided three simple steps with which to capture BTK. It&#39;s now January 20, 2005, over <b>seven months</b> since Tom&#39;s post. Does WPD even <i>want</i> to get this guy? I&#39;m sorry, sometimes I get a little miffed. I can only wonder how the citizens of Wichita are able to stand it.<!--/Text--></td></tr>
+<!--/Post: 4369-->
+<!--Post: 4654--><!--Time: 1106623920-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4654"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 7:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->WPD wants help from the public and the public wants to help. This is how it should be but in order to help WPD, the public needs more information, especially significant amounts of BTK letters and artwork. At this point, I must seriously consider the possibility that much or even the majority of BTK information as indicated above has been destroyed, lost or stolen. <!--/Text--></td></tr>
+<!--/Post: 4654-->
+<!--Post: 4705--><!--Time: 1106690518-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4705"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 2:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks, WPD! Please consider releasing more detail as to other letters and so forth. WTG!<!--/Text--></td></tr>
+<!--/Post: 4705-->
+<!--Post: 5607--><!--Time: 1107216837-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5607"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Blade<!--/name--></b></a><br>Username: <!--field:uname-->Blade<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 31, 2005 - 4:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Folks, lets take a look at the Otero crime scene. BTK enters tortures and slowly kills four members of the family. He brings all of his tools needed to play out his fantasy, ropes, a gun and maybe a camera.. He is comfortable enough with killing so he whacks off all over the place. He is clever enough not to leave physical evidence at the scene to avoid arrest for almost 30 years. He had to spend a great deal of time in the home. <BR> <BR>Folks I just having a hard time buying that this was his first murder. I just don’t believe it! <BR> <BR>There has to be something before the Otero’s.  <BR><!--/Text--></td></tr>
+<!--/Post: 5607-->
+<!--Post: 5614--><!--Time: 1107218634-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5614"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stealth<!--/name--></b></a><br>Username: <!--field:uname-->Stealth<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 31, 2005 - 4:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Empowered by shooting Micheal Williams? <BR><!--/Text--></td></tr>
+<!--/Post: 5614-->
+<!--Post: 5639--><!--Time: 1107229621-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5639"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 31, 2005 - 7:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This is way off-topic...<!--/Text--></td></tr>
+<!--/Post: 5639-->
+<!--Post: 5659--><!--Time: 1107260303-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5659"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Angrywolf<!--/name--></b></a><br>Username: <!--field:uname-->Angrywolf<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 4:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t know who Michael Williams was..but to get back to the topic...the police are not going to catch BTK unless he makes a mistake....or they trap him..Tom and I seem to disagree on whether this would work..some of you poo pooed the idea saying it only happens on tv and in the movies, although you persist in advancing wilder theories of your own.....Traps are used all the time..they are called sting operations and they work a lot of the time...BTK must have something that would appeal to him that could draw him out in the open that you could use against him.<!--/Text--></td></tr>
+<!--/Post: 5659-->
+<!--Post: 5683--><!--Time: 1107285654-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5683"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 11:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here is the original post in this thread: <BR> <BR>Step 1&#41; Allow the public to view BTK&#39;s drawings that were included in at least one of his correspondences.  <BR> <BR>Step 2&#41; Let stand 24 hours.  <BR> <BR>Step 3&#41; Arrest BTK.  <BR> <BR>My father is an artist and every time he sketches someone, each drawing shares characteristics with his others. BTK&#39;s artwork is probably the same in that regard. Someone would surely recognize the style &#40;if not the content&#41; and, just like Ted Kaczynski, BTK would be identified through the release of his own creation to the public.  <BR> <BR>I can think of no reasonable explanation for the Wichita police to not allow at least portions of the artwork to be released to the public.  <BR><!--/Text--></td></tr>
+<!--/Post: 5683-->
+<!--Post: 5689--><!--Time: 1107286930-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5689"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 11:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, <BR> <BR>I should have looked at this thread before starting the &#34;key&#34; thread. Great minds think alike, huh? I agree 100%. <BR> <BR>IQ<!--/Text--></td></tr>
+<!--/Post: 5689-->
+<!--Post: 5693--><!--Time: 1107289857-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5693"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ryddik<!--/name--></b></a><br>Username: <!--field:uname-->Ryddik<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 12:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Spending some time as a &#34;starving artist&#34; myself in the past I agree with you Tom. Everyone who &#34;creates&#34; a piece makes that work his/her own even if not aware of it. I think wpd is sitting on the break they may need.<!--/Text--></td></tr>
+<!--/Post: 5693-->
+<!--Post: 5759--><!--Time: 1107353974-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5759"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Angrywolf<!--/name--></b></a><br>Username: <!--field:uname-->Angrywolf<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 6:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->How do you intend to get WPD to change their rather primitive minds and release the drawings ?<!--/Text--></td></tr>
+<!--/Post: 5759-->
+<!--Post: 6665--><!--Time: 1107930392-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6665"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Toto<!--/name--></b></a><br>Username: <!--field:uname-->Toto<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 10:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom - I agree with you 110%.   <BR> <BR>Think I can help everyone out &#40;for what it&#39;s worth&#41; on LE&#39;s rationale for not releasing info.  The following is a combination of memory and a lifetime of informal research.  BTK was publicy proclaimed a serial killer right before my class graduated from HS in 1978.  Many of us went on to WSU from 78 - 82.  LE&#39;s reluctance to release info has ALWAYS FRUSTRATED US.  Between living through it then and being neighbors and friends with both the Sheriff and DA at the time, attending the WSU during the peak of the thing and asking friends that were/are in LE through the years... here&#39;s what I&#39;ve gleaned are LE&#39;s reasons for not releasing info:  <BR> <BR>1. Releasing it would ignite panic among the public. Hysteric women would call and tie up investigators time. They also fear every crack-pot across the country will call with &#39;useless&#39; tips and info.  <BR>2. Precious time and manpower would be wasted following up on these nowhere leads while BTK roamed free.  <BR>3. They don&#39;t have the budget or manpower to even dream of fielding or following up on the potential response a major release of info could generate.    <BR>4. To release it all would put BTK &#39;in control&#39;. As it is, by witholding info, LE feels they&#39;re driving him...hopefully out of the woodwork and into the open.  <BR>5.  They want a chance to verify that correspondance is from BTK before releasing.    <BR> <BR>My question to LE is always the same.  Witholding info didn&#39;t work then and isn&#39;t working now so why not change tactics?  He&#39;s still out there.  Their answer is always the same &#34;It&#39;s for the greater good.&#34; Who&#39;s? Must be theirs, it certainly wasn&#39;t the public  -- they still died at the hands of this creep!!   <BR> <BR>And look at how much society has changed in 27 years.  We&#39;re all much more desensitized to the whole concept of sex and violence.  We&#39;re not niave anymore.  Look at what engaging the public does with the Amber Alert and AMW???    <BR> <BR>Angrywolf - you bring up a great question.  Indeed how do we get WPD to change their mind?  People dying then didn&#39;t do it -- what will?   <BR> <BR>OK, done venting.  Thanks -- and Tom feel free to delete if I&#39;ve been too over the top.   <!--/Text--></td></tr>
+<!--/Post: 6665-->
+<!--Post: 7040--><!--Time: 1108144063-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7040"><font face="Verdana" size="1"><b><!--email--><a href="mailto:tbjostad@cox.net" target="_blank"><!--/email--><!--name-->Toto<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Toto<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 9:47 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Fsu44 - Thanks again for your input and Welcome! An outside,veteran investigative mind bringing thier experience to the board can&#39;t hurt....     <BR> <BR>On the &#39;Why hasn&#39;t LE released info&#39; thread you said:  <BR> <BR><i>&#34;I really think that if btk has written out or drew a picture to let the public see it. It has worked down here. We put this killer&#39;s writings on a billboard along a major highway, We got the lead that broke the case within a week.&#34;</i>   <BR> <BR>My question is to you as an LE insider is:  <BR> <BR>What was the thought process or rationale that convinced you to make such an atypical move?How did you &#40;internally&#41; overcome all the LE reasons listed above?   <BR> <BR>See where I&#39;m headed?  Maybe if we could undertand and hear from other LE divisions who were successful at catching a serial killer, we&#39;d gain an edge in convincing WPD to take similar action.   <BR><!--/Text--></td></tr>
+<!--/Post: 7040-->
+<!--Post: 7065--><!--Time: 1108163465-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7065"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Fsu44<!--/name--></b></a><br>Username: <!--field:uname-->Fsu44<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 3:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well. it&#39;s because all we had was some small notes written on a map. They were directions to a marina. The victims were out of towners. They were found floating in the bay tied up. The note was written on a small map in their rental car. So we knew that one of the last persons who met these victims knew the area. The note was made in to a billboard. We got the call we were looking for, just thinking out of the box sometimes works. We had nothing to lose because we had nothing but this note. The sign lead to a few tips, which lead us to a boat, that lead us to blood &#40;dna&#41; of the victims, to a conviction. <!--/Text--></td></tr>
+<!--/Post: 7065-->
+<!--Post: 7073--><!--Time: 1108171015-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7073"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 5:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->fsu44- <BR> <BR>I don&#39;t see your original post on this &#40;is it in another thread or did it get deleted?&#41;, so excuse me if i&#39;m covering old ground, but.... <BR> <BR>I could &#42;swear&#42; I saw a tv segment that featured the case you were apparently involved in.  Cold Case Files, or City Confidential, or Forensic Files, or one of those types.  Are we thinking of the same case? <BR> <BR>Anyway, if you were involved, thanks and congrats- very good, and very creative, police work!<!--/Text--></td></tr>
+<!--/Post: 7073-->
+<!--Post: 7082--><!--Time: 1108174009-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7082"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Fsu44<!--/name--></b></a><br>Username: <!--field:uname-->Fsu44<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 6:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tampa Bay Case, multi-agency case, FBI, TPD, FDLE and mnay others in Ohio as well. Suspect fled to Ohio. <!--/Text--></td></tr>
+<!--/Post: 7082-->
+<!--Post: 7127--><!--Time: 1108212659-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7127"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bpb<!--/name--></b></a><br>Username: <!--field:uname-->Bpb<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 4:50 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->way off thread, I know...and issue the prefunctory apology!<IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0> <BR>armchair...John Douglas wrote about this case in &#39;Mindhunter&#39; I think... <BR>FSU...he fled to Ohio?  Weren&#39;t the wife and girls from Ohio?  Ironic, eh?<!--/Text--></td></tr>
+<!--/Post: 7127-->
+<!--Post: 7132--><!--Time: 1108222270-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7132"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Fsu44<!--/name--></b></a><br>Username: <!--field:uname-->Fsu44<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 7:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yes they were in fact from Ohio. The mother and the two girls were from Ohio. The suspect had sold his boat and LE were able to track it down. I recall seeing a sigment on the case on A&amp;E about three years ago. I am sure that during the course of the females trip, they happen on to their killer by way chance, having a common thread...Ohio. It&#39;s like having a t-shirt on with the word &#34;Ohio Buckeyes&#34; the killer see that and then behold they are talking with each other. Now the hook is in place, so why not get them to your boat a &#34;free ride&#34; on the bay. So now you have your hook and bait going. They took it and died for it.   <!--/Text--></td></tr>
+<!--/Post: 7132-->
+<!--Post: 8823--><!--Time: 1109361458-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8823"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 11:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, would it be possible to age enhance the drawing, to show to the public now?<!--/Text--></td></tr>
+<!--/Post: 8823-->
+<!--Post: 8824--><!--Time: 1109361620-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8824"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 12:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sorry I meant the sketch of him , and second yes it would be nice if they let us see the drawings someone might recognize them<!--/Text--></td></tr>
+<!--/Post: 8824-->
+<!--Post: 9272--><!--Time: 1109459544-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9272"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 3:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The withholding evidence from the public worked real good. In the final analysis, the PD pretty much gathered &#39;secret&#39; evidence for thirty years and waited around for his daughter to turn him in. <BR> <BR>I know that sounds harsh, but...but...I&#39;m really feeling bitter.<!--/Text--></td></tr>
+<!--/Post: 9272-->
+<!--Post: 9296--><!--Time: 1109464687-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9296"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 4:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I totally agree with you, the dog catcher, he could have been caught years ago. The WPD was ranting all morning about how they all did such a good job, and they didn&#39;t do anything. The need to change the way they deal with this kind of thing from now on.<!--/Text--></td></tr>
+<!--/Post: 9296-->
+<!--Post: 9357--><!--Time: 1109483483-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9357"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Angrywolf<!--/name--></b></a><br>Username: <!--field:uname-->Angrywolf<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 9:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Without Rader&#39;s daughter coming forward they would probably never have caught him.....they had nothing...That mayor proved himself a liar...<!--/Text--></td></tr>
+<!--/Post: 9357-->
+<!--Post: 9370--><!--Time: 1109485324-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9370"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 10:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->By the way, if you are local, it&#39;s interesting that in Wichita, the News claims that what tipped them off was Rader&#39;s name retrieved from an erased file on a CD that was in the FOX package, while in every other part of the world his daughter came forward two weeks ago. The Wichita News keeps skating around the fact that they matched him through her DNA also. Am I misinformed on one or the other or is there some politics afoot. They might just be trying to protect the daughter, but we DO have cable in Kansas. <BR><!--/Text--></td></tr>
+<!--/Post: 9370-->
+<!--Post: 9527--><!--Time: 1109545182-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9527"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 2:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It appears to be a case of police jellousy. Cops hording evidence so that one of their own can crack the case bringing glory to the dept and that detective.  .  .   <BR> <BR>Even though many cops in the Bay Area swore that they shared leads and evidence with other agencies and the public in the Zodiac case, the reality remains that the same call of glory to &#34;crack the big case&#34; may have aided the Zodiac&#39;s escape into oblivion.  .  .  <!--/Text--></td></tr>
+<!--/Post: 9527-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/46">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/46" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

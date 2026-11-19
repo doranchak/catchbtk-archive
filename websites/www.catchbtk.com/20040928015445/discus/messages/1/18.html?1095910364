@@ -1,0 +1,247 @@
+<html>
+<!--Topic: 1/General BTK discussion-->
+<!--Me: 18/BTK Secret Revealed-->
+<!--Level 1: 18/BTK Secret Revealed-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK Secret Revealed</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK Secret Revealed</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK discussion</font></a> &#187;
+BTK Secret Revealed
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=18"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=18"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 33--><!--Time: 1085195869-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST33"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 21, 2004 - 8:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I was hoping to debut <a href="http://www.catchBTK.com" target=_top>www.catchBTK.com</a> with a bang and that&#39;s why I included the July 9, 1974 &#34;Paging Sherlock Holmes&#34; article on the main page of the website.  <BR> <BR>&#40;My take on the exact significance of the article has been shared with a few people in the catchBTK.com chat room. I thought it would make an appropriate thread of discussion here as well.&#41; <BR> <BR>To the best of my knowledge, the only phone call the police have acknowledged BTK ever made to them was the famous &#34;Nancy Fox&#34; call of December 1977. For a guy who started killing several years earlier, that always struck me as odd. <BR> <BR>Of course, the police &#40;ALL police, not just in Wichita&#41; are rather notorious for withholding information on unsolved cases, especially high-profile cases such as BTK. In fact, it&#39;s not exactly a rarity for the police to actually lie to the public/news media about certain facets of a case. <BR> <BR>We know that BTK killed the Oteros in January 1974 and Kathryn Bright in April 1974. In October 1974 he mailed a letter to the Eagle newspaper, his alleged first communication. <BR> <BR>Here&#39;s what I believe the &#34;Paging Sherlock Holmes&#34; article indicates: <BR> <BR>Soon after the Bright murder, just as he would do in December 1977, BTK called the Wichita police and reported his crime. He probably included details of the Otero murders as well, thus convincing the police he was responsible for all. The call was probably brief. Wanting more dialogue without alarming the public and not knowing how else to reach out to BTK, the police took out a personal ad asking him to call again.  <BR> <BR>Communicating through personal ads was/is a rather famous way for police agencies to solicit information from informants/criminals and vice-versa; see &#34;Dirty Harry&#34; from 1971. In fact, &#34;Dirty Harry&#34; was a film based on the serial killer known as the Zodiac. BTK directly copied several elements of the Zodiac&#39;s methodology. Perhaps the Wichita police knew this and that&#39;s why they chose placing an ad. <BR> <BR>It&#39;s also not uncommon for the police to solicit the cooperation from the news media to generate new information on a particular case: <BR>&#34;Do us a favor and give lots of publicity to the date and location of the victim&#39;s funeral; we&#39;ll have it staked out in case someone unusual shows up.&#34;  <BR>The FBI&#39;s ex-serial killer profiler John Douglas has written about that successful practice several times in his books. Such a technique would also explain why the Associated Press picked up such a silly, local, Wichita-based, non-newsworthy story and distribute it all over the country. &#40;I actually found the &#34;Sherlock Holmes&#34; article in an Ohio newspaper of all places.&#41; <BR> <BR>If my assumptions are correct and the personal ad was from the Wichita police to BTK, it means he has made more than one phone call. It gives BTK a motive for making his future contact with the Eagle newspaper. After all, he was after attention and his call to the police was fruitless in that regard. And finally, it&#39;s one more detail the Wichita police have held back. <BR> <BR>By no means am I anti-Wichita police. However, after 30 years I believe a new approach is necessary. Sharing more information with the public can only help the chances of the police identifying the BTK strangler. <BR> <BR>I intend to find more materials such as the &#34;Sherlock Holmes&#34; article and post them at catchBTK.com for the public to educate themselves with.<!--/Text--></td></tr>
+<!--/Post: 33-->
+<!--Post: 34--><!--Time: 1085197149-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST34"><font face="Verdana" size="1"><b><!--email--><a href="mailto:psychesknot@yahoo.com" target="_blank"><!--/email--><!--name-->Psychesknot<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Psychesknot<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 21, 2004 - 8:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You have struck a chord with me with your mention of the movie Dirty Harry. <BR> <BR>I first wrote about BTK on my own blog on April 5th, detailing a few of my own thoughts.  In that entry I said: <BR> <BR>&#34;An off the wall thought I had... the movie Dirty Harry came out in 1971, featuring of course a serial killer as the villain. I had an odd thought that this movie sparked or fed BTK&#39;s interest and urges.&#34; <BR> <BR><a href="http://psychesknot.typepad.com/psyches_knot/2004/04/the_btk_killer_.html" target=_top>http://psychesknot.typepad.com/psyches_knot/2004/0 4/the_btk_killer_.html</a> <BR> <BR>I still have a funny feeling he saw and was influenced by that movie.  I also feel, as I said in that entry, that Harvey Glatman was a sort of absent spirit &#34;mentor&#34; for BTK.   <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 34-->
+<!--Post: 46--><!--Time: 1085262264-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST46"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchair_sleuth<!--/name--></b></a><br>Username: <!--field:uname-->Armchair_sleuth<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 22, 2004 - 2:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This creep has waylaid God only knows how many persons since 1974. BTK is a publicity whore as we all know . Either WPD releases more info or the twisted , murderous psycho will slaughter more innocents to get that media attention. <!--/Text--></td></tr>
+<!--/Post: 46-->
+<!--Post: 62--><!--Time: 1085353355-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST62"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Doone<!--/name--></b></a><br>Username: <!--field:uname-->Doone<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 23, 2004 - 4:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->After reading your Sherlock Holmes, post I wanted to share my thoughts about the chance &#40;probably a very good one&#41; that the local Wichita authorities had been in communication with BTK more times then we know.  I thought I had read that law enforcements attempt to get BTK to get in touch was suggested to them by the Feds.  Maybe they felt they had a limited window of time &#40;cool off&#41; where BTK would be more apt to respond to request.  Really, as you note, we , the public, have no idea as to how many times there&#39;ve been attempts to get in contact from law enforce. angle.  We can&#39;t be sure if they were ever responded to, and if BTK was as clever as some attest, we don&#39;t even know if he responded in a extremely subtle manner and local police missed it.  I&#39;m sorry to say, I think that could be another variable in the whole Sherlock Holmes question.  <!--/Text--></td></tr>
+<!--/Post: 62-->
+<!--Post: 71--><!--Time: 1085383761-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST71"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ed_neil<!--/name--></b></a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, May 24, 2004 - 12:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rather than being inspired by &#34;Dirty Harry,&#34; perhaps BTK was inspired by the inspiration for that movie instead: the Zodiac Killer himself.<!--/Text--></td></tr>
+<!--/Post: 71-->
+<!--Post: 77--><!--Time: 1085509916-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST77"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, May 25, 2004 - 11:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If anyone reading this board is in the Wichita area, it might be interesting to head to the library and see if you can spot any additional suspicious personal ads from 1974...<!--/Text--></td></tr>
+<!--/Post: 77-->
+<!--Post: 109--><!--Time: 1085714565-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST109"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Clarice<!--/name--></b></a><br>Username: <!--field:uname-->Clarice<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 27, 2004 - 8:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I saw an old Wichita newscast clipping, don&#39;t remember which station, that showed a message on the tv screen to the effect &#39;BTK please call&#39;. <BR>This leads me to believe that he called that station before.<!--/Text--></td></tr>
+<!--/Post: 109-->
+<!--Post: 132--><!--Time: 1085854060-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST132"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wichitaboy<!--/name--></b></a><br>Username: <!--field:uname-->Wichitaboy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 29, 2004 - 11:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The message was flashed extremely fast so you could not read it.  It was a subliminal message only intended for BTK.  I do not know if he called the station, but the reason for the message was to see if they could manipulate BTK subliminally.  This type of marketing and advertising was outlawed by the FCC in the 70s.<!--/Text--></td></tr>
+<!--/Post: 132-->
+<!--Post: 161--><!--Time: 1086255859-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST161"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Unsub<!--/name--></b></a><br>Username: <!--field:uname-->Unsub<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, June 03, 2004 - 2:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe that the October letter was the one were he called the paper and told them where to find it in the library. A bit after that they ran a personal ad with a number to call and later put out the info via TV, running sublminal messages to surrender while doing so.<!--/Text--></td></tr>
+<!--/Post: 161-->
+<!--Post: 167--><!--Time: 1086290681-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST167"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, June 03, 2004 - 12:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Unsub, that&#39;s also my understanding. Interesting that the Wichita PD also apparently used personal ads several months earlier, too. Hmmm...<!--/Text--></td></tr>
+<!--/Post: 167-->
+<!--Post: 1055--><!--Time: 1095910364-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1055"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, September 22, 2004 - 8:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;&#40;I actually found the &#34;Sherlock Holmes&#34; article in an Ohio newspaper of all places.&#41;&#34; <BR> <BR>Tom, maybe BTK was responding to the Ohio article when he called in Nancy&#39;s homicide and with the &#34;Oh! Death to Nancy&#34; poem. OH is the abbreviation for Ohio. <BR> <BR>Also, Sherlock Holmes/Conan Doyle was a contemporary of Jack the Ripper.<!--/Text--></td></tr>
+<!--/Post: 1055-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/18">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/18" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

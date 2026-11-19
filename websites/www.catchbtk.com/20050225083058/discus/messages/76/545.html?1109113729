@@ -1,0 +1,248 @@
+<html>
+<!--Topic: 76/BTK Media-->
+<!--Me: 545/Ember&#39;s communication with world media BTK-->
+<!--Level 1: 545/Ember&#39;s communication with world media BTK-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 76-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Ember&#39;s communication with world media BTK</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Ember&#39;s communication with world medi...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/76/76.html"><font color="#f7f7f7">BTK Media</font></a> &#187;
+Ember&#39;s communication with world media BTK
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=76&page=545"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=76&page=545"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 8180--><!--Time: 1108957253-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8180"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 20, 2005 - 7:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Okay guys I got this in the mail today they want our help, so tell me what you guys want to do. I also recieved the BTK Back Chapters video from KAKE today if anyone wants me to email them a copy, email me. I think it&#39;s great that people are asking for our help and that&#39;s why we are here right to catch him? <BR> <BR> <BR>Hi there <BR>I am the co-director of a BTK documentary in England and we have been  <BR>liasing with Pat Brown regarding her Persons of Interest. You said in a post  <BR>on catchbtk.com that you had some details of family history regarding a  <BR>person of interest. I would be truly grateful if you could email me back  <BR>with that information, just to see if you have anything more than we do at  <BR>this stage. <BR>Many thanks in advance <BR>Paul Nixon <BR>Kodiak Productions <BR><!--/Text--></td></tr>
+<!--/Post: 8180-->
+<!--Post: 8189--><!--Time: 1108962690-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8189"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bluepup<!--/name--></b></a><br>Username: <!--field:uname-->Bluepup<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 20, 2005 - 9:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Embersage, this isn&#39;t something anyone can help you with...YOU posted that you had family history on a POI and they are requesting that YOU e-mail that info to them. So just e-mail it to them...sounds pretty simple to me.<!--/Text--></td></tr>
+<!--/Post: 8189-->
+<!--Post: 8191--><!--Time: 1108965505-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8191"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 20, 2005 - 9:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It&#39;s nice to see that the BTK documentary is shaping up, although I would take this opportunity to advise standard caution in talking to journalists and other members of the media about POIs.  I sure would hate to see myself on PBS telling somebody that my neighbor was my POI-of-the-week .... particularly after BTK is caught and my neighbor is still there.  Pat&#39;s POIs are almost public persons at this point, though - I&#39;d say go for it.<!--/Text--></td></tr>
+<!--/Post: 8191-->
+<!--Post: 8272--><!--Time: 1109028689-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8272"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 3:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Might not hurt to get some legal advice first.  You wouldn&#39;t want the POI&#39;s family coming after you with a lawsuit after they&#39;ve been chased down by the documentary crew.<!--/Text--></td></tr>
+<!--/Post: 8272-->
+<!--Post: 8281--><!--Time: 1109036197-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8281"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stormy74<!--/name--></b></a><br>Username: <!--field:uname-->Stormy74<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 5:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I would have to agree with Audrey. The media, though helpful many times, can also makes things more then they seem. I would definitely seek counsel before proceeding. You could be held accountable if things go wrong, right along with the people making this documentary. Also, have you checked out this film company? If not, maybe do a little digging into their background. Make sure they are reputable. That&#39;s just my opinion, for what it is worth...Good luck whatever you decide!<!--/Text--></td></tr>
+<!--/Post: 8281-->
+<!--Post: 8290--><!--Time: 1109039480-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8290"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 6:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree with you guys, but this is a team effort, and anyone who wants the info I have can have it, If it will catch this guy, you know? I checked out the company, they really are making the film, and reading our posts. You guys deserve so much credit for the time and effort you have put into this project, it would be nice if we all could look back someday, and say we did everything we could to help, besides the info I have is public knowledge, I was researching info for a political book I am writing when I came across this stuff. <!--/Text--></td></tr>
+<!--/Post: 8290-->
+<!--Post: 8364--><!--Time: 1109094980-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8364"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 9:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok I got a letter from someone who believes the Melissa use to work for him, he needs a pic to be sure. Anyone got any ideas?<!--/Text--></td></tr>
+<!--/Post: 8364-->
+<!--Post: 8365--><!--Time: 1109095154-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8365"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 9:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.kake.com/home/headlines/1274602.html" target=_top>http://www.kake.com/home/headlines/1274602.html</a> <BR>since everyone has been asking for a copy of the video, here is the link, if you would like to download it<!--/Text--></td></tr>
+<!--/Post: 8365-->
+<!--Post: 8387--><!--Time: 1109102760-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8387"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 12:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Embersage - Which Melissa? I also agree with Audrey! Slander is: words falsely spoken that tend to damage the reputation of another. Libel is: a tort consisting of a false and malicious publication printed for the purpose of defaming one who is living; Blacks Law Dictionary. If you truly feel that you would be doing the whole world a favor by disclosing the POI, and really have something substantive and really feel this is a team effort for crying out loud call the WPD first!<!--/Text--></td></tr>
+<!--/Post: 8387-->
+<!--Post: 8404--><!--Time: 1109113729-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8404"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 3:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok Rocky, did that last week, and we are talking about Melissa Scott, Thanks for the help and the info, I just figured out the police have had all along.<!--/Text--></td></tr>
+<!--/Post: 8404-->
+<!--Post: 8743--><!--Time: 1109303640-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8743"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 7:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Embersage: Glad to know that! I didn&#39;t mean to freak you out, but I just wanted you to have an idea of the liability! Although I am not a lawyer and would never attempt to give you or anyone else legal advise, I personally wished your POI was the real deal! Did you ever get a pic of Melissa? Have you heard from the Wichita PD?<!--/Text--></td></tr>
+<!--/Post: 8743-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="76/545">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=76/545" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

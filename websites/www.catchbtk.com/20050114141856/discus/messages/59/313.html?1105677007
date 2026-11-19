@@ -1,0 +1,255 @@
+<html>
+<!--Topic: 59/Messages To BTK-->
+<!--Me: 313/Messages to BTK, Part 3-->
+<!--Level 1: 313/Messages to BTK, Part 3-->
+<!--Properties: icon=tree_r;emot=-->
+<!--Param: MessagesAdd-->
+<!--Parent: 59-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Messages to BTK, Part 3</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Messages to BTK, Part 3</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/59/59.html"><font color="#f7f7f7">Messages To BTK</font></a> &#187;
+Messages to BTK, Part 3
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=59&page=313"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=59&page=313"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 3920--><!--Time: 1105416714-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3920"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 10, 2005 - 8:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.catchbtk.com/discus/messages/59/208.html?1105415471"> <b>Continued from here</b></a>.<!--/Text--></td></tr>
+<!--/Post: 3920-->
+<!--Post: 3927--><!--Time: 1105418263-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3927"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Monster&#39;s Lament<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 10, 2005 - 8:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->For BTK: <BR> <BR>There&#39;s a darkness inside of me <BR>Devouring my soul <BR>A deep, delicious darkness <BR>A sweet and bitter hole <BR> <BR>There&#39;s a darkness inside of me <BR>But so few know for sure <BR>It rends, it rips, it tears my brain <BR>But I cannot find the cure <BR> <BR>There&#39;s a darkness inside of me <BR>But haven&#39;t I done good? <BR>Didn&#39;t I try to help the less fortunate <BR>Make a difference where I could? <BR> <BR>There&#39;s a darkness inside of me <BR>You can see it in my eyes <BR>When I&#39;m on the cross, it will be my loss <BR>I&#39;ll not see Paradise <BR> <BR>There&#39;s a darkness inside of me <BR>It sifts me like a sieve <BR>This world I gained while salvation waned <BR>Because I chose not to believe <BR> <BR>There&#39;s a darkness inside of me <BR>And I&#39;ve made myself my god <BR>Hell in life and Hell in death <BR>Are the paths that I must trod <BR> <BR>There&#39;s a darkness inside of me <BR>Still it gnaws me to this day <BR>If doing what&#39;s right will take me to the Light <BR>I rather live and die this way.<!--/Text--></td></tr>
+<!--/Post: 3927-->
+<!--Post: 3933--><!--Time: 1105420103-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3933"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dragonmistress2<!--/name--></b></a><br>Username: <!--field:uname-->Dragonmistress2<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 10, 2005 - 9:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK.... <BR>We ALL have a dark side to us,But,most of us can determine how far we let ourselves go.You,on the other hand,just let all HELL break loose.And for what???THERE IS no EXCUSE FOR WHAT YOU HAVE DONE.There has ALways been help out there for people like you.I won&#39;t even  give you forgiveness for  ANY excuse you use,  that you had a bad chilhood,or,that you felt ignored.There is Always help out there.You are a sorry excuse for any one to willingly give the sperm to create you.I hope you get caught,AND SOON...AND may god have mercy on your soul.<!--/Text--></td></tr>
+<!--/Post: 3933-->
+<!--Post: 3934--><!--Time: 1105420637-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3934"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dragonmistress2<!--/name--></b></a><br>Username: <!--field:uname-->Dragonmistress2<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 10, 2005 - 9:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK, <BR>I am sorry....YOU have no soul.....My mistake... <BR>You need to give yourself up.Stop ALL speculation about you.We need closure in this town...The families need closure......You will be better off....Let the Demons go.....<!--/Text--></td></tr>
+<!--/Post: 3934-->
+<!--Post: 3936--><!--Time: 1105421972-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3936"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Oldies<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 10, 2005 - 9:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->To BTK <BR> <BR>To the tune of &#34;Just a Gigolo&#34; <BR> <BR>I&#39;m just a serial killer, you know <BR>Everywhere I go <BR>People know the game I&#39;m playing <BR>Pleading for a glance, sold my soul for the chance <BR>Ooooh!  What they&#39;re saying! <BR>There will come a day <BR>When notoriety will pass away <BR>What will they say about me? <BR>When the end comes it&#39;ll show <BR>I&#39;m a has-been serial killer, you know <BR>Life goes on without me. <BR> <BR>Ohhhhh! I ain&#39;t got no bodies <BR>Nobody cares for me <BR>Nobody! <BR>Nobody scared of me <BR>Ohhhhh!  I&#39;m soooo sad and lonely <BR>Sad and lonely, sad and lonely <BR>Won&#39;t the media come write about me <BR>&#39;Cause I am so bad <BR> <BR>Ohhhhh! sad and lonely, sad and lonely <BR>All of the time <BR>Even in the dark, even in the park <BR>Bop bosie bosie bop, ditty bop <BR> <BR>Ohhhhh!  I&#39;m soooo sad and lonely <BR>Sad and lonely, sad and lonely <BR>Won&#39;t the media come write about me <BR>&#39;Cause I am so bad<!--/Text--></td></tr>
+<!--/Post: 3936-->
+<!--Post: 4046--><!--Time: 1105568381-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4046"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nugzter<!--/name--></b></a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 12, 2005 - 2:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK, <BR>Just one question. Did you abuse your victims post mortem?<!--/Text--></td></tr>
+<!--/Post: 4046-->
+<!--Post: 4076--><!--Time: 1105646158-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4076"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dorothy<!--/name--></b></a><br>Username: <!--field:uname-->Dorothy<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 13, 2005 - 11:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think your birthday is August 25, 1939<!--/Text--></td></tr>
+<!--/Post: 4076-->
+<!--Post: 4086--><!--Time: 1105657326-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4086"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Last Trumpet<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 13, 2005 - 3:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->What is this that I cannot see <BR>Cold, icy hands taking hold of me <BR>for the Monster has come, you all can see. <BR>Hell has opened it&#39;s gate to trick me. <BR>Oh! Monster, Oh! Monster, can&#39;t you spare me,  <BR>over for another year! <BR>I&#39;ll stuff your jaws till you can&#39;t talk <BR>I&#39;ll bind your leg&#39;s till you can&#39;t walk <BR>I&#39;ll tie your hands till you can&#39;t make a stand. <BR>And finally I&#39;ll close your eyes so you can&#39;t see <BR>I&#39;ll bring all the legions of hell and you&#39;ll never be free. <BR> <BR>But I was a man once and someone&#39;s child <BR>A babyboy all dressed in blue <BR>And there was a time when I once believed <BR>In all the things that were good and true <BR>When I fell from grace, the angels wept <BR>As they beheld the beast that I became <BR>And the lives I stole, the pain I&#39;ve caused <BR>Wears on my soul like a crimson stain <BR>Father, take this cup away from me! <BR>Did He who died for the lost also die for me? <BR> <BR>BTK, what will it be? <BR>Your bonds can be broken, you can make a stand <BR>Your eyes can be opened that you might see <BR>Who will win this victory, the monster or the man? <BR>The price has already been paid to set you free <BR> <BR> <BR>You have been weighed and measured.  The time is at hand. <BR> <BR>Choose.<!--/Text--></td></tr>
+<!--/Post: 4086-->
+<!--Post: 4100--><!--Time: 1105672241-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4100"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Reality Check<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 13, 2005 - 7:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hello btk <BR> <BR>Having fun yet?  Got your &#34;plan&#34; underway?  How&#39;s your &#34;agenda&#34; coming along?  The city of Wichita should be really proud of you.  I mean let&#39;s give credit where credit is due.  Just look at what you&#39;ve done.  You&#39;ve spent countless hours sneaking around like a cowardly mangy rabid mutt killing defenseless women and children.  Aren&#39;t you somebody special?  Doesn&#39;t that just make you a genius?  You are so scary, too.  Why just think of how people would feel if they knew they were standing right beside you in the library, in the supermarket, in the drugstore!  I will tell you how they would feel.  They would be thinking &#34;Why doesn&#39;t this loser creep go stand somewhere else? I don&#39;t want this nobody, this nothing, this lowlife standing next to me.  Ewwww!!! If he touches me I think I&#39;m going to be sick!&#34;  Then they would look at you like you smelled really bad.  They wouldn&#39;t even have to know you were btk, they would just know they didn&#39;t want to have any part of you.  You might think you can blend in, be &#34;just another guy&#34;, but you&#39;ll never be just another guy, all you can ever be is just another loser.   Did you take lives because you can&#39;t get a life? You think you&#39;ve done something no one else has ever done, if you really believe that you are incredibly, undeniably stupid.  People get away with murder all the time, even when law enforcement knows who the guilty party is.  Being btk is your claim to fame, well that&#39;s just pathetic.  That just means YOU are nobody.  People are making names for themselves hunting for you, but YOU are still nobody.  I bet that smarts.  It has to.  You think you&#39;re winning, but what are you winning, what is your prize?  In the end, you will still have empty hands like you&#39;ve always had.  Get real, nobody admires you, nobody is scared of you, nobody even cares about you.  When the heat is on you just run away like a sewer rat, you can&#39;t stand up and take it like a man, you can&#39;t even face it like a woman tied up with Venetian blind cords.  You are just a nasty sneaking little cockroach everyone can&#39;t wait to hunt down and step on. Every cockroach&#39;s days are numbered.  When they finally step on you, you will make a very loud and satisfying CRUNCH!    <!--/Text--></td></tr>
+<!--/Post: 4100-->
+<!--Post: 4106--><!--Time: 1105677007-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4106"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Done4<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 13, 2005 - 8:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->OOOOOkkkk...Reality check...tell us how you really feel. LOL <BR>Nice venting.. <BR>Any way...BTK....CRUNCH!!!!!  You know i know..<!--/Text--></td></tr>
+<!--/Post: 4106-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="59/313">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Post:</b>
+</font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Username:</b>
+</font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a public posting area.  Enter your username and password if you have an account. Otherwise, enter your full name as your username and leave the password blank.  Your e-mail address is optional.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Password:</b>
+</font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>E-mail:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><input type="text" name="email" value="" size=51></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Action:</b>
+</font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=59/313" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

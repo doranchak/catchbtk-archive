@@ -1,0 +1,283 @@
+<html>
+<!--Topic: 76/BTK Media-->
+<!--Me: 384/Send BTK  a message-->
+<!--Level 1: 384/Send BTK  a message-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 76-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Send BTK  a message</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Send BTK  a message</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/76/76.html"><font color="#f7f7f7">BTK Media</font></a> &#187;
+Send BTK  a message
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=76&page=384"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=76&page=384"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 5112--><!--Time: 1106875591-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5112"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bluepete<!--/name--></b></a><br>Username: <!--field:uname-->Bluepete<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 5:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->He is more interested in local media than anything else media wise. <BR>In my opinion he reads this web page and others but it would be too dangerous for him to post here. <BR>I propose sending him a communication in a forum that he obviously admits to reading....the local paper. <BR>I think he wants the public to know more and we should give him an address from us...not media or WPD..one that he can safely mail evidence or correspondance to. <BR>We could pool our money and take out a local ad letter to BTK to write to us. <BR>Whoever we elect to manage this address must promise to publish everything uncensored .. <BR>I believe he just might respond to this type of communication.Because it would be safe for him to do so. <BR>No offense to Tom who has provided this great web site ......but Tom did say that any info he ever received he would make public and he claims to know btk&#39;s signature/special sign and he has kept that secret at the request of WPD...maybe understandably so... <BR>Please respond and let me know what you think and how we might possibly proceed if you think this is a good idea... <BR> <BR>bluepete<!--/Text--></td></tr>
+<!--/Post: 5112-->
+<!--Post: 5188--><!--Time: 1106943131-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5188"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 28, 2005 - 12:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think you are pretty much right BluePete.  If BTK is longing for local attention, I almost feel like his rage is directed toward someone or a group of people he sees as IN CONTROL very much near to him.  When he talks about a MONSTER entering his brain, I have to wonder how he even remembers who he killed.  If a MONSTER or OTHER PERSONALITY is taking over while he kills, it seems he would have a hard time remembering who he killed.  BUT...that may be the reason he takes SOUVENIERS from his victims...a driver license would later identify for him and LE who he killed...because maybe HE CANNOT REMEMBER?   <BR> <BR>A license is the one souvenier that would have the name of the victim, the address and other information.  If BTK chose another souvenier other than a license, he might have a hard time remembering WHO he killed and just have glimpses of memory of what happened and who he destroyed. <BR> <BR>In his mind, he may have come to terms with knowing that the MONSTER will come out sometime and is aware, while he is in his right mind, that he may not remember what happened during a murder, but tells himself to take souveniers so that he will know who he killed.  Confusing I know... <BR> <BR>Gathering the REMINDERS from his crime scene is the thing his RIGHT MIND has already reminded him to do maybe... <BR> <BR>What I don&#39;t understand is why his EGO is taunting police...If he really wanted to feel anything at all for his victims after the fact, he would have already turned himself in...That is what does not make sense.  The TAUNTING of LE and media.  <BR> <BR>I just have to wonder who his rage is directed at...Whatever or whoever it is..it is still controlling him IMO. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 5188-->
+<!--Post: 5240--><!--Time: 1106969642-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5240"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Devbost<!--/name--></b></a><br>Username: <!--field:uname-->Devbost<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 28, 2005 - 7:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><b><i>but Tom did say that any info he ever received he would make public and he claims to know btk&#39;s signature/special sign and he has kept that secret at the request of WPD</i></b> <BR> <BR>Tom has made a snail mail address available from this very web site that BTK or anyone else can use to send material. I believe that Tom&#39;s policy is that anything he receives directly will be shared with this community. <BR> <BR>The matter of material shared with Tom by LE or other sources is different. Tom has not stated this explicitly, but there obviously is some sort of confidentiality agreement in place that keeps Tom from publishing certain pieces of data provided to him this way. <BR> <BR>Publishing the secret signature would IMHO do little or nothing to help us track him down, and would open up the possibility of hoax communications. That is the one benefit we can point to from the WPD&#39;s secrecy.<!--/Text--></td></tr>
+<!--/Post: 5240-->
+<!--Post: 5272--><!--Time: 1107017302-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5272"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 29, 2005 - 8:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree with your last sentence.  Making known BTK&#39;s &#39;signature&#39; which he obviously prefers to be kept secret would only infuriate him and maybe cause him to retaliate in his already known sick way, and it would also open up the possiblity of hoax communications.  I guess there are nuts out there who get off on HOAXING serial killer communications.  In some ways, they would have to have the same sickness as BTK to do so. <BR> <BR>I am willing to believe that Tom may have some information that we as a public do not...but then again, he has every right to have it...if there is anything Tom can do to help LE catch this guy, I think Tom will do it...even if it means holding back secret info. <BR> <BR>Thanks<!--/Text--></td></tr>
+<!--/Post: 5272-->
+<!--Post: 5305--><!--Time: 1107041689-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5305"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 29, 2005 - 3:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Featherw wrote, <i>What I don&#39;t understand is why his EGO is taunting police...If he really wanted to feel anything at all for his victims after the fact, he would have already turned himself in...That is what does not make sense. The TAUNTING of LE and media.</i>  <BR>Hi, Featherw: The taunting of LE and media is what BTK is living for. It&#39;s what he&#39;s always done. Yes, he was quiet for twenty-five years, but he&#39;s making the most of the limelight while it lasts..because it won&#39;t last forever. I have no question that BTK derived pleasure from murdering, especially in the 1970s when BTK would have been in his best physical shape. Now older, BTK&#39;s libido is still there but weaker than when younger and he pleases himself with memories and by taunting LE and media and by extension, <b>everyone; society.</b> I think BTK would immolate himself before turning himself in. Even though BTK has an abnormal sense of priorities, he can still intellectually understand what would happen if he were to turn himself in. BTK keeps pace with the media. <BR> <BR>He&#39;s a child murderer/pervert and has slain beautiful women. His type ranks with &#34;snitches&#34; in prison hierarchy - the lowest of the low. Even though BTK could be secure he&#39;d receive administrative segregation to protect his safety, the last thing BTK would do, and it&#39;s only my opinion of course, is turn himself in. Look at the past few days: <b>all</b> drops and everything else from BTK smacks of control. BTK hasn&#39;t responded to one plea in ten months, including deals which were pretty sweet considering the circumstances. Did Ted Bundy, the Zodiac &#40;SF Bay area&#41;, Gacy and so many others turn themselves in? No, but they enjoyed the media. <BR> <BR>Kemper copped out, yes, but as John Douglas has written, Kemper was rare among SK&#39;s in that he had an astonishing level of self-perception, plus Kemper turned himself in because he <b>decided</b> to do so - he knew he&#39;d be constantly on the run and at 6&#39;9&#34; a life of hiding wouldn&#39;t be easy. But the main reason he confessed was tactical, in my opinion. He wasn&#39;t responding to offers. Control. But he, too, enjoyed the media and liked being filmed. <BR>  <BR>He calls the cops from Colorado, hundreds of miles away and basically says &#34;come get me.&#34; Kemper had a car but wasn&#39;t about to drive back to California. The cops had to come to Colorado. Control. If you haven&#39;t seen the hour-long Court TV episode on Kemper, it&#39;s a good way to learn a little bit about BTK. Because, as sociopaths, Kemper and BTK both do the following: place blame on anyone but themselves, &#40;Kemper: &#34;my mother; BTK: &#34;the monster&#34;&#41; lie, taunt &#40;in different ways but the taunt is the key point&#41;, say they are &#34;sorry,&#34; &#40;Kemper even shed a few tears for the camera; it didn&#39;t work, was quite transparent&#41;, and manipulated the media to a fare-thee-well. Kemper didn&#39;t have BTK&#39;s self-control or level of confidence, BTK doesn&#39;t have Kemper&#39;s analytical ability, loquacity or, despite BTK&#39;s being intelligent, raw IQ. But both love the media attention. <BR> <BR>Their crimes differ in many ways but they are both sociopaths, detest anyone but themselves and one is still dangerous, BTK. Long post but Featherw&#39;s point about BTK not turning himself in is signal. The media however has, I think, had an effect on BTK. This board qualifies as media and as Tom asked BTK, was the 1/8 drop a little wink toward Tom on his, Tom&#39;s, birthday? Regardless, the media, and this site in particular, appeal to BTK. <BR><!--/Text--></td></tr>
+<!--/Post: 5305-->
+<!--Post: 5340--><!--Time: 1107057754-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5340"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Angrywolf<!--/name--></b></a><br>Username: <!--field:uname-->Angrywolf<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 29, 2005 - 8:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Of course one of us ..the people who posts here..could be BTK..I think he would find that funny..to make up outlandish theories and passionately defend them...like some people do here...<!--/Text--></td></tr>
+<!--/Post: 5340-->
+<!--Post: 5343--><!--Time: 1107059142-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5343"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 29, 2005 - 8:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If BTK were here he&#39;d be too stupid to posit anything useful and would probably just bash his betters.<!--/Text--></td></tr>
+<!--/Post: 5343-->
+<!--Post: 5349--><!--Time: 1107060791-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5349"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 29, 2005 - 8:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George, thanks for your thoughts. Very thought-provoking. <BR> <BR>I agree with you.   <BR> <BR>I just have to wonder if BTK&#39;s reappearance without murder so far is his coming around to a claim to fame for his accomplishments in a new generation.  I almost get the feeling he wants a NEW GENERATION to remember him given that he sees that most have forgotten him.  He is an OLD killer who cannot go back.   <BR> <BR>I agree with you when you say that BTK chooses to blame something other than himself for his crimes, so that he can go about life and assure himself that HE did nothing wrong.  I see exactly what you mean.  I posted that on another thread. THANKS for agreeing!  <BR> <BR>Why is he not killing now?  Seems like he is wanting to remind the original generation that saw his crimes and command new admiration from the new generation who has never heard of him.  I just wish he would be caught.<!--/Text--></td></tr>
+<!--/Post: 5349-->
+<!--Post: 5351--><!--Time: 1107060892-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5351"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 29, 2005 - 8:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Angrywolf, I do not passionately defend any theory.  AS quick as my theory in this case can and will change as new facts emerge, I cannot passionately defend anything but the fact that BTK needs to be caught. <BR>Thank you. <!--/Text--></td></tr>
+<!--/Post: 5351-->
+<!--Post: 5355--><!--Time: 1107062529-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5355"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 29, 2005 - 9:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Featherw: Great observation. He wants a legacy. I sometimes wonder if the &#34;book&#34; he implies he compiling is a genuine belief on his part - that it&#39;ll be published. If so, he&#39;s dead wrong. Are you in Wichita? I ask because I&#39;m wondering the average age of the more enthusiastic &#40;ie. we who post&#41; BTK followers. The younger generation &#40;I&#39;m old, 40&#41; <i>will</i> forget him. I hope he doesn&#39;t kill to acquire this &#34;audience.&#34; In fact, he won&#39;t. His memories are enough for him at this point in his life, or at least so it seems.<!--/Text--></td></tr>
+<!--/Post: 5355-->
+<!--Post: 5412--><!--Time: 1107111683-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5412"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 30, 2005 - 11:01 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George ..yes he wants a legacy.  And like you, I just hope he does not have to kill to get it or revive himself to the point of new notoriety that he wants.  He seems to want to control how people perceive him and the thing is, he does not have the exact perception of what extent he is controlling that perception because he is living out of his own twisted mind.  ha! <BR> <BR>Glad you mentioned the book.  And when you mention it by wondering if he believes it will actually be published, I arrive at this question...WHO will publish it?  How will he get it to the masses without being tracked?  I wonder if he plans to write a rather short book, basically a documentary &#40;not a 2,000 page novel&#41; about himself and how he ACCOMPLISHED what he did and have it published in a newspaper ... <BR> <BR>I think that will be how he will do it...unless he has access to publishing facilites that are somewhere within his own reach...maybe he has access...remember the new BTK profile mentions that he operated a printing press at one time?  <BR>If I remember correctly.   <BR>I can&#39;t help but remember also that one of BTK&#39;s letters to LE was typewritten a what looked like a child&#39;s teletype lettering &#40;or FONT, as we would refer to it nowaday...ha! &#41;... <BR> <BR>I really think he might publish the thing himself..he has probably acquired new printing facilities of his own, or upgraded what he HAD way back when. <BR> <BR>I am 41 and from Arkansas.  I do recall hearing about the BTK murders back in the late 70&#39;s when I was a teenager but blew them off as one of those things that happened somewhere else.   <BR> <BR>Suddenly he reappears and I am shocked and start giving attention to this case because I am almost afraid to think that a person could have this kind of &#34;elaborate forethought&#34; and recall and  continue it almost 25 years later. <BR> <BR>That in itself is a mystery.   <BR> <BR>When I really think about this case too much, I come across the idea that the BTK is wanting to become some kind of mentor to a younger generation...but then again, I think that is a little far fetched. <BR> <BR>I hope he is not entertaining the idea of killing to give himself a new variation on his CONTRIBUTION TO HISTORY...What I really hope is that he does not see his reemergance as an opportunity to add a final twist to it by murder of one more or more people. <BR> <BR>Thanks... <BR><!--/Text--></td></tr>
+<!--/Post: 5412-->
+<!--Post: 5436--><!--Time: 1107119308-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5436"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 30, 2005 - 1:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Featherw - The book may or may not come to pass. Right now it&#39;s a taunt and an uncreative parody of the crimelibrary chapters of course, but I have changed my opinion about BTK&#39;s state of mind. He seems to be one who can mix with society if he has to but I see his fantasies now as perhaps beginning to overpower any remaining objectivity he has. And he does have objectivity still. But we all get old and not to give him undue credit but BTK is becoming more and more unique, at least to my untrained eyes. <BR> <BR>His capacity for murder is there but I don&#39;t think he&#39;ll act on it. I doubt he&#39;s had a <i>serious</i> urge to murder since the late 1980s. He can&#39;t attempt a 1970s BTK-style murder now without being very worried about it. That&#39;s just a feeling I have. In the 1970s, when he did murder, he demonstrated fearlessness. That&#39;s gone now. And because he needs absolute control before acting, his current fears will prevent him from trying things his old-fashioned way. He can still pull a trigger, of course, anybody can. But the 1970s and Wegerle-murdering BTK is gone. He wouldn&#39;t get away with it now. He&#39;d as likely end up being a victim himself if he tried again.<!--/Text--></td></tr>
+<!--/Post: 5436-->
+<!--Post: 5450--><!--Time: 1107126257-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5450"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 30, 2005 - 3:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George..that was beautifully said.  You probably have hit the nail right on the head.   <BR>If BTK tried to kill now, he would screw up.  Urges in people change over the years.  The URGE to kill in the same way that he did probably is gone or has changed.  YOu make an excellent point. <BR> <BR>You also mention that he has to be in absolute control before he kills. That is a thought.  I think you are right.  He could not be in the same control over his killings as he was years ago.  Now people know what to expect of BTK, even after all these years.  That is the one thing he cannot take from his legacy...his predictability that he created years ago.  Although I think he has made an effort to not leave a pattern in the past.  A pattern always seems to be obvious in these kinds of killings, even when the killer tries not to leave them. <BR> <BR>He would be caught now.  Technology has changed, people have changed and he is older and maybe has become wise to the fact that what he perceived as control back then was not actually control, but youth and luck that he did not get caught. <BR> <BR>Thanks for thought-provoking thoughts.  Good ones.<!--/Text--></td></tr>
+<!--/Post: 5450-->
+<!--Post: 5466--><!--Time: 1107139379-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5466"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Boffa994<!--/name--></b></a><br>Username: <!--field:uname-->Boffa994<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 30, 2005 - 6:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Btk knows he cannot be in the same magnitude of control when killing today as he did in the 70&#39;s. <BR>Hes much older now. So trying to subdue someone much younger today would prove to be a much harder task then 30 years ago. Still I think he hasnt stopped killing at all since the wegerle murder. He just chooses much older victims that will find it much harder to fight back. easy prey. were&#39;nt some of the possible btk victims just outside of wichita women around their 60&#39;s or 70&#39;s.<!--/Text--></td></tr>
+<!--/Post: 5466-->
+<!--Post: 5476--><!--Time: 1107143744-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5476"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 30, 2005 - 7:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->yep...remember the 63 year old woman Anna? was it? Oh Anna why didn&#39;t you appear?.. the poem... <BR>...I am thinking it was... <BR><a href="http://www.kansas.com/mld/kansas/news/special_packages/btk/histo" target=_top>http://www.kansas.com/mld/kansas/news/special_pack ages/btk/histo</a> ry/8312815.htmPosted  <BR>The BTK Strangler, who already has killed seven Wichitans, resurfaced this weekend after 16 months of silence when he mailed a poem to a 63-year-old woman who nearly became his eighth victim. <BR>Yep...older women..but this was in 1979 <BR><!--/Text--></td></tr>
+<!--/Post: 5476-->
+<!--Post: 5510--><!--Time: 1107150999-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5510"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 30, 2005 - 9:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Some of the best technological advances which remain hidden very well are things the autopsy reveals. This sort of information would be more difficult for BTK to obtain, as it is highly technical, well guarded and very new. Oy! Unless BTK is a coroner but I doubt that.<!--/Text--></td></tr>
+<!--/Post: 5510-->
+<!--Post: 5517--><!--Time: 1107155569-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5517"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 30, 2005 - 11:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Other poems to look at would be welcome. Heck, if BTK writes a limerick it would be helpful. A 5-7-5 would be interesting; a well written haiku can be a showstopper. They can be alpenglow beautiful or funny enough to have made Tiberius crack a smile. BTK can always send something to Tom or to KAKE. <!--/Text--></td></tr>
+<!--/Post: 5517-->
+<!--Post: 5567--><!--Time: 1107196695-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5567"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 31, 2005 - 10:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That is exactly what we need to see!  Another poem from BTK...and yeah...a Haiku or a limerick would be wonderful. ha.  <BR> <BR>I wish he would send one to TOM or KAKE..a poem. Would give us some more clues.  <BR> <BR>You mention a coroner. I doubt too that BTK would be a coroner.  But think about this just for the sake of being wildly conspiratoral.  What better person would not be afraid of a dead body and what person with any training of rearranging bodies, turning them over for examination and NOTING EACH MOVE he makes with the body &#40;as described in the revised letter by BTK of how he arranged the bodies of Julie and Josephine Otero...point by point, BTK tells how he POSITIONED the bodies.. <BR>Letter here from Tom&#39;s site: <BR><a href="http://www.catchbtk.com/letters.html" target=_top>http://www.catchbtk.com/letters.html</a> <BR>-------- <BR>Note how he tells us what he is doing?  I seriously doubt BTK works with a coroner or is one..but when you look at this, you can&#39;t help but let that thought cross your mind if just once. <BR>  <BR>Julie <BR>Position:  <BR> <BR>Bondage: <BR> <BR>Garrote: <BR> <BR>Death: <BR> <BR>Clothes: <BR> <BR>Comments: <BR> <BR>--------------------------------------- <BR>If BTK is organizing his OBSERVATIONS of death and manner of death in this way...for each person, I have to wonder what this tells us.   <BR>For each Otero, he uses the above categories to tell us how they died. <BR> <BR>Interesting to say the least. <BR> <BR>You have to wonder what profession, or what individual mind organizes information in this way. <BR>Thanks. <BR><!--/Text--></td></tr>
+<!--/Post: 5567-->
+<!--Post: 5602--><!--Time: 1107215538-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5602"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tbear<!--/name--></b></a><br>Username: <!--field:uname-->Tbear<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 31, 2005 - 3:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->several sexually sadistic serial killers have kept this much detail &#40;and even more detail&#41; on their victims written in journals, that tend to be found after they are caught. <!--/Text--></td></tr>
+<!--/Post: 5602-->
+<!--Post: 5610--><!--Time: 1107217621-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5610"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 31, 2005 - 4:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Featherw: Yes, what sort of mind. One thing: BTK sent that letter to the press/police; don&#39;t overlook the taunt, which is twice repeated. About &#34;society&#34; and how they can be thankful and all that jazz. Additionally, the seeming matter-of-fact nature of the communication is deliberate I think and is done to instill fear. But a large point is that the letter was for public consumption, however limited at the time. He had to prove he committed the murders in order to be taken seriously. <BR> <BR>The letter arrived a great deal of time after  the crime was committed, too; I think this was done to make sure he had gotten away with the crime and also so he could follow the crime in the news, as he makes clear with the mention of the names of the guys who didn&#39;t do the crime.  <BR> <BR>What sort of job/mind, though? Good question. I see a wannabe: cop, marine/military, fireman, the professions speculated about. I don&#39;t rule out active military experience in the least, but still lean slightly toward a wannabe. You mention dead bodies and handling them and so forth. This is something which from all accounts many people can do, once they learn to psychologically distance themselves from it. Think of doctors and nurses, for example. I don&#39;t have a favorite theory, several arguments make enough sense to be taken seriously. I hope this guy gets caught. It doesn&#39;t look so promising now, but only time will tell.<!--/Text--></td></tr>
+<!--/Post: 5610-->
+<!--Post: 5618--><!--Time: 1107219281-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5618"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 31, 2005 - 4:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George...right.  There are people who learn to distance themselves from the reality of handling a no longer living body.  Doctors, nurses and such.  But then again, you think about HOW they handle bodies as opposed to a coroner who has to handle the bodies more personally, thereby demanding even more of a distancing from the reality of grotesque.  Like I said, I doubt BTK is a coroner..but the point I am trying to make is that Doctors and nurses handle no longer living bodies or EXPIRED bodies only to the extent of looking at them, determining time of death, and trying to save them.  But not in the same depth of manner that a coroner or one who is &#39;Willing&#39; to handle bodies longer... <BR> <BR>I am wondering about funeral home employee, a person who works with cadavers but then again, a psychotic outside of any of these professions mentioned could &#39;distance&#39; himself psychologically from the reality of handling a dead body.   <BR> <BR>I too believe that BTK may be a wannabe in a field that requires a sort of acceptional mind focus attained through training and perseverence..i.e COP, FIREMAN, marine, military and so forth.  All of those professions require persistance, endurance of mind and body. All also require a mental stregnth that only they come to understand with experience in their fields.  Those professions require some to be true heros.   <BR> <BR>I note that BTK uses the e-mail address on the &#39;messages to BTK&#39; section of this forum of &#34;<a href="mailto:BeatTheKing@neverwill.ever">BeatTheKing@neverwill.ever</a>&#34; <BR> <BR>And then ...it is a fake address..ha. <BR> <BR>Very typical of a killer who likes to give false addresses.  But....BEAT THE KING?  NEVER WILL.  EVER.  <BR> <BR> I guess he sees his game as equal to the ENDURANCE, DEVOTION, MENTAL REQIREMENTS, and DESERVING of RESPECT as the professions for which he was never accepted.  Maybe. <BR> <BR>If this is the case, he seems to take arrogant pride in &#39;innovating&#39; his own HARD TO ATTAIN goals with his own version of intelligence...made up of a game for which he will let noone know how it is played.  Cheater..cheater...cheater.  JMO.  Thanks  <BR><!--/Text--></td></tr>
+<!--/Post: 5618-->
+<!--Post: 5685--><!--Time: 1107285962-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5685"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 11:26 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Somehow the arrogance of the &#34;BeatTheKing@ neverwill.ever&#34; email addy &#40;fake&#41; doesn&#39;t jibe with the tone of the known &#34;real&#34; BTK letters and such. <BR> <BR>IMO... It seems much more childish to me, as do most of the posts now, in the &#34;From&#34; thread. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 5685-->
+<!--Post: 5686--><!--Time: 1107286211-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5686"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 11:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->One other note: He seems to be refering to Christ as the King &#40;which is true&#41; and not himself... If that is the case that changes it from &#34;childish&#34; to a knowledge that he isn&#39;t going to escape in the end, no matter what but again... I don&#39;t think it&#39;s BTK writing it.<!--/Text--></td></tr>
+<!--/Post: 5686-->
+<!--Post: 6539--><!--Time: 1107872267-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6539"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 6:17 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Devbost wote: Publishing the secret signature would IMHO do little or nothing to help us track him down, and would open up the possibility of hoax communications. That is the one benefit we can point to from the WPD&#39;s secrecy.  <BR> <BR>Think about this yall. If WPD released the signature, it would force BTK to make diffrent kind of info dops. There ae so many wanna be&#39;s out there KAKE and WPD would get atleast 3 fakes a day. So what is our publicity starved BTK gonna do then??? He has to change, and by changing, he might make a mistake.<!--/Text--></td></tr>
+<!--/Post: 6539-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="76/384">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=76/384" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

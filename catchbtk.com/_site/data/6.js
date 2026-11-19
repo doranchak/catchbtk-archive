@@ -1,0 +1,1 @@
+window.CBTK={"page":"6.html","title":"catch BTK .com -- SHIRLEY VIAN","archive":"../index.html","versions":[{"t":"20041204130752","e":"20041204130752","n":1,"f":"history/6~20041204130752.html","a":0,"d":0,"sa":[],"sd":[]}]};

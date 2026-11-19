@@ -1,0 +1,352 @@
+<html>
+<!--Topic: 8/Possible BTK Victims-->
+<!--Me: 637/Gail Sorenson-->
+<!--Level 1: 637/Gail Sorenson-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 8-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Gail Sorenson</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Gail Sorenson</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/8/8.html"><font color="#f7f7f7">Possible BTK Victims</font></a> &#187;
+Gail Sorenson
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=8&page=637"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=8&page=637"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 9960--><!--Time: 1109713702-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9960"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 1:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->On Feb. 11, 1977, Gail Sorenson disappeared, abducted from a Dillon’s Store in downtown Hutchinson. <BR> <BR>“She was found two days later on the Arkansas River,” said Reno County Sheriff Randy Henderson. <BR> <BR>Henderson says the case bears striking similarities to two Sedgwick County cold cases now definitively linked to BTK. <BR> <BR>“One of the cases that Sheriff Steed discussed, one of the ladies had been kidnapped, found by a river,” Henderson said. “That enhanced my curiosity.” <BR><!--/Text--></td></tr>
+<!--/Post: 9960-->
+<!--Post: 10043--><!--Time: 1109734929-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10043"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 7:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Iq - that story was just on Fox news. Her body was not only dumped on the Arkansas River, but it was across the river from an LE shooting range!<!--/Text--></td></tr>
+<!--/Post: 10043-->
+<!--Post: 10064--><!--Time: 1109738870-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10064"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 8:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Is it possible that he was on a training trip there? Maybe, a trip with boy scouts, or even a family trip, or a convention with ADT Security? What do ya think?<!--/Text--></td></tr>
+<!--/Post: 10064-->
+<!--Post: 10116--><!--Time: 1109770709-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10116"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Thinker<!--/name--></b></a><br>Username: <!--field:uname-->Thinker<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 5:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The boy scout trip is a possibility, as that range is near a launching spot for canoeing trips.  When the river has enough water &#40;which it would have had in 77, before a resevoir upstream blocked much of the water&#41;, many groups would launch at Hutchinson and canoe all the way into Wichita.   <BR>However, that area is right along US HWY 50, so it may merely have been a convenient dumping spot in a town where he may have been unfamiliar with his surroundings.  The place where Sorenson was dumped has quite a few trees around it, and he may not have even known the range was there, as it is partily hidden.<!--/Text--></td></tr>
+<!--/Post: 10116-->
+<!--Post: 10704--><!--Time: 1110144741-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10704"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 1:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Gail Sorenson&#39;s car was found in a dillons parking lot. <BR><a href="http://64.233.167.104/search?q=cache:he3cWVOYBtIJ:www.kake.com/home/headlines/1317737.html%2Bgail%2Bsorenson%2Bks&amp;hl=en&amp;lr=lang_en" target=_top>http://64.233.167.104/search?q=cache:he3cWVOYBtIJ: www.kake.com/home/headlines/1317737.html&#43;gail&#43;sore nson&#43;ks&amp;hl=en&amp;lr=lang_en</a><!--/Text--></td></tr>
+<!--/Post: 10704-->
+<!--Post: 10715--><!--Time: 1110146366-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10715"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 1:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->this would have been a month before Shirley Vian still working on ADT history info, and I know nothing about the Boyscouts and once again I feel he may have been using work vehicle to transport vics. If not him then the other unknown killer who was abducting women there and dumping them yeah I think there is more than one killer in kansas<!--/Text--></td></tr>
+<!--/Post: 10715-->
+<!--Post: 10811--><!--Time: 1110237204-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10811"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Thinker<!--/name--></b></a><br>Username: <!--field:uname-->Thinker<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 3:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That Dillons parking lot is about 3 miles from where her body was found. It is on a main thoroughfare through town, that leads to K61 highway, which merges with Hwy 50 about a mile from the dumping sight.<!--/Text--></td></tr>
+<!--/Post: 10811-->
+<!--Post: 10814--><!--Time: 1110238074-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10814"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 3:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thinker: do you know where Ms. Sorenson was working at the time? <!--/Text--></td></tr>
+<!--/Post: 10814-->
+<!--Post: 10819--><!--Time: 1110241604-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10819"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 4:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky, She was working for a nursing home and went on an errand for her boss and never returned. <BR>I think we are all misspelling her name here.  <BR>I believe the correct spelling is Gayle Sorensen.<!--/Text--></td></tr>
+<!--/Post: 10819-->
+<!--Post: 10857--><!--Time: 1110261061-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10857"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 9:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There are 6 murders this year 1977, rader was working for ADT and going to WSU at night, Nancy Fox, 12/8, Denise Rathburn 12/11, Gail Sorenson 2/11, Sandra Talbolt 6/12, Shirley Vian 3/17, Nina Berardi 6/23, motive and opportunity?<!--/Text--></td></tr>
+<!--/Post: 10857-->
+<!--Post: 10861--><!--Time: 1110261465-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10861"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 9:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In 1977 what day would the 11th of February fall on?<!--/Text--></td></tr>
+<!--/Post: 10861-->
+<!--Post: 10869--><!--Time: 1110263005-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10869"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 10:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Friday <!--/Text--></td></tr>
+<!--/Post: 10869-->
+<!--Post: 10871--><!--Time: 1110263455-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10871"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 10:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Was DTDC particpating in Scouts before his kids were born? I thought I seen something that he did.<!--/Text--></td></tr>
+<!--/Post: 10871-->
+<!--Post: 10873--><!--Time: 1110263697-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10873"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 10:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->yes he was in as a kid, dont know if he started up again before son was born though and thanks to you I found something strange, go to new thread murder vics and odd dates<!--/Text--></td></tr>
+<!--/Post: 10873-->
+<!--Post: 10926--><!--Time: 1110308454-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10926"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Thinker<!--/name--></b></a><br>Username: <!--field:uname-->Thinker<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 11:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->She was a secretary or something like that for a nursing home.  I&#39;m not sure which one, as there are none very close to the Dillons Store she was abducted from. It&#39;s really a sad case, especially since I went to school with some of her family.<!--/Text--></td></tr>
+<!--/Post: 10926-->
+<!--Post: 10936--><!--Time: 1110312150-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10936"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 12:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I am very sorry for your loss and that of the Families Thinker. I hope we can find out what happened, <!--/Text--></td></tr>
+<!--/Post: 10936-->
+<!--Post: 10966--><!--Time: 1110321599-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10966"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Thinker<!--/name--></b></a><br>Username: <!--field:uname-->Thinker<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 2:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you Embersage. I hope this will provide closure for them as well.<!--/Text--></td></tr>
+<!--/Post: 10966-->
+<!--Post: 11036--><!--Time: 1110384910-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11036"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 8:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Gail Sorensen <BR> <BR>Reno County Sheriff Randy Henderson said Friday that &#34;it may take a while&#34; before authorities learn whether Rader is connected to the 1977 death of Gail Sorensen. <BR> <BR>Sorensen, 23, was reported missing on Feb. 11, 1977 -- the same year that Shirley Vian and Nancy Fox were killed. Sorensen&#39;s car was found in the Dillons parking lot at Fourth and Pershing in Hutchinson. <BR> <BR>Two days later, Sorensen&#39;s body was found just south of Hutchinson, east of U.S. 50 along the south bank of the Arkansas River. <BR> <BR>Authorities are revisiting the case, Henderson said, because the circumstances are similar to how Park City residents Marine Hedge and Dolores Davis were killed and left in a rural area. <BR> <BR>&#34;That fits our scenario -- also the viciousness of the crime and the close proximity to Wichita,&#34; Henderson said. &#34;I think we&#39;re derelict if we don&#39;t look at it.&#34; <BR> <BR>Thinker, do you know if it is Ms. Sorenson&#39;s DNA they are trying to match DTDC&#39;s DNA to? <BR><!--/Text--></td></tr>
+<!--/Post: 11036-->
+<!--Post: 11037--><!--Time: 1110385111-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11037"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 8:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thinker, do you know if she had family in Wichita and could have come into contact with DTDC through them?<!--/Text--></td></tr>
+<!--/Post: 11037-->
+<!--Post: 11053--><!--Time: 1110393374-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11053"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Thinker<!--/name--></b></a><br>Username: <!--field:uname-->Thinker<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 10:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t think she had family in Wichita.  The family I know of all live north of Hutchinson.   <BR> <BR>I am not sure as to the DNA, but I do know Randy Henderson personally, and feel he is very competent and cautious.  I think he is being careful as to not give false hope to the family until there is actual proof of DTDC&#39;s involvement.  <BR> <BR>I think DTDC may have acted upon opportunity.  Perhaps he went to the store for last minute supplies for a canoeing trip?  Or he had visited the store and noticed the number of woman who stop there, coupled with the opportunity that nobody would notice this abduction. He saw this young woman and acted upon impulse. A very risky thing, but given the location of the store, and the location of the dumping spot, it would make sense.  <!--/Text--></td></tr>
+<!--/Post: 11053-->
+<!--Post: 11057--><!--Time: 1110398157-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11057"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 11:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thinker: I believe most of us on here have learned not to ever discredit any possibility. Particularily, people like myself after learning that DTDC lives down the street. So with that in mind, don&#39;t hold back anything. <!--/Text--></td></tr>
+<!--/Post: 11057-->
+<!--Post: 11059--><!--Time: 1110398225-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11059"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 11:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->E -do you remember which boy scout post DTDC belonged to?<!--/Text--></td></tr>
+<!--/Post: 11059-->
+<!--Post: 11061--><!--Time: 1110398415-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11061"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 12:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey Rocky this nursing home she worked at where is it, in reference to the rest. Is it close to where Paula worked, <!--/Text--></td></tr>
+<!--/Post: 11061-->
+<!--Post: 11064--><!--Time: 1110405462-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11064"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 1:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wasn&#39;t it Wesley Towers? <BR><a href="http://www.nursing-homes.biz/cities/Hutchinson-KS/" target=_top>http://www.nursing-homes.biz/cities/Hutchinson-KS/</a><!--/Text--></td></tr>
+<!--/Post: 11064-->
+<!--Post: 11066--><!--Time: 1110407616-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11066"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Thinker<!--/name--></b></a><br>Username: <!--field:uname-->Thinker<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 2:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wesley Towers is on the extreme northwest corner of Hutchinson. The Dillons Store she was abducted from was centrally located, and the sight where she was dumped was in the extreme southeast corner of Hutchinson.   <BR> <BR>What I find odd here is that there are three other Dillons Stores closer to where she worked.  <!--/Text--></td></tr>
+<!--/Post: 11066-->
+<!--Post: 11070--><!--Time: 1110411708-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11070"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 3:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good point Thinker so why did she go to the other one?<!--/Text--></td></tr>
+<!--/Post: 11070-->
+<!--Post: 11081--><!--Time: 1110418794-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11081"><font face="Verdana" size="1"><b><!--email--><a href="mailto:williammichael@direcway.com" target="_blank"><!--/email--><!--name-->Oklahoma_mike<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Oklahoma_mike<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 5:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Do we know where Ms. Sorenson lived?  It may be that store is closer to her home.  Hutchinson is not a city, but it a fair sized town so she could have lived much closer to that Dillons. <BR>Note that the direction from the store to the location of her body is in the correct direction for anyone traveling back to Wichita.<!--/Text--></td></tr>
+<!--/Post: 11081-->
+<!--Post: 11082--><!--Time: 1110418990-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11082"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 5:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Was the other one close to her house? Was she making a stop by her home? Was she abducted from her home like Marine and Mrs. Davis and her car dumped at Dillions?<!--/Text--></td></tr>
+<!--/Post: 11082-->
+<!--Post: 11087--><!--Time: 1110421529-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11087"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 6:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here is the boy scout map for Kansas: <BR><a href="http://www.quivira.org/trailguide/map.htm" target=_top>http://www.quivira.org/trailguide/map.htm</a> <BR>BTW it was boy scout pack #491 and troop #491<!--/Text--></td></tr>
+<!--/Post: 11087-->
+<!--Post: 11088--><!--Time: 1110421715-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11088"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 6:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Upon Rader&#39;s arrest investigators in Hutchinson asked the KBI to test DNA samples of the Sorensen murder to see if they matched up to the BTK suspect Dennis Rader. They apparently had evidence that could be linked through DNA analysis on this case. This was now weeks ago and we have never heard what the results of that DNA testing was or if it was done. Hutchinson has the DNA makeup of the murderer of Sorenson and Whicita has Rader&#39;s DNA so why at this time don&#39;t we know for sure if there was a match or not?<!--/Text--></td></tr>
+<!--/Post: 11088-->
+<!--Post: 11091--><!--Time: 1110422973-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11091"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 6:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey - where are the mapsters at? Analyzer, BModule, help us out here!<!--/Text--></td></tr>
+<!--/Post: 11091-->
+<!--Post: 11092--><!--Time: 1110423486-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11092"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Thinker<!--/name--></b></a><br>Username: <!--field:uname-->Thinker<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 6:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If I remember correctly, she lived north of town. This Dillons would be in the opposite direction from her house.  The other three Dillons Stores that would have been closer are the 5th and Adams Dillons, the 14th and Main Dillons and the east 30th Ave Dillons. In 1977, the 4th Ave Dillons Store would have been, I believe in its former location, across the street from where it is now.  The parking lot was nestled between the store and another store.  It would have been fairly easy to abduct someone from there. <BR> <BR>Johno, having been around LE in Reno County &#40;Hutchinson&#41;, I feel they are being very cautious as to what they disclose.  It may be that they are holding out on information in an attempt to get more info from DTDC.   <BR> <BR>As to why she went to 4th Street Dillons as opposed to one of the others, I do not know.  That far back, it would not have had a pharmacy, as the one does now.  The only plausible explanation I can think of is that it was closest to other errands she was running for her boss. <BR> <BR>Oklahoma Mike, the town of Hutchinson, while it only has 40,000 residents, is 22 sq miles in size.  It is very spread out in comparison to other towns of it&#39;s size.<!--/Text--></td></tr>
+<!--/Post: 11092-->
+<!--Post: 11095--><!--Time: 1110424555-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11095"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 7:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Or the first Dillions that she went to didn&#39;t have what her boss wanted, so she went to the next! It&#39;s her boss, you&#39;d do it! Hutch is very spread out, I do remember driving to the State Fair and passing acres and acres of natural gas wells and drills. You know I think the WPD made a big mistake in not disclosing information, do you think LE there is?<!--/Text--></td></tr>
+<!--/Post: 11095-->
+<!--Post: 11134--><!--Time: 1110461586-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11134"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Thinker<!--/name--></b></a><br>Username: <!--field:uname-->Thinker<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 5:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just think LE is waiting until they are 100% sure before giving her family hope in the catching of her killer.   <BR> <BR>I am going to try to get to the Hutchinson Library this week to go through the Hutch News archives and find out exactly where she lived.  That&#39;s all on microfilm, but it shouldn&#39;t take too long, especially since I have the dates. <BR> <BR>The really funny thing about the Dillons stores is that the closest one, the 30th Ave Dillons is by far the largest and most complete of the stores.  It would be really odd if they didn&#39;t have something the other stores had.<!--/Text--></td></tr>
+<!--/Post: 11134-->
+<!--Post: 11226--><!--Time: 1110509659-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11226"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 6:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I can appreciate what LE is doing! I&#39;m certain that is why they did it in Wichita too, but I think at times if they would have just given a lil bit like the puzzles etc. Do you ever remember anything like that associated with Ms. Sorenson? <BR> <BR>BTW How far is Falun from Hutch?<!--/Text--></td></tr>
+<!--/Post: 11226-->
+<!--Post: 11283--><!--Time: 1110555877-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11283"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Thinker<!--/name--></b></a><br>Username: <!--field:uname-->Thinker<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 7:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Falun is just under an hour&#39;s drive from Hutchinson. It is a very easy drive along K61 to I-135 from Hutchinson to Salina.  Falun is just off I-135 inbetween the two.   <BR> <BR>I don&#39;t remember any clues from Mrs. Sorensen.  I am going to hit the Hutch Library this weekend and try to find the microfilm of the newspapers from when she disappeared, was found, etc. I&#39;ll let you all know what I find.<!--/Text--></td></tr>
+<!--/Post: 11283-->
+<!--Post: 11295--><!--Time: 1110561498-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11295"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 9:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you thinker for the help, we are having a problem trying to figure out if one of Rader&#39;s brother&#39;s live or lived in Falun, Not in the records officer Smith has. can you see what you can come up with? Thanks E.<!--/Text--></td></tr>
+<!--/Post: 11295-->
+<!--Post: 11303--><!--Time: 1110568008-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11303"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jilleng<!--/name--></b></a><br>Username: <!--field:uname-->Jilleng<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 11:06 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Brother William lived in Paola KS then Osawatomie, Brother Paul lived in Park City, Wichita, Salina, Falun and Burlington..he lived in Falun as recent as 2004. He lived in Falun between 1990 and 2004 with brother Jeffrey who also lived there...can&#39;t figure out the exact years from the info I brought up just the from/to years...brothers Jeffrey and Paul lived on W Thorstenburg Rd in Falun.<!--/Text--></td></tr>
+<!--/Post: 11303-->
+<!--Post: 11306--><!--Time: 1110570851-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11306"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 11:54 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you Jilleng I need that info. E.<!--/Text--></td></tr>
+<!--/Post: 11306-->
+<!--Post: 12265--><!--Time: 1111810994-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12265"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 25, 2005 - 8:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thinker - what did you find?<!--/Text--></td></tr>
+<!--/Post: 12265-->
+<!--Post: 13148--><!--Time: 1114308415-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13148"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tulip<!--/name--></b></a><br>Username: <!--field:uname-->Tulip<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, April 23, 2005 - 7:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This is from an article shortly after Gayle Sorensen was found: <BR> <BR>Authorities were contacted Monday by a man who said he saw Mrs. Sorenson’s car parked near an entrance to a river levee about noon Friday. Investigators said that the woman might have been forced at knifepoint to the river and that her killer might have driven her car back to the food store parking lot, where it was found early Friday evening. <BR> <BR>Reno County Undersheriff Dennis Allison said that although the victim’s clothes had been disarranged, there was no confirmation that she had been raped. <BR>   <BR>The article also mentions that her keys were still in the ignition when it was found.  This increases my suspicion that the car was dumped at Dillons rather than having driven there herself.   <BR> <BR>I also find it highly suspicious that her car was not only found at a Dillons &#40;where the Otero car was found&#41;, but found at the Dillons at 4th and Pershing &#40;Pershing is the same street Nancy Fox was killed on later that same year&#41;. <BR> <BR>Anyone know why it is taking so  long to compare the DNA found at the scene w/ Rader&#39;s?<!--/Text--></td></tr>
+<!--/Post: 13148-->
+<!--Post: 13468--><!--Time: 1115348223-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13468"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 05, 2005 - 7:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Which river levee? The boyscouts have updated their site here is a better map! There are two rivers the Ninascahl and the Arkansas. Guess where the boyscouts camp is? <BR><a href="http://www.quivira.org/camps/Kanza/kanzalocation.asp" target=_top>http://www.quivira.org/camps/Kanza/kanzalocation.a sp</a><!--/Text--></td></tr>
+<!--/Post: 13468-->
+<!--Post: 13965--><!--Time: 1124221864-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13965"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tulip<!--/name--></b></a><br>Username: <!--field:uname-->Tulip<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, August 16, 2005 - 12:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->For those of you who haven&#39;t heard, the DNA evidence has been compared to Rader and it is NOT a match.<!--/Text--></td></tr>
+<!--/Post: 13965-->
+<!--Post: 13967--><!--Time: 1124227425-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13967"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, August 16, 2005 - 2:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks for that info Tulip. I&#39;ve been wondering about that for months now. So much time has now passed that any DNA on unsolved murders in existence has had time to be checked and still it remains 10 known victims. <BR>Will 10 be the final figure?<!--/Text--></td></tr>
+<!--/Post: 13967-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="8/637">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=8/637" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

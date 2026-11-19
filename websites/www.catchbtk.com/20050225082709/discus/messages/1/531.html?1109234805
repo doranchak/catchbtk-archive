@@ -1,0 +1,263 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 531/Petra-->
+<!--Level 1: 531/Petra-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Petra</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Petra</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Petra
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=531"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=531"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 8004--><!--Time: 1108785494-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8004"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Hmmm<!--/name--></b></a><br>Username: <!--field:uname-->Hmmm<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 7:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Found this on a page listing midwest Latinos in WW2   <BR> <BR>&#34;Other Mexican American brothers made the supreme sacrifice. Petra Rodriguez ofDodge City, Kansas discussed the sacrifices of her brothers during the war:Robert, a member of the l0th Army Infantry, was killed in France on July 2l,l944....he was cut down in fierce fighting that followed the invasion of Normandy.Rudy, a member of the 9th Engineers, was wounded on July 4, l944, recovered,and was sent back to the front lines. He died on December 3l, l944, in the Battleof the Bulge. Mike, another brother, served as a member of the 3rd ArmoredDivision. He was injured, but survived shrapnel injuries to his legs.&#34; <BR> <BR>source:  csupomona.edu/~jis/2001/santillan.pdf<!--/Text--></td></tr>
+<!--/Post: 8004-->
+<!--Post: 8007--><!--Time: 1108786376-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8007"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 8:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks.  Makes you wonder.   <BR> <BR>If it weren&#39;t for the World War timing here, I would not wonder.  Thanks for posting this.<!--/Text--></td></tr>
+<!--/Post: 8007-->
+<!--Post: 8008--><!--Time: 1108786608-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8008"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Hmmm<!--/name--></b></a><br>Username: <!--field:uname-->Hmmm<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 8:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->problem is, don&#39;t know if Rodriguez is Petra&#39;s married name?<!--/Text--></td></tr>
+<!--/Post: 8008-->
+<!--Post: 8039--><!--Time: 1108827871-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8039"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tadpole<!--/name--></b></a><br>Username: <!--field:uname-->Tadpole<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 7:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sounds like this is the family: <BR>Mr. and Mrs. Justo Esquibel, of Dodge City, were the parents of such a family. Before that year had come to its final hour, two of their three sons serving on the western front of World War II had been killed in battle, and a third lay seriously wounded in a French hospital. <BR> <BR>Bob, Rudy and Mike were the younger sons of the large family of Mexican-American heritage living on the &#34;east side&#34; of the city. Justo Esquibel, a Santa Fe employee, was hardworking and respected. His children, reared in the circumstances prevalent at the time, were fun-loving and energetic, but forever careful to remain low-key, whether on the job or in public. <BR> <BR><a href="http://www.dodgeglobe.com/stories/061604/opi_0616040048.shtml" target=_top>www.dodgeglobe.com/stories/061604/opi_0616040048.s html</a> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 8039-->
+<!--Post: 8041--><!--Time: 1108830498-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8041"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tadpole<!--/name--></b></a><br>Username: <!--field:uname-->Tadpole<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 8:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This came up &#34;file not found&#34; but here are names of Esquibel children &#40;note NO Tina&#41;: <BR>...seven brothers, Tibucio &#34;Butch,&#34; Freddie, Manuel, Mike, Bob, Rudy and Aljito Esquibel; and two sisters, Lucy E. Mendoza and Petra E. Rodriguez. <BR><a href="http://www.hutchnews.com/past/12-27-2003/obit/obit28.html" target=_top>www.hutchnews.com/past/12-27-2003/obit/obit28.html</a>  <!--/Text--></td></tr>
+<!--/Post: 8041-->
+<!--Post: 8043--><!--Time: 1108831934-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8043"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Hmmm<!--/name--></b></a><br>Username: <!--field:uname-->Hmmm<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 8:52 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yes, it might be no link whatever...without the &#34;Tina.&#34;  All of that could have been &#34;hot air&#34; from BTK.  Still, I found that particular family interesting since it fits the Petra...and WW2 fallen soldiers, and I see even a railroad employee.  The only thing I could think of is that Petra&#39;s little &#34;sister&#34; Tina might actually be a niece if the grandparents kept the children of a soldier/son who died.  It&#39;s a stab in the dark, but interesting.  Thanks for the research Tadpole!<!--/Text--></td></tr>
+<!--/Post: 8043-->
+<!--Post: 8045--><!--Time: 1108834649-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8045"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Hmmm<!--/name--></b></a><br>Username: <!--field:uname-->Hmmm<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 9:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The Dodgeglobe mentions 10 children though the huch news lists only 9.  Hmmm?<!--/Text--></td></tr>
+<!--/Post: 8045-->
+<!--Post: 8046--><!--Time: 1108835214-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8046"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Hmmm<!--/name--></b></a><br>Username: <!--field:uname-->Hmmm<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 9:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oh, the one who died is Delores, not anything like &#34;tina&#34;... in the hutch news thing... <BR> <BR>wild goose chase?<!--/Text--></td></tr>
+<!--/Post: 8046-->
+<!--Post: 8075--><!--Time: 1108856399-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8075"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 3:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Petra and Tina   misspelling for pena trait?<!--/Text--></td></tr>
+<!--/Post: 8075-->
+<!--Post: 8341--><!--Time: 1109077984-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8341"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 5:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The name Petra is a feminized version of Peter, which means &#34;rock.&#34; &#40;FYI&#41;<!--/Text--></td></tr>
+<!--/Post: 8341-->
+<!--Post: 8351--><!--Time: 1109085274-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8351"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Raidar<!--/name--></b></a><br>Username: <!--field:uname-->Raidar<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 7:14 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Embersage  <BR>  <BR>Im with you on this one,Petra and Tina i doubt are real names&#40;short for something/names of another meaning&#41; EXAMPLE:&#34;I spent the night with Jim Beam or Jose Cuervo&#34; Im not sayin anyone is wrong by no means,im just sayin there can be more meanings than a persons name. Petra is a unique name unlike Jennifer or Sara. If my name were Petra and a news article like that came out,i would sure be going through the men i knew in my life. If BTK did release acutal names of friends,that wasnt very smooth expecially as unique as Petra unless she is deceaced. <!--/Text--></td></tr>
+<!--/Post: 8351-->
+<!--Post: 8352--><!--Time: 1109085874-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8352"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Hmmm<!--/name--></b></a><br>Username: <!--field:uname-->Hmmm<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 7:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, if you google Petra, you find it everywhere.  I was thinking Tina could be Christina or some other name. <BR> <BR>Still, Raidar, it could be just a &#34;code&#34; or nickname for something else for sure.  I just looked up WW2 and Latino and fallen and that article came up, and the name Petra was in it...so it struck me as weird.  It seems now that it may not be related, though...you never know.<!--/Text--></td></tr>
+<!--/Post: 8352-->
+<!--Post: 8438--><!--Time: 1109127631-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8438"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lubbock<!--/name--></b></a><br>Username: <!--field:uname-->Lubbock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 7:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->From the &#39;for whatever its worth&#39; department &#40;probably nothing&#41;: <BR>Petra means &#34;rock&#34; in Greek and Latin, and &#34;stone&#34; in Polish and Swedish. <BR> <BR>Tina is English for &#34;river&#34;. <BR> <BR>But I think the &#34;Pet rat in a cage&#34; angle is more likely. <!--/Text--></td></tr>
+<!--/Post: 8438-->
+<!--Post: 8478--><!--Time: 1109173086-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8478"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Hmmm<!--/name--></b></a><br>Username: <!--field:uname-->Hmmm<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 7:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Probably right, Lubbock.  I found it all curious, sure wish someone would happen upon viable information and get this guy caught!<!--/Text--></td></tr>
+<!--/Post: 8478-->
+<!--Post: 8513--><!--Time: 1109181223-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8513"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 9:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The more i think about it the more i think the &#34;petra&#34; and &#34;tina&#34; parts of the LE &#34;clues&#34; announcement were inserted by LE as a message to BTK.  If it is a word puzzle, it&#39;s rather ham handed , don&#39;t you think? <BR> <BR>I believe this has been done before, so it has precident for LE to do it, viz. to commmunicate with a perp. by throwoing in incorrect details in press statements. <BR> <BR>Petra/Tina was probably another attempt to get BTK&#39;s attention, just like &#34;paging Sherlock Holmes&#34; years ago, and the glasses sketch and &#34;Call the Chief&#34; subliminals of late. So, I bet either &#34;Petra&#34; and &#34;Tina&#34; have some meaning to BTK &#40;but not the meaning in the &#34;clues&#34;, or &#34;Pet rat in a...&#34; does, or the police are taunting BTK with the fate they have in store for him.<!--/Text--></td></tr>
+<!--/Post: 8513-->
+<!--Post: 8610--><!--Time: 1109234805-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8610"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 12:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Petra and Tina... P.T. <BR>Post Toasties.... P.T. <BR> <BR>There&#39;s: <BR> <BR>PT physical training in the military <BR>PT Cruiser &#40;car&#41; <BR>PT boat <BR>PT coupling &#40;electric stuff&#41; <BR>PT chemical symbol for platinum <BR>PT for physical therapy <BR>PT Barnum <BR>PT Shamrock &#40;financial self help&#41; <BR>PT Education... based in India <BR>PT the Period Table of elements <BR>PT for Olympus PT-023, a camera <BR>PT for PT-19 an air force aircraft made by Fairchild, nicknamed Cornell <BR>PT Psychology Today &#40;Magazine&#41; <BR>PT for a PT graph, determines slope, in Math class <BR>PT Participation Training class <a href="http://portfolio.iu.edu/rcyoung/PT/PTInstitute.htm" target=_top>http://portfolio.iu.edu/rcyoung/PT/PTInstitute.htm</a> no idea what it is <BR>PT abv for Portugal <BR>PT abv for part <BR>PT abv for point <BR>PT abv for pint <BR>PT abv for part-time <BR>......etc........<!--/Text--></td></tr>
+<!--/Post: 8610-->
+<!--Post: 8671--><!--Time: 1109279182-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8671"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 1:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ztar, your a nut lol. Good research. I agree with the PT military training, we had PT every month and AT at different locations from here to Hawaii, I can also be so bold as to go back to the drug idea since our guys were in Panama during the V. War and Panama has a big drug running problem<!--/Text--></td></tr>
+<!--/Post: 8671-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/531">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/531" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

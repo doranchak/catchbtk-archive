@@ -1,0 +1,225 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 619/Anyone else still getting freaky email?-->
+<!--Level 1: 619/Anyone else still getting freaky email?-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Anyone else still getting freaky email?</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Anyone else still getting freaky email?</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Anyone else still getting freaky email?
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=619"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=619"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 9672--><!--Time: 1109592189-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9672"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 4:03 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->this popped up in my junk email box about 3am mon. It was filtered due to an &#34;image&#34; that would be used by a spammer, according to the filter instructions. I recognize most of it from here: <BR> <BR><a href="http://www.thoughtpeach.com/archives/000411.html" target=_top>http://www.thoughtpeach.com/archives/000411.html</a> <BR> <BR>but it seems that it is more complete. The factor X part is what sets it apart from most stories. It&#39;s not the fact that it&#39;s news or really explains anything, but rather the content and timing that seems strange. I had some guy emailing me on a regular basis at the end with clues, apparently not wanting to post himself, but this is a new one &#40;haven&#39;t heard from the other guy since DTD was arrested&#41;. Not only that but instead of cutting and pasting, they seemed to have retyped the whole thing. The one thing that did get my attention was the phone number at the very end for AMW &#39;1 800 you snitch&#39;. I&#39;m not sure if that is supposed to be a threat since it&#39;s hard to tell the difference from quoted text and the sender&#39;s opinion, but if it is, thats a lot of typing to go through to make it. Anyway, for your reading enjoyment, I present my email from strangers: <BR>__________________________________________________ ______ <BR> <BR> Bmodule, on the catchBTK forum there is a thread <BR>entitled &#34;FACTORX&#34;. I tried a while back to get access <BR>to  post to this forum and never recieved a password <BR>to allow me to do so. Fortunately BTK is now in <BR>custody. However, I thought I would send you an e-mail <BR>from a post I had found to a very obscure blog. The <BR>individual who posted to the Blog, pulled me into the <BR>BTK mystery and my search for the truth. In this <BR>posters own words he revealed some info privy to the <BR>Otero Murders that could not be found anywhere. This <BR>poster refered to Members of the police informally by <BR>name, gave details in first person&#40;ie.&#34;Held a searing <BR>knief&#40;was mispelled&#41; to Julie&#39;s face&#41;. Stated many <BR>times that BTK wanted his Story out and if the scared <BR>anchorman from cake would have told his story in the <BR>mid 70&#39;s the killings MAY have stopped. Here is this <BR>posters profile of BTK in his own words as well as  <BR>his interp of the MODUS OPERANDI as he called it. I <BR>will Hyphenate all of his wording copied and pasted. <BR>  <BR>   &#34;BTK is very sophisticated. He is about as <BR>premeditated as they get. BTK offered to tell his to <BR>story to Rob Lowen of the Wichita Eagle but Lowen was <BR>too scared to cooperate&#34; <BR> Question to poster, Can you give any more details <BR>about the Lowen deal? I&#39;ve never heard about that <BR>before? <BR>   <BR> &#34;Ron Lowen was a news editor with CAKE news based out <BR>of Wichita. Back in the seventies, when BTK started <BR>his killing spree. BTK starting sending letters to <BR>Lowen giving details of his crimes. He offered to tell <BR>Lowen his story but Lowen was too scared to cooperate. <BR>He finally broke down and told police and didn&#39;t want <BR>anymore police protection and didn&#39;t want any further <BR>involvement. Lowen could have been the hero of the <BR>day. &#34;After 30 yrs, I doubt they would be able to make <BR>a case. No witnesses. no evidence-no case!&#34; <BR>Posted by: at September 21, 2004 09:02 PM <BR> &#34;BTK-What you did to the Oteros was unreal. I saw how <BR>you stripped Julie Otero naked and tied a thick coil <BR>of rope around her ankles and then you put a plastic <BR>freezer bag over her head and suffocated her while <BR>burning her with a red hot knief. Then you took her <BR>daughter down to the basement and hung her by the neck <BR>from a ceiling rafter&#34; <BR>  Question to Poster- I just wanted to ask my second <BR>question again, since I figure you have a unique view <BR>into community/law enforcement relations. Why do you <BR>think there&#39;s such an adversarial relationship between <BR>the public and the police in Wichita? <BR>  &#34;Why has the case went unsolved? You have to <BR>remember that the BTK mureders happened back in the <BR>seventies. During the seventies, things were good for <BR>most of us. You didn&#39;t hear about things that as <BR>heinous and sensational as the Zodiac and BTK murders. <BR>Back in the seventies, the serial killer was a new <BR>phenomena!&#34; &#34;The local police don&#39;t like to work with <BR>other agencies&#34; <BR>&#34;I think that if they would have brought in the FBI <BR>that the story may very well of had a different <BR>ending&#34; <BR>&#34;they for the most part do have the best investigators <BR>regardless of what you might hear from other cops or <BR>criminal justice buffs over at Wichita State <BR>University. BTK was just lucky! I think that after he <BR>botched the last couple attempts he realised that if <BR>he continued that he would slip up and finally be <BR>caught.&#34; <BR>&#34;For any of you out there in internet land that are <BR>WPD or have been with the WPD,  Send a note about your <BR>comments on the case or just tell me what you think, <BR>I&#39;d love to hear from you!&#34;Posted September 21, 2004 <BR>09:54 PM <BR>&#34;I wonder if BTK is going to send the Wichita Eagle <BR>another letter probably showing more evidence and <BR>wanting to tell his story?&#34; September 30, 2004 09:26 <BR>PM <BR> &#34;BTK is a Wichita native. He probably grew up in <BR>Wichita and has always lived there and still does&#34; <BR>&#34;Instilling fear and ridiculing the police-thats what <BR>BTK is all about&#34; <BR>  Here is posters revelations on FACTORX-  &#34;BTK&#39;s <BR>modus operandi is about as clear as its gets. He <BR>binds, somewhat tortures them if time is permiting, <BR>and then takes their lives. The modus operandi refers <BR>to his methods and style as far as what he does and <BR>how he does it and who he does it to. He has a <BR>multiple personality that allows him to pass himself <BR>off as an average everyday citizen and then he <BR>possesses a violent uncontrolable sexually fueled <BR>darkside that causes him to act out in a Very deviant <BR>manner. Do you ever wonder what Factor X is? I know! <BR>There are twelve cranial nerves that led from the <BR>occipital region of your brain to various parts of the <BR>human body. The tenth cranial nerve is the most <BR>significant. It is know as the Vagus nerve. All of the <BR>twelve nerves are denoted by Roman numerals. So the <BR>tenth cranial nerve is denoted by the Roman numeral X. <BR>The tenth cranial is the most significant because it <BR>innervates your heart, lungs, stomach, nervous system, <BR>ect. When you experience fear, fight or flight <BR>responses, axiety, panic, euphoria, ie head rushes <BR>which many people enjoy, you are experiencing Factor <BR>X. Factor X is a self-induced natural high that <BR>certain people receive and enjoy after experiencing <BR>certain stumili. In simple terms, they get off on what <BR>they do. A doctor or a psychiatrist probably explained <BR>this to BTK or maybe he read about it in a medical <BR>book but I know that is what he and other serial <BR>killers are talking about when they refer to Factor X. <BR>I don&#39;t believe that BTK is trying to mislead anybody <BR>or trying to cover his persona or who he really is. So <BR>far everything he has said in his letters has been <BR>straight foreward and right to the point without any <BR>bulls&#40;OOT&#41;. Yes, he is taunting the police. He even asks <BR>makes statements and asks questions in his letters <BR>such as &#34;how many people do I have to kill I get some <BR>national attention&#34; and &#34;do the cop think that are <BR>these are not related&#34; and &#34;I can&#39;t stop the monster <BR>maybe you can&#34; and &#34;good luck hunting yours truly <BR>guilty-BTK&#34; I just wish the Wichita Eagle would <BR>publish an article stating that they are indeed <BR>interested in publishing the BTK Story as told by BTK <BR>himself&#34; <BR> AFTER a deleted POST OF HIS- &#34;I like the way that <BR>s&#40;hoot&#41; went away immediately after I made my little <BR>post! <BR>Posted November 3, 2004 01:09 AM  <BR> In response to his POST- i am wondering what     s&#40;hoot&#41; you <BR>are talking about? i hope it doesn&#39;t mean that you <BR>think those opinions other than yours are neccessarily <BR>to be squelched? <BR>  <BR> &#34;I&#39;ve been pretty stressed out the past couple of <BR>days. I already take Xanax and have thought about <BR>buying it over the web but I&#39;m afraid of getting <BR>ripped off! I don&#39;t mean to get shitty with the other <BR>people that read this webpage but I want to hear about <BR>what people have to say about the BTK case!&#34; November <BR>3, 2004 09:50 PM <BR> &#34;As I view and read the other BTK webpages and learn <BR>more and more about the case, the more it trips me <BR>out!&#34;  <BR> &#34;Do you think that there will ever be any more new <BR>developments in the BTK case? Maybe another letter, <BR>another clue, never before revealed forensic evidence, <BR>any new leads!&#34;November 8, 2004 05:06 PM <BR>   <BR>   When the only person who has been conversing at <BR>this site stops posting he begins to get irate- <BR>  &#34;Say something! Even if your not interested in the <BR>BTK case, say something anyway. It&#39;s too bad that a <BR>good webpage like this one goes so unnoticed. I mean <BR>come on somebody say something!&#34; November 10, 2004 <BR>09:29 PM <BR>   <BR>  A new Question to POSTER- i read this on another <BR>forum and wonder since you have some inside <BR>perspective what you think, P.S. Since sex criminals <BR>do not change their M.O. or by nature cannot do so, I <BR>will not change mine. The code words for me will be... <BR>Bind them, toture them, kill them, B.T.K., you see he <BR>at it again. They will be on the next victim.  <BR> <BR>  &#34;The Otero letter is pretty bizzare if in fact you <BR>have ever had a chance to read the letter. BTK would <BR>actually make comments about how Mr. Otero vomitted <BR>while he was being strangled. He even had the nerve to <BR>talk s&#40;hoot&#41; on the Oteros because their station wagon <BR>was on of gas when he used it to make his gateway <BR>after killing those poor people. It is had to imagine <BR>how one person could be so cruel to another. The <BR>Wichita police seem to THINK that the Otero murders <BR>are the key to the case. IT  MIGHT JUST BE! I THINK HE <BR>PROBABLY KNEW ALL VICTIMS INDIRECTLY somehow. I can&#39;t <BR>help but wonder why he considers himself a sex <BR>offender when he really hasn&#39;t committed a sex crime. <BR>I know it is hard to believe that he would get so <BR>turned on by what he did that he would masturbate on <BR>the victim&#39;s body, however, masturbation isn&#39;t a <BR>crime. THEY seem to think that deception is a big part <BR>of his game. Based on what I&#39;ve read, I&#39;d have to say <BR>that it is. I&#39;d also have to say that whoever this guy <BR>is, he is relatively intelligent not to mention <BR>extremely lucky. Fortunately, for the women of Wichita <BR>even the best laid plans don&#39;t always materialize. <BR>There were a couple of times when the women would come <BR>home with someone else with them or they would show up <BR>at all. As for the criminal profiles, I&#39;d have to say <BR>that Ressler&#39;s profile is about the only one that I <BR>would pay any attention to&#34; <BR>  <BR> POSTER begins to ask where the only person on the <BR>board LIVES- &#34;By the way, its good to here from you <BR>again! Where do you live? <BR>Posted  November 15, 2004 04:00 PM  <BR>  <BR>  &#34;For what it is worth, I get the impression that the <BR>Wichita Police and the FBI might be playing some games <BR>of their own. I think their close! Close to wraping up <BR>one of the most bizzare and frustrating cases to ever <BR>be handled by law enforcement. By the way, is 111 <BR>still with WPD?&#34;  November 15, 2004 08:46 PM <BR>  <BR>   Question returned to poster- Who is 111? Inquiring <BR>minds want to know! ;&#41; <BR>Why do you think thy are close? <BR>  <BR>  And now maybe a Riddle or Clue from poster, <BR> &#34;Here is a question &#34;Who used to be 114?&#34; <BR>November 15, 2004 11:27 PM <BR> <BR> &#34;I have to say that whatever it is that he is doing <BR>he probably successful at it&#34; &#34;He is somebody who <BR>probably had a bad childhood. Probably mistreated and <BR>sexually abused.&#34; &#34;He probably was in the service.&#34; <BR>&#34;the first case is the key. Mrs. Otero and Kathryn <BR>Albright both worked at the Coleman Factory.&#34; <BR> &#34;Checkout crime library.com and look at the story <BR>chapters on the right side and then read this stuff. <BR>And then find one of his lasted letters, its modeled <BR>after those chapters-The BTK Story. There is a chapter <BR>entitled PJ&#39;s which is in referernce to the last <BR>Wichita State University Professor PJ Wyatt. So he <BR>went to college there. So did I.&#34; <BR>   <BR>  In response to a Poster posting info from another <BR>sight that was more indepth on the murder <BR>descriptions- <BR> <BR>  &#34;Reading it sure had me tripping. It didn;t know <BR>that you had worked for WPD. Did you know Kelly Otis? <BR>I always figured there was a little more to the story. <BR>Did you know Lt. Landwaur? As much as I hate to say <BR>it, I like to see BTK try to slip out of the shadow <BR>world he lives one more time and do one more deed.&#34;  <BR> November 22, 2004 11:02 AM <BR> <BR>  &#34;Back in the early ninties, I took a class at WSU <BR>from Dr. William Eckert who back in the seventies was <BR>Sedgwick County Coroner. He showed me a crime scene <BR>photo of Ms. Otero-she was stipped naked, legs and <BR>arms tied, plastic freezer bag over her head lying <BR>diagonally on her bed in her bedroom. I&#39;ve always <BR>wondered about how much more evidence there might be <BR>that hasn&#39;t been revealed!&#34; <BR> a question to poster  In response to a previous post- <BR> <BR>  &#34;I just read your Nov. 21 post again. I didn&#39;t know <BR>that BTK draw a picture of each of the victims after <BR>he had killed them and them mailed the pictures to <BR>KAKE, the Wichita Eagle, or whoever. I had seen the <BR>drawing of what the inside of the Otero house looked <BR>like and where the bodies were found but I figured the <BR>drawing was drawn by a crime scene investigator.&#34; <BR> <BR>   In response to AMW doing a strory on BTK, &#34;&#34;I know <BR>someone out there knows someone or something about <BR>this. If you do, contact America&#39;s Most Wanted at <BR>1-800-you-snitch!&#34;December 1, 2004 05:50 PM <BR>  Site shutdown on dec.3rd <BR> <BR> _______________________ <BR> <BR>Take it for what it&#39;s worth, but I feel there are some who feel that BTK lives on...wooooo.......woooooo   <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 9672-->
+<!--Post: 9865--><!--Time: 1109664990-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9865"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 12:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->B, what can I say that was the strangest thing I have ever seen, I have been getting Anon. email from people who don&#39;t want to post, pointing in one direction or another, I am telling you I don&#39;t know how yet, but he did not do all this alone, someone was helping him along the way.<!--/Text--></td></tr>
+<!--/Post: 9865-->
+<!--Post: 10171--><!--Time: 1109793139-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10171"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 11:52 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;....... I have been getting Anon. email from people who don&#39;t want to post, pointing in one direction or another.......&#34; <BR> <BR>So am I. They started the day after the arrest. One told me that he was posting from the UK but his ISP came back as US. <!--/Text--></td></tr>
+<!--/Post: 10171-->
+<!--Post: 10206--><!--Time: 1109814246-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10206"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 5:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Modus Operandi: Lat: the manner of operation; the means of accomplishing an act; characteristic method employed by defendant in performance of repeated criminal acts. Example: the modus operandi of the murderer was suffocation by a pillow; abbreviated M.O.&#40;Blacks Law Dictionary&#41;Wow, what a freak!<!--/Text--></td></tr>
+<!--/Post: 10206-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/619">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/619" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

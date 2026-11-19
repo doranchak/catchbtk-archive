@@ -1,0 +1,312 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 764/CRACKPOT THEORIES HERE &#40;Purely for fun&#41;-->
+<!--Level 1: 764/CRACKPOT THEORIES HERE &#40;Purely for fun&#41;-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: CRACKPOT THEORIES HERE &#40;Purely for fun&#41;</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">CRACKPOT THEORIES HERE &#40;Purely for fu...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+CRACKPOT THEORIES HERE &#40;Purely for fun&#41;
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=764"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=764"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 12667--><!--Time: 1112718976-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12667"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 05, 2005 - 9:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The funny thing I&#39;ve noticed is that even though Denny the Deadly Dog Catcher is under lock and key in his fashionable tangerine jumpsuit and comfy slippers, there are still theories about what he did and why out there that are, to be honest, ludicrous. We&#39;ve all run across posters on BTK messageboards who catch hold of some tangential portion of the story and use that to surmise that Denny did it all because he was part of some secret evil cult, or a lutheran offshoot of Opus Dei, or a closet member of cross-country traversing cross-dressing serial-killing underwear fetishists who like to drive tan vans and gold volkswagen bugs. <i>&#40;I made most of the preceding up to make a point.&#41;</i> <BR> <BR>So here&#39;s my fun idea. Even if you know that most of your previous ideas about BTK were logical, and now with the publication of &#34;Nightmare in Wichita&#34; you are finding you had some good sense after all, even if you&#39;ve been like me and read some of the nutty ideas and theories proposed and ranted on various boards over the last year and thrown up your hands in frustration, why not use this thread to <i>purposefully</i> concoct the most ludicrous BTK theories you can think of?  <BR> <BR>Even though April 1 has passed for the year, I think, why the heck not? <BR> <BR>Here&#39;s a couple of starters, based on theories I&#39;ve actually read in various places; <BR> <BR>- BTK was actually three people with names beginning B, T, and K. They committed all the murders for drug money. They framed Denny. <BR> <BR>- The Rader brothers all did it and framed Denny because he was the uptight one. <BR> <BR>- BTK is the mothman. <i>&#40;I read this somewhere, I swear.&#41;</i> <BR> <BR>Here&#39;s mine...caveat, again - this is purposefully whacky, <u>I do NOT believe this theory</u> - it&#39;s just for fun. <BR> <BR>BTK, Denny Rader, joins the military right out of high school, earlier than we&#39;re told. He is taken into a special black ops program for good sharpshooters, and on that November morning, you know the one, in Dallas, in 1963, Denny is the second shooter crouched on the grassy knoll.  <BR> <BR>Cut to &#39;68 - Denny&#39;s still in the service, but has been working his cover as a lowly radio tower construction guy - but he&#39;s called by his handlers to Los Angeles, to a Hotel where another Kennedy is giving a speech. They like Denny because in spite of his German heritage and midwestern appearance, he can easily be made ot look mediterranean. He&#39;s dressed in a busboy&#39;s outfit that night as he reaches around Sirhan, Denny&#39;s untraceable pistol in hand, and another member of clan Kennedy is down. <BR> <BR>A parking garage, Washington DC, 1973...Denny the Dog Catcher of the future, he&#39;s not yet BTK...he&#39;s giving this info to this reporter from the Post, a scruffy guy named Bernstein. Denny doesn&#39;t really like what he&#39;s doing, it&#39;s anti-Republican, but his handlers have been feeding him the info and he&#39;s being paid, so - <BR> <BR>January 1974, the pressure is too great, all this black ops stuff, and Denny does something awful... <BR> <BR>Gimme time and I could work the Mothman angle in there, too.<!--/Text--></td></tr>
+<!--/Post: 12667-->
+<!--Post: 12673--><!--Time: 1112728649-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12673"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 05, 2005 - 12:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey I saw Denny this morning at the carry out, i about fell over when he looked at me, He was delivering Diet Coke to the store. This might be funny but I did see his twin. I still think he looks like Goerge from Sienfield.  lol    Sheila<!--/Text--></td></tr>
+<!--/Post: 12673-->
+<!--Post: 12692--><!--Time: 1112828295-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12692"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brown_tornado<!--/name--></b></a><br>Username: <!--field:uname-->Brown_tornado<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 06, 2005 - 3:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->THEY FOUND HIM, THEY FOUND HIM!!!! <BR> <BR>...police searching through the night for possibly valuable evidence against Dennis &#34;The Dawg&#34; Rader have found irrefutable evidence linking the BTK suspect to another murder. One they have not even considered before. <BR>Yes, they found Jimmy Hoffa.<!--/Text--></td></tr>
+<!--/Post: 12692-->
+<!--Post: 12695--><!--Time: 1112833101-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12695"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 06, 2005 - 5:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve, <BR> <BR>I found the message entertaining, particularly the quote describing Monsieur Rader as a &#34;closet member of cross-country traversing cross-dressing serial-killing underwear fetishists who like to drive tan vans and gold volkswagen bugs.&#34; It sounds crazy, but seems highly likely. <!--/Text--></td></tr>
+<!--/Post: 12695-->
+<!--Post: 12696--><!--Time: 1112836186-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12696"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 06, 2005 - 6:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Future news: <BR>Levenworth, Ks. <BR>The only inmate on Kansas Death Row, convicted BTK serial murderer Dennis Rader was killed today in a prison escape attempt. <BR>Rader had cut the security camera lines in the recreation yard and was hiding in the car trunk of the prison chaplain when the prison&#39;s guard dogs were set loose to search for the escapee. <BR>The dogs soon found Rader and literally ripped him apart. Prison officials said they have never seen anything like it. Prison K9 handler Larry Anderson said &#34;These dogs are trained to subdue the subject until a K9 officer has the subject cuffed and restrained but these dang dogs wouldn&#39;t let up. They just kept chompin&#39; away on the feller.&#34; <BR> Anderson said he was further stunned when apparently a couple of stray dogs from outside the prison snuck through the prison gate and joined in on the carnage. <BR>Most of Rader&#39;s remains will be buried in the prison cemetery. &#34;Were missing an arm and a foot&#34; Anderson explained. &#34;Looks like those stray dogs run off with a couple of pieces.&#34; <BR>Rader was 61.<!--/Text--></td></tr>
+<!--/Post: 12696-->
+<!--Post: 12697--><!--Time: 1112840015-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12697"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 06, 2005 - 7:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Johno...that was priceless, dude. <!--/Text--></td></tr>
+<!--/Post: 12697-->
+<!--Post: 12713--><!--Time: 1112889958-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12713"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 9:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A toothpick and some tartar-control Listerine please... <BR> <BR>LechterDog <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12713-->
+<!--Post: 12726--><!--Time: 1112932775-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12726"><font face="Verdana" size="1"><b><!--email--><a href="mailto:rwmm@swbell.net" target="_blank"><!--/email--><!--name-->Lilymarie<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Lilymarie<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 8:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A nice Chianti? <BR> <BR>Johno - that&#39;s some good stuff, man.<!--/Text--></td></tr>
+<!--/Post: 12726-->
+<!--Post: 12727--><!--Time: 1112932856-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12727"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 9:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think the following is in keeping with this particular thread. <BR> <BR>A secret of mine is that I&#39;m a radio geek - as in, I am now and will always be an inveterate listener to both FM and AM radio, both music and talk - I don&#39;t have XM Satellite Radio yet, but it sounds like my idea of heaven. I&#39;m serious here - it&#39;s not a casual fancy. I find it&#39;s in part due to the fact that my discernment of information is sometimes heightened when it&#39;s only passed along through my ears. I can do crazy crap like name the announcer on most commercials, as well as tell you who is doing the voice-overs for a majority of the cartoons being made now - God knows the credits usually go by too fast to find out that way.  <BR> <BR>Anyhoo, my favorite radio show overall is the <a href="http://www.philhendrieshow.com">Phil Hendrie Show</a>, which is syndicated out of LA. Phil is easily, to my ear, the most brilliant comic talk host on the radio now and probably for years to come. He isn&#39;t afraid to wax political; and when he does, he&#39;s that truly rare bird, a left-leaning kinda libertarian-ish guy - but the best thing about Phil&#39;s show is the &#34;guests&#34; and the callers.  <BR> <BR>I really don&#39;t want to spoil the fun, if you haven&#39;t ever heard the show, as to what&#39;s so great about it, so I&#39;ll just paste below an e-mail I just sent to Phil for kicks; <BR> <BR><i>Hey Phil - <BR> <BR>I&#39;m one of those internet freaks who researches and writes &#40;blogs&#41; about crime, and I&#39;m obviously, as a Backstage Pass member, a huge fan of your show. <BR> <BR>I point the two out to back up my next point; how come Jay Santos hasn&#39;t taken up the cause of Dennis Rader, the Park City KS Compliance Officer accused of being the BTK Strangler?  <BR> <BR>As Compliance Officer, Rader is said to have; <BR> <BR>- measured people&#39;s grass with a ruler to see if it was within code, citing them when it wasn&#39;t. <BR> <BR>- stuck his head in one woman&#39;s kitchen window to give her a citation for some sort of codes infraction <BR> <BR>- generally been a complete and total ass - anal-retentive, unpleasant, stalker-ish... <BR> <BR>- but he was also, as I&#39;m sure you know, a Scoutmaster, president of his church congregation, and by many accounts, a &#34;good father&#34; - though I have my doubts. <BR> <BR>To my mind, it sounds like Dennis would have made the ULTIMATE Citizen&#39;s Auxiliary Policeman. I&#39;d figure Jay might be curious about this and see if a potential brother-in-arms is being railroaded simply because he did his Compliance Officer job with the same kind of zeal it seems Jay has for his self-appointed duties as an Auxiliary Policeman. <BR> <BR>And you know, I&#39;m going to try and &#39;shop a pith helmet onto Rader&#39;s mugshot, because I think Denny the Deadly Dog Catcher from Park City would like mighty good in those C.A.P. togs.  <BR> <BR>Whatcha think? <BR> <BR>&#40;Because I know you get mail from people who still don&#39;t &#34;get it&#34;, yeah, I know Jay is...um...some frightening portion of your own tortured and brilliant mind.&#41; <BR> <BR>I knew I was a fan for life, man, when I heard Margaret Gray go off on a caller one night with the following words; &#34;You know what you look like to me, with your good bag and your cheap shoes? You look like a rube...&#34; <BR> <BR>That was beautiful, Phil.  <BR> <BR>Keep up the 14 karat entertainment Phil, you are hands-down the best thing on &#34;talk&#34; radio today.  <BR> <BR> <BR>Sincerely, <BR> <BR>Steve Huff <BR> <BR><a href="http://www.planethuff.com/darkside">www.planethuff.com/darkside</a> <BR> <BR>&#34;Discourtesy is unspeakably ugly to me.&#34; ~ Hannibal Lecter</i> <BR> <BR>Now, if you know the joke on Phil&#39;s show, and if you&#39;re familiar enough to know who Jay Santos is, you will immediately see the correlation between the Citizens Auxiliary Police and Park City Compliance Officer.  <BR> <BR>As a matter of fact, to those of you who have listened to Phil&#39;s show, have any of you ever noticed how much Jay Santos <i>sounds</i> like Rader? I&#39;m thinking of the KSN video of him from 2000, when they interviewed him about dogs getting after cattle. That same flat, slightly high-pitched, nasal intonation.  <BR> <BR>I did my best to not phrase the letter like I was sending the guy an idea; he&#39;s got those aplenty, and they can&#39;t use listener-submitted &#34;ideas&#34; anyway. <!--/Text--></td></tr>
+<!--/Post: 12727-->
+<!--Post: 12737--><!--Time: 1112968556-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12737"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 08, 2005 - 6:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve, I LOVE the Phil Hendrie show!!! I listen on my way to work sometimes. Dennis Rader is exactly what Jay Santos would look like!!! That comparison is too funny! Dennis Rader IS Santos! Let us know if you hear from him.<!--/Text--></td></tr>
+<!--/Post: 12737-->
+<!--Post: 12739--><!--Time: 1112972394-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12739"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 08, 2005 - 7:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lorenap; <BR> <BR>I must wax fanboy for a second and tell you that I DID get an e-mail back, and it was from Phil - since I&#39;m a paying member of his site, so I can listen to the show even if there is a sports event - local radio runs the Atlanta Braves, pre-empting Phil sometimes - the e-mail I wrote did go directly to Phil. The only thing cooler is receiving e-mail from Ann Rule and knowing she&#39;s read my blog. <BR> <BR>Turns out he&#39;s a true-crime afficionado himself, and he seemed a little floored by the news. Basically he said &#34;Jesus, I need to keep up with <i>that</i> story...&#34; <BR> <BR>That&#39;s all there is to tell at the moment, but it was pretty danged cool, if you ask me. I&#39;m glad another listener caught the comparison once I made it. Wouldn&#39;t Denny look good in the Citizens Auxiliary Police pith helmet? Where IS Major Elvis Newton when you need him?  <BR> <BR>Steve<!--/Text--></td></tr>
+<!--/Post: 12739-->
+<!--Post: 12760--><!--Time: 1113059234-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12760"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, April 09, 2005 - 8:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve and Lor, <BR> <BR>I hate to admit it.  <BR> <BR>Hendrie got me good the first time I heard him. <BR> <BR>Vic Prell – “Psychic to the Stars” was giving nonsensical readings over the airwaves to increasingly frustrated yet gullible callers. <BR>All the while “Vic” was hawking “star charts” to his listeners at ten dollars a pop. <BR> <BR>“HOW IN THE HELL DID THIS GUY GET ON THE RADIO!” <BR> <BR>Oh yes, I said that out loud, alone in my driver’s seat. <BR> <BR>It was a re-tooling of “Tele-Psychic”, one of Dan Akroyd’s brilliant bits from the golden age of SNL… <BR> <BR>And brother, I was fooled. <BR> <BR>I think that introduction to PH makes my occasional attendance to his program all the more enjoyable. <BR> <BR>He has reinvented and revitalized the once dying art of radio theater. <BR> <BR>Joe Frank <a href="http://www.joefrank.com/" target=_top>http://www.joefrank.com/</a>  <BR>Fresh Air withTerry Gross <BR>Ira Glass <BR>Selected Shorts <BR>Harry Shearers’s Le Show  <BR>The News From Lake Wobegon <BR> <BR>Before I discovered these wonderful dreamlands on the dial, I was jealous. <BR>Jealous of my parent’s wistful recollections of what radio signified in their youth. <BR> <BR>That rich pastiche of human emotion and imagination is still with us today… <BR>If you know where to look… and listen. <BR> <BR> <BR>NipperDog <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12760-->
+<!--Post: 12762--><!--Time: 1113060394-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12762"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, April 09, 2005 - 8:26 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lost; <BR> <BR>I first heard Bobbie and Steve Dooley talking with Phil about how the Western Estates Homeowners Assoc. had passed an ordinance that residents were allowed to only have satellite television, as the dishes provided for a cool futuristic look. <BR> <BR>I was furious, initially - what the HELL was wrong with these people? And Bobbie, with her bland pronouncements that just kept getting more and more ludicrous as she responded to each real caller. <BR> <BR>Finally my sense of reality testing was blown all to hell, and I realized - aw hell, it&#39;s a <i>show.</i> So I caught on fast, and have been hooked ever since.  <BR> <BR>In fact Phil inspired me, in a bizarre way. At ks.com in particular, as I used a new nic, I realized I was, a la Phil Hendrie, making up a unique and weird persona for each name. Larry Anderson - avuncular, hail-fellow-well-met, smart, insightful, funny - a_bracksis - a smartass, sarcastic, spoiling for a fight, eccentric - thundersaid - like &#34;Scroll&#34; from that board, if you read ks.com you know who I mean, they go by Squall now, only thundersaid dared to actually make sense. He was part beat poet, part oracle, part provocateur.  <BR> <BR>No one seemed to catch on that all three were one guy until I told them, whereupon I was greeted with reactions ranging from &#34;you&#39;re seriously disturbed&#34; to &#34;that&#39;s effin&#39; hilarious.&#34; <BR> <BR>Which is probably a lot like what Phil gets. Amazing to me, too, the vast fund of callers Phil always gets who just.don&#39;t.get. it. <BR> <BR>Now, I&#39;m hoping Jay Santos of the Citizens Auxiliary Police will jump on that &#34;Free Denny&#34; bandwagon and get his anal-retentive brother-in-arms sprung. I could see Jay saying something like, &#34;even if he did kill those people, they probably just weren&#39;t up to code.&#34; <BR> <BR>Demented and sad, but funny. Like my life. <BR> <BR>Steve<!--/Text--></td></tr>
+<!--/Post: 12762-->
+<!--Post: 12767--><!--Time: 1113075118-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12767"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, April 09, 2005 - 12:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve, <BR> <BR>From the moment I read your first Larry Anderson post, I imagined he looked like Herbert Anderson, the actor who played Dennis the Menace’s dad on the early 60s sitcom. <BR> <BR>Hmmmmmm… Dennis the Meni… DAMMIT! There was a clue there all along. <BR> <BR>Please, tell me you have listened to Joe Frank. <BR> <BR>LD <BR> <BR>. . . . . . . . . . . . . <BR> <BR>Right then, on to my crackpot theory. <BR> <BR>Dennis Rader will never forget the day he realized that only he could hear the dogs talk. <BR> <BR>“Dennis! Come quickly! Old man Caruthers has fallen into the well!” <BR> <BR>Dennis grabbed a flashlight from the shed and hurried after X-ray, his neighbor’s Shepard-Collie mix. <BR> <BR>“Lower the rope s-son! That’s a g-good boy,” cried the old man. “It’s c-c-cold.” <BR> <BR>X-ray was bounding about the boy, barking up a stringy froth.  <BR>“What are you waiting for Dennis!  <BR> <BR>DENNIS! You’re the only one here with thumbs! Do something!” <BR> <BR>The boy was motionless, transfixed.  <BR>He trembled as the flashlight tumbled down the shaft - - light bouncing off of stone and water and the old man’s eyes. <BR> <BR>Walking away Dennis ignored X-ray’s pleading. <BR>The last thing Caruthers heard was a plaintive howl vanishing in the distance. <BR> <BR>. . . . . . . . . . . . .   <BR> <BR>Tonight, a KAKE exclusive: <BR> <BR>“Acting on an exhumation warrant, Salina police today unearthed the Fifty-three year-old remains of the person purported to be the true biological mother of confessed BTK killer Dennis Lynn Rader. <BR> <BR>While security at the gravesite was tight, KAKE news has learned of a shocking discovery. <BR> <BR>You’ll hear about it tonight, only on KAKE. <BR> <BR>We join Jeanene Kiesling live in front of the Holy Sepulcher Cemetery, just outside of Salina, for this KAKE exclusive report. Jeanene?” <BR> <BR>“Thank you Susan. <BR> <BR>Susan, while authorities have refused to disclose a name, sources have confirmed that the remains exhumed this afternoon under the watchful eyes of the Salina P.D., Wichita police and the KBI… do not appear to be human. <BR> <BR>As you can see in this footage obtained by KAKE news, a forensics team appears to be examining the skeletal remains of a large breed of dog at the gravesite. <BR> <BR>With us is Dr. Henry Mitchell, a local veterinarian. <BR> <BR>Dr. Mitchell, can you describe for us what we are seeing here?” <BR> <BR>“Well, I’ll do my best. <BR>Although I haven’t seen the remains myself, the film appears to show a bone structure resembling that of a full-grown Doberman Pinscher… probably a bitch…” <BR> <BR>Queue the choir… and fade to black. <BR> <BR> <BR>DarkDog     <BR><!--/Text--></td></tr>
+<!--/Post: 12767-->
+<!--Post: 12770--><!--Time: 1113082355-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12770"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, April 09, 2005 - 2:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i>&#34;I imagined he looked like Herbert Anderson, the actor who played Dennis the Menace’s dad on the early 60s sitcom.&#34;</i> <BR> <BR>Then you pretty much nailed it, LD. Add some gray at the temples and a little potbelly, a shirt pocket never without pens, and you&#39;ve got Larry. He has the voice of one of our local traffic announcers here in ATL, Art &#34;Madman&#34; Mehring, too. Should be grating, but is actually friendly and interesting to listen to.  <BR> <BR>Mind you, I&#39;m a 6&#39;0&#34; redhead with thinning hair, a goatee, never tuck in my shirts unless I&#39;m in church and I wear contacts most of the time. In short, Larry looks nothing like me, in my mind or yours. <BR> <BR>a_bracksis looked a lot like Anton LaVey, and though when I shaved my head I was accused of looking like the former head of the Church of Satan myself, I still don&#39;t look like a_bracksis.  <BR> <BR>thundersaid was an entity that could not be seen, only sensed and felt. He did, however, have a thing for bagels. <!--/Text--></td></tr>
+<!--/Post: 12770-->
+<!--Post: 12774--><!--Time: 1113155710-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12774"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, April 10, 2005 - 10:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Larry Anderson® <BR> <BR>Dennis Lynn Rader named him. <BR> <BR>Lynn rAder ®oars <BR> <BR>Steve_huff became him. <BR> <BR>“Larry Anderson signing off, saying if this van&#39;s a rockin&#39;, it&#39;s just a problem with the suspension.” <BR> <BR>LostDog pictured him. <BR> <BR>&#34;I imagined he looked like Herbert Anderson, the actor who played Dennis the Menace’s dad on the early 60s sitcom.&#34; <BR> <BR>Huff concurred and refined the image. <BR> <BR>“… you pretty much nailed it, LD. Add some gray at the temples and a little potbelly, a shirt pocket never without pens, and you&#39;ve got Larry. He has the voice of one of our local traffic announcers here in ATL… Should be grating, but is actually friendly and interesting to listen to. <BR> <BR>Hmmm…. Dennis the Menace’s dad… graying hair… nerdier… dulcet broadcaster’s delivery… <BR> <BR>BINGO! <BR> <BR>See, Herbert Anderson… <a href="http://images.search.yahoo.com/search/images?p=%22herbert%2Banderson%22%2Bdennis&amp;ei=UTF-8&amp;fr=FP-tab-img-t&amp;fl=0&amp;x=wrt" target=_top>http://images.search.yahoo.com/search/images?p=%22 herbert&#43;anderson%22&#43;dennis&amp;ei=UTF-8&amp;fr=FP-tab-img- t&amp;fl=0&amp;x=wrt</a> <BR> <BR>Has always reminded me of my local TV weather guy, Fritz Coleman. <BR><a href="http://www.tvdance.com/fritzcoleman/" target=_top>http://www.tvdance.com/fritzcoleman/</a> <BR> <BR>Steve, I think this could be a DNA match. <BR> <BR>If you consider that Herbert Anderson and Fritz Colem… COLEMAN! <BR> <BR>DAMMIT!.. Another clue! <BR> <BR> <BR>LostTime <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12774-->
+<!--Post: 12777--><!--Time: 1113171209-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12777"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, April 10, 2005 - 3:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you for taking me back.....&#34;I give it a 10&#34;!<!--/Text--></td></tr>
+<!--/Post: 12777-->
+<!--Post: 12899--><!--Time: 1113630215-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12899"><font face="Verdana" size="1"><b><!--email--><a href="mailto:williammichael@direcway.com" target="_blank"><!--/email--><!--name-->Oklahoma_mike<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Oklahoma_mike<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 15, 2005 - 10:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have an answer to the most perplexing question of the past 6 weeks:  &#34;Where is TOM?&#34;  Surely not still chasing bigfoot.  And only ONE update in the news section since the arrest of dck!  What can this mean?  But one thing, my friends, but one thing: <BR>There is no Tom.  There never was a Tom.  The &#34;webmaster&#34; everyone either loves or hates is a mere product of the top level team of computer nerds pulled from the lists of the governments most secret anti-terrorist and anti-hacking teams and set up for the express purpose of clandestine information gathering on the state of serial crimes across the nation.  &#34;They&#34; created the fictional webmaster to lull all the cyber surfing detective wannabes into a feeling of comfortable comradeship.  But with the creation of this site, &#34;they&#34; turned thousands, nay, millions of ordinary citizens into their eyes and ears across the land. They started simply, but the daily hits grew, and with a series of secret focus groups posing as &#34;unrelated&#34; blogs they fine tuned their html pages to draw us ever more deeply into their compliance.   <BR>&#34;Wait&#34;. some may say, &#34;Tom was in Wichita, he has to exist&#34;.  To these I reply, &#34;Have you never read Heinlien&#39;s novel DOUBLE STAR nor seen Dustin Hoffman in WAG THE DOG?  Unemployed actors who are masters of disguise are always at the beck and call of the &#34;agency&#34; which shall remain nameless but has a zipcode in Langley, Virgi. . . <BR>Wait, this is starting to make too much sense, I&#39;m scaring myself. <BR>Attention!!!  I did not post this!  I was never here!  I&#39;m not Mike and there is no such place as Oklahoma!  <!--/Text--></td></tr>
+<!--/Post: 12899-->
+<!--Post: 12900--><!--Time: 1113631670-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12900"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 15, 2005 - 11:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hmmmm....very interesting. Now, a question to answer - the tall guy with glasses and dark hair in the photos; who be he? What kind of background did he have to have to go to Wichita and fake being this &#34;Tom&#34; person? <BR> <BR>I&#39;m smelling some kind of mercenary/black ops background. We&#39;ve got some kind of mystery on our hands here after all, non-Mike from the imaginary land of Oklahoma.  <BR> <BR>signed,  <BR> <BR>Larry Anderson. No, really, that&#39;s MY <i>real</i> name. There never was a &#34;Steve.&#34;  <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12900-->
+<!--Post: 12901--><!--Time: 1113632103-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12901"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 15, 2005 - 11:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Mike, he&#39;s over at his new website findtom.com.  <BR>It&#39;s got a bunch of letter grids, crossword puzzels, anagrams and codes on it that purportedly describes his whereabouts.  <BR>I cracked one of the codes and went up to Portland where I followed a trail of cereal boxes that just led me in circles. <!--/Text--></td></tr>
+<!--/Post: 12901-->
+<!--Post: 12903--><!--Time: 1113636914-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12903"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, April 16, 2005 - 12:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sorry boys, you&#39;re all wrong. It turns out that Tom is really Dennys&#39; twin brother, but just way off in age &amp; looks totally different. When Denny got arrested, Tom decided to go into hiding in order to help Dennys&#39; case behind the scenes. <BR> <BR>They were gonna give Rader 10 life sentences for a total of 1,000 years in prison. But with Toms&#39; secret help he&#39;ll probably get out in 600.<!--/Text--></td></tr>
+<!--/Post: 12903-->
+<!--Post: 12906--><!--Time: 1113662373-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12906"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, April 16, 2005 - 7:39 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I thought I saw a distinct lack of resemblance there. You know, that in and of itself may be significant!  <BR> <BR>Something evil afoot, akin to the same scientific experiment that resulted in Danny DeVito and Arnold Schwarzenegger being twins. Now we&#39;re ON to something, sleuths!<!--/Text--></td></tr>
+<!--/Post: 12906-->
+<!--Post: 12917--><!--Time: 1113724500-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12917"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, April 17, 2005 - 12:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->1966-Struggling poet Dennis Rader meets Alan Ginsberg just when Rader is about to give up his beat poetry and enlist in the Air force. Ginsberg introduces Rader to professor PJ Wyatt who encourges him to attend WSU. <BR>1967-Rader meets Truman Capote who likes his prose but sees a more promising actor. <BR>1971-Rader graduates from the WSU department of theater and wows local audiances at Wichita&#39;s Orpheum Theater in Jack London&#39;s &#34;Call of the Wild&#34;. <BR>1973-Rader lands a small role in Sam Peckinpah&#39;s movie &#34;Straw Dogs.&#34; <BR>1974-1979-Rader lands the role of George in the off-Broadway production of Edward Albee&#39;s &#34;Who&#39;s Afraid of Virginia Woolf?&#34; where it runs continusouly in a popular New York theater house for five years. <BR>1980&#39;s-Rader is never out of work and has some appearences on all the decades big TV shows like Newhart and ER and Dallas. <BR>1990-Jerry Sienfeld remembers Rader from his role as George in &#39;Virgina Woolf&#39; and recognized his comic genious from an episode of Newhart and retitles the character of Fred Costanza to George Costanza and casts Rader in the role in the long running TV series &#34;Sienfeld.&#34; Rader goes on to lend his voice to a popular animated television series called &#34;Dogman.&#34;   <BR>2005-Wichita, Kansas named the USA&#39;s most desirable city. <BR>1990 to present-a series of unsolved murders are occuring in Livingston, New Jersey where failed actor Jason Alexander is working back in his home town as a compliance officer.<!--/Text--></td></tr>
+<!--/Post: 12917-->
+<!--Post: 12931--><!--Time: 1113789714-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12931"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, April 17, 2005 - 7:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Johno, you are missing your calling as a writer of alternate histories. Funny alternate histories. That was, again, priceless, man. <BR> <BR>Reminds me of this guy I like to tell about who never knew his father. He took his stepfather&#39;s last name, growing up, and he excelled in school. Women were charmed by his blue eyes and gift of gab. He was a leader among his peers. In college he got interested in politics. He studied to be a lawyer, and was viewed as a real up-and-coming star on the political scene. Any successes he had were undermined by his woman problems, though. He was eventually tried on national TV for his sexual problems. <BR> <BR>Now, who did that describe? Ted Bundy or Bill Clinton? Or both? <BR> <BR><i>&#40;by the way, though I&#39;ll never be a registered democrat, I did vote for Clinton both terms and would do it again, for the record.&#41;</i><!--/Text--></td></tr>
+<!--/Post: 12931-->
+<!--Post: 12970--><!--Time: 1113886823-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12970"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 18, 2005 - 10:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hmmm, You are good, Huff.<!--/Text--></td></tr>
+<!--/Post: 12970-->
+<!--Post: 12974--><!--Time: 1113892240-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12974"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 18, 2005 - 11:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Huff-meister: As usual, you are indeed excellent. One MAJOR DIFFERENCE between Bundy &amp; Clinton, tho&#39;: Bundys&#39; mother DISOWNED him from when he was a child. That is, the whole time he was growing up, she never told him she was his mother. Instead, she told him she was his sister &#40;how cruel&#41;. He didn&#39;t find out she was his mother until he did some family research in college. It was shortly after this that he began his rage-filled killings of single females of around the same age as his mother was when she had Ted. <BR> <BR>It seems many infamous killers Also had mothers who either severely abused them or &#39;gave them away&#39;. Such as; SON OF SAM; HENRY LEE LUCAS; CHARLES PANZRAM, CHARLES MANSON, etc. Sounds like a pretty good All Star list so far...<!--/Text--></td></tr>
+<!--/Post: 12974-->
+<!--Post: 12975--><!--Time: 1113896115-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12975"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 19, 2005 - 12:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I know that Victor - there are lots of major differences. My point is just that it was interesting to tell the story in such a manner and see just how differently the lives of the two men - whose backgrounds actually were similar - turned out. I originally created this little thought-game when I was writing a blog entry about how whenever I read extensively about psychopaths, the writers always mention, along with serial killers, CEOs, lawyers, and politicians.  <BR> <BR>Then I started examining the behaviors of some politicians with stories about psychopaths in mind, general descriptions of psychopaths. Thrill-seeking behavior - psychopaths; conning, duping, stealing, assaulting, killing. Politicians; both John Kerry and George Bush into mountain biking, injured doing the same. Bush had a drinking problem too. For psychopaths, a lifelong pattern of failure when attempting big things...well, this could go on. My only point being to illustrate how muddy psychological waters can get. And to show how easy it could be for a country to one day elect a psychopathic leader - this country. We all think it won&#39;t happen, we&#39;re too smart and jaded, but believe me, it can happen.  <BR> <BR>Victor, I did know that about Ted, but how old was he, really? I remember he was a teen, and can&#39;t help but note that he took Johnnie Bundy&#39;s name. When did he do that? It seems to me he would have already known his mother was his mother, and not his sister at that point. I don&#39;t know for sure - lost my Bundy books a few years ago when a tornado hit the rental storage unit where they were being kept.<!--/Text--></td></tr>
+<!--/Post: 12975-->
+<!--Post: 12976--><!--Time: 1113896464-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12976"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 19, 2005 - 12:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oh, and let&#39;s not forget EDMUND KEMPER &#40;abused by mom &amp; sent to live with grandparents, who he murdered at 15&#41; &amp; ALBERT FISH &#40;sent off as a young boy to a severely abusive &#39;boys home&#39;&#41;. The list goes on &amp; on. I guess my &#34;abandoned &#40;or abused&#41; by their mother&#34; theory isn&#39;t really a crackpot theory, is it?? <BR> <BR>Something to look into.<!--/Text--></td></tr>
+<!--/Post: 12976-->
+<!--Post: 12977--><!--Time: 1113896971-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12977"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 19, 2005 - 12:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There&#39;s some weird ass mom connection, I&#39;m afraid. Every history I&#39;ve read of a serial shows some dysfunction with the mother. Ed Kemper stopped his killing after he killed his mom in a particularly hideous way, and then her best friend. He called the cops on himself, figured he&#39;d done what he needed to do and it was time to head to the pokey. Kemper is a unique SK in general. I&#39;ve always been chilled to think about his size - 6&#39;9&#34; and 300 lbs. He joked with John Douglas that he could twist his head off and put it on the table before the guards got to their interview room, and a measure of Kemper&#39;s size and ability to intimidate was the fact that Douglas was genuinely frightened by the experience, and I doubt that John Douglas scares easy.<!--/Text--></td></tr>
+<!--/Post: 12977-->
+<!--Post: 13005--><!--Time: 1113944317-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13005"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 19, 2005 - 1:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->We&#39;ve come full circle on this board. Serious discussion threads turned into crackpot theories and a thread dedicated to crackpot theories has turned into a serious discussion.<!--/Text--></td></tr>
+<!--/Post: 13005-->
+<!--Post: 13008--><!--Time: 1113947580-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13008"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 19, 2005 - 2:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ye - Ha!<!--/Text--></td></tr>
+<!--/Post: 13008-->
+<!--Post: 13318--><!--Time: 1114963158-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13318"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 01, 2005 - 8:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Or DTDC could plead a corruption of the 5th Ammendment like that ol&#39; Salem witch who was on trial. She answered, when asked, &#34;Did you kill that man using witchcraft?&#34;, <BR> <BR>&#34;I refuse to answer that question on the grounds that it may incinerate me!&#34;  wakka-wakka.<!--/Text--></td></tr>
+<!--/Post: 13318-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/764">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/764" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

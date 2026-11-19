@@ -1,0 +1,315 @@
+<html>
+<!--Topic: 76/BTK Media-->
+<!--Me: 760/Interview with former Rader employee-->
+<!--Level 1: 760/Interview with former Rader employee-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 76-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Interview with former Rader employee</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Interview with former Rader employee</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/76/76.html"><font color="#f7f7f7">BTK Media</font></a> &#187;
+Interview with former Rader employee
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=76&page=760"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=76&page=760"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 12559--><!--Time: 1112422558-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12559"><font face="Verdana" size="1"><b><!--email--><a href="mailto:kathiemoffett@yahoo.com" target="_blank"><!--/email--><!--name-->Dahlia<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Dahlia<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 01, 2005 - 10:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.ksn.com/news/stories/7356953.html" target=_top>http://www.ksn.com/news/stories/7356953.html</a> <BR> <BR>Interesting. I&#39;m looking forward to part 2, which I guess is where she&#39;ll get into the bit about his drugging her.<!--/Text--></td></tr>
+<!--/Post: 12559-->
+<!--Post: 12562--><!--Time: 1112425233-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12562"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 01, 2005 - 11:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->My question is...if she suspected Denny of poisoning her, how did she think he was doing it? Surely she wasn&#39;t drinking from the pot of coffee he made. Maybe he used a tranquilyzer gun.<!--/Text--></td></tr>
+<!--/Post: 12562-->
+<!--Post: 12563--><!--Time: 1112425727-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12563"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 01, 2005 - 11:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Another question...did it never occur to her, at least after March 2004, that someone who was controlling, the correct age, matched the general description, wore a brown uniform, apparently hated women, liked killing animals, surely wrote memos in &#34;that BTK way&#34; and that she had every reason in the world to think was some evil whacko might just possibly be BTK?<!--/Text--></td></tr>
+<!--/Post: 12563-->
+<!--Post: 12604--><!--Time: 1112546643-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12604"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, April 03, 2005 - 9:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Since the apparent mod of death often blinds police and medical examiners, it would be interesting to see if they ran a tox screen on the Oteros. I doubt it because of the sophistication of equipment and lack of knowledge as to what to look for. Since many vet medications were available then, Jerkface may have used a &#39;hot shot&#39; to subdue the adult Oteros at least. That would explain his ability to gain control over 4 people trained in the martial arts. Did the ME search for puncture marks? It would be helpful to have the autopsy reports made public. With olive skinned persons, the needle sites would not be as readily visible. And I do not believe that Joe and Julie died without a fight for their lives and the lives of their children.  <BR> <BR>The State of Kansas needs to go over every homicide they have with a superfine toothed comb and put this piece of sh&#42;&#42; to death. I do believe that would be an easier resolution for his family than keeping him alive for the rest of his life. If Kansas prisons are anything like those in Texas, he won&#39;t survive very long in the general population. Child killers do not fare well amongst the other prisoners. And he will kill again if he is released through some loophole. Never say never or always.<!--/Text--></td></tr>
+<!--/Post: 12604-->
+<!--Post: 12618--><!--Time: 1112586264-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12618"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, April 03, 2005 - 8:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Beattie&#39;s book has a &#34;version&#34; of the autopsies performed on the Oteros &#40;I don&#39;t know how comprehensive they are&#41;. It does say that they could find traces of alcohol in Joe SR.&#39;s blood and mentioned negetive results for barbituates and some other drugs, but it doesn&#39;t mention if they were tested for doggie downers.<!--/Text--></td></tr>
+<!--/Post: 12618-->
+<!--Post: 12638--><!--Time: 1112652137-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12638"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 04, 2005 - 3:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Teardrop, <BR> <BR>It never would matter if Rader killed kids or not. His high profile status makes him a target for many prison executioners looking for notoriety and to &#34;go down in history.&#34;  <BR> <BR>Unlike Dahmer&#39;s murderer who has gotten little publicity, imo the guy that shanks Rader will be a hero.  .  .  <!--/Text--></td></tr>
+<!--/Post: 12638-->
+<!--Post: 12639--><!--Time: 1112654154-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12639"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Foxfire<!--/name--></b></a><br>Username: <!--field:uname-->Foxfire<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 04, 2005 - 3:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Now remember that Dennis did not work as a compliance officer/dog catcher back when the Oteros were murdered.  In fact it doesn&#39;t look like he had a job at all during that time.  He&#39;d been laid off from Coleman&#39;s a few months earlier and he had not yet begun working for ADT.  I think that was not until November of 1974.<!--/Text--></td></tr>
+<!--/Post: 12639-->
+<!--Post: 12644--><!--Time: 1112664015-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12644"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 04, 2005 - 6:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There appears to be many gaps in the employment history of Dennis Rader. <BR>He returns to Wichita sometime in 1970 but isn&#39;t employed at Leeker&#39;s IGA until 1971. He dosn&#39;t start work at Coleman until June of 1972 so there may have been some unemployment between the IGA and Colemans. After leaving Colemans in July of 1973 he appaers to unemployed until November of 1974. He now works his longest continuous job at ADT from November 1974 until July of 1988. 14 years. He then seems to be unemployed again from July 1988 until January 1990 when he becomes Census supervisor for the Wichita area. Then comes another unemployment gap from January 1991 to May of 1991 when he begans his next nearly 14 years of continuous employment as a Park city Compliance Officer.  <BR>I know he was also going to college in the 1970&#39;s but he was married with kids so he still had to work. The unemployment gaps are frequent and sometimes lengthy.  <BR>I wonder if he may have worked spot jobs for &#39;under the table&#39; cash like many people did and do. He may have had a history as a steady worker who when not having a steady job and going to school and collecting unemployment is out looking for a series of under-the-table-pay-part-time jobs. This could explain odd hours away from home that didn&#39;t draw suspicion from his wife and family members. It could also explain the word Handyman in one of his communication codes.<!--/Text--></td></tr>
+<!--/Post: 12644-->
+<!--Post: 12646--><!--Time: 1112674156-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12646"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Foxfire<!--/name--></b></a><br>Username: <!--field:uname-->Foxfire<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 04, 2005 - 9:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good thinking, Johno.<!--/Text--></td></tr>
+<!--/Post: 12646-->
+<!--Post: 12661--><!--Time: 1112710278-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12661"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 05, 2005 - 7:11 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Couple of notes, Marnie and a few others were killed during Rader&#39;s &#34;off Work&#34; dates, Since Dee and Marnie both ate in the same Restaurant right before they died, possible Rader worked there. Also other vics. found on the same area to Park City, he wa going to night school and in bars/strip clubs...Also if he wanted to hurt this woman he could used any OTC or street drug or drug perscribed to him etc. She need to have her hair tested to see what, if any narcotic was used.<!--/Text--></td></tr>
+<!--/Post: 12661-->
+<!--Post: 12662--><!--Time: 1112710584-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12662"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 05, 2005 - 7:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Johno, its my bet that during one of his lapses from employment, he was working with his plumber brother. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12662-->
+<!--Post: 12678--><!--Time: 1112750118-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12678"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tulip<!--/name--></b></a><br>Username: <!--field:uname-->Tulip<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 05, 2005 - 6:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here&#39;s a link to part 2 of this story:  <a href="http://www.ksn.com/news/stories/7393064.html" target=_top>http://www.ksn.com/news/stories/7393064.html</a><!--/Text--></td></tr>
+<!--/Post: 12678-->
+<!--Post: 12694--><!--Time: 1112832623-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12694"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 06, 2005 - 5:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->She never does say HOW Rader managed to administer the &#34;poison&#34;.<!--/Text--></td></tr>
+<!--/Post: 12694-->
+<!--Post: 12702--><!--Time: 1112875610-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12702"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 5:06 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe he pee-ed in her coffee?<!--/Text--></td></tr>
+<!--/Post: 12702-->
+<!--Post: 12703--><!--Time: 1112877147-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12703"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 5:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That was a waste of ink. &#40;cyber ink i guess&#41;<!--/Text--></td></tr>
+<!--/Post: 12703-->
+<!--Post: 12710--><!--Time: 1112887369-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12710"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 8:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t know...I found her unconvincing, and wondered if there wasn&#39;t some drama queeniness going on. Which is not to say that Rader wasn&#39;t likely just as big an ass as she said - I&#39;m certain she was telling the truth there.  <BR> <BR>But poisoning someone is far, far too subtle for him. He was a &#34;classic&#34; serial killer in that the closest he came to pooping where he ate - killing in a zone that could cast suspicion on him - was Marine Hedge, who lived on 6254 Independence, whereas he lived on 6220. I&#39;m sure he was hateful and she may have room for a lawsuit against Park City just for having to put up with him and for their grievance policies, which sound ridiculous, &#40;you have to submit the grievance to the person you have it against? That&#39;s nuts&#41;, but I think the &#34;tranquilizer&#34; thing is part of a certain amount of hypochondria and attention seeking. The stories of captured serial killers are full of people around them who see an opportunity for some desperately needed attention.<!--/Text--></td></tr>
+<!--/Post: 12710-->
+<!--Post: 12712--><!--Time: 1112888154-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12712"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sidewalker<!--/name--></b></a><br>Username: <!--field:uname-->Sidewalker<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 8:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I was reading an article in the Eagle, that I had not read before. Its regarding how folks viewed Rader, their experiences&#40;Good ones and bad ones&#41; <BR>One woman&#39;s experience is just scary as hell. <BR>Here is a link to the article in case you have not read it either. The woman&#39;s name is Misty King. <BR><a href="http://www.kansas.com/mld/kansas/news/special_packages/btk/11062626.htm" target=_top>http://www.kansas.com/mld/kansas/news/special_pack ages/btk/11062626.htm</a> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12712-->
+<!--Post: 12720--><!--Time: 1112927107-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12720"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 7:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think that city officials should severely be taken to task. One does not dismiss consistent conplaints about an employee from so many different people. It would be different if there was one crackpot continually complaining. I think that they were negligent in their official duties to the point of loss of property and life. What a red flag they had and they chose to ignore it. I wonder what else they have swept under their rug.<!--/Text--></td></tr>
+<!--/Post: 12720-->
+<!--Post: 12728--><!--Time: 1112937556-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12728"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 10:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Teardrop, my theory on this: <BR> <BR>Either they were ascared of ol denny, <BR> <BR>or they had the gut feeling if they fired him <BR>he might do something &#34;bad&#34; <BR> <BR>But seriously, if they had fired him, I think we all know he would have gone back to his old <BR>hobby, so this is a blessing in disguise.<!--/Text--></td></tr>
+<!--/Post: 12728-->
+<!--Post: 12742--><!--Time: 1112981129-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12742"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 08, 2005 - 10:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I spoke with my microbiologist/medical lab resource. The substance that is used to paralyze animals is curare: what pygmies put on the end of their darts to stop their prey. It is used in surgeries today to control muscle spasms, etc. It was obtained from the skins of frogs. I should have asked him about oral ingestion. I asked about exhuming someone who had been buried for 30 years. He said that the substance would have to be in significantly large quantities to be id&#39;d after that amount of time. Some things get by the stomach acids and some don&#39;t. Anything mixed with DMSO will go right into the bloodstream. He probably laced her coffee cup/glass with something. Small doses of fungicide, insecticide, herbicide, etc., would make someone sick. Did he go into the ladies&#39; room and taint the toilet paper? Sodium morphate on a toilet seat will untraceably kill, making it appear that one died while having a BM. Rattlesnake venom can be consumed orally with no untoward effects, but mix it with DMSO, apply to the skin, and watch what happens. &#40;I have grilled physicians for years as I read about different deaths.&#41; Hopefully, the police itemized everything that they found in his truck and shed and home, including chemicals. One would get an odd grouping of symptoms when ingesting ag substances. What about animal worming meds, etc.? One woman slowly poisoned her husband with something that was used for aquarium maintenance. One of my physician&#39;s stated that one of his patients was poisoned by her husband. It was a slow process. They knew what he was doing. He spent long amounts of time in the jungles of South America with the natives. The doctor stated that even if they knew what substance was being used, the issue would be developing a blood test to identify it.  She died.  <BR> <BR>I read on another BTK site that it was thought that all blood types degraded to Type O after 24 hours. My source said that is patently not true. A leopard does not change its spots. Both sexes can be secreters and nonsecreters. Well, that is it for now.....<!--/Text--></td></tr>
+<!--/Post: 12742-->
+<!--Post: 12745--><!--Time: 1112982146-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12745"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 08, 2005 - 10:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey guys - I thought she had already filed a civil lawsuit against him and the city. It would be in the US District Court. I also read, that she had already filed the complaint with the EEOC and they had issued her a right to sue.<!--/Text--></td></tr>
+<!--/Post: 12745-->
+<!--Post: 12780--><!--Time: 1113186041-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12780"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, April 10, 2005 - 7:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t agree with you Steve:I found her unconvincing, and wondered if there wasn&#39;t some drama queeniness going on.  <BR> <BR>Most attorney&#39;s, when weighing this type of potential new client/case &#40;ie. employment law&#41;, will go to great lengths to substantiate allegations before they will instruct and or advise to file an EEOC claim. If the rule is still the same in Kansas, her attorney will not be able to assist her at any hearing the EEOC may have to investigate her allegations. At this point she is on her own. <BR> <BR>And if she was a lil queeny, she wouldn&#39;t have much of a claim anyway. No, there&#39;s no doubt that Rader was a walking prick of a boss, but why did she tolerate it for 6 years? <BR> <BR>If my recall is correct, the Capps family were involved in law enforcment at sometime. If it&#39;s not her exhusband, it could be her brotherinlaw but one of them served on the Park City Police force and ultimately as the Polic Chief.<!--/Text--></td></tr>
+<!--/Post: 12780-->
+<!--Post: 12787--><!--Time: 1113222781-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12787"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tulip<!--/name--></b></a><br>Username: <!--field:uname-->Tulip<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 11, 2005 - 5:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky, <BR> <BR>I don&#39;t know if this is true or not, but on the kansas.com message board, a poster claims that both her &#40;Mary Capps&#41; brother and her father were on the Park City police force.  In fact, it claims that her father would have been chief of plice at the time she was hired.<!--/Text--></td></tr>
+<!--/Post: 12787-->
+<!--Post: 12808--><!--Time: 1113281109-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12808"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 11, 2005 - 9:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Women tolerate things for years and years. They allow a pile of crap to accumulate before something rises up inside them and says &#39;this is enough&#39;. Perhaps she thought that things would get better. Since she saw 2 sides to him, perhaps she thought that the good side would eventually come forth. Their complaint system was ridiculous to begin with. Perhaps she wanted to make it on her own, and ride out the storm, so to speak. Women are bad about giving someone the benefit of  the doubt, thinking that they must be misinterpreting the situation or blaming themselves. Female psychology. I am guilty of it. A woman will wait till hell freezes over before taking action on something. Then the dam bursts, and years of stuff comes pouring forth. It could be that they don&#39;t want to be labeled a complainer, or they think that they will not be taken seriously. That is why women &#39;snap&#39; and seem to over react to a situation, when in fact thay are reacting to years and years of crap. Why did she just keep stabbing? Why did she keep driving over the creep? The straw that broke the camel&#39;s back.<!--/Text--></td></tr>
+<!--/Post: 12808-->
+<!--Post: 12817--><!--Time: 1113290498-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12817"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 12, 2005 - 12:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I still think that Denny did about everything short of hanging a sign around his neck saying &#34; I AM THE ONE AND ONLY BTK...ARREST ME!&#34; <BR> <BR>Sure there were some people who thought he was the salt of the earth. They seem to be a little suspicious too. Park City may be &#34;almost in Wichita&#34;, but it still seems to have a small town mentality, meaning that everyone knew what everyone was up to &#40;just read the Ark Valley News police report&#41;. <BR> <BR>There is no way that Rader was able to be a Boy Scout, a Party Boy, a Philanderer, a Good Husband And Father, a Fascist, a Choir Boy and a Serial Killer, all at the same time, in a town that size, and no one was the wiser.<!--/Text--></td></tr>
+<!--/Post: 12817-->
+<!--Post: 12819--><!--Time: 1113291243-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12819"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 12, 2005 - 12:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here&#39;s an interesting tidbit that makes me pause to re-evalutate the apparent &#34;woo-woo&#34; factor on this lady. <BR> <BR>I was just reminded by this Bookworm post &#40;<a href="http://www.catchbtk.com/discus/messages/8/14.html#POST12790" target=_top>http://www.catchbtk.com/discus/messages/8/14.html# POST12790</a>&#41; over in Possible Victims about a drug called succinylcholine &#40;often as the chloride salt&#41;, which was apparently used by some murderer to poison some folks. <BR> <BR>It caught my eye when I recalled that &#40;in the days of my youth&#41; this drug was routinely used to euthanize dogs and cats.  Interestingly, this same drug is apparently now considered to be inhumane, along with quite a few other old-timey methods &#40;see: <a href="http://www.nmanimalcontrol.com/euthanasia/HEPP/FAQ.html" target=_top>http://www.nmanimalcontrol.com/euthanasia/HEPP/FAQ .html</a>&#41;.   I suspect that the paralytic aspects and side-effect spectrum are thought to make it inferior.  A quick Google yields a plethora of nasty side-effects that match the kind of diffuse symptoms common among malingerers and hypochondriacs.  I guess it wouldn&#39;t surprise me if Denny was aware of this, and had squirreled some away for his own private pleasure.  The idea that he would take delight in tormenting a female complaint-lodger with it isn&#39;t terribly far-fetched.  True, he&#39;s not a poisoner, and I doubt he would want to kill somebody with it &#40;tox is just too obvious and too easy to get caught&#41;.  It&#39;s also an i.v. drug - I don&#39;t even know if it has any oral activity.  But if it does.... <BR> <BR>BTK &#34;Master&#34;-Card.... <BR> <BR>Old bottle of succinylcholine chloride: $24.95 <BR>Plastic syringe: $1.99 <BR>Office coffee: don&#39;t ask <BR>&#34;Look, Mary!  It&#39;s the Goodyear Blimp!&#34;: free <BR> <BR>Watching a superior female underling with real cop connections suffer: priceless to BTK. <BR> <BR>Ironically, BTK could have noticed this drug mentioned while he was ego-surfing - check out this link on Genene Jones at crimelibrary! - <a href="http://www.crimelibrary.com/notorious_murders/angels/genene_jones/6.html?sect=9" target=_top>http://www.crimelibrary.com/notorious_murders/ange ls/genene_jones/6.html?sect=9</a> <BR> <BR>Of course, there are some inconsistencies.  The drug is normally given i.v., or i.m. at worst, and I can&#39;t find any oral data for the life of me.  While it might be devoid of activity orally, it could also be sufficiently active to have some effects, but sufficiently diminished to avoid the kinds of serious problems that would have landed Denny in jail much earlier.  Interesting to speculate.<!--/Text--></td></tr>
+<!--/Post: 12819-->
+<!--Post: 12823--><!--Time: 1113317025-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12823"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 12, 2005 - 7:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tulip - I talked to my Dad and he confirmed what I thought with regards to her family being involved in law enforcement. Now, I&#39;m wondering why she didn&#39;t use the fact that she had LE as family as leverage with Rader. It could be that her family being involved with LE, was Rader&#39;s motivation. In fact as resentful as this prick was, I&#39;d put money on that. <BR> <BR>Teardrop - Your right! Unforunately, many of us do tolerate a lot of crap from male co-workers and bosses. I quess since I work in a firm that brings sexual harassment cases, wrongful termination etc. I figured out a long time ago, I don&#39;t have to tolerate that type of crap because there are laws that protect me from that abuse. I&#39;d just wish that there were more women like Ms. Capps that had the back bone to bring complaints like that against municipalities and hold them responsible for employing such fat boys. <BR> <BR>On a more sorrowful note, I think it was Ms. Capps newphew or son that committed suicide sometime ago. It was devastating to the whole commnuity.  <BR> <BR>Your right BModule - it is a small community I don&#39;t know how LE could have missed DTDC either. His behavior  in the work place certainly should have sent signals to someone with half a brain.<!--/Text--></td></tr>
+<!--/Post: 12823-->
+<!--Post: 12825--><!--Time: 1113325184-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12825"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 12, 2005 - 9:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;On a more sorrowful note, I think it was Ms. Capps newphew or son that committed suicide sometime ago. It was devastating to the whole commnuity.&#34; <BR> <BR>Any deaths of people connected to rader in any way, especially one connected to a person rader had a grudge against, should be looked at. <BR> <BR>&#40;just my opionion&#41; I think dogface wanted to try everything. from strangling, shooting, stabbing,breaking and entering, using fake id&#39;s to get in....to fake suicides, framing others, drowning, starting fires... <BR><!--/Text--></td></tr>
+<!--/Post: 12825-->
+<!--Post: 12833--><!--Time: 1113352314-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12833"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 12, 2005 - 5:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oh BTW - The mayor was not re-elected this term. Maybe, the new mayor &#40;Female&#41; will do something to enforce the sexual harassment policies, and give everyone trying to fill DTDC&#39;s job a psych exam!  <BR> <BR>Itty - your right! You really can&#39;t exclude any possibilty with dogface. I don&#39;t remember all of the circumstances around the suicide, but I know people speculated that because his Dad was Chief of Police he lived with all the added pressures from his Dad&#39;s position. I&#39;m reminded of him everytime I go to see my mom because he is buried close to her.<!--/Text--></td></tr>
+<!--/Post: 12833-->
+<!--Post: 12839--><!--Time: 1113365437-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12839"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tulip<!--/name--></b></a><br>Username: <!--field:uname-->Tulip<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 12, 2005 - 9:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky, <BR> <BR>I agree with you that Capps family connection to LE may have been his motivation. He loved to toy with the police.  What better way than to harrass the daughter/sister of a police officer.  <!--/Text--></td></tr>
+<!--/Post: 12839-->
+<!--Post: 13465--><!--Time: 1115345296-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13465"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 05, 2005 - 7:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Did anybody else watch Ms. Capps interview on Fox News last night? Wow, the crap the devil subjected her to! Ms. Capps mentioned that every time there was going to be local news coverage on BTK he was excited to call it a day and leave work at 5:00 p.m. And the only time he was in a good mood was when he was talking about BTK or a family member. She said otherwise she would have to sneak out the front door. She also said that the devil told her that he never ever made mistakes. And when she called him on making the same mistakes that she did, she would have hell to pay for it. That&#39;s probably why he started poisoning her. I hope she gets her justice too!<!--/Text--></td></tr>
+<!--/Post: 13465-->
+<!--Post: 13466--><!--Time: 1115346046-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13466"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 05, 2005 - 7:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If he is not clinically insane but the defense tries to show that he is rendered temporily menatally incapcitated, disabled, impaired, incapable or defective by being under the influence of an alternative personality while commiting or communicating the acts of a serial killer then her testamony of him being excited about talking about BTK and leaving work to watch BTK coverage on TV kind of puts a whole in that approach.<!--/Text--></td></tr>
+<!--/Post: 13466-->
+<!--Post: 13493--><!--Time: 1115395470-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13493"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 06, 2005 - 9:04 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Johno - I wish I would have seen that.  If this women gets her justice...hopefully she will be called as a witness for the prosecution and then it will be a definite hole in the insanity wannabe approach. <BR><!--/Text--></td></tr>
+<!--/Post: 13493-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="76/760">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=76/760" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

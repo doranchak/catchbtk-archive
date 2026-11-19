@@ -1,0 +1,1 @@
+window.CBTK={"page":"nancyfox.html","title":"Nancy Fox","archive":"../index.html","versions":[{"t":"20041124132746","e":"20041124132746","n":1,"f":"history/nancyfox~20041124132746.html","a":0,"d":0,"sa":[],"sd":[]}]};

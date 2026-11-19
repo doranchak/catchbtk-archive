@@ -1,0 +1,283 @@
+<html>
+<!--Topic: 59/Messages To/From BTK-->
+<!--Me: 208/Messages to BTK, Part 2-->
+<!--Level 1: 208/Messages to BTK, Part 2-->
+<!--Properties: icon=tree_r;emot=-->
+<!--Param: MessagesAdd-->
+<!--Parent: 59-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Messages to BTK, Part 2</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Messages to BTK, Part 2</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/59/59.html"><font color="#f7f7f7">Messages To/From BTK</font></a> &#187;
+Messages to BTK, Part 2
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=59&page=208"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=59&page=208"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 1996--><!--Time: 1103240240-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1996"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 3:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.catchbtk.com/discus/messages/59/128.html?1103239071"> <b>The previous thread</b></a> was getting quite large. Please post all messages to BTK here.<!--/Text--></td></tr>
+<!--/Post: 1996-->
+<!--Post: 2001--><!--Time: 1103241165-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2001"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->TedCamman<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 3:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bill, <BR>9 2 go. <BR>Getting closer isnt it. <BR>I thought you might leave your Little secrets in the house. <BR>Isnt it safer that way. <BR>Anyone might have taken it. <BR>Right in the park where people sit. <BR>Nice stone on it. <BR>Black as your heart. <BR>Your like a cat. <BR>Marking your territory. <BR>Giving the clue behind the clue. <BR>You going to get her? <BR>Or are you just not up to it. <BR>Story of your life. <BR>Brings me to the big one <BR>You going to shoot yourself in the head or are you going to hang yourself? <BR>Hands behind back, <BR>Your books and your photos scattered to your South<!--/Text--></td></tr>
+<!--/Post: 2001-->
+<!--Post: 2003--><!--Time: 1103241720-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2003"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->MASON<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 4:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bill, Merry Christmas in advance.   <BR> <BR>9 more days and counting.   <BR> <BR>They&#39;re waiting for you on the other side....<!--/Text--></td></tr>
+<!--/Post: 2003-->
+<!--Post: 2008--><!--Time: 1103244019-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2008"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pilot<!--/name--></b></a><br>Username: <!--field:uname-->Pilot<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 4:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->His left or His right... <BR> <BR>Where will you be? <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 2008-->
+<!--Post: 2018--><!--Time: 1103251192-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2018"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->C<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 6:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think I get this... <BR> <BR>5A4B43 4B3530 70686F 746F42 544B <BR> <BR>Is simple ASCII hex for: <BR> <BR>ZKC K50 photo BTK <BR> <BR>This leads to International Civil Aviation Organization Codes for Kansas: <BR> <BR>&#60;<a href="https://www.notams.jcs.mil/common/icao/usks.html" target=_top>https://www.notams.jcs.mil/common/icao/usks.html</a>&#62; <BR> <BR>The ZKC is  KANSAS CITY &#40;ARTCC&#41;,KS. Which is in OLathe KS. <BR> <BR>The K50 is COOK AIRFIELD INC. In Derby which is 2 minutes out of Wichita proper. <BR> <BR>Are there photos stashed at these locations? <BR> <BR>- C<!--/Text--></td></tr>
+<!--/Post: 2018-->
+<!--Post: 2021--><!--Time: 1103252122-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2021"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->C<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 6:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->if you have trouble with the URL above type: <BR> <BR>K50 ZKC - no quotes into google...<!--/Text--></td></tr>
+<!--/Post: 2021-->
+<!--Post: 2024--><!--Time: 1103255060-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2024"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->New Poster<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 7:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Cook Airfield is where Otero worked...before he was killed<!--/Text--></td></tr>
+<!--/Post: 2024-->
+<!--Post: 2025--><!--Time: 1103256640-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2025"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wade<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 8:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->He flew that route... <BR>KC to Cook airfield...... <BR>Now someone put it together...geeshhh <BR> <BR>had to log flight plans.....someone in aviation get this!!!!!!!!!!!!!!!!<!--/Text--></td></tr>
+<!--/Post: 2025-->
+<!--Post: 2026--><!--Time: 1103256684-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2026"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wade<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 8:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->only certain people could fly that route.....alot of people but only certain ones....not everyone!!!!!!<!--/Text--></td></tr>
+<!--/Post: 2026-->
+<!--Post: 2027--><!--Time: 1103256880-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2027"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brian<!--/name--></b></a><br>Username: <!--field:uname-->Brian<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 8:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wasn&#39;t that route restricted to Military?<!--/Text--></td></tr>
+<!--/Post: 2027-->
+<!--Post: 2029--><!--Time: 1103257150-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2029"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorena P.<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 8:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->btk I told you we would pay attention to you. Those smarter than me are figuring out your code. Keep giving us information. we will listen. <!--/Text--></td></tr>
+<!--/Post: 2029-->
+<!--Post: 2031--><!--Time: 1103258229-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2031"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sedan Delivery<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 8:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->its codes and games are all a farce.  if it wanted to be known the person through whom it acts, it would turn hitself in to authorities. <BR>the grusome ugly one lavishes in watching you play along with this game, you are feeding it, and it is thankful to you for sucking your mental energies on these academic exercises.  the btk spirit murders little children -- this is not a game.  shatannah.  do not entertain and play along with this -- you will never find out the identiy of the weak coward through which hE acts.  go back to your lives and families who need your time and devotion and don&#39;t spend another minute trying to read logic into the acts of the ill jackal dog chewing on rotten cud, but rest assured and trust that the Almighty has reserved an appropriate medicine for those exhibiting the unrepented acts of the cowardly child murderer with the most powerful punishment beyond your imagination which awaits for him, in eternity --- i.e., all of the pain he inflicted on others, multiplied back at himself many times over, whilst we may take notice but for a minute, and then ourselves dispense his worthless ash out of memory of the Book of Life.  forget him.  he is forever gone.  Enough spirits are aligned against him now -- he is insignificant relative to other more important matters in the world upon which our energies ought be focused.  thanks.<!--/Text--></td></tr>
+<!--/Post: 2031-->
+<!--Post: 2036--><!--Time: 1103262056-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2036"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Berkeley Street<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 9:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTk <BR>Are you and your other personalities saying that you appear to be a woman and/or trans gender, and that is why they want reconize you in the photo at cook air field. Did Mr. Otero while you were flying with him discover your secret? That being the reason he might have been acting strange. And were you adopted maybe by a well to do family? Does your next victim live on Lewis and is her name Elizabeth? Were you a pilot in the military? Is your picture at cook air field in a group photo or a single?  <BR>Was PJ Wyatt your lesbian lover? And does toespointedinwardsecondwasopenan1&#34; Does 1&#34; in your symbol mean i inch? Is this why you were never noticed when you were dropping packages off because you were dressed as a woman? <BR>Do you have multiple personalities and are those male and female personalities posting to you ? Is Biographer writing your story on these post? How many of these post are your other personalities? Do you have a foot fetish? &#40;thus, toespointedinward1&#34; etc.&#41; Did you rob the sperm bank? And finally were you looking in my window one night on Berkeley Street near Ida?<!--/Text--></td></tr>
+<!--/Post: 2036-->
+<!--Post: 2038--><!--Time: 1103262291-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2038"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->tld<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 9:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->i think you are going to be found out soon. someone is reading all the info on you and suspects you they will tell. KNOWONE GOES THROUGH LIFE ALONE<!--/Text--></td></tr>
+<!--/Post: 2038-->
+<!--Post: 2039--><!--Time: 1103262741-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2039"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->tld<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 9:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->by the way arent you bored yet with just reading all this stuff on the net. a nice long ride to mail your letters would be nice. hear its pretty there this time of year.<!--/Text--></td></tr>
+<!--/Post: 2039-->
+<!--Post: 2051--><!--Time: 1103266225-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2051"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Berkeley Street<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 10:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You have posted many things under your other personalities, would the real BTK stand up and make a commint wheather we are right or wrong? <BR>It would help put some more pieces to the puzzle for us all.<!--/Text--></td></tr>
+<!--/Post: 2051-->
+<!--Post: 2053--><!--Time: 1103267130-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2053"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 11:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey BLT: Here&#39;s a poem for you. &#40;It&#39;s from that gruesome 70&#39;s horror movie, &#34;Tales From The Crypt&#34;&#41;; <BR> <BR>  &#34;Some people live in the county, <BR>And some people live in the town; <BR> <BR>  Why don&#39;t you do us ALL a Favor, <BR>And jump in the River &amp; drown?&#34;<!--/Text--></td></tr>
+<!--/Post: 2053-->
+<!--Post: 2054--><!--Time: 1103268217-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2054"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Berkeley Street<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 11:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Btk it is late, we are still waiting on you to answer some of the questions. Have you gone for the night??<!--/Text--></td></tr>
+<!--/Post: 2054-->
+<!--Post: 2055--><!--Time: 1103268970-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2055"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Berkeley Street<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 11:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I shall continue then, That is why you answered &#34;that is correct&#34;. That is the way were are trained to talk when you are on the &#34;Radio&#34; <BR>Be as precise and short as you can and still be acurate. Leaving no room for misunderstandings. With a career like that you must be precise!! It is almost like you speak perfect English. &#34;Is that correct&#34;?<!--/Text--></td></tr>
+<!--/Post: 2055-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="59/208">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Post:</b>
+</font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Username:</b>
+</font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a public posting area.  Enter your username and password if you have an account. Otherwise, enter your full name as your username and leave the password blank.  Your e-mail address is optional.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Password:</b>
+</font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>E-mail:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><input type="text" name="email" value="" size=51></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Action:</b>
+</font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=59/208" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

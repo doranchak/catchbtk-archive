@@ -1,0 +1,1 @@
+window.CBTK={"page":"27.html","title":"catch BTK .com -- DENNIS RADER","archive":"../index.html","versions":[{"t":"20050706045542","e":"20050706045542","n":1,"f":"history/27~20050706045542.html","a":0,"d":0,"sa":[],"sd":[]},{"t":"20061105052943","e":"20061105052943","n":1,"f":"history/27~20061105052943.html","a":0,"d":0,"sa":[],"sd":[]}]};

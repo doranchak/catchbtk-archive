@@ -1,0 +1,352 @@
+<html>
+<!--Topic: 10/BTK Communications-->
+<!--Me: 704/Symbol-->
+<!--Level 1: 704/Symbol-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Symbol</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Symbol</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Communications</font></a> &#187;
+Symbol
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=704"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=704"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 11224--><!--Time: 1110508677-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11224"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 6:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here it is: <BR><a href="http://www.kansas.com/mld/kansas/news/11078330.htm" target=_top>http://www.kansas.com/mld/kansas/news/11078330.htm</a><!--/Text--></td></tr>
+<!--/Post: 11224-->
+<!--Post: 11225--><!--Time: 1110508946-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11225"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 6:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think it looks like a treble fishin hook! What do ya think?<!--/Text--></td></tr>
+<!--/Post: 11225-->
+<!--Post: 11230--><!--Time: 1110515554-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11230"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Screamer<!--/name--></b></a><br>Username: <!--field:uname-->Screamer<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 8:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The first time I saw it and this was not the one, I was reminded of horn rimmed glasses.<!--/Text--></td></tr>
+<!--/Post: 11230-->
+<!--Post: 11248--><!--Time: 1110527869-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11248"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 11:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Why...why...It&#39;s positively obsene. Not fit to print!<!--/Text--></td></tr>
+<!--/Post: 11248-->
+<!--Post: 11249--><!--Time: 1110527964-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11249"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 11:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You know it does kinda look like glasses if you think of the nipples as eyes.<!--/Text--></td></tr>
+<!--/Post: 11249-->
+<!--Post: 11254--><!--Time: 1110531570-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11254"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 12:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The symbol may have two meanings. It could symbolize his preference for female victims and a desire for those who wear eye glasses. It most probably provides an insight into Rader&#39;s violent sexual fantasies. It seems he derived gratification from binding, torturing and killing women who wore eye glasses.<!--/Text--></td></tr>
+<!--/Post: 11254-->
+<!--Post: 11272--><!--Time: 1110549808-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11272"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 6:03 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree with all of you, hey do you think Rader&#39;s mother worn glasses, maybe that&#39;s where it started, I hear she was a good person but Rader being a sociopath one never knows. I think he was looking at Zodiac symbols when he made it, trying to put the three letters into one idea, but it didn&#39;t quite turn out right<!--/Text--></td></tr>
+<!--/Post: 11272-->
+<!--Post: 11287--><!--Time: 1110557127-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11287"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Freya<!--/name--></b></a><br>Username: <!--field:uname-->Freya<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 8:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bmodule, this was a while ago, but did you ever see the Saturday Night Live skit with Kirstie Alley &#40;during the Cheers years&#41; in which she played an alien whose eyes were in her breasts, and she was offended because everyone keep making &#34;eye&#34; contact with her? That&#39;s what his symbol reminded me of. Why do I mention this? Because the symbol seems incredibly adolescent for a killer who wanted to terrorize the public. Any ideas why? <BR>Wow, Ivyleaguer, I just read your post after completing my paragraph. I agree with your ideas. Do you think that the drawing seems more like the work of a juvenile, someone sexually undeveloped?<!--/Text--></td></tr>
+<!--/Post: 11287-->
+<!--Post: 11351--><!--Time: 1110604631-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11351"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 9:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Glasses - somebody wake up skov!  If Ivy_leaguer thinks there might be a glasses connection, I&#39;m sold. <BR> <BR>I also agree with Rocky - it does look like a bass-ackwards treble hook.  There - now you&#39;ve done it.  Ruined all my afternoon fishin&#39; fantasies with that damn BTK. <BR> <BR>But you know what - those look like very angry eyes to me.  The &#34;evil-Bert&#34; mono-brow &#40;or rim, whatever&#41; gives them a nasty look.  Maybe a lot of people wouldn&#39;t find this symbol scary, but to me the thing looks like evil eyes over a spread-eagled, depersonalized, stick victim &#40;who, I admit, may or may not have a tail....it only goes so far and still makes BTK&#41;.<!--/Text--></td></tr>
+<!--/Post: 11351-->
+<!--Post: 11355--><!--Time: 1110607489-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11355"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 10:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The B obviously looks like women&#39;s breasts. 1960&#39;s student nurse mass murderer Richard Speck eventually grew breasts as he served his life sentence in prison. How this was done I don&#39;t know or want to know but I think BTK was just planning ahead.<!--/Text--></td></tr>
+<!--/Post: 11355-->
+<!--Post: 11367--><!--Time: 1110611638-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11367"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 11:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Eye glasses, in cinema, are used to make a woman appear naive, meek and innocent. &#40;Men too, see Clark Kent&#41; <BR> <BR>Richard Speck could have grown breasts, I believe, by stopping the production of testosterone in his body. If he was a sex offender it would be pretty easy to arrange to have that proceedure done medically, even in prison. <BR> <BR>I missed Kirsty Alley on SNL, which is too bad. I have always thought she had a nice pair of eyes.<!--/Text--></td></tr>
+<!--/Post: 11367-->
+<!--Post: 11368--><!--Time: 1110611986-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11368"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 11:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Glasses can also render a superhero totally unrecognizable, maybe Denny took his glasses off during his crimes, which would explain why no one could recognize him as BTK. I may owe the PD an apology.<!--/Text--></td></tr>
+<!--/Post: 11368-->
+<!--Post: 11373--><!--Time: 1110621655-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11373"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->J_eric<!--/name--></b></a><br>Username: <!--field:uname-->J_eric<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 2:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Makes me wonder just what else Kansas declares &#34;not fit to print&#34;?    <BR> <BR>Those curious about &#34;melding letters&#34; may well want to check out my thoughts on &#34;rh&#34; &#40;Cheryl Bates/Riverside Comm. College desktop poem&#41; at the ZodiacKiller site, as well as &#34;Z&#34; and the &#34;crosshairs&#34; of which many, many people have commented.  The concept is neither original nor particularly witty.   If anything, I wonder if Rader was copying Zodiac, assuming that Zodiac&#39;s messages made it into Kansas&#39;s errr... appropriate press....back in the late 60&#39;s and early 70&#39;s. <!--/Text--></td></tr>
+<!--/Post: 11373-->
+<!--Post: 11416--><!--Time: 1110686546-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11416"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 8:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe the BTK Strangler chose female victims who wore eye glasses or embodied the qualities of innocence and naivete. The perpetrator felt he could control her and exact vengeance. Roy Hazelwood, a former criminal psychologist with the FBI argues serial murderers tend to select female victims who appear respectable, innocent and meek. They select them to destroy their innocence and demonstrate the victims were not as innocent as they appeared.<!--/Text--></td></tr>
+<!--/Post: 11416-->
+<!--Post: 11418--><!--Time: 1110687256-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11418"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 8:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->One more thought on glasses, if you were btk, and thrived on instilling fear, wouldnt it cause more fear if your vic couldnt see you? maybe he took their glasses from them.  <!--/Text--></td></tr>
+<!--/Post: 11418-->
+<!--Post: 11424--><!--Time: 1110692769-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11424"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 9:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->zodiac wore glasses?<!--/Text--></td></tr>
+<!--/Post: 11424-->
+<!--Post: 11436--><!--Time: 1110713562-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11436"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 13, 2005 - 3:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This is gonna drift a little off-thread, but we have too many already to start another just for this. <BR> <BR>Talking about melding letters and it being juvenile reminded me of when I was in sixth grade. Me and some friends started forming a &#39;Man From U.N.C.L.E.&#39; club with the yellow I.D. badges and all. The whole thing evolved into a contest to see who could Smush the letters U-N-C-L-E into the coolest looking design. So I&#39;m assuming that 6th grade is about the normal age that boys experiment with letter melding &#40; not that I&#39;ve ever been all that normal but because everyone else did it too &#41;. <BR> <BR>Recalling how I had spent my sixth grade year reminded me that while troling the web for some fresh information I&#39;d read that Josephine Otero was known as the new girl in her sixth grade class, which in addition to putting that tragedy into a new, and yet even darker perspective, caused me to wonder what in the hell was going on in Rader&#39;s mind in 1974. But I did have a hunch. <BR> <BR>After checking the dates: <BR> <BR>Rader marries Paula in 1971, he&#39;s 26, she&#39;s 23; both at a relatively horny stage in life still. So then I check the Lutheran doctorine which does allow pretty free rein on birth control. So if they didn&#39;t want to have kids right away, didn&#39;t mean that they had to abstain from sex. <BR> <BR>But it seems a strange coincidence, that part of his secret, sexually motivated alter existence was a &#34;secret symbol&#34;, with boobies, reminiscent of normal sixth grade behavior, and that he had been married for three years &#40;without any kids&#41;. <BR> <BR>Then in 1974, at the scene of his first murder &#40;as far as we can document so far&#41; the one single thing that stands apart from all of the rest of the crime scene is the evidence of him molesting a sixth grade girl. His second attempt at a victim was 21 years old, but her picture looks like she was 16. Then in 1975 his first kid is born &#40;who would ,if full term, been conceived in late november of 1974. <BR> <BR>After that, the age of his victims progress in age and, at least from what we know as fact right now, Rader has not molested, or killed, another child since the Otero&#39;s. <BR> <BR>The question being, and I AM ACTUALLY ASKING A QUESTION, because I&#39;m not psychologically inclined, Could his motive been to psyche himself up to the task of siring offspring. <BR> <BR>Of course its obvious that the killings were for sexual gratification and he kept doing it because he wanted to, but would he have been able to get his wife pregnant without using the first two murders as either a way of, how you say, steeling his resolve, or even fantasizing about them to...um...get his setter to stand at point?<!--/Text--></td></tr>
+<!--/Post: 11436-->
+<!--Post: 11439--><!--Time: 1110728099-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11439"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 13, 2005 - 7:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good point Bmodule!  I think anything is possible with Denny......<!--/Text--></td></tr>
+<!--/Post: 11439-->
+<!--Post: 11447--><!--Time: 1110752965-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11447"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 13, 2005 - 2:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey B got a very interesting mail today, concerning art and something we overlooked,  <BR>Thank you very much for the help E. We really appreciate the incite Thanks Sheila <BR> <BR> <BR>&#60;<a href="http://www.pulpcards.com/largeimg/pc-081.jpg" target=_top>http://www.pulpcards.com/largeimg/pc-081.jpg</a>&#62; <BR>The work of Paul Rader <BR>&#60;<a href="http://www.pulpcards.com/largeimg/pc-131.jpg" target=_top>http://www.pulpcards.com/largeimg/pc-131.jpg</a>&#62; <BR>&#60;<a href="http://www.pulpcards.com/largeimg/pc-245.jpg" target=_top>http://www.pulpcards.com/largeimg/pc-245.jpg</a>&#62; <BR>&#60;<a href="http://www.pulpcards.com/largeimg/pc-285.jpg" target=_top>http://www.pulpcards.com/largeimg/pc-285.jpg</a>&#62; <BR> <BR>&#40;A story of thrill parties, marijuana and murder&#41; Cover by Paul Rader shows a teenage semi-nude girl lying dead after a thrill party of spiked drinks, marijuana and orgies. The blurb on the first page is &#34;he knew all about the special drinks and the special cigarettes&#34; and the cops working the murder on the first page of Chapter 1 states &#34;we were working the marijuana detail out of the Narcotics Squad&#34; belmont book 221 <BR>&#60;<a href="http://www.onlinepot.org/reefermadness/pulpfictionbooks.htm" target=_top>http://www.onlinepot.org/reefermadness/pulpfiction books.htm</a>&#62;I believe that DR did not marry Paula because he loved her but because he planned ahead and she fit in perfectly. I came to this conclusion after viewing the photos on the Ghostie&#40;?&#41; site. The numbers were too repetitious and I wondered about the next date that would have been perfect for him to choose. Imagine my surprise when I found out it was his wife&#39;s BD! <BR> <BR>He &#39;picked&#39; her because of her birthday 05/05 - he&#39;s into numbers he said so himself. Didn&#39;t he do something on 05/05/04? was 05/05/05 to be the next perfected date? We&#39;ll never know ---THANK &#40;any&#41; GOD of your choice! <BR> <BR>Also, her name is Paula. His brother&#39;s name is Paul as was the name of a prominent pulp illustrator &#40;Isaac&#41; Paul Rader. Was BTK so inspired by Paul &#40;artist&#41; that he married a Paul-a and decided to act out the fantasies he read about and saw on book covers?? <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 11447-->
+<!--Post: 11487--><!--Time: 1110782287-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11487"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 13, 2005 - 10:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->One can only imagine! We&#39;ll know if they ever disclose what was in his shed! This is very interesting E, what do you think?<!--/Text--></td></tr>
+<!--/Post: 11487-->
+<!--Post: 11493--><!--Time: 1110783633-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11493"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 13, 2005 - 11:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok the Plane crash thread came from the same place this did, B tells me the plane was full of marijuana see above, thrills, parties, marijuana and murder.   Go back to the messages to BTK part 3 and 4 you will see messages to BTK, that I think he wrote by the way, anyway they are talking about BTK dying of cancer and How they met in Lewis and Something about Utah, B. just told me this plane was headed for utah I believe this all ties together some how<!--/Text--></td></tr>
+<!--/Post: 11493-->
+<!--Post: 11498--><!--Time: 1110785603-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11498"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 13, 2005 - 11:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Coming from utah. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 11498-->
+<!--Post: 11525--><!--Time: 1110851125-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11525"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 14, 2005 - 5:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sorry Pax, but the treble hook really was my first impression! LOL! I hope there wasn&#39;t a psychologist reading that they&#39;d have a field day with me. &#40;Ok E, including you!&#41;<!--/Text--></td></tr>
+<!--/Post: 11525-->
+<!--Post: 11536--><!--Time: 1110895361-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11536"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 15, 2005 - 6:02 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It&#39;s ok Rocky I like your idea shows your normal lol. B. I have been stumped by this symbol and trying very hard, maybe to hard at this point to attach the meaning or his thinking at the time of it&#39;s creation. I agree with the sexual conotations behind the design, and feel that the preparation for children is a possibility, I would like, since you already started it and we have 8 thousand threads, to discuss this issue here if no one minds. I believe as most do that Rader was drawn to the work of the Zodiac, His pain and aggression due to who knows at this point, could have been pain in intercourse, could have been a victim of child molestation, Not sure right now. But Zodiac had that same problem, IE killing young couples and women who had previously turned him down. Anyway Rader could Identify with whatever it was. For Rader the notion of sexual agression came from seeing young girls, and if you look at Shirly, Stefinie Welch and Kerri you will see they all look alike, Kerri and Stefanie could be twins. Here is my problem when Rader killed Joseph Otero and please do not ask where I got this from, but we all said it must have been bad because of what the cop said, I believe the Three hoods, where a symbol meaning the opposite of the genital circumcision that all young boys have. So I think he also cut off the boys penis, I hate to be so to the point. but this is the only way I can explain. The boy would not have to suffer the pains of male adulthood. I believe the combination of Sexual aggression and not being able to live up to his role as a man, and of course his sociopathic tendencies, drew him at a very young age to the Zodiac. Someone who could share his pain. I also feel that if LE had the time to go search areas Rader ventured off too, that they would find a hiding place, not the shed but underground, old coal shaft or closed mine, because of the train idea, that they wuld find his comic books, drawings and trophies from this obsession that he has had for a very very long time. Might Sound odd but I feel like Ted Bundy and the others, That Rader was not really a breast man, The symbol represted what he hated most, being contoled by the sexual drive he had when he saw women, That is why he tied them up, so he would not have them touching him. He hid in the church becuase for some reason he thought that might stop some of this need, or uncontrolable sexual aggression.<!--/Text--></td></tr>
+<!--/Post: 11536-->
+<!--Post: 11541--><!--Time: 1110896383-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11541"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 15, 2005 - 6:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You know E, this really gives me the creeps. When all this went down with DTDC my Dad was quick to remind my sister and I of all the times we mowed the lawn in our swimsuits! Oooowa!<!--/Text--></td></tr>
+<!--/Post: 11541-->
+<!--Post: 11594--><!--Time: 1110929568-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11594"><font face="Verdana" size="1"><b><!--email--><a href="mailto:linnieskid@earthlink.net" target="_blank"><!--/email--><!--name-->Linnieskid<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Linnieskid<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 15, 2005 - 3:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think with the symbol, he was just doodling and wanted to incorporate something provocative along with the BTK initials.  He liked what he drew and then used it.  I know, very simplistic.<!--/Text--></td></tr>
+<!--/Post: 11594-->
+<!--Post: 11704--><!--Time: 1111036285-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11704"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 9:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks Linnie, that really does make me feel a lil beta!<!--/Text--></td></tr>
+<!--/Post: 11704-->
+<!--Post: 11719--><!--Time: 1111048306-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11719"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 17, 2005 - 12:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->....speaking of beta.... <BR> <BR>I just noticed that his symbol, with the back of the B separated &#40;presumably to accent the boobs&#41; makes it look like a lowercase Greek omega sitting on top of a half-hearted Japanese &#34;hon&#34; &#40;本&#41;, which is half of the symbol for Japan &#40;Ni-hon: 日本&#41;, and which is in fact derived from the very T-K-ish symbol for tree &#40;ki: 木&#41;. [Note: the Japanese characters will hopefully show up if you set Unicode encoding in your browser.] <BR> <BR>Do I think that his signature contains hints for Greece and Japan, two of his pit-stops in the Air Force?  Not really.  I agree with Linnieskid that it&#39;s probably just a doodle for BTK with boobs and/or glasses &#40;eyes&#41; in it.  HOWEVER, if bodies or &#34;hot&#34; cold-cases turn up in those overseas locales, I might be revising that opinion.  I know several of you are actively looking in those directions, and I would encourage it.  Perhaps there is a web-sleuth board in Japan, his longest stay overseas &#40;2 years near Tokyo&#41;.  I know Verm_inve is looking for Japan cold cases.<!--/Text--></td></tr>
+<!--/Post: 11719-->
+<!--Post: 11728--><!--Time: 1111084304-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11728"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 17, 2005 - 10:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Pax you are on the ball man, the beta is important and if you look at Zodiac compared to BTK you can see that for a time they were both in Okinawa Japan, some of both their symbols are in following with the Kanji<!--/Text--></td></tr>
+<!--/Post: 11728-->
+<!--Post: 11737--><!--Time: 1111099319-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11737"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 17, 2005 - 2:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There is no Chinese aphabet since it is comprised of thousands of characters ususally using two characters together to create a word but on this link are some of the more common characters used in the printing of the Chinese language. <BR>Look at the 12th character from the left just above the number 1 in both rows of simplified and traditional chinese, it closely resembles the BTK symbol. <BR><a href="http://www.ask-group.co.uk/publish/chinesealph.htm" target=_top>http://www.ask-group.co.uk/publish/chinesealph.htm</a><!--/Text--></td></tr>
+<!--/Post: 11737-->
+<!--Post: 11738--><!--Time: 1111099463-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11738"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 17, 2005 - 2:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.symbols.net/codes.html" target=_top>http://www.symbols.net/codes.html</a> <BR>everything you ever want to know about codes <!--/Text--></td></tr>
+<!--/Post: 11738-->
+<!--Post: 11773--><!--Time: 1111152115-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11773"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 18, 2005 - 5:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->did you know the circle with the dot in it stands for B in ancient text, guess they were thinking ahead of their time lol E.<!--/Text--></td></tr>
+<!--/Post: 11773-->
+<!--Post: 11821--><!--Time: 1111221742-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11821"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 19, 2005 - 12:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->People, you are not going to believe this - this is WAY COOL!  We were right about this symbol – everything.  Holy cow!  Somebody wake up Johno.  &#40;Embersage, you never sleep anyway!&#41;  Check this out...... <BR> <BR>It&#39;s a friggin&#39; ZODIAC symbol! <BR> <BR>Turn on Unicode encoding in your browser and follow along.... <BR> <BR>I was having lunch today with my Japanese langauage contact &#40;who gave me a translation of a cold case in Japan for Verm_inve&#41;.  I showed her the BTK symbol, drawn in the usual way, but without eyes &#40;meaning turned with the B facing down, like glasses or breasts, like we&#39;ve all been drawing it all along&#41;.  She said there are no kanji with that curved part of the B, which makes sense because of the straight strokes used for Chinese characters &#40;i.e., the Japanese kanji&#41;, except in calligraphy. <BR> <BR>Anyway, then I said “how about if the “B” part was squared off, like a horizonal domino, meaning two squares side-by-side, sitting on top of the “T-K” part &#40;“ki”, 木&#41;?  Like a digital “8” on a cheap LED calculator &#40;2 squares joined&#41;, or like the rising sun symbol “nichi” &#40;日&#41; on its side, and then on top of the &#34;T-K&#34;.  She said that the two-square character is generally vertical when used in kanji, although it is occasionally seen horizonal &#40;more often the analogous three-square character is seen horizontal&#41;, but never in combination with the “ki” character.  Put more simply, she said that even squaring off the “B” in the BTK symbol, it wasn&#39;t a real kanji.  The closest thing is the kanji for “chestnut” &#40;ritsu, 栗&#41;, which has a 3-square with an extra handle on top, resting on top of “ki”.  To wit, a 3-eyed BTK symbol with alien granny glasses.  Negative. <BR> <BR>Then I drew her the character that Johno pointed out on the web page, that he thought looked like the BTK symbol &#40;味&#41;.  That character in Japanese is called “mi”, and means “taste”, and consists of two parts.  The elongated square on the left generally means “mouth” &#40;“ko”, 口, usually more squared when alone, more compressed when combined&#41;, and the BTK-symbol-looking thing &#40;未&#41;, which is like “ki” with an extra bar on top, is also called “mi” &#40;go figure&#41;, and is used to mean “future”, “still”, or “not yet” in combination with other symbols. <BR> <BR>Here&#39;s the cool part.  She said &#40;nearly verbatim&#41;, “We never use that part by itself in Japanese regular writing.  It only used in Japanese Zodiac.  It used for &#39;year of sheep&#39;, or &#39;year of lamb&#39; or &#39;year of ram&#39; &#40;未年, hitsujidoshi&#41;, not regular Japanese kanji for sheep.”  I asked her 3 times just to make absolutely sure what she was saying, and then I wrote it down.   Zodiac.  Zodiac.  Zodiac. <BR> <BR>Sure enough, if you go out on the web, you will find that there are two different characters used for the Year of the Sheep in the Chinese and Japanese Zodiacs.  The common word used for the animal in normal conversation is the one that looks like it has horns &#40;羊&#41;, but the more traditional one used in the Asian Zodiac is basically the BTK symbol without the curve of the B or the dots for eyes &#40;未&#41;.  It&#39;s called “hitsuji” in Japanese, and the year of the sheep is called “hitsujidoshi” &#40;未年, sheep year&#41;. <BR> <BR>The Years of the Sheep are:  1907, 1919, 1931, 1943, 1955, 1967, 1979, 1991, 2003.  You guys are the Zodiac and BTK timeline experts – you figure it out.  I&#39;m just a language and code guy.  Maybe you can make sense of why he chose it, other than he could fit his name into it. <BR> <BR>Here are some web sites.  Check &#39;em out: <BR> <BR><a href="http://www.takase.com/Zodiac/Astrology.htm" target=_top>http://www.takase.com/Zodiac/Astrology.htm</a> <BR> <BR><a href="http://asnic.utexas.edu/asnic/countries/china/czod.html" target=_top>http://asnic.utexas.edu/asnic/countries/china/czod .html</a> <BR> <BR><a href="http://www.onmarkproductions.com/html/8-zodiac-protectors.shtml" target=_top>http://www.onmarkproductions.com/html/8-zodiac-pro tectors.shtml</a> <BR> <BR>It all makes sense.  You can morph “hitsuji” into the BTK symbol by merely drawing the curves of the B on it, and touching up the top part of the center line a bit with an eraser, so it&#39;s not too obvious what it is.  In reality, he spaced the lines a little extra-wide to make the B scale properly, and to accent the boobs, but that&#39;s pretty much it.  All along I was thinking it was just some dopey junior-high doodle, when in reality it was a surprisingly sophisticated Zodiac “homage” symbol.  The boobs are really far less of a message than a diversion or a camouflage.  I have a secret symbol for my initials, which a few people know and which they generally think is pretty clever.  I would say that BTK&#39;s is just as thoughtful. <BR> <BR>All this time I thought that you Zodiac/BTK linkers were pushing the margins a little hard.  Heck, now we know.  BTK was a total Zodiac fan-boy.  You guys had him pegged from go.<!--/Text--></td></tr>
+<!--/Post: 11821-->
+<!--Post: 11844--><!--Time: 1111276502-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11844"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 19, 2005 - 3:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I will Kiss you Pax, when I see you lol <BR>Here is a message for you from Canada <BR> <BR><a href="http://www.c-c-c.org/chineseculture/zodiac/Rooster.htm" target=_top>http://www.c-c-c.org/chineseculture/zodiac/Rooster .htm</a> <BR>  <BR>This is the year of the rooster  2005 - also, wasn&#39;t Rader born in 1945 another year of the rooster. <BR>  <BR>The site may provide other insight into BTK&#39;s Zodiac symbol. <BR>  <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 11844-->
+<!--Post: 11856--><!--Time: 1111280891-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11856"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 19, 2005 - 5:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK like the Zodiac was a copycat. The Zodiac sent a card with very distinct looking symbols which were thought to be some sort of chinese characters to the press.  <BR> <BR>One rather disrespected author pointed out the similarities between the characters on the Zodiac card to symbols on a barrel that was recovered from one of the Santa Rosa hitchhiker murders of the 1970s which remain unsolved. <BR> <BR>BTK most likely has many more victims we are unaware of much like his &#34;hero&#34; the Zodiac.  .  .  <!--/Text--></td></tr>
+<!--/Post: 11856-->
+<!--Post: 11859--><!--Time: 1111281522-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11859"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 19, 2005 - 5:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yes and you also need to take into consideration The original Night Stalker and what he has to do with these symbols<!--/Text--></td></tr>
+<!--/Post: 11859-->
+<!--Post: 11860--><!--Time: 1111282195-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11860"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 19, 2005 - 5:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I can explain one obvious thing to you right now, these years you have put down fall under the sign on the Ram which is my and&#40; Raders Birth sign&#41; we are Aries, the leader and the RAm<!--/Text--></td></tr>
+<!--/Post: 11860-->
+<!--Post: 11865--><!--Time: 1111303075-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11865"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 19, 2005 - 11:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Pax56, I&#39;m awake and ready to report for duty so here goes. <BR> <BR>The year of the sheep symbol is very close and it is Zodiac. <BR>Btk was into the Zodiac and likely looked into the Zodiac&#39;s symbol and communications to find inspiration for his own symbol. <BR> <BR>&#34;She went to slaughter like a lamb.&#34; <BR>From &#39;The Confession&#39; sent anonomously to the Riverside, California Enterprise newspaper on November 19, 1966 describing the murder of Cheri Jo Bates. <BR> <BR>The murder and communication is long believed by many to be the earlist known murder and communication from a killer who would late become known in the San Fransico Bay area as The Zodiac. <BR>BTK being a regular church going man liked the lamb reference and looked for the zodiac symbol for the year of the lamb and found that in the Chinese zodiac there is no year of the lamb but rather the year of the sheep. When he saw the symbol he turned it side ways and saw a TK in it. He added the B to it and there he had his symbol. <BR>He was not a good shepherd, he was an evil shepherd. <BR> He would watch over the lambs and then lead them to slaughter. <!--/Text--></td></tr>
+<!--/Post: 11865-->
+<!--Post: 11869--><!--Time: 1111305214-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11869"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 19, 2005 - 11:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;Number 8 was not.&#34; <BR>From &#39;Oh Anna Why Didn&#39;t You Appear&#39; poem sent to intended victim Anna Williams by BTK June 15, 1979. <BR> <BR>The Sheep or The Lamb is the eighth sign of Chinese zodiac. <BR> <BR>Anna Williams was not intended to be murder victim number 8. BTK didn&#39;t mean eight in reference to us assuming that he had already killed seven people and Anna would have been the eighth. <BR> He was refering to the zodiac which inspired his secret symbol. <BR> <BR>In other words, One of my sheep she was not.<!--/Text--></td></tr>
+<!--/Post: 11869-->
+<!--Post: 11884--><!--Time: 1111352457-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11884"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 20, 2005 - 1:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wow, Johno, the more I hear about Zodiac, the more I see the connection.  Rader truly was the &#34;Bad Shepherd&#34;.   Have there been any other &#34;students&#34; of Zodiac?  I guess I&#39;m wondering how common it is for serial killers to emulate each other in some sort of an evil fraternity.  Maybe there&#39;s no such thing as a &#34;copycat&#34; - that these guys just naturally do it, and when we say &#34;copycat&#34;, it&#39;s almost more reflective of our disgust in their mutual self-admiration, than it is in saying that one of them is less inventive than another, and therefore &#34;less&#34; of an SK.  Maybe the original ones are the atypical ones. <BR> <BR>Thanks, Ember.  I do think it&#39;s ironic that he was born and captured in a Rooster year.  A &#34;cocky&#34; rooster, clucking and crowing at the media, does seem to be his symbol, and the lamb &#40;sheep&#41; does befit the innocent victims.  Wouldn&#39;t you know it, I&#39;m a monkey - with all those &#34;monkey issues&#34;.  As a geek and a Christian, I don&#39;t put too much stock in this astrological stuff, but it&#39;s rather weird how it fits sometimes. <BR> <BR>I wonder, when more of Rader&#39;s communications are eventually released, if there will be more lamb and sheep references that will bolster this interpretation of his symbol.  It wouldn&#39;t surprise me.<!--/Text--></td></tr>
+<!--/Post: 11884-->
+<!--Post: 11889--><!--Time: 1111358629-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11889"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 20, 2005 - 2:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Johno and Pax, I am greatful that someone else has started realizing the importance of the Zodiac as it fits to Rader, Zodiac, The Night Stalker, I have something of worth to you both on this matter, yet it is to long to post, mail me asap for the link<!--/Text--></td></tr>
+<!--/Post: 11889-->
+<!--Post: 11892--><!--Time: 1111360715-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11892"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 20, 2005 - 3:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="mailto:embersageblue@aol.com">embersageblue@aol.com</a><!--/Text--></td></tr>
+<!--/Post: 11892-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/704">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/704" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

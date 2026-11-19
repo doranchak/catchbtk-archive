@@ -1,0 +1,230 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 598/Relief-->
+<!--Level 1: 598/Relief-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Relief</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Relief</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Relief
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=598"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=598"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 9251--><!--Time: 1109446495-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9251"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Beck<!--/name--></b></a><br>Username: <!--field:uname-->Beck<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 11:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This is sort of a vent, bare with me... <BR> <BR>I am so relieved that this could finally end. Actually, I think it&#39;s far from over, but at least he is off of the streets. I don&#39;t normally get all caught up with searching for criminals, but there was something about this case. My heart goes out to the people directly impacted by this waste of flesh. This includes the people of Witchita, and the families of the victims. I don&#39;t know if this brings closure, but at least we all know that the monster won&#39;t be able to instill fear into anyone anymore. He&#39;s going to be the hunted now instead of the hunter. My heart is so heavy for the survivors, Charlie and his brother and sister, Steve and his brother and sister, Kevin as well. I wish there was a way for Steve to be able to confront Dennis Rader, as I just can&#39;t get it out of my head what he said &#34;I let him in, you don&#39;t forget that&#34; The mother in me just wants to tell him it&#39;s okay, and that it&#39;s not his fault. MY kids would have done the same.  <BR> <BR>I&#39;m also hurting for the Rader children. What is this going to do to them? I cannot fathom the idea of being the offspring of this SOB. If I could say anything to them it&#39;s this... you&#39;re the same person you were before the revelation. <BR> <BR>Thanks all. I&#39;m still going to be reading here daily. I&#39;ve enjoyed coming here and seeing the work you all have put into trying to aid this case. None of us had to, but we felt compelled to.  <BR> <BR>Thanks Tom for this site... &#40;Where the hell are you?!&#41;  <!--/Text--></td></tr>
+<!--/Post: 9251-->
+<!--Post: 9270--><!--Time: 1109459289-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9270"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 3:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Beck, I couldn&#39;t agree more &#40;on all points&#41;. <BR> <BR>I&#39;m still in shock that they&#39;ve actually got the guy.  After all this time.  It&#39;s incredible how much devastation and pain this loser caused.  And all the resources that went into finding him.  I think many valuable lessons will be learned from this investigation and from learning more about DR. <BR> <BR>He&#39;s off the streets now!  WOOOOOOHOOOOOO!!!!!!!!!<!--/Text--></td></tr>
+<!--/Post: 9270-->
+<!--Post: 9286--><!--Time: 1109462880-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9286"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Purple<!--/name--></b></a><br>Username: <!--field:uname-->Purple<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 4:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Having lived with the local boogie man for the last 31 years of my 44 year life.  It is a complete relief.  The mother in me also agrees with you Beck, my kids would have let him in to.  But the mother in me goes ones step further.  I would not want my adult children to find my body or watch me be murdered.  I am certain to the depths of my being the murdered mother&#39;s did not want to have that happen to their children either.  I hope that the silent tears of those mothers can ease the pain that their children had to endure.  God Bless them, and may they finally have peace.  God Bless their children, may they now be able to stop living those days over in their minds.  God Bless the law enforcement community for ending his reign of terror.  <!--/Text--></td></tr>
+<!--/Post: 9286-->
+<!--Post: 9287--><!--Time: 1109462980-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9287"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 4:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Serial killers, feel that they are performing a feat. Each one has to top the previous. In the end the only people who are impressed are serial Serial killer afficionados, and of course, the killers themselves. <BR> <BR>Other than being an infantile, self absorbed, defective, parasitical, hypocritical, unfeeling, subhuman which has even victimized his own offspring. Rader&#39;s entire existance on this planet has amounted to nothing but a waste of food and oxygen. <BR> <BR>Unfortunately he raised the bar, and somewhere there is another defect that will top him, probably before his trial is over. <BR> <BR>I don&#39;t believe in a heaven or hell in the traditional sense, but I do believe in physics. One of the basic rules of physics states: for every action, there is an equal and opposite reaction. <BR> <BR>What bothers me almost as much as thinking of Josephine Otero&#39;s last hours, is that I see no evidence that anything was learned from the last thirty years about what is the effective way to handle a case like this. <BR> <BR>Saying that lives could have been saved by releasing more information to the public is a stretch, but it would probably saved a lot of man-hours, and in the end it was someone close to the suspect exposing him because of information that was made public. <BR> <BR>The news confrence given by the PD feb 26 was 99% self congradulations and 1% &#34;I cannot comment on the specifics of the case&#34;. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 9287-->
+<!--Post: 9326--><!--Time: 1109477357-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9326"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Suspiria_2<!--/name--></b></a><br>Username: <!--field:uname-->Suspiria_2<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 8:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->although it is off topic, i agree with the above totally.   <BR> <BR>the self-congratulation in the news conference today made me ill.  it was doubly sickening that they had to drag out the families while they broke their arms patting themselves on the back.  although i&#39;m sure that the families, and the community, are rightfully relieved that this man is behind bars, watching the local politicians cash in on the publicity of &#34;catching&#34; btk and making the family members, who will never regain their loved ones, sit through it was repulsive.  i guess in the end it was their choice, but personally i would have left in disgust. <BR> <BR>another point which i see as salient is the fact that all during the time of hunting him, they seemingly could never make a connection between his various crimes without him pointing it out to them in a blunt fashion.  to give them benefit of the doubt, i&#39;m sure that they had their suspicions and linking crimes by serial killers is difficult even when the killers themselves are known.  it still leads one to assume &#40;and i know what danger that puts me in!&#41; that they had to let the killer himself and, if true, his own daughter do their work for them, then sweep up the crumbs after the fallout. <BR> <BR>the manipulation game at the end was also disgusting, and seemed to trivialize the import of the capture.  to open the floor to questions, and then play a guessing game with the media wherein they had to somehow discern which questions would be answered and which not was appalling.  if you know that you can only state certain information without ruining the integrity of your case, spell that information out!  i saw no point in wasting everyone&#39;s time and energy making the reporters play twenty questions.  the whole episode seemed rather self-aggrandizing to me. <BR> <BR>ohwell, let the flack fly~!<!--/Text--></td></tr>
+<!--/Post: 9326-->
+<!--Post: 9340--><!--Time: 1109480536-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9340"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 9:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey, be glad he was caught, even if it was thirty-one years after the initial crime. The schism in the 1970s WPD precluded any realistic hope of capture and it took WPD, KBI, FBI and more to get him this time. For once, BTK&#39;s luck ran out. And -- seemingly -- for once, multiple jurisdictions actually worked together, at least to a point. I agree that the &#34;no comments&#34; were almost a slap back at the press. It would have been better if they&#39;d said &#34;thank you&#34; and all just walked away. <BR><!--/Text--></td></tr>
+<!--/Post: 9340-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/598">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/598" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

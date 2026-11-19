@@ -1,0 +1,266 @@
+<html>
+<!--Topic: 76/BTK Media-->
+<!--Me: 175/New clues released-->
+<!--Level 1: 175/New clues released-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 76-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: New clues released</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">New clues released</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/76/76.html"><font color="#f7f7f7">BTK Media</font></a> &#187;
+New clues released
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=76&page=175"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=76&page=175"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 1465--><!--Time: 1101842575-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1465"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Screamer<!--/name--></b></a><br>Username: <!--field:uname-->Screamer<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, November 30, 2004 - 11:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here&#39;s a link to WPD release. <BR> <BR><a href="http://www.wichita.gov/NR/rdonlyres/A4D4A28C-B8F1-4852-A929-DDF282F5151D/16079/BTKrelease13.pdf" target=_top>http://www.wichita.gov/NR/rdonlyres/A4D4A28C-B8F1- 4852-A929-DDF282F5151D/16079/BTKrelease13.pdf</a><!--/Text--></td></tr>
+<!--/Post: 1465-->
+<!--Post: 1466--><!--Time: 1101842950-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1466"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, November 30, 2004 - 11:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Clues to the identity of BTK hits the national media, too. Go to usatoday.com and click on the &#34;Nations briefs&#34; link. The story is called &#34;BTK clues released.&#34; <BR>-Deb<!--/Text--></td></tr>
+<!--/Post: 1466-->
+<!--Post: 1475--><!--Time: 1101862157-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1475"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, November 30, 2004 - 4:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This has become quite the story. However, I don&#39;t believe 90% of what BTK has claimed regarding his background.<!--/Text--></td></tr>
+<!--/Post: 1475-->
+<!--Post: 1480--><!--Time: 1101868513-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1480"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, November 30, 2004 - 6:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Old clues released to look like new clues. Again, WPD is giving 20-30 year old info. What about the most recent communications? He has a thing for railroads: could that be a sidestep in ref to Jake Allen? <BR> <BR>They make BTK sound like a regular guy, and I am sure if some of the people who knew him are still alive, maybe they will come forward. A better chance would have been had many years ago. <BR> <BR>Since BTK admits to an active fantansy life, he can believe anything to be true if he dwells on it long enough. I can believe a few things released, but I am suspicious of those who were named. Quite a risk mentioning them unless those people are dead, or he fancied a relationship with those people. Obsession from afar. <BR> <BR>Overall, I agree with Tom: too little, too late. Laundered, etc. And very disappointing. Another bone tossed to the public to quiet their barking.<!--/Text--></td></tr>
+<!--/Post: 1480-->
+<!--Post: 1483--><!--Time: 1101870189-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1483"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Oklahoma_mike<!--/name--></b></a><br>Username: <!--field:uname-->Oklahoma_mike<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, November 30, 2004 - 7:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I, too, am very skeptical of these &#39;facts&#39;.  Any which are directly claimed by BTK in letters are totally suspect as his entire criminal &#39;caree&#39; has focused on misleading police.  And if he really did release that many true facts about himself his capture will only be a matter of hours or days at most.  To be safe he would have to know his cousin was dead, Petra and her sister dead &#40;and maybe any other family&#41; as well as knowing for sure that no former co-workers, military buddies or school classmates knew ANYTHING about him.  Either it is a net of lies &#40;likely&#41; or he really does want to be caught.  And that is most unlikely of all.<!--/Text--></td></tr>
+<!--/Post: 1483-->
+<!--Post: 1487--><!--Time: 1101874583-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1487"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Weeza<!--/name--></b></a><br>Username: <!--field:uname-->Weeza<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, November 30, 2004 - 8:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If anything 90% of it is made up....with the rest being clues sort of. With this info, it would be easy to narrow down a suspect, so I doubt he&#39;d put himself on such a short list of people wwho match all of the info. Some of it is probably true, but it matches so many people. I live 6 blocks from our railroad tracks, as do hundreds of others in our area, and hundreds of thousands across the nation. The clues are too broad, a few are too specific. While he may want to be caught for notoriety etc, I think he&#39;d have more fun knowing people ARE going down this list thinking they can locate him. The movie copycat has a  line &#34; In order to be famous, he has to be caught&#34;, which is partially true here I think, but if he just keeps writing, he&#39;ll have his fame at no cost to him. <BR>Interesting update<!--/Text--></td></tr>
+<!--/Post: 1487-->
+<!--Post: 1492--><!--Time: 1101885931-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1492"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Esau<!--/name--></b></a><br>Username: <!--field:uname-->Esau<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, November 30, 2004 - 11:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The article that I read said that most of the information has been gleaned from letters received from March, 2004 to present &#40;not over the last 30 years&#41; and a few items were gleaned from the entire investigation. Does that make a difference? Perhaps, perhaps not. I get the feeling that BTK is terminally ill and wants to bask in his own &#34;glory&#34; before he dies. I believe that he wants to get caught. I don&#39;t think he&#39;s into poetry. Just because he plagiarized and twisted someone else&#39;s work doesn&#39;t mean he&#39;s &#34;into&#34; poetry. When he&#39;s caught I&#39;d bet money he&#39;s one of those old men with a very expensive, vintage train set up in his basement.  I believe that this most recent information will be his demise. I don&#39;t think he&#39;s lying. Lying to law enforcement is a misdemeanor and he doesn&#39;t want to get into trouble &#40;not serious&#41;. Mr. Kelleher, what would you consider to be his signature as opposed to his MO? I&#39;m from Sacramento and BTK is the closest to the East Area Rapist &#40;or Original Night Stalker&#41; that I&#39;ve studied. Can you ellaborat on those similarities Mr. Kelleher?<!--/Text--></td></tr>
+<!--/Post: 1492-->
+<!--Post: 1493--><!--Time: 1101897702-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1493"><font face="Verdana" size="1"><b><!--email--><a href="mailto:zodiacfiles@aol.com" target="_blank"><!--/email--><!--name-->Ed_neil<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 01, 2004 - 2:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If BTK truly wanted to be caught, he&#39;d turn himself in.  This is simply part of his game, whatever exactly it means to him.  I don&#39;t believe much, if anything, he claims about himself to be true; the only thing it will accomplish is to send a lot of people on wild goose chases, that&#39;s all.  It&#39;s interesting enough to have made the national news; BTK has finally gotten his wish.<!--/Text--></td></tr>
+<!--/Post: 1493-->
+<!--Post: 1494--><!--Time: 1101897872-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1494"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 01, 2004 - 2:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Goodness...are my eyes deceiving me? Ed Neil? Posting here at lowly ol&#39; catchBTK.com? <BR> <BR>THE GODS MUST BE CRAZY! <BR> <BR>Welcome back.<!--/Text--></td></tr>
+<!--/Post: 1494-->
+<!--Post: 1496--><!--Time: 1101906940-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1496"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 01, 2004 - 5:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->At first glance, I was very excited with this new info, however upon closer expection, these &#34;facts&#34; are extremly broad.  Names of people he knew, at one time or another, cousins name who moved to missouri, was a ham radio guy, likes trains. You can see a person everyday and not know this kind of stuff about them. The most useful thing I believe was the age. Didn&#39;t that baby photo have the year &#39;39 on it? Other then that I don&#39;t think the new info is that good? It reminds me of the PJ/folklore class connection. You think O.K. here is something that will really help the police narrow their search. I don&#39;t think thats the case I think he&#39;s related to these things in a passing way only, not directly. &#34;It&#39;s a big game, my friend&#34;.<!--/Text--></td></tr>
+<!--/Post: 1496-->
+<!--Post: 1504--><!--Time: 1101913515-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1504"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Foxtrotnem<!--/name--></b></a><br>Username: <!--field:uname-->Foxtrotnem<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 01, 2004 - 7:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->ok read this: <a href="http://semissourian.rustcom.net/story/1077530.html" target=_top>http://semissourian.rustcom.net/story/1077530.html</a> <BR> <BR>cops claim he said he had a &#34;cousin named susan who moved to missouri&#34; well, there are some unsolved murders in missouri and i found these in cape girardeau county...creepy reading....could BTK have gone to visit his &#34;cousin&#34; offed a few folks for kicks and went back home??? why else would he have even mentioned the relative moving to missouri if it is true? also a friend told me there were some murders from the 80s in missouri where the bodies were dumped near railroads and they&#39;d dubbed the killer the railroad killer. however, she doesn&#39;t know if the killer has been caught or not and doesn&#39;t really remember the details. i have not found anything about this on the net yet...still surfing. <!--/Text--></td></tr>
+<!--/Post: 1504-->
+<!--Post: 1506--><!--Time: 1101914499-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1506"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 01, 2004 - 7:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Foxtrotnem, <BR> <BR>Very creepy indeed!  O.o  I&#39;d also make a post about this in a new file under &#34;Possible Victims&#34; named &#34;Missouri Killings&#34;.  Now with a link &#40;the BTK&#39;s supposed cousin&#41;, the murders should have some investigation for SOME possibility.  All avenues must be explored.   <BR> <BR>I would even like to think that Missouri investigators are making brief DNA checks of their unsolved cases.  You know, to make sure there is or isn&#39;t any connections.  However I&#39;ve seen instances where even a simple LOOK at DNA profiles for comparison won&#39;t happen &#40;hint hint: Zodiac Case&#41; <BR> <BR>The railroad murders also has a very weak link to the Jacob Allen case, however this is very very weak and circumstantial. <BR> <BR>If the BTK IS wanting to be found, he may want to be found once all his murders have been discovered.  If this is true, then maybe that is why he gave us the Missouri link.<!--/Text--></td></tr>
+<!--/Post: 1506-->
+<!--Post: 1527--><!--Time: 1101938050-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1527"><font face="Verdana" size="1"><b><!--email--><a href="mailto:zodiacfiles@aol.com" target="_blank"><!--/email--><!--name-->Ed_neil<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 01, 2004 - 1:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yes Tom, I&#39;m back!  In the meantime, a lot of BTK&#39;s &#34;clues&#34; are interesting, but I&#39;m not sure I&#39;d place much, if any, faith in them.  If BTK had any sense of self-preservation, he would have moved out of Wichita &#40;assuming he even lived there in the first place&#41; once they started swabbing men 50&#43; years old.  Personally, I suspect he lives out of state, and travels back to Wichita only to drop off his communications.  Unless he does something really stupid like Ted Kaczinsky, he&#39;ll only get caught through dumb luck or because he wants to.<!--/Text--></td></tr>
+<!--/Post: 1527-->
+<!--Post: 1528--><!--Time: 1101942202-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1528"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sean<!--/name--></b></a><br>Username: <!--field:uname-->Sean<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 01, 2004 - 3:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Not that we can count on it being significant, but interesting that his the first letter back carried a stamp with a picture of a train. <BR><!--/Text--></td></tr>
+<!--/Post: 1528-->
+<!--Post: 1544--><!--Time: 1102011023-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1544"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Beckyks<!--/name--></b></a><br>Username: <!--field:uname-->Beckyks<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 02, 2004 - 10:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;ve enjoyed reading this board and even commenting a few times, but I&#39;m bothered by the reaction of most posters to the newest information.   <BR> <BR>Since the new communication started in March, I&#39;ve read over and over people saying that WPD should release more information.  I agree.  However, when they DO release information, everyone jumps up and down screaming that it&#39;s false. <BR> <BR>WPD can&#39;t win with you, huh?<!--/Text--></td></tr>
+<!--/Post: 1544-->
+<!--Post: 1563--><!--Time: 1102032646-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1563"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Oklahoma_mike<!--/name--></b></a><br>Username: <!--field:uname-->Oklahoma_mike<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 02, 2004 - 4:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Beckyks:  I don&#39;t think most of the posters here are against the WPD for releasing the latest information, just that we don&#39;t trust the perp to tell the truth in his letters.  The only thing I think the WPD did wrong is not releasing this &#40;and more&#41; much sooner over the years, as they had it.  Although I do not trust the killer to tell the truth, the more he says and the more the public hears of it the more likely he is to slip up and let out something that is useful.<!--/Text--></td></tr>
+<!--/Post: 1563-->
+<!--Post: 1566--><!--Time: 1102034540-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1566"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 02, 2004 - 4:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK has been communicating with WPD since the Otero murders, so we are lead to believe. There may be much more over and above what we have been told. <BR> <BR>Mike is right. It is hard to keep track of untruths. Sooner or later there will be a clash of lies, and that may provide a starting point to determine fact from fiction. Just like the present incident.<!--/Text--></td></tr>
+<!--/Post: 1566-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="76/175">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=76/175" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

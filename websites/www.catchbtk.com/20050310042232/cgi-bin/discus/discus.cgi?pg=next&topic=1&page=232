@@ -1,0 +1,276 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 236/Oh Death and PJ-->
+<!--Level 1: 236/Oh Death and PJ-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Oh Death and PJ</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Oh Death and PJ</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Oh Death and PJ
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=236"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=236"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 2584--><!--Time: 1103827238-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2584"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->J<!--/name--></b></a><br>Username: <!--field:uname-->J<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 10:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Correct me if I&#39;m wrong, but my understanding is that someone THIS YEAR brought up the fact that Wyatt used the lyrics of &#34;Oh Death&#34; in her classes and, since BTK had a chapter titled &#34;PJ&#39;s&#34;, the WPD decided this meant he had a connection with her - and his adaptation of &#34;Oh Death&#34; for his Fox poem was because of this. <BR> <BR>Unless there is actual evidence to suggest BTK knew P.J. Wyatt, I&#39;d say there is likely no connection and this angle is a wild good chase. <BR> <BR>&#34;O Death&#34; was a traditional folk/spiritual song that I would assume reached many more people as a &#42;song&#42; than as a poem. &#40;You can catch a very nice rendition of it in the 2000 movie &#34;O Brother, Where Art Thou?&#34;&#41;.  And, if it&#39;s true that BTK&#39;s grandfather played the fiddle &#40;a musical guy&#41;, I&#39;d suggest it would be much more likely that BTK was exposed to the song &#34;O Death&#34; as a child and that&#39;s why it was easy for him to adapt the lyrics for his Fox poem. He knew the song by heart due to much repetition in childhood &#40;more believable than knowing a poem by heart from a college class.&#41; <BR> <BR>As for &#34;PJ&#39;s&#34; being a chapter title, I think this could refer to many things.  I don&#39;t think it has to be only a reference to a person named P.J. and, even if it is, why Wyatt?  Keep in mind, too, that BTK is not a gifted writer.  He often does not use proper spelling or punctuation.  He may well have been making the mistake many do when pluralizing initials or years.  For example, to pluralize one should write &#34;80s&#34;, not &#34;80&#39;s&#34;  and &#34;TDs&#34; not &#34;TD&#39;s&#34; &#40;for touchdowns&#41;.  So, &#34;PJ&#39;s&#34; could correctly refer to the possessive of P.J. &#40;but not necessarily P.J. Wyatt&#41; - OR &#34;PJ&#39;s&#34; could be the INCORRECT way of writing the plural of anything represented by &#34;PJ&#34; &#40;pajamas, &#34;private joke&#34;, etc....&#41;. <BR> <BR>In short - as with many ideas that get posted on this message board - I just don&#39;t think there&#39;s a clear reason to work the P.J. Wyatt angle. &#40;UNLESS, of course, there are more details that have not been released by WPD!&#41; <BR> <BR>Now....if he adapted &#34;O Death&#34; for his poem about Nancy, then I&#39;d suggest he may have borrowed from another song to do the poem about Anna.  I know this has been researched somewhat, but I suspect enough word changing may have occurred that the link may be harder to find. Note, for example, he uses the word &#34;rapture&#34; twice and &#34;enrapture&#34; once....all in the span of a few lines. This isn&#39;t a very commonly used word; I&#39;ll bet he borrowed it from someone much more talented. <BR> <BR>In the end, though, I doubt that learning more about these songs/poems will actually lead to identifying BTK.  I just think it&#39;s more valuable to concentrate on things he actually wrote than dealing with coded messages submitted by BTK posers on the boards.<!--/Text--></td></tr>
+<!--/Post: 2584-->
+<!--Post: 2598--><!--Time: 1103835871-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2598"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Murco<!--/name--></b></a><br>Username: <!--field:uname-->Murco<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 1:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->excellent post!<!--/Text--></td></tr>
+<!--/Post: 2598-->
+<!--Post: 2603--><!--Time: 1103836678-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2603"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wade<!--/name--></b></a><br>Username: <!--field:uname-->Wade<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 1:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->j...made a little sense.....but to explain. <BR>the reason they connected it to pj wyatt&#39;s class was because of the wsu connection.  without it i agree...would be a wild goose chase...but having that connection and discussing pj..then copying the song....well there starts to be a pattern.  so it&#39;s not like the idea of it coming from wyatt&#39;s class was just grabbed out of air.  just fyi.<!--/Text--></td></tr>
+<!--/Post: 2603-->
+<!--Post: 2620--><!--Time: 1103847872-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2620"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->J<!--/name--></b></a><br>Username: <!--field:uname-->J<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 4:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wade: What is the WSU connection?   <BR> <BR>If it&#39;s just that he used their photocopier, that&#39;s not enough to imply he was a &#42;student&#42; there. Anyone can use copiers.  And remember that was a time when photocopiers were not as widespread as they are now.  The one on campus may have been one of the few readily available for public use. <BR> <BR>The only other university connection I know of is his line &#34;Haven&#39;t I seen you at the University?&#34;  This still does not mean he was a student &#40;and some have suggested it may have been said in reference to a bar named &#34;The University&#34;&#41;. <BR> <BR>I believe he was more likely a handyman or contract laborer, or something along those lines. <BR> <BR>Another thing: I did a little looking around the internet for the song and &#42;in most cases&#42; it&#39;s listed as &#34;O Death&#34;  ...not &#34;Oh Death.&#34;  Since this is a very old song, probably dating back to England, &#34;O&#34; is more likely correct.  <BR> <BR>I found several variations on the lyrics &#40;depending on who recorded it and whether as a black spiritual vs. a folk/bluegrass song&#41; and never did I see it listed with an exclamation mark after the &#34;O&#34; or &#34;Oh.&#34; <BR> <BR>I&#39;d be interested to know whether P.J.Wyatt used &#34;O&#34; or &#34;Oh&#34; in her class.  My guess is she used a text that gave it the more traditional &#34;O.&#34;  If so, BTK&#39;s use of &#34;Oh&#34; might suggest that he was not exposed to &#34;O Death&#34; in a formal/academic setting.  I think he just heard it a lot &#40;probably while young&#41;.  If he&#39;d seen it written as &#34;O Death&#34; in class, I think his poem would have also used just &#34;O&#34;.  &#40;Although, granted, he&#39;s a crappy speller, so maybe I&#39;m off base on that particular argument.&#41; <BR> <BR>Is there any concrete evidence to suggest he was, indeed, a college student??  I just don&#39;t think he was.<!--/Text--></td></tr>
+<!--/Post: 2620-->
+<!--Post: 2634--><!--Time: 1103858198-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2634"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 7:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There are many Universities in Wichita.<!--/Text--></td></tr>
+<!--/Post: 2634-->
+<!--Post: 2849--><!--Time: 1104190096-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2849"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->J<!--/name--></b></a><br>Username: <!--field:uname-->J<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 27, 2004 - 3:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Many &#34;universities&#34; in Wichita? &#40;No, there are not &#34;many&#34; universities.&#41; Or do you mean many businesses with the name &#34;University&#34; in them &#40;e.g., &#34;University Church&#34;, &#34;University Car Wash&#34;, etc.&#41;?  Yeah, there are probably many of the latter. <BR> <BR>But the point of the thread is whether there is sufficient evidence to say that BTK actually knew P.J. Wyatt and/or took her class.  My argument is that there isn&#39;t.  That&#39;s all.<!--/Text--></td></tr>
+<!--/Post: 2849-->
+<!--Post: 2853--><!--Time: 1104197694-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2853"><font face="Verdana" size="1"><b><!--email--><a href="mailto:s.glasscock@sbcglobal.net" target="_blank"><!--/email--><!--name-->Questions<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Questions<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 27, 2004 - 5:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have often read discussion that there is something BTK did to the victims, that only he and the investigators know about.  I wonder if the PJ is in fact pajamas.  Maybe he puts the victims PJ&#39;s on them.  ????  Just a thought.<!--/Text--></td></tr>
+<!--/Post: 2853-->
+<!--Post: 2855--><!--Time: 1104200082-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2855"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 27, 2004 - 6:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Remember also that one wouldn&#39;t have had to attend her folklore class at WSU to be aquainted with Dr. P.J. Wyatt. She first was an English professor at Kansas State Teachers College which is now called Emporia University. She taught there from 1959 to 1964. BTK could have been a student there. <BR> She also didn&#39;t work exclusively for WSU during the 1964-1988 years that she taught classes there. She worked part-time at the family business Radio Supply Company at 115 Laura in Wichita until the family sold it in 1976. BTK could have been a customer there. <BR>Besides her interest in folklore she was also interested in folk medicine. Mrs. Otero also had an interest in folk medicine. Although the Otero&#39;s only lived for a short time in wichita before their murders could Mrs. Otero and P.J. Wyatt have had a common aqaintance in the person of BTK? <BR>P.J. Wyatt never went by her first name of Phoebe so she was called PJ by all and thus a person wouldn&#39;t have had to have been a student at WSU in one of her classes to know her as PJ. Her folklore interest was a passionate subject to her and anyone who made her aquaintance could have known of her interest in the song O&#39; Death.<!--/Text--></td></tr>
+<!--/Post: 2855-->
+<!--Post: 2975--><!--Time: 1104349420-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2975"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lanena<!--/name--></b></a><br>Username: <!--field:uname-->Lanena<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 29, 2004 - 11:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It is important to remember that the WPD has A LOT of information that we as citizens are not able to know about at this time, for whatever reason.  Just because YOU do not see a connection does not mean that there isn&#39;t enought evidence to connect BTK to PJ Wyatt from WSU.  <!--/Text--></td></tr>
+<!--/Post: 2975-->
+<!--Post: 2992--><!--Time: 1104359837-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2992"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 29, 2004 - 2:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lanena, I never said or even implied that I don&#39;t see a possiblity of a connection of BTK to PJ Wyatt from WSU. YOU made that assumption. I said as I began the above post that &#34;Remember also that one wouldn&#39;t have had to attend her folklore classes to be aquainted with P.J. Wyatt.&#34; <BR>I am pointing out that there are other possiblities.<!--/Text--></td></tr>
+<!--/Post: 2992-->
+<!--Post: 3068--><!--Time: 1104419807-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3068"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 30, 2004 - 7:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->J <BR>Actually there are seven accredited four-year universities in Wichita: <BR> <BR>Newman University <a href="http://www.newmanu.edu/" target=_top>http://www.newmanu.edu/</a> <BR>Wichita State University ttp://<a href="http://www.wichita.edu/my/visitors/" target=_top>www.wichita.edu/my/visitors/</a> <BR>Friends University <a href="http://www.friends.edu/default1.asp" target=_top>http://www.friends.edu/default1.asp</a> <BR>University of Kansas School of Medicine <a href="http://wichita.kumc.edu/" target=_top>http://wichita.kumc.edu/</a> <BR>Webster University <a href="http://www.webster.edu/" target=_top>http://www.webster.edu/</a> <BR>Baker University  <a href="http://www.bakerspgs.edu" target=_top>www.bakerspgs.edu</a>  <BR>Phoenix University <a href="http://www.phoenix.edu/wichita/" target=_top>http://www.phoenix.edu/wichita/</a> <BR> <BR>The source:<a href="http://www.wichitakansas.org/living/higher_ed.html#more" target=_top>http://www.wichitakansas.org/living/higher_ed.html #more</a> <BR> <BR>I don&#39;t know if this helps/matters, but I&#39;m always in favor of accuracy <BR> <BR><a href="mailto:whoisbtk@yahoo.com">whoisbtk@yahoo.com</a> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 3068-->
+<!--Post: 3265--><!--Time: 1104704903-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3265"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->J<!--/name--></b></a><br>Username: <!--field:uname-->J<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 2:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->WhoIsBTK: <BR>I, too, am in favor of accuracy &#40;though I would argue that these are NOT all &#34;accredited&#34; 4-yr &#34;universities&#34;....some are satellite campuses of other out-of-state/city institutions and some, like Phoenix, are not exactly considered bastions of higher learning...but I digress.&#41; <BR> <BR>The number of universities in Wichita is irrelevant.  The point of the thread was to ask whether there was sufficient reason to believe BTK actually knew PJ Wyatt and, so far, it appears it&#39;s all speculation &#40;at least if public knowledge is considered&#41;.   <BR> <BR>As Lenena suggests, though, perhaps WPD knows something about a possible link between the two and they&#39;ve just kept this info to themselves. <BR> <BR>My thought was that if barking up the WSU/PJ Wyatt tree didn&#39;t yield anything, perhaps going with the bluegrass/fiddle-playing-grandfather angle would be more fruitful.  I&#39;m not sure HOW a pursuit of this angle could be done, mind you, but .... <BR> <BR>&#40;Another reason I started the thread was to focus on the KNOWN writings of BTK - rather than waste time on deconstructing those &#34;From BTK&#34; jokes.&#41;<!--/Text--></td></tr>
+<!--/Post: 3265-->
+<!--Post: 3270--><!--Time: 1104707902-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3270"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Analyzer<!--/name--></b></a><br>Username: <!--field:uname-->Analyzer<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 3:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It is interesting to note that from 1972 - 1976 &#40;the time of the Otero murders&#41; P.J. ran a Radio Supply Company, at 115 Laura in Wichita. <BR> <BR><a href="http://www.kansas.com/mld/kansas/news/special_packages/btk/archive/9463452.htm" target=_top>http://www.kansas.com/mld/kansas/news/special_pack ages/btk/archive/9463452.htm</a><!--/Text--></td></tr>
+<!--/Post: 3270-->
+<!--Post: 3280--><!--Time: 1104732726-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3280"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 10:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well J they may not be &#34;accredited&#34; but they are certainly not  &#34;car washes&#34; either. <BR> <BR>Thanks Whoisbtk for the research. <BR> <BR>Also J, you write: &#34;The number of universities in Wichita is irrelevant.&#34; <BR> <BR> <BR>Perhaps... perhaps not... after all it was you who wrote: &#34;The only other university connection I know of is his line &#34;Haven&#39;t I seen you at the University?&#34; This still does not mean he was a student &#40;and some have suggested it may have been said in reference to a bar named &#34;The University&#34;&#41;&#34;... <BR> <BR>This contradicts your dismissal of my post and your own... unless, what I&#39;m interpreting as a sarcastic crack about &#34;car washes,&#34; was really a sincere effort to broaden the definition and/or references.<!--/Text--></td></tr>
+<!--/Post: 3280-->
+<!--Post: 3284--><!--Time: 1104733942-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3284"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->J<!--/name--></b></a><br>Username: <!--field:uname-->J<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 10:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Q: <BR>Sorry, no I hadn&#39;t meant any sarcastic crack at all.  I apologize if it seemed that way. <BR> <BR>I literally meant his saying &#34;Haven&#39;t I seen you at the university?&#34; could have also meant &#40;as suggested elsewhere&#41; that he was referring not to an institution of higher learning but to a business that has &#34;University&#34; in its name, such as &#34;University Church&#34;, &#34;University Bar&#34;, and - yes - &#34;University Car Wash&#34; &#40;I&#39;ve actually seen such a place...I think in TX!&#41;. <BR> <BR>So, yes, he could have been referring to a business OR to one of a handful of colleges in town.  This, as I said, is the only &#34;university connection&#34; I&#39;ve heard of - other than the use of the photocopy machine at WSU. <BR> <BR>Now, I still maintain that the number of universities in Wichita &#40;whether colleges or places of business with &#34;university&#34; in the name&#41; provides NO compelling evidence to suggest BTK knew PJ Wyatt. <BR> <BR>Am I missing something here?  <!--/Text--></td></tr>
+<!--/Post: 3284-->
+<!--Post: 3288--><!--Time: 1104740367-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3288"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 12:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->My point is that &#34;&#34;Haven&#39;t I seen you at the university?&#34; implies a school &#34;The&#34; but if the bar you mention then the &#34;The&#34; makes it very personal... for example when Miami football players reffer to University of Miami as &#34;The U&#34; <BR> <BR>Not to continue an argument but 7 is many in my opinion... especially for a town the size of Wichita. <BR> <BR>Question: What was the &#34;Haven&#39;t I Seen you at...&#34; quote in ref to origiunally in BTKs letter... haven&#39;t I seen...??? <!--/Text--></td></tr>
+<!--/Post: 3288-->
+<!--Post: 3450--><!--Time: 1104914626-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3450"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 12:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The BTK-WSU connection wasn&#39;t fully established or theorized until four years after the Katheryn Bright murder. <BR>The murderer of Katheryn Bright in 1974 said to her brother Kevin &#34;Haven&#39;t I seen you at the University&#34; and investigators assumed he probably ment WSU as the university but since Kevin didn&#39;t attend there they didn&#39;t have much to go on. The murderer had also told the Brights that he was wanted in California and needed there car so this didn&#39;t exactly imply that the murderer may have been a student himself at WSU. More possibly some fugitive with a jail record in California who had some connection to Wichita and was familiar with the WSU campus because some person or persons he knew went there.  <BR>In 1978 the 5th generation photocopied poem &#39;Oh Death to Nancy&#39; as composed by BTK was sent along with a two page letter and a detailed crime scene sketch to KAKE TV. The poem &#39;O&#39; Death&#39; that BTK used as the basis for his poem was used by P.J. Wyatt in a folklore class she taught at WSU and was published in a WSU textbook that she used in her classes.  <BR>The 5th generation copy that BTK sent to KAKR-TV was determined to come from a copy machine on the WSU campus but the BTK-WSU connection is far more close of a possiblity than BTK using a WSU copy machine and P.J.Wyatt being an instructor there who taught the poem/folksong in her classes. <BR>The copy machine that BTK used was a Xerox machine in the basement of the Life Sciences Building at WSU now called Hubbard Hall. <BR>P.J. Wyatt taught folksong workshops in the Life Sciences building. <BR>This narrows the BTK-WSU connection to a single building.<!--/Text--></td></tr>
+<!--/Post: 3450-->
+<!--Post: 3452--><!--Time: 1104930429-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3452"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 5:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK´s story about beeing wanted in CA IMO was a lie just like he said he wouldn´t hurt them.  <BR>His reason for doing it could be many but 2 reasons I think of is: <BR> <BR>1. He gives his victim/victims this story to make them belive that he is less dagerous thatn he in fact is, and that make the victim belive that they have a chance to survive and therefore are doing exactly like he says, he gets a victim who does NOT fight/resist. <BR> <BR>2. BTK has a &#34;crush&#34; on the Zodiac Killer and wanted people &#40; and himself&#41; to belive that he is the ZK. He kind of &#34;become&#34; the ZK when he goes out on his killing trips. ZK was operating in CA. <BR> <BR>In several of his killings he gave the victim a false story that sounded like he after a car and money because he was on som kind of flee, so that they didn´t understand that he in fact was a psycho serial killer, before it was too late. <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 3452-->
+<!--Post: 3467--><!--Time: 1104946690-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3467"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 9:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Skov, your post had literally nothing to do with PJ, WSU, or the poem.<!--/Text--></td></tr>
+<!--/Post: 3467-->
+<!--Post: 3515--><!--Time: 1104973273-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3515"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 5:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->P.J. Wyatt classes of interest in BTK investigation: <BR> <BR>English 440-American Folklore- <BR> Spring 1973-M-W-F- 8:30 am. <BR> <BR>English 540-American Folklore- <BR> Spring 1974-Spring 1975-Spring 1976-M-W-F-8:30 am. <BR> <BR>English 540-American Folklore- <BR> Spring 1977-M-W-F-10:30 am. <BR> <BR>English 580-Folksong Workshop- <BR> Spring 1975-Sat-Sun-4/5-4/6- 8 am-5 pm. <BR> <BR>English 581-Folksong Workshop- <BR> Spring 1975-Sat-Sun-4/26-4/27- 8am-5pm. <BR> <BR>English 750-Folksong Workshop- <BR> Spring 1976-Sat-Sun-4/24-4/25- 8 am-5 pm.  <BR> Spring 1977-Sat-Sun-4/16-4/17- 8 am-5 pm. <BR> Spring 1977-Sat-Sun-4/23-4/24- 8 am-5 pm. <BR> Spring 1978-Sat-Sun-4/22-4/23- 8 am-5 pm. <BR> Spring 1978-Sat-Sun-5/6-5/7-   8 am-5 pm. <BR> <BR>Classes held in WSU Life Sciences Building. <BR> <BR>Nancy Fox Murder 12/8/1977. <BR>BTK&#39;s Oh Death to Nancy poem recieved by KAKE-TV on 2/10/1978. 5th generation copy traced to Xerox machine in basement of WSU Life Sciences Building. <BR> <BR>The two Spring 1977 Folksong Workshops would be of particular interest since these would have been the last workshops that discussed the song &#39;O Death&#39; prior to the BTK Oh Death to Nancy poem.<!--/Text--></td></tr>
+<!--/Post: 3515-->
+<!--Post: 6242--><!--Time: 1107629032-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6242"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lmuncy316<!--/name--></b></a><br>Username: <!--field:uname-->Lmuncy316<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 10:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Johno, 440 was also used as a user name on the &#34;from BTK&#34; board.  440 is also an area code in Ohio.  And, I was able to get a ZIP code for Jewel, Ohio from the &#34;from BTK&#34; board.<!--/Text--></td></tr>
+<!--/Post: 6242-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/236">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/236" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

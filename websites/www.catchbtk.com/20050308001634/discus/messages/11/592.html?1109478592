@@ -1,0 +1,245 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 592/Close Calls-->
+<!--Level 1: 592/Close Calls-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Close Calls</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Close Calls</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+Close Calls
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=592"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=592"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 9139--><!--Time: 1109401541-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9139"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 11:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Chat r oo m way o ff ? <BR> <BR>Oh yeah? How about Lilymarie on 2/13 BTK Theories/ BTK Occupations <BR> <BR>Maybe he works at the animal shelter as a hobby? Just for fun....he likes to work on the days that time has expired and it&#39;s time to be &#34;put down&#34;.  <BR> <BR>Lilly, I&#39;ll bet he sh&#42;t when he read that! As the friendly neighborhood dog catcher he could &#34;watch without being watched&#34;. Meanwhile back at the shelter he could facilitate and observe death daily. <BR> <BR>Any other close calls out there? Let the irony begin!    <!--/Text--></td></tr>
+<!--/Post: 9139-->
+<!--Post: 9189--><!--Time: 1109415238-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9189"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 2:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In the final minutes of December 20th...&#40;General BTK Discussion&#41; <BR> <BR>Q wanted to know what was north of Ketchi. <BR> <BR>Now we all know.<!--/Text--></td></tr>
+<!--/Post: 9189-->
+<!--Post: 9190--><!--Time: 1109415566-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9190"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 2:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Be sure to reread Steve_huff&#39;s description of BTK in the Profile thread from 12/06. <BR> <BR>Boy, that huff really creeps me out! <BR>                - Denny the Dog Catcher<!--/Text--></td></tr>
+<!--/Post: 9190-->
+<!--Post: 9195--><!--Time: 1109422928-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9195"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 5:02 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Please continue with your Haldol. Give it more time, it obviously hasn&#39;t kicked in yet. This obsession you have for keeping records of words from months ago only underscores your psychosis.<!--/Text--></td></tr>
+<!--/Post: 9195-->
+<!--Post: 9198--><!--Time: 1109424368-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9198"><font face="Verdana" size="1"><b><!--email--><a href="mailto:rwmm@swbell.net" target="_blank"><!--/email--><!--name-->Lilymarie<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Lilymarie<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 5:26 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lostdog - I had forgotten all about that until this morning! In all fairness - that was a sarcastic comment on my part in response to some folks that I thought had gone too far. But thanks for the reminder! <BR> <BR>George...there is probably stuff I don&#39;t know about between you and Lostdog...but that was more like a comment I would make - and regret later. When I read this thread - I don&#39;t think that was deserved &#40;based on this thread&#41;.<!--/Text--></td></tr>
+<!--/Post: 9198-->
+<!--Post: 9234--><!--Time: 1109440673-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9234"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 9:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lily, three knee-jerk reactions from me but he ridiculed people I respect and attacked me personally. No apologies. We all go way overboard once in a while.<!--/Text--></td></tr>
+<!--/Post: 9234-->
+<!--Post: 9292--><!--Time: 1109463876-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9292"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 4:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->People - this is a wonderful opportunity for us to see what worked and what didn&#39;t.  What we learn here could really help all us web sleuths in our next endeavors.  For instance, I seriously debated this guy as having Moriarty-level intelligence.  Does he have more than it appears on the outside?   Let&#39;s find out!  This is amazingly fascinating.  The data&#39;s going to come in fast and furious now, so let&#39;s get ready and learn.  I was WAY OFF in so many ways, but I was on the money with a few - I actually nailed his age &#40;end of WWII&#41;.  And even our misses uncovered some great stuff.  So please - go ahead and dig up the old posts - take mine for starters if you must - just be kindly about it.  I am just SO PSYCHED that he was caught!  YAHOO!!!<!--/Text--></td></tr>
+<!--/Post: 9292-->
+<!--Post: 9299--><!--Time: 1109465413-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9299"><font face="Verdana" size="1"><b><!--email--><a href="mailto:rwmm@swbell.net" target="_blank"><!--/email--><!--name-->Lilymarie<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Lilymarie<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 4:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Me too, PAX56!! Psyched, relieved and ready to celebrate!! I sort of had a sense of &#34;let down&#34; after it sunk in thinking I would lose my catch BTK friends - but you&#39;re right - there&#39;s going to be a lot of fun now that we have the advantage of &#34;hindsight&#34;!! <BR> <BR>There were a lot of folks that had him pin&#39;d on some of the important elements. For example - those that said he was religious - I totally didn&#39;t believe that! <BR> <BR>Thanks for your nice post.<!--/Text--></td></tr>
+<!--/Post: 9299-->
+<!--Post: 9303--><!--Time: 1109466061-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9303"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 5:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Pax- You touched on something I&#39;ve been thinking about. Do you guys think the information will really come flooding in?  <BR>That was my first thought as well, but I really doubt it now. <BR> <BR>The DA&#39;s office is going to take no chances of screwing up this prosecution. After what happend with the O.J. case  <BR>I think they will err on the side of caution in every way. I wouldn&#39;t blame them one bit for keeping tight lipped  <BR>until he is found guilty on every single count and sentenced. <BR> <BR>If I&#39;m right the discussions will be on a different level but still contain the same amount of speculation and theory  <BR>that we have all grown to love. I look forward to our continued discussions and the new threads that develop from  <BR>the next phase of the case. <BR> <BR>Tom - Have you secured a new domain? My suggestions: <BR> <BR>lynchbtk.com <BR>frybtk.com <BR>lockhispunkassupandthrowawaythekey.com <BR> <BR>iq <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 9303-->
+<!--Post: 9311--><!--Time: 1109468029-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9311"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 5:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m lovin&#39; it, iq! &#40;lmao, with apologies to McDonald&#39;s&#41; <BR> <BR>You&#39;re absolutely right, LE will be stingy with info, but now the major media&#39;s on it, and they have a suspect, so they will undoubtedly do a lot of digging for us. <BR> <BR>I go with l&#42;key.com - old sparky would be the easy way out, and a lynchin&#39; would be wrong, not because of the injustice, but because he could claim victimhood.  That ol&#39; boy has some serious facin&#39;-up time to do, and he best be started.<!--/Text--></td></tr>
+<!--/Post: 9311-->
+<!--Post: 9330--><!--Time: 1109478592-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9330"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 8:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->And that was an impressive DA. Of the folks I saw on CNN, the DA seemed the most charismatic and sincere -- no empty words.<!--/Text--></td></tr>
+<!--/Post: 9330-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/592">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/592" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

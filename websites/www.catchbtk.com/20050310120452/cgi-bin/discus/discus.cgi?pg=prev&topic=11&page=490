@@ -1,0 +1,253 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 482/440 link-->
+<!--Level 1: 482/440 link-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: 440 link</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">440 link</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+440 link
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=482"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=482"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 7154--><!--Time: 1108239599-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7154"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 12:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This is continued from the to/from messages thread.  I will post again the information so as not to confuse: <BR> <BR>Just for gits and shiggles, I googled 440 as a road or address for Kansas.  <BR> <BR>The result was this:  <BR> <BR>Oak Ridge Stables &#40;Shawnee Mission Park&#41;  <BR>440 Ogg Road, Lenexa, Kansas  <BR>Tel: &#40;913&#41; 888-8295; Contact: Bill Thomas  <BR>&#40;Horse stables, etc.&#41;  <BR> <BR>From this: <a href="http://courts.jocoks.com/cs_asup_cs.htm" target=_top>http://courts.jocoks.com/cs_asup_cs.htm</a>  <BR> <BR>Interesting with the, &#34;Bill Thomas,&#34; &#34;barn door,&#34; &#34;spur,&#34; Indian references and perhaps the clove hitch knot, isn&#39;t it? <BR> <BR>440 also stands for &#34;wanted suspect.&#34; <BR> <BR>I imagine that not only does he operate a ham radio, but has a police scanner as well to which he avidly listens. <BR><!--/Text--></td></tr>
+<!--/Post: 7154-->
+<!--Post: 7156--><!--Time: 1108240032-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7156"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 12:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just transfer som posts connected to the 440 theme, from the &#34;to BTK&#34; thred: <BR> <BR>Posted on Saturday, February 12, 2005 - 12:10 pm:      <BR> <BR>-------------------------------------------------- ------------------------------ <BR>HEY GREAT find!  <BR> <BR>Look at the name BILL THOMAS as in  <BR>BILL THOMAS KILLMANN  <BR> <BR>There has also been stories about that a son of owners of a stable was BTK. I´ll find it.  <BR>I guess you should start a 440 thred, otherwise Tom vill delete ouer info.  <BR> <BR>I´ll rteasech more on this and let you know if I find anything.  <BR>Skov <BR>Username: Skov <BR> <BR>Registered: 12-2004 <BR> Posted on Saturday, February 12, 2005 - 12:17 pm:      <BR> <BR>-------------------------------------------------- ------------------------------ <BR>Here is the stable rumor storie:  <BR> <BR>The gossip I heard over and over was that the BTK was the member of the  <BR>&#62; family who owned Bridle and Saddle, and that he was never arrested  <BR>&#62; because of the family&#39;s money and influence.  <BR> <BR> <BR><a href="http://groups.google.dk/groups?q=%22%2BStables%22%2B%2" target=_top>http://groups.google.dk/groups?q=%22&#43;Stables%22&#43;%2</a> Bbtk&#43;%2Bwichita&amp;hl=en&amp;lr=&amp;safe=off&amp;selm=stu9c.1494 1%24mf.3572%40okepread05&amp;rnum=1  <BR><!--/Text--></td></tr>
+<!--/Post: 7156-->
+<!--Post: 7157--><!--Time: 1108240513-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7157"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 12:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Now, it is very interesting to note that the first link was for Johnson County Community Services, i.e. for anyone assigned to community service by the courts...they can go to that location to fulfill the requirement.  It appears that this has only been open since about 1993 or so.   <BR> <BR>This leads me to believe from personal experience &#40;don&#39;t ask&#41;, that the people that run the community services programs have ties to the parole/probation system either as a civilian by computer or as a result of a change of position.<!--/Text--></td></tr>
+<!--/Post: 7157-->
+<!--Post: 7158--><!--Time: 1108240646-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7158"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 12:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Also interesting in the park is: <BR> <BR>Kill Creek Streamway Park <BR> <BR><a href="http://jcprd.com/parks_facilities/kill_creek_strmwy.cfm" target=_top>http://jcprd.com/parks_facilities/kill_creek_strmw y.cfm</a><!--/Text--></td></tr>
+<!--/Post: 7158-->
+<!--Post: 7258--><!--Time: 1108331750-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7258"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stealth<!--/name--></b></a><br>Username: <!--field:uname-->Stealth<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 13, 2005 - 1:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Or perhaps BTK uses google to produce his clues...<!--/Text--></td></tr>
+<!--/Post: 7258-->
+<!--Post: 7260--><!--Time: 1108335721-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7260"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 13, 2005 - 3:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->As a control, pick a random 3 didget number and google it to see if you come up with as many BTK&#39;s as you can with 440.<!--/Text--></td></tr>
+<!--/Post: 7260-->
+<!--Post: 7264--><!--Time: 1108338426-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7264"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 13, 2005 - 3:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bmodule, <BR> <BR>You are exactly correct.  I am a statistical sociologist by education, not by trade.  Therefore, your comment on the control factor is right on the money.   <BR> <BR>The only thing I googled was &#34;440 road Kansas.&#34;  The only reason I did that was based on the From BTK board with the single identification of the number 440.  I then thought, for gits and shiggles, that it might be a road based on the last drops.  &#40;I&#39;m just trying to give you my reasoning pattern&#41;.  I did not enter BTK in the search; however, I will enter another random three digit number, &#34;road Kansas,&#34; and see what I come up with as the control. <BR> <BR>It does make sense.  Check out my post on Occam&#39;s Razor in the post regarding what the victims have in common.  I would be interested on your thoughts regarding it. <BR> <BR>Thanks<!--/Text--></td></tr>
+<!--/Post: 7264-->
+<!--Post: 7380--><!--Time: 1108440032-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7380"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lmuncy316<!--/name--></b></a><br>Username: <!--field:uname-->Lmuncy316<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 14, 2005 - 8:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Also, one of the English classes offered at Wichita State in which BTK was a student was called English 440<!--/Text--></td></tr>
+<!--/Post: 7380-->
+<!--Post: 7381--><!--Time: 1108441307-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7381"><font face="Verdana" size="1"><b><!--email--><a href="mailto:crazyhorse4440@hotmail.com" target="_blank"><!--/email--><!--name-->Lola<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Lola<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 14, 2005 - 8:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Also, there is John Deere tractor series called 440, not that it means anything.<!--/Text--></td></tr>
+<!--/Post: 7381-->
+<!--Post: 7384--><!--Time: 1108442731-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7384"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 14, 2005 - 8:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Please keep in mind, you are researching something that has NO LINK WHATSOEVER to BTK. <BR> <BR>I don&#39;t mean to be rude, I just know that once you dive in to a topic it&#39;s very easy to forget where it started. <BR> <BR>440 was the user name for someone that claims to be BTK posting on this site. Do you really think that was BTK? Do you believe it enough to spend hours researching something that, more than likely, has nothing to do with the case. <BR> <BR>I know it&#39;s none of my business, and if you feel this is important, go ahead. I just think if you&#39;re going to put a lot of time and effort into cracking this case, it&#39;s better spent on trying to tie the facts together. <BR> <BR>I know what you are thinking, but I&#39;m really not an arrogant a&#42;&#42;hole. Just puting my two cents in. <BR> <BR>iq<!--/Text--></td></tr>
+<!--/Post: 7384-->
+<!--Post: 7387--><!--Time: 1108448038-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7387"><font face="Verdana" size="1"><b><!--email--><a href="mailto:crazyhorse4440@hotmail.com" target="_blank"><!--/email--><!--name-->Lola<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Lola<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 14, 2005 - 10:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Iq~ <BR>I didn&#39;t research it, I just know it, I live on a farm.  Sorry for taking up your time.<!--/Text--></td></tr>
+<!--/Post: 7387-->
+<!--Post: 7401--><!--Time: 1108466054-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7401"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jilleng<!--/name--></b></a><br>Username: <!--field:uname-->Jilleng<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 15, 2005 - 3:14 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Iq - My two cents is you were very rude to Lola..anybody and everybody can speculate til we are blue in the face about what the 440 means but really only BTK knows.  Maybe BTK is a farmer also and the 440 means just what Lola said, a john deer tractor...you should leave the critiquing of others posts to Tom.<!--/Text--></td></tr>
+<!--/Post: 7401-->
+<!--Post: 7407--><!--Time: 1108477175-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7407"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 15, 2005 - 6:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I knew that post would be taken wrong. <BR> <BR>My statement was not directed at Lola, or anyone else for that matter. <BR> <BR>Jilleng- <BR>You obviously missed my point and your statement poves that, &#34;only BTK knows&#34;? Is there a link between BTK and 440?  <BR> <BR>I am not being critical and I am not suggesting that any of the theories about 440 are incorrect.  <BR>Yes, everyone is free to speculate and if you read more of my posts I think that you will find I am behind it 100%. <BR> <BR> <BR>My post was to remind everyone &#40;and inform anyone that didn&#39;t know&#41;_ that this discussion is based on the following post  <BR> <BR>&#34;Messages from BTK&#34; 12/23: <BR>From: 440 <BR> <BR>CVNCTAHAWYDAEAFNRLLBQDHIIHLM24BTS9NK24VPOIXYFWDMLZ PCCLZFVYHAKMSTP <BR> <BR>If you really think that this is a message from BTK and you can come up with something, more power to &#39;ya.  <BR>And I mean that sincerely. <BR> <BR>iq <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 7407-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/482">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/482" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

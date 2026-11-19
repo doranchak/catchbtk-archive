@@ -1,0 +1,244 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 134/&#34;I&#39;ll close your eyes till you can&#39;t see&#34;-->
+<!--Level 1: 134/&#34;I&#39;ll close your eyes till you can&#39;t see&#34;-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: &#34;I&#39;ll close your eyes till you can&#39;t see&#34;</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">&#34;I&#39;ll close your eyes till you can&#39;t ...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+&#34;I&#39;ll close your eyes till you can&#39;t see&#34;
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=134"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=134"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 867--><!--Time: 1093253188-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST867"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 23, 2004 - 2:26 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This line in btk&#39;s revised lyrics of Oh Death struck a chord with me. I, as have many, speculated that btk does something to his victims that the police have not released to the public. Something he describes in his letters that lets the police know it is actually him. I believe this line confirms my suspicions that btk does something to the eyes of his victims. It might just be severe beatings around the eyes or something more. This might also account for the glasses used in the &#34;call the chief&#34; message.<!--/Text--></td></tr>
+<!--/Post: 867-->
+<!--Post: 871--><!--Time: 1093281289-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST871"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Muskogee<!--/name--></b></a><br>Username: <!--field:uname-->Muskogee<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 23, 2004 - 10:14 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Very clever idea.  He wouldn&#39;t be the first serial killer to mutilate the eyes of his victims.  I don&#39;t think we know enough &#40;at this point&#41; to say this is the case, but I think it&#39;s a great idea and very possible.<!--/Text--></td></tr>
+<!--/Post: 871-->
+<!--Post: 874--><!--Time: 1093291785-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST874"><font face="Verdana" size="1"><b><!--email--><a href="mailto:zodiacfiles@aol.com" target="_blank"><!--/email--><!--name-->Ed_neil<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 23, 2004 - 1:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That is an interesting observation, however, why then was Vicki Wegerle not linked to BTK until BTK linked himself to the crime 5 months ago?  This suggests to me that, whatever signature BTK has, he&#39;s not leaving it at every crime scene, but only at the ones officially attributed to him.  I&#39;ve been wondering if he did what Z threatened to do in his 11-9-1969 letter: <BR> <BR><font color="0000ff">So I shall change the way the collecting of slaves.  I shall no longer announce to anyone.  when I comitt my murders, they shall look like routine robberies, killings of anger, &#43; a few fake accidents, etc.  The police shall never catch me, because I have been too clever for them.</font> <BR> <BR>IF BTK studied Z &#40;and I think it&#39;s pretty obvious he has&#41;, this is one reason why I think he has committed many more murders than have been attributed to him.  And this is why Vicki Wegerle was not linked to him for 17½ years.<!--/Text--></td></tr>
+<!--/Post: 874-->
+<!--Post: 875--><!--Time: 1093296686-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST875"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Beckyks<!--/name--></b></a><br>Username: <!--field:uname-->Beckyks<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 23, 2004 - 2:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ed - I agree 100%.  Haven&#39;t all/most of the murders attributed to BTK been officially linked only AFTER receiving confirmation from BTK himself???  The LE might have suspected BTK, but they were only confirmed after receiving letters. <BR> <BR>Example:  Kathryn Bright - he&#39;s never claimed that murder and some people still question whether it was him or not.  Didn&#39;t I read that he claimed he never left any witnesses - yet the killer had to know that Kevin lived... <BR> <BR>The LE wait for BTK to tell them what he did and what he is going to do.  They are reactive.<!--/Text--></td></tr>
+<!--/Post: 875-->
+<!--Post: 883--><!--Time: 1093350482-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST883"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, August 24, 2004 - 5:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I found an intresting story on Kansas.com that might support this idea. Dated 01/16/74, Headline, <BR>FOUR IN WICHITA FAMILY FOUND SLAIN AT HOME by the Wichita Eagle. &#34;The four victims were all bound. Two of them had bruises on their cheeks and the other two had bruises around their eyes&#34; Chief Floyd Hannon said.  <BR> <BR>In response to Ed&#39;s post, I think you are right. After the otero, bright, vian and fox murders I do believe he changed his M.O. slightly to keep invetigators guessing. <BR> <BR>The main point I was trying to make was in the original 4 cases connected to BTK he was able to describe the crime scene in his letters to police things only the killer would have knowledge of. Information that was not given to the public. While there is this printed in the story I believe the beatings around the eyes where minimalized. Also, after this story I can find no mention of them. It was published before authorities knew what they were dealing with. I do agree that he ceased this behavior just as he stated in his letter &#34;you guess the motive and the victim&#34;. I agree just like zodaic did before him. &#34;I will no longer announce, when I commit my murders.&#34;<!--/Text--></td></tr>
+<!--/Post: 883-->
+<!--Post: 884--><!--Time: 1093365536-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST884"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Muskogee<!--/name--></b></a><br>Username: <!--field:uname-->Muskogee<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, August 24, 2004 - 9:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ed, very good point.  However, I still believe if BTK left bruises around the eyes, rather than remove/stab/or leave other UNUSUAL marks around the eyes, the WPD would not have necessarily made the connection between him and unknown victims.  Bruising around the eyes is commonly seen in all kinds of murders &#40;and other deaths&#41;.  It can be the result of direct blunt force trauma to the eyes or nose &#40;ie. punching&#41;, or skull fractures &#40;particularly basilar&#41; caused by blunt force trauma to the head.  This leads me to believe that, IF BTK did this to EVERY victim, there could easily be some victims which were not linked to him. <BR> <BR>Scbenson, good find with the newspaper article.  Keep in mind, though, that newspapers mis-represent injuries VERY often &#40;in my experience&#41;.  This is not to say that what you&#39;ve found is incorrect, just warning that it could be &#40;especially since it&#39;s not mentioned anywhere else that you could find&#41;.  Alternately, it could be something the police asked papers NOT to print after it appeared in the Eagle, so it could be very important.<!--/Text--></td></tr>
+<!--/Post: 884-->
+<!--Post: 885--><!--Time: 1093371027-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST885"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, August 24, 2004 - 11:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->My point exactly the police asked the media to surpress any information about actual injuries to the victims after they realized they where dealing with a serial killer. BTK choose his own name. Bind, Torture, Kill. I have yet to hear any person actually say how he tortures his victims.<!--/Text--></td></tr>
+<!--/Post: 885-->
+<!--Post: 887--><!--Time: 1093371300-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST887"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, August 24, 2004 - 11:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I read somewhere that Tom Harris used the BTK murders as a guide when writing Red Dragon. He actually did extensive research with profilers like john douglas and had access to actual fbi files. I believe in the book the serial killer does something to the victims eyes.<!--/Text--></td></tr>
+<!--/Post: 887-->
+<!--Post: 891--><!--Time: 1093377888-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST891"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Beckyks<!--/name--></b></a><br>Username: <!--field:uname-->Beckyks<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, August 24, 2004 - 1:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In the book, didn&#39;t he remove the eyes and put mirrors in the eye sockets? <BR> <BR>Not that I think BTK did that, just trying to answer the question...<!--/Text--></td></tr>
+<!--/Post: 891-->
+<!--Post: 1018--><!--Time: 1094836844-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1018"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, September 10, 2004 - 10:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think beckyks is right about the mirror in the eye sockets and I also agree btk did not do anything of that sort to his victims. My point was Harris read the Btk file saw something about the eyes of btk&#39;s victims and his imagination did the rest. Intresting drawing involving BTK looking <BR>in the mirror at his reflection that tom just posted. Mabye thats where harris got the idea about the mirrored eyes.<!--/Text--></td></tr>
+<!--/Post: 1018-->
+<!--Post: 1019--><!--Time: 1094842279-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1019"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Will_graham<!--/name--></b></a><br>Username: <!--field:uname-->Will_graham<!--/field--><br><br>Registered: <!--field:registered-->9-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, September 10, 2004 - 11:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->He does remove the eyes and replaces them with mirrors. Also, if you remeber in the first crime scene he put mirrors in the eyes of all the dolls.<!--/Text--></td></tr>
+<!--/Post: 1019-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/134">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/134" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,232 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 344/What exactly does a railroad detective do?-->
+<!--Level 1: 344/What exactly does a railroad detective do?-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: What exactly does a railroad detective do?</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">What exactly does a railroad detectiv...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+What exactly does a railroad detective do?
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=344"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=344"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4437--><!--Time: 1106362021-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4437"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 6:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Supposedly BTK’s mother was dating a railroad detective? <BR> <BR>I’m clueless.  Please give me the general job responsibilities that a railroad detective would perform back in the early fifties. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4437-->
+<!--Post: 4610--><!--Time: 1106585835-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4610"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hkenley@san.rr.com" target="_blank"><!--/email--><!--name-->Chiefron<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Chiefron<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 8:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->They were basically private police forces used by the rails to investigate crimes on the rail and also acted as armed security in some cases for valuable shipments. <BR> <BR>More likely I think that it was wishful thinking. BTK seems to have an obsession with rail roads. If his timeline is close, during his childhood, movies like Whispering Smith and others glamorized the life of the rail detectives. Perhaps he was just fantasizing.  <BR> <BR>On the other hand, there was a huge volume of rail traffic through Wichita at the time. Several north south lines and an east west line all merging almost dead center of where the crimes were committed. The Santa Fe, Burlington Northern, Union Pacific etc, all merge within half a mile of the I-135/Kellog interchange. I-135 as you see it today was not there in BTK&#39;s childhood, it was a much smaller rural U.S. route at that time, not a major interstate highway as it is now. It would not have been inconceivable that his mother did date on of these detectives. <BR> <BR>I grew up about a mile from a station along the Milwaukee road in central Montana. One thing that I remember clearly, is that the closer you got to the depot, the more likely the residents of homes in the area were to be rail employees. If BTK remained in those neighborhoods, I would not be surprised if at some point he worked as a rail employee of some type.  <BR> <BR>Also if we are looking for a reason for BTK to come back out, maybe it lies here. Perhaps BTK&#39;s pacifying agent had somethign to do with the rail. Every day another short line in Kansas dies. Perhaps BTK derived his livelihood from a short line in the area. In fact I believe the stretch of Santa Fe that runs through Wichita proper has just been abandoned after 2 years of non-use. Just speculation mind you, but a possible avenue of investigation. <BR> <BR>Ron<!--/Text--></td></tr>
+<!--/Post: 4610-->
+<!--Post: 4618--><!--Time: 1106591828-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4618"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 10:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Chiefron, <BR> <BR>Thanks for your answer.  I forgot about the freight-protection aspect of the railroad.   <BR> <BR>If BTK’s mother had dated a railroad detective, then perhaps it had inspired BTK to bewilder people with his own misdeeds, and then gloat that “no detective could solve HIS crimes.”   <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4618-->
+<!--Post: 5739--><!--Time: 1107313824-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5739"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Doom<!--/name--></b></a><br>Username: <!--field:uname-->Doom<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 7:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good point Iceteajan he did learn it somewhere and in steps and bewildering people &#40;LE&#41; with misinformation is a greater step up for him. <!--/Text--></td></tr>
+<!--/Post: 5739-->
+<!--Post: 5749--><!--Time: 1107325049-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5749"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 10:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Iceteajan <BR> I posted this in the &#34;North of Kechi&#34; thread, but it gives more detail about rail road detectives. <BR> <BR> <BR>Rail Road Detectives <BR> <BR> <BR>The term “railroad detective” is consistently applied only to members of the Pinkerton Detective Agency.  They were prevalent in the early days of the agency, and constituted the only effective interstate police force at that time. Because railroads engaged in interstate commerce, they needed interstate police.  Local law enforcement agencies stopped at the state line.  &#40;Butch Cassidy and the Sundance Kid is reasonably accurate when it says the “Pinkertons” kept chasing them across state lines.&#41;  The FBI, created later, was the first real interstate government police agency. It was modeled after the Pinkerton Detective Agency. <BR> <BR>In addition to the FBI, Congress created interstate jurisdiction for another category of law enforcement officers: “Railroad Police”.  But while congress allowed states to establish railroad police, it didn’t them. The states created, trained, and commissioned railroad police, but they didn’t fund them either.  That was done by the railroads that actually hired, paid, and equipped them.  <BR> <BR>By 1992, 2,565 railroad police, fully commissioned law enforcement officers, were privately employed by major U.S. railroads. <a href="http://www.totse.com/en/law/justice_for_all/busgovto.html" target=_top>http://www.totse.com/en/law/justice_for_all/busgov to.html</a> <BR> <BR>Because fifty state legislatures have re-defined the term “railroad police”, and those titles are modified by the employing railroad, there is no uniform label for law enforcement working for the railroads.  They are called “detectives” “railroad police” “railway policemen” “special agents”, and the title is usually preceded by the name of the railroad they worked for, such as: “Rock Island Railroad Special Agent”. <BR> <BR>I was surprised to learn that railroad police are still around. Anyone who wants to apply for employment as a railroad “special agent” can apply online: <a href="http://www.theblueline.com/feature/ILUPRR1.html" target=_top>http://www.theblueline.com/feature/ILUPRR1.html</a>. They have “911” numbers: <a href="http://www.nrhs.com/railfan/emergency.htm" target=_top>http://www.nrhs.com/railfan/emergency.htm</a> <BR> <BR> <BR>Rail Road police in Kansas: <BR> <BR>This is the current law: <BR>K.S.A. 66-524. Railroad policemen: <BR>“Any railroad company may appoint one &#40;1&#41; or more persons to be designated by such railroad company as a railroad policeman to aid and supplement the law enforcement agencies of this state in the protection of railroad property and the protection of the persons and property of railroad passengers and employees…” <BR><a href="http://www.kslegislature.org/legsrv-statutes/getStatute.do" target=_top>http://www.kslegislature.org/legsrv-statutes/getSt atute.do</a> <BR> <BR>The Kansas Law Enforcement Officers Memorial has six railroad policemen:  <BR>Charles F. Artz: Rock Island Railroad Special Agent in Wichita, died 6/27/1920 <BR>Arch D. Brandon, Rock Island special agent, died 4/19/1931 <BR>Ray Cunningham, Frisco detective, died 5/28/1915 <BR>Will C. Reed, Rock Island Railroad Special Agent in Wichita, died 7/4/1920 <BR>John Sherman, Union Pacific Special Agent/Railroad Police Officer, died 8/31/1927, and  <BR>William E. Waers, Rock Island Railway Police, died 1/11/1922, <BR>&#40;<a href="http://www.kshs.org/projects/lem/directory/lemnames03.htm" target=_top>http://www.kshs.org/projects/lem/directory/lemname s03.htm</a>&#41; <BR> <BR>Bottom lines here: <BR>1.	When BTK says his mother dated a “railroad detective” it’s a generic term like “cop” and means a commissioned law enforcement officer privately employed by a railroad. <BR>2.	The line in Kechi was owned by the Chicago, Rock Island &amp; Pacific R. R. <BR>3.	“A Cyclopedia Of State History”, written by Frank W. Blackmar, was published in 1912.  &#40;The information was collected in 1910.&#41;  It describes Kechi as a village on the Chicago, Rock Island &amp; Pacific R. R., with a population of 100, located 8 miles northeast of Wichita.  &#40;<a href="http://skyways.lib.ks.us/genweb/archives/1912/k/kechi.html" target=_top>http://skyways.lib.ks.us/genweb/archives/1912/k/ke chi.html</a>&#41; <BR>4.	Kechi is listed in an article on historic railroad depots, <a href="http://www.simpson.edu/~RITS/structures/ckndepotsmatrow/cknmatrow.html" target=_top>http://www.simpson.edu/~RITS/structures/ckndepotsm atrow/cknmatrow.html</a>, that shows a depot built by CK&amp;N railroad for the CRI&amp;P in Kechi.  The article notes that the depots, often the largest buildings in the towns, were used for dances, church services, schools, and other social gatherings.  The depots were 22ft wide and 45-55 ft long. [Link to Kechi depot photo circa 1905: <a href="http://kechiks.com/historickechi/kechipic06.html" target=_top>http://kechiks.com/historickechi/kechipic06.html</a>]  <BR>5.	Rock Island RR had railroad police based in Wichita in 1927 &#40;John Sherman, Union Pacific Special Agent/Railroad Police Officer who died 8/31/1927 was killed in Wichita. &#40;<a href="http://www.kshs.org/projects/lem/directory/lemnames03.htm" target=_top>http://www.kshs.org/projects/lem/directory/lemname s03.htm</a>  <BR>6.	BTK’s mom dated a COP!!!!!!!  <BR> <BR><a href="mailto:whoisbtk@yahoo.com">whoisbtk@yahoo.com</a> <BR><!--/Text--></td></tr>
+<!--/Post: 5749-->
+<!--Post: 5850--><!--Time: 1107403506-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5850"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 8:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Whoisbtk, <BR> <BR>Great research and information!  Thankyou! <BR> <BR>While I don&#39;t buy all of BTK&#39;s self-proclaimed clues; there is something that rings true here about a railroad detective &#40;cop&#41;. <BR> <BR>Either is mother did date one and it made an impression on BTK; or perhaps BTK just befriended a RR detective in the absence of his own father. <BR> <BR>We lived near a RR in the fifties, and I never heard of a RR detective, etc.   <BR> <BR>Somewhere in BTK&#39;s life a railroad detective factors in.<!--/Text--></td></tr>
+<!--/Post: 5850-->
+<!--Post: 5859--><!--Time: 1107408876-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5859"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lilymarie<!--/name--></b></a><br>Username: <!--field:uname-->Lilymarie<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 9:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Railroad policeman. Also called a bull, flatfoot or gumshoe, but the distinctive railroad terms are cinder dick and &#39;bo chaser &#40;for hoboe&#41;. <BR><!--/Text--></td></tr>
+<!--/Post: 5859-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/344">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/344" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

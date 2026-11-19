@@ -1,0 +1,1 @@
+window.CBTK={"page":"btknp6.html","title":"February 12, 1978","archive":"../index.html","versions":[{"t":"20041124132619","e":"20041124132619","n":1,"f":"history/btknp6~20041124132619.html","a":0,"d":0,"sa":[],"sd":[]}]};

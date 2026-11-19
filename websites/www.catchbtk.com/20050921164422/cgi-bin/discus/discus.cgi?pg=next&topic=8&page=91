@@ -1,0 +1,277 @@
+<html>
+<!--Topic: 8/Possible BTK Victims-->
+<!--Me: 117/Sherry Baker-->
+<!--Level 1: 117/Sherry Baker-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 8-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Sherry Baker</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Sherry Baker</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/8/8.html"><font color="#f7f7f7">Possible BTK Victims</font></a> &#187;
+Sherry Baker
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=8&page=117"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=8&page=117"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 717--><!--Time: 1092069991-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST717"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 09, 2004 - 9:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Nov, 12, 1974: Sherry Baker, 603 New York St<!--/Text--></td></tr>
+<!--/Post: 717-->
+<!--Post: 720--><!--Time: 1092080031-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST720"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 09, 2004 - 12:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Details?<!--/Text--></td></tr>
+<!--/Post: 720-->
+<!--Post: 721--><!--Time: 1092082947-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST721"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 09, 2004 - 1:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Typed into yahoo search the words &#34;Sherry Baker&#34; Wichita Kansas and this was an article on CNN.com, with the addy of cnn.com/2004/US/South/04/13/btk.strangler.ap but the link DOES NOT work now. So I clicked on the word Cached beside the CNN story. <BR>-Deb <BR> <BR>Police look at Kansas serial killer for ties to other unsolved cases  <BR>Tuesday, April 13, 2004 Posted: 12:20 PM EDT &#40;1620 GMT&#41;  <BR> <BR>WICHITA, Kansas &#40;AP&#41; -- Police are reviewing unsolved slayings of women killed since 1974 following the reemergence of a serial killer who terrorized the city in the 1970s and recently claimed responsibility for a 1986 killing. <BR> <BR>Police won&#39;t identify specific cases or talk in detail about their investigation of the killer known as the BTK Strangler. But a letter received last month, which police believe was sent by the serial killer, has fanned fears that BTK may be responsible for more than the eight deaths the killer has claimed responsibility for. <BR> <BR>&#34;I wouldn&#39;t say for certain that there aren&#39;t any more bodies out there,&#34; said retired Wichita police Lt. Mike McKenna, who oversaw the department&#39;s homicide investigations during the mid-1980s. <BR> <BR>McKenna said he does not recall any specific cases that had the earmarks of a BTK killing. <BR> <BR>Between 1974 and 1978, the killer known as BTK -- the initials stand for &#34;Bind, Torture, Kill&#34; -- killed at least seven people. Last month, BTK sent a letter to The Wichita Eagle claiming responsibility for a 1986 killing. <BR> <BR>It was the first communication from the killer in more than two decades. Police have said the recent letter, which contained a photocopy of photos of the victim and her driver&#39;s license, is authentic. <BR> <BR>Bernita Autry is certain the death of her best friend in 1974 is related to the BTK killings. Sherry Baker was 23 when she was gagged with a pair of underwear, tied up with a telephone cord and stabbed more than 70 times. No charges were filed, and police have said the case is not tied to other slayings. <BR> <BR>&#34;I have a gut feeling,&#34; she said. <BR> <BR>Bob Beattie, a Wichita lawyer who is writing a book about BTK, said the Baker case and at least two others could also be related to the killer.<!--/Text--></td></tr>
+<!--/Post: 721-->
+<!--Post: 733--><!--Time: 1092265719-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST733"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wichitaboy<!--/name--></b></a><br>Username: <!--field:uname-->Wichitaboy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, August 11, 2004 - 4:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I always thought that Sherry Baker might have been a victim of BTK.  I thought so because of the Coleman connection. <BR> <BR>1.&#41; Julie Otero &#40;DOD 01-15-74&#41; and Kathryn Bright &#40;DOD 04-04-74&#41; worked on the same assembly line at Coleman.  <BR> <BR>2.&#41; Michael Williams the supervisor from the same assembly line at Coleman was shot 4 days prior to the Otero murders.  <BR> <BR>3.&#41; Michael Williams’s father was head of personnel at Coleman. He worked in the Human Resources Department, which was located at New York and Central. &#40;Approximately 1500 E Central&#41;  <BR> <BR>4.&#41; Sherry Baker a 23 year old WSU student was murdered 11-12-74 at 603 New York. This is one of the top three cold cases that are similar to BTK.  <BR> <BR>5.&#41; 603 New York is only a block away from the Coleman Human Resources Department. You would have to go to this facility to be hired and trained. <BR> <BR>6.&#41; The Coleman factory at 2nd and St Francis is only 2 blocks from where BTK made the telephone call notifying police about Nancy Fox. The Coleman Human Resources Department is only 8 blocks away from the telephone.  <BR> <BR>7.&#41; What do you think?  <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 733-->
+<!--Post: 735--><!--Time: 1092275096-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST735"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, August 11, 2004 - 6:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i>7.&#41; What do you think?</i> <BR> <BR>I can only <i>hope</i> that WPD checked out the Coleman connection thoroughly. Because doing so would have been so <i>elementary</i> to any investigation, I&#39;ll give the benefit of the doubt to WPD on this score for now. <BR> <BR><i>This is one of the top three cold cases that are similar to BTK.</i> <BR> <BR>Who are the other two? Is this a personal opinion or the opinion of LE, the press, etc? <BR> <BR>Thanks! <BR> <BR>George <BR> <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 735-->
+<!--Post: 3424--><!--Time: 1104887864-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3424"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bojo<!--/name--></b></a><br>Username: <!--field:uname-->Bojo<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 04, 2005 - 5:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Why would he send a letter in 1979 saying &#34;Alone again I trod in pass memory of mirrors, and ponder why for number eight was not.&#34; He wanted all the attention and &#34;credit&#34; he could get.  My personal feeling is he would have claimed her if he had done it.  BTK may very well have killed more than we know but I think it would have been after the &#34;Oh Anna&#34; poem. <BR><!--/Text--></td></tr>
+<!--/Post: 3424-->
+<!--Post: 3540--><!--Time: 1104983365-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3540"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 7:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Easy way to find out, or at least make things easier. Was Sherry raped? If so, I&#39;d be less inclined to consider her a BTK victim. If not, that makes BTK a little more suspicious but doesn&#39;t mean he was the perp. Traditional profilers would note that the incredibly high number of stab wounds indicates that Sherry&#39;s killer probably knew her. With limited information at this point, it&#39;s really tough to call.<!--/Text--></td></tr>
+<!--/Post: 3540-->
+<!--Post: 6074--><!--Time: 1107526836-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6074"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Km<!--/name--></b></a><br>Username: <!--field:uname-->Km<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 6:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->According to a letter from BTK on this website, BTK claims Shirley Vian as his seventh victim.  We have been made to believe that she is his sixth.  The only unsolved murder that I can find between the Oteros and Shirley Vian is Sherry Baker&#39;s murder. <BR><!--/Text--></td></tr>
+<!--/Post: 6074-->
+<!--Post: 6434--><!--Time: 1107789661-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6434"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 7:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe he is claiming Sherry BAKER in his latest <BR>KAKEman communication. bake cake. <!--/Text--></td></tr>
+<!--/Post: 6434-->
+<!--Post: 6436--><!--Time: 1107790482-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6436"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 7:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Itty, I think that&#39;s one of the most intelligent conclusions I&#39;ve seen in a while based on the available evidence. It also would, I think, reflect BTK&#39;s thinking, which is defintely not easy to predict or determine sometimes. Whether it ends up being true or not, I&#39;m impressed with the conclusion. So many people reach so far when thinking about this stuff.<!--/Text--></td></tr>
+<!--/Post: 6436-->
+<!--Post: 6520--><!--Time: 1107850919-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6520"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sgtrandolph<!--/name--></b></a><br>Username: <!--field:uname-->Sgtrandolph<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 12:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I am more inclined to believe that she is a BTK victim than others that have been suspected.  I also believe that there was more than likely other victims before the oteros ... just because he doesn&#39;t claim them doesn&#39;t mean that he didn&#39;t do it.  It may be possible that the reason we don&#39;t hear much about Sherry is the same reason we haven&#39;t really heard that much about Kathryn Bright - it didn&#39;t exactly go off as planned.  There may have been some sort of interuption.  The other possibility is that BTK may think that Sherry&#39;s murder, if linked to him, may make it easier to identify him.  I have no evidence to support either of these postulates, just an opinion.<!--/Text--></td></tr>
+<!--/Post: 6520-->
+<!--Post: 6521--><!--Time: 1107850988-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6521"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sgtrandolph<!--/name--></b></a><br>Username: <!--field:uname-->Sgtrandolph<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 12:23 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe this is related to the supposed rejection that sparked his slayings??<!--/Text--></td></tr>
+<!--/Post: 6521-->
+<!--Post: 7993--><!--Time: 1108775848-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7993"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 5:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sherry was stabbed and tied up with phone cord, Her best friend is certain it had to do with BTK, here&#39;s the best part, Sherry was last seen with her BF,  Now her BF was never found.  If he killed her then that would be a good reason to hide for the next three years.<!--/Text--></td></tr>
+<!--/Post: 7993-->
+<!--Post: 8025--><!--Time: 1108822529-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8025"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Superbike7<!--/name--></b></a><br>Username: <!--field:uname-->Superbike7<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 6:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I heard something unusual about glasses they were either missing or she had them on and they were displayed in some weird way. Anybody know the story? Also wasnt WPD asking about glasses?<!--/Text--></td></tr>
+<!--/Post: 8025-->
+<!--Post: 8029--><!--Time: 1108823416-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8029"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 6:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think he was her BF that the police could not locate.<!--/Text--></td></tr>
+<!--/Post: 8029-->
+<!--Post: 8466--><!--Time: 1109153482-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8466"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Superbike7<!--/name--></b></a><br>Username: <!--field:uname-->Superbike7<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 2:11 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I saw on one of the KAKE newsreels that showed case #, victims name and race, it listed Sherry as a black female which I did not know.I had never heard this.<!--/Text--></td></tr>
+<!--/Post: 8466-->
+<!--Post: 8675--><!--Time: 1109279988-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8675"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 1:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I never heard that either, and in the cold case files it doesn&#39;t say anything about her race.<!--/Text--></td></tr>
+<!--/Post: 8675-->
+<!--Post: 9476--><!--Time: 1109537385-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9476"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 12:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Was Sherry Baker&#39;s boydfriend ever found?<!--/Text--></td></tr>
+<!--/Post: 9476-->
+<!--Post: 10475--><!--Time: 1109968923-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10475"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 12:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->no, he wasn&#39;t and I still believe Rader is a suspect in this case<!--/Text--></td></tr>
+<!--/Post: 10475-->
+<!--Post: 14369--><!--Time: 1127284251-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST14369"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, September 20, 2005 - 11:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i>Km <BR>Username: Km <BR> <BR>Registered: 2-2005 <BR> Posted on Friday, February 04, 2005 - 6:20 am:      <BR> <BR>-------------------------------------------------- ------------------------------ <BR>According to a letter from BTK on this website, BTK claims Shirley Vian as his seventh victim. We have been made to believe that she is his sixth. The only unsolved murder that I can find between the Oteros and Shirley Vian is Sherry Baker&#39;s murder.</i> <BR> <BR>Km had a good point. BTK did claim 7 victims in the Vian letter. Joe Sr., Julie, Josephine, Joe Jr. Otero, Kathryn Bright, Shirly Vian = 6. <BR> <BR>See letter here: &#40;goto <i>how about some name for me</i>&#41;. <BR> <BR><a href="http://www.catchbtk.com/letters.html" target=_top>http://www.catchbtk.com/letters.html</a> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 14369-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="8/117">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=8/117" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

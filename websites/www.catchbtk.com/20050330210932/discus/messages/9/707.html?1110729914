@@ -1,0 +1,258 @@
+<html>
+<!--Topic: 9/BTK Suspects-->
+<!--Me: 707/Dennis - The Bad Public Side-->
+<!--Level 1: 707/Dennis - The Bad Public Side-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 9-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Dennis - The Bad Public Side</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Dennis - The Bad Public Side</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/9/9.html"><font color="#f7f7f7">BTK Suspects</font></a> &#187;
+Dennis - The Bad Public Side
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=9&page=707"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=9&page=707"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 11290--><!--Time: 1110557971-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11290"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Freya<!--/name--></b></a><br>Username: <!--field:uname-->Freya<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 8:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If the media want to discuss his reputation as a good guy for the sake of analyzing how he evaded capture or why he was BTK, I understand that. But if I have to read one more interview in which someone sobbingly asserts, &#34;Rader saved my life! [or &#34;my puppy!&#34;]&#34;, I&#39;m going to vomit all over my computer. I&#39;d like to start this thread so anyone who wants can post information on all the sneaky, nasty little things he did to his neighbors, and we can even out the testimonials.  <BR> <BR><a href="http://www.kansas.com/mld/kansas/news/special_packages/btk/11062626.htm" target=_top>http://www.kansas.com/mld/kansas/news/special_pack ages/btk/11062626.htm</a><!--/Text--></td></tr>
+<!--/Post: 11290-->
+<!--Post: 11329--><!--Time: 1110590476-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11329"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 5:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->My favorite was when he went to the house of the ill person and measured their lawn with a ruler. THEN wrote them a citation for it<!--/Text--></td></tr>
+<!--/Post: 11329-->
+<!--Post: 11346--><!--Time: 1110599435-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11346"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 7:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The time he had given a woman a citation for something.  The night before court, he walked right into her house.... WITHOUT KNOCKING....says &#34;Don&#39;t forget you have court in the morning...&#34; then turns around and leaves. <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 11346-->
+<!--Post: 11348--><!--Time: 1110600594-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11348"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 8:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Be patient Frey, <BR> <BR>When the family begins to talk... and they will... <BR>We are going to hear some wicked, wicked s&#42;%t! <BR> <BR>LaterDog <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 11348-->
+<!--Post: 11353--><!--Time: 1110606439-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11353"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 9:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->...let&#39;s not forget the multiple people who LEFT TOWN because of his antics.  Even psychotic stalker ex-boyfriends and witness-murdering criminals rarely score higher than a &#34;1&#34; in terroristic evictions.<!--/Text--></td></tr>
+<!--/Post: 11353-->
+<!--Post: 11354--><!--Time: 1110607096-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11354"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 9:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Some thoughts on the story that you posted the link to Freya, <BR> He wouldn&#39;t have had to place himself and the boy in the position of almost drowning as he fought the current for 10 minutes before bringing the canoe to shore if he hadn&#39;t overloaded the canoe with all his anal retentive junk in the first place. Le Voyager BTK. <BR> <BR>&#34;He was the nicest guy in the world.&#34;...Gary Dusen. <BR>Well guess what Gary? He wasn&#39;t. <BR> <BR>&#34;He would keep a confidence.&#34;...Margaret McDowel. <BR>Yeah Margaret, and a secret too, and a necklace, and a drivers license. <BR> <BR>&#34;I hope your mommy will be OK.&#34;...Dennis Rader to Deane Harris. <BR>He&#39;d hate to see her expire to diabetes when he&#39;s been possibly considering her as a future potential BTK victim. <BR>And what&#39;s up with him showing a distressed 11 year old where his phone was so she could call 911 for her mother? Couldn&#39;t he have done that himself while his wife comforted and calmed down the girl. <BR> <BR>The biggest hero of the story is Shadow the dog who lived to an old age and despised Dennis Rader his entire life.<!--/Text--></td></tr>
+<!--/Post: 11354-->
+<!--Post: 11356--><!--Time: 1110607512-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11356"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 10:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->10-4 on Shadow.  Like Lassie, &#40;s&#41;he spotted the danger, but the humans were too stupid to understand.<!--/Text--></td></tr>
+<!--/Post: 11356-->
+<!--Post: 11365--><!--Time: 1110609339-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11365"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 10:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The a&#42;&#42;h&#42;&#42;&#42; could have been Pope Dennis I, and lived his entire life like Mother Theresa and die like Ghunga Din, but if there is a Hell, and if I was the entity that makes the decision &#40;I am not familiar with the proceedings of the Court of Heaven and Hell&#41;, I would sentence him to eternity in Hell, just for the 2 hours and 15 minutes he spent at the Otero&#39;s. <BR> <BR>If it should turn out that he actually does have multiple personalities, the Monster would get eternity in Hell and I&#39;d still give the good Dennis 100,000 years for aiding and abetting.<!--/Text--></td></tr>
+<!--/Post: 11365-->
+<!--Post: 11384--><!--Time: 1110647532-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11384"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Freya<!--/name--></b></a><br>Username: <!--field:uname-->Freya<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 9:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;What&#39;s that, Shadow? You saw a serial killer down by Old Man Johnson&#39;s mill?!&#34; <BR> <BR>Bmodule: brilliant.<!--/Text--></td></tr>
+<!--/Post: 11384-->
+<!--Post: 11387--><!--Time: 1110651887-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11387"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 10:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Does anyone actually know how he did treat Shadow? I wonder if he named him.<!--/Text--></td></tr>
+<!--/Post: 11387-->
+<!--Post: 11388--><!--Time: 1110652008-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11388"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 10:26 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->...as in ...&#34;ONLY THE SHADOW KNOWS....&#34;<!--/Text--></td></tr>
+<!--/Post: 11388-->
+<!--Post: 11422--><!--Time: 1110691960-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11422"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 9:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yea, LD it&#39;s the wicked &#42;$@% that worries me. I question my own ability to handle it. I&#39;m really praying this sick monster grows a conscience and spares the families the details. But I know he is to big a meglamaniac to ever let the details go unspoken. So, I get really pissed, then sick, then angry, then I shake, then I cry, then I get pissed all over again just thinkin about what that monster did to our neighbor and friend. <!--/Text--></td></tr>
+<!--/Post: 11422-->
+<!--Post: 11441--><!--Time: 1110729914-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11441"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 13, 2005 - 8:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hitler supposedly had a dog named &#34;Goldie&#34; -- he was reportedly very nice to that dog. <BR> <BR>Go figure.<!--/Text--></td></tr>
+<!--/Post: 11441-->
+<!--Post: 11954--><!--Time: 1111447283-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11954"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 21, 2005 - 3:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hooray for Shadow.....I have a neighbor from HELL&#62;   EVERYONE in our &#34;condo complex&#34; dispize this guy - his name is Rex we have nicknamed him T-Rex &#40; tee hee&#41;  ANyways...I have a very wonderful loving little ToTo dog...he loves Everyone...excepte TR and everyone loves him...except TR....DOGS KNOW!....God Bless Shadow....By the way TR has a criminal record miles long....we just wish he would go away....<!--/Text--></td></tr>
+<!--/Post: 11954-->
+<!--Post: 12149--><!--Time: 1111669611-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12149"><font face="Verdana" size="1"><b><!--email--><a href="mailto:topsailgrl@yahoo.com" target="_blank"><!--/email--><!--name-->Topsailgrl<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 24, 2005 - 5:06 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dogs are usually great judges of character. I have a Boxer that absolutely loves everyone so when she doesnt like someone you can bet your boots there is something wrong with that person and I listen to her.<!--/Text--></td></tr>
+<!--/Post: 12149-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="9/707">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=9/707" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

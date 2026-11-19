@@ -1,0 +1,282 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 701/The theory of THREE-->
+<!--Level 1: 701/The theory of THREE-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: The theory of THREE</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">The theory of THREE</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+The theory of THREE
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=701"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=701"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 11152--><!--Time: 1110479623-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11152"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 10:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I started thinking about this before the arrest, &#40;everything done in multiples of 3&#41;but now I am incorporating the theory of 3 into perps also. <BR> <BR>What if they all &#40; I believe 3 of them&#41; participated in the Otero crime in 74. Then they went their separate ways, but they would get together to plan the next one, and each guy would have to do the same victim type and mo, we have <BR>the first case, which is  <BR> <BR>Otero <BR> <BR>Killed 3 Jo Otero&#39;s <BR> <BR>3 bags  <BR> <BR>3 &#34;O&#34;s in each of the 3 Jo&#39;s names        <BR> <BR>3 in addy, 803 North Edgemoor, which also hase 3 &#34;O&#34;s <BR> <BR>Now they separate and commit killings in sets of 3 <BR> <BR>3 cars taken to shopping place <BR> <BR>3 older women, &#40;including Anna&#41; <BR> <BR>3 moms at home with kids <BR> <BR>3 under bridges <BR> <BR>3 Artist sketches that dont match eachother, so there were  3 eyewitnesses, &#40;maybe done on purpose so there would be differing accounts&#41; <BR> <BR>3 poems <BR> <BR>3 stabbings <BR> <BR>3 packages found outside with postcards <BR> <BR>3 puzzle grids <BR> <BR>3 fake ids   &#40;2 ids and one badge&#41; <BR> <BR>things to find out: <BR> <BR>how many drivers licenses taken, I have Fox Wegerle Hedge Davis <BR> <BR>how many broken windows, I have Fox Davis, Anna and Bright   <BR> <BR>how many phones cuts, I have Hedge Otero Casey Williams and Davis <BR> <BR>how many drownings, or found in tubs  <BR> <BR>how many shootings,  <BR> <BR>how many blunt force trauma to head <BR> <BR>how many stabbed and dumped, I have Olsen and Albright <BR> <BR>how many fires, I have Mould and Smith <BR> <BR>I think they will all be multiples of 3 <BR> <BR>I think we should study more about the Fa   ger case, that would have been the second family. Btk the writer, wrote to say that he didnt commit the crime, my opinion is that he left out the fact that one of his partners did it.  Maybe butterworth was one of the three,  and the rule for this crime was, you had to kill one of your partners neighbors. <BR> <BR>Please help fill in the missing info, <BR>or you call me completely crazy. Id really to hear what others think.  <BR>  <BR>and about the 3 dudes letter, btk the writer wrote it becuse he knew he was going to to be seeing the police soon, hence, the cops would then have 3 guys. guess he mailed it too early, or the cops were slow in picking him up.  <BR><!--/Text--></td></tr>
+<!--/Post: 11152-->
+<!--Post: 11174--><!--Time: 1110489603-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11174"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 1:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You know Itty, I agree, when I started helping with this, I saw the three all the time, I at first thought it was the way he was picking the victims, Remember he said, &#34;I take their numbers down&#34; that still bothers me today, Wouldn&#39;t it be wacked to find out that Rader was one of the three original suspects, but BTK wrote a letter to LE and said the three didn&#39;t do it, I did getting Rader out of it. I think the church no matter how strange that sounds, had something to do with it, Rader spent his entire life in the church and I believe he looked at all women at Prostitutes or harlots, so the three idea works, I am sure from a young age it was drilled into his head that women are tempters, and because he was off in the head, he took it literally<!--/Text--></td></tr>
+<!--/Post: 11174-->
+<!--Post: 11195--><!--Time: 1110495536-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11195"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 2:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->While three does show up several times be it planned or coincidental we really don&#39;t know how many victims there have been attributed to him over the years. So there could have been more than three shootings, three stabbings, three mothers with kids, etc...<!--/Text--></td></tr>
+<!--/Post: 11195-->
+<!--Post: 11199--><!--Time: 1110497173-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11199"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 3:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey Johno and Ember, thanks for your reply. <BR>Even if there werent 3 killers in on it, the theory of three still could be used as a way of not getting caught. He could have a list of all the creepy things he has planned, and then just use each one 3 times &#40;or 6 times&#41;, he could just pick and choose, get them all scrambled, and that is a sure way to throw off the LE.<!--/Text--></td></tr>
+<!--/Post: 11199-->
+<!--Post: 11218--><!--Time: 1110507271-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11218"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 6:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->One just &#34;is&#34;. <BR> <BR>Two is a coincidence. <BR> <BR>Three makes an argument. <BR> <BR>&#40;or something of that nature&#41;<!--/Text--></td></tr>
+<!--/Post: 11218-->
+<!--Post: 11233--><!--Time: 1110519553-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11233"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 9:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I got this in the mail, someone want to answer these questons? <BR> <BR> <BR>Hello,  <BR>I&#39;m a lurker on catchbtk.com. I read your post wanting to see the symbol. You can see it here: &#60;<a href="http://www.kansas.com/mld/kansas/news/11078330.htm" target=_top>http://www.kansas.com/mld/kansas/news/11078330.htm</a>&#62;  <BR>I don&#39;t have a password or ID, so I can&#39;t post. I think that this clears up why he killed 2 people living on 13th St. Also, Shirley Vian lived at 1311. It&#39;s so very sick and, at the same time, very junior highish.  <BR>I am very curious as to who the &#34;3 dude&#34; were. I curious as to whether Jeff Rader was involved. To me it seems like he is almost taunting police. I don&#39;t know if you heard about him saying he is fascinated with trains &amp; telling someone to &#34;stir the Tex Mex&#34;. Also, it seems to me that he &#40;Rader&#41; has a real problem with hispanic people. Has anyone elso observed this?  <BR>Finally, do you know if Rader was posting? If so, what was his name and what were the posts.  <BR>Sorry this is so long. I intended on just emailing you the link, but I just kept typing away <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 11233-->
+<!--Post: 11251--><!--Time: 1110528374-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11251"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 12:06 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If I&#39;m not mistaken. Lethal injection involves three drugs. One to numb them, one to put them to sleep, and the third croaks em.<!--/Text--></td></tr>
+<!--/Post: 11251-->
+<!--Post: 11382--><!--Time: 1110647160-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11382"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 9:06 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Death comes in threes. It is an old saying. <BR> <BR>On his symbol: are those breasts? The B with the dots? He must be a boob man.<!--/Text--></td></tr>
+<!--/Post: 11382-->
+<!--Post: 11414--><!--Time: 1110681117-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11414"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 6:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BoooB man.&#40;3&#41;&#40;gotta stay on-string&#41;<!--/Text--></td></tr>
+<!--/Post: 11414-->
+<!--Post: 11419--><!--Time: 1110687749-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11419"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 8:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tear, you are right, I hadnt thought about that saying, which usually does come true in my experience. <BR>Death comes in threes<!--/Text--></td></tr>
+<!--/Post: 11419-->
+<!--Post: 11539--><!--Time: 1110895991-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11539"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 15, 2005 - 6:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If you get the chance go read the thread on the Zodiac in comparison, Ed brings up a great point about the similaries between Rader and Zodiac in numbers Z was 7 and 17 I think Rader was 3 and 13<!--/Text--></td></tr>
+<!--/Post: 11539-->
+<!--Post: 11577--><!--Time: 1110917618-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11577"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Zenith<!--/name--></b></a><br>Username: <!--field:uname-->Zenith<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 15, 2005 - 12:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m really curious about the 3 thing. Is there a psychological name for it? Does it exist as a specific condition? <BR> <BR>We suffered some serious harrassment at home, apparently from a person who hates us that we moved in two houses from without realizing. We noticed a clear pattern of 3s in all the stuff that happened, and it made it really hard to catch them because about the time you realized something was really being done to you, they moved on to something else. <BR> <BR>So I&#39;m just curious if this 3 thing is really some sort of a psychological condition that can exist, I saw a fictional cop show on tv about it and it made me wonder if it was real. Anyone know?<!--/Text--></td></tr>
+<!--/Post: 11577-->
+<!--Post: 11596--><!--Time: 1110932105-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11596"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 15, 2005 - 4:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I am very skeptical about how people percieve three&#39;s. People tend to see things that can be easily comprehended and three is a perfect example. It is three. It has a begining, a middle and an end. It provides and easy clear way to grasp things on a simple plane than be overburdened with too much information. That&#39;s why in many jokes there are three charecters, or three situations or three choices. In game shows three doors, behind one sits the coveted prize. In explaining something there are often three examples of reference. In baseball three strikes and you&#39;re out. In selling something there are three procuct examples. It just sounds better, it has a flow. <BR>People think of famous people dying in three&#39;s which is not true at all. Famous people die almost every day. Someone will single out a famous actor, a famous blues muscian and another famous actor who have died within a few days and say they always die in threes. In the meantime an actor even more famous than the two has died but he was from another earlier era and to the person who has noticed the three deaths they had never heard of that actor. Also in the meantime the world&#39;s most famous jazz muscian has died but they are into blues and never heard of the jazz guy so they didn&#39;t notice he died. Also in the meantime the world&#39;s most renouned Nobel winning physicist has died but they had never heard of them and a best selling author who won a Pulitzer prize and won an Oscar for a screenplay has died but they didn&#39;t take note of it. So in seven days, seven very famous people died but they had only heard of three of them so they think death comes in threes. <BR>I am a three. I was born on the third day of the third month, the third child born to a thrity three year old mother. Heck, i could even add on the third floor of a three sylable named hospital in a state with three sylables and on and on. The number three plays no more significant role in my life than any other number.<!--/Text--></td></tr>
+<!--/Post: 11596-->
+<!--Post: 11646--><!--Time: 1110980001-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11646"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 5:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Zenith: it could be that it takes at least 2 to 3 instances before you realize that there is a pattern developing. Then one is on their guard and anticipating the next event. Too much repetition will get one caught, i.e., BTK drops. Perhaps that is why the pattern changed. Harrassment is terrible. I lived in a subdivision where the children were spawned by who knows what. I actually purchased an anti-terrorism handbook to try to get insight into what was happening and how to deal with it.  People who harrass are inbred jackasses, to be sure. You have my empathy. <BR> <BR>Itty, it has been my experience as well that it seems to be a consistent event. One movie star dies and 2 more will follow. <!--/Text--></td></tr>
+<!--/Post: 11646-->
+<!--Post: 11652--><!--Time: 1111003317-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11652"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Zenith<!--/name--></b></a><br>Username: <!--field:uname-->Zenith<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 12:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Agreed that most of the &#34;3&#34; stuff is just superstition of sorts. But I&#39;m still curious with whether there is an actual psychological disorder having to do with 3s. Maybe an obsessive compulsive disorder. But I&#39;m only speculating and want to know if it&#39;s factual.<!--/Text--></td></tr>
+<!--/Post: 11652-->
+<!--Post: 11676--><!--Time: 1111020727-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11676"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 4:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->One is an instance, two is a coincidence, three is a pattern.<!--/Text--></td></tr>
+<!--/Post: 11676-->
+<!--Post: 11696--><!--Time: 1111033023-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11696"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 8:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Three parts of the person me, myself and I <BR>In Rader&#39;s case, Husband Father, and Serial Killer<!--/Text--></td></tr>
+<!--/Post: 11696-->
+<!--Post: 11852--><!--Time: 1111279930-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11852"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 19, 2005 - 4:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Not to make lite of this subject but there was a book published 30 yrs ago by pro football player Gail Sayers titled &#34;I am 3rd&#34; His motto in life was &#34;God is first, my family second, and I am 3rd.&#34;  <BR> <BR>Is it possible that Rader was in anyway a sports fan more specifically football and might have read this book ?  The majority of the book deals with this philosophy where he is 3rd on the list of his life priorities and he needed to be three different men to become the best man.  .  .  it&#39;s a stretch.<!--/Text--></td></tr>
+<!--/Post: 11852-->
+<!--Post: 11870--><!--Time: 1111307569-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11870"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 20, 2005 - 12:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here is another example of three, remember Dennis Rader is Lutheran and Lutherans like Catholics share in the teaching of God in Trinity of the Athanasian Creed. Father, Son and Holy spirit.<!--/Text--></td></tr>
+<!--/Post: 11870-->
+<!--Post: 11878--><!--Time: 1111334291-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11878"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 20, 2005 - 7:58 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe he played baseball: three strikes and you&#39;re out. Perhaps he took the sighting of a person 3 times as a &#39;sign&#39; that they were the chosen one. How many times does three show up in the general addresses in Wichita? We cannot figure out how his perverted little mind thinks. He definitely does not use the same logic as most people. <BR> <BR>If you put a straight line in front of the three, you have a B. Turn it on its side and you have part of his symbol. Add dots and you have nipples and breasts. Could he have dabbled in the study of witchcraft and bought the theory that the devil&#39;s children are fed by a third breast under the witch&#39;s arm? GAG!<!--/Text--></td></tr>
+<!--/Post: 11878-->
+<!--Post: 11899--><!--Time: 1111370672-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11899"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 20, 2005 - 6:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think Rader was more into the theory of &#34;1&#34;, as in taking care of...#___.<!--/Text--></td></tr>
+<!--/Post: 11899-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/701">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/701" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

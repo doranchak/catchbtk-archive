@@ -1,0 +1,225 @@
+<html>
+<!--Topic: 8/Possible BTK Victims-->
+<!--Me: 349/TOTGA - Anna Williams-->
+<!--Level 1: 349/TOTGA - Anna Williams-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 8-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: TOTGA - Anna Williams</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">TOTGA - Anna Williams</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/8/8.html"><font color="#f7f7f7">Possible BTK Victims</font></a> &#187;
+TOTGA - Anna Williams
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=8&page=349"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=8&page=349"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4502--><!--Time: 1106442942-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4502"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Researcher<!--/name--></b></a><br>Username: <!--field:uname-->Researcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 5:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I would suggest that a new section be started for Anna Williams - an intended victim of BTK. <BR> <BR>So far all BTK boards have looked into his victims and any similiar relationship they may have had that would cause him to choose them out of all the people in Wichita.  As a result of that analysis some interesting theories and links have surfaced.  Whether they will &#40;in the end&#41; be proved to be valid is yet to be seen.  However - every lead must be run down and investigated. <BR> <BR>I am interested in the one that got away &#40;TOTGA&#41; - Anna  Williams. From what I have come across so far, Anna Williams was in her early sixties. BTK entered her home, but left before she returned.  Anna reported the event to the police and it was thought to be  break in. Around eight weeks later Anna received a letter mailed to her home from BTK.  That was the &#34;Oh Anna&#34; poem.  That communication was not released to the public until many years later. <BR> <BR>If the information posted on the Net is accurate, Anna Willaims moved away from Wichita after that and died in her early eighties. <BR> <BR>I am interested in why BTK may have chosen her as a potential victim.  Some have said that he may have been interested in her daughter.  I am unclear as to whether her daughter lived with her at the same residence. News reports say she lived alone, some board postes &#40;elsewhere&#41; sounded like her daughter lived with her. <BR> <BR>With the exception of the Otero&#39;s, the young women that we know know as  BTK&#39;s victims were around the same age.  So why did he pick a sixty year old woman?! What relationship &#40;if any&#41; did she have with the other victims? <BR> <BR>It might be interesting if someone can track down her obituary to see what her past  history had been.  A picture of her would also be interesting to see. Perhaps her daughter would be willing to assist in that quest. <BR> <BR>How did BTK choose his victims?  At random?  Or did his work put him into some kind of contact with them, or give him access to informatiojn about them? <BR> <BR>On another note - as some have posted elsewhere - there are a lot of cold case files from the time of BTK.  Although he has only claimed responsibility for a few it would be interesting to see if any of those other murders of young women had any kind of link with who we know are the victims of BTK. <BR> <BR>I do not see BTK around every corner, nor do I believe that anyone should see him as the killer of every unsolved murder in the Wichita area. <BR> <BR>As for Anna Wiliams - TOTGA - I think her background needs more attention by us all. Perhaps we will find one of the keys to the case there. <BR> <BR>Thoughts? <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4502-->
+<!--Post: 4550--><!--Time: 1106517423-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4550"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 1:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A good suggestion.  Here are some thoughts... <BR> <BR>The idea that BTK is revenge-driven, or revenge/sex-driven, rather than fully sex-driven, has come up in several threads &#40;see for example <a href="http://www.catchbtk.com/discus/messages/1/343.html?1106514590">Additions to Kelleher&#39;s profile</a>, and the end of <a href="http://www.catchbtk.com/discus/messages/10/271.html?1105601010">BTK&#39;s first letter</a>.  &#40;Note that Mike Kelleher does not favor a pure revenge scenario, and for my 2 cents worth, I&#39;m in agreement.&#41;  If that theory is valid, then Anna would indeed be a key to the case, as you suggest, since she is the most atypical according to the &#34;planted&#34; motive.  She could have interacted with BTK in various ways.  Was she a school teacher?  Perhaps even BTK&#39;s teacher.  A bank teller?  A Sunday-school teacher?  A neighbor at some point?  Involved in a dispute such as a traffic accident or small claims court?  Whether or not there is a vengeance component to the motive, I&#39;ll bet you are right - there is some kind of interaction there that people have missed, and Anna Williams could be the key. <BR> <BR>Alternatively, there could also be an Oedipal thing going on here.  In that case, perhaps there is either a conscious or unconscious resemblance of some sort between Anna Williams and BTK&#39;s mother.  If BTK&#39;s anger has roots in his relationship to his mother &#40;abusive, incestuous, domineering, neglectful, or otherwise dysfunctional&#41;, then Anna might have been a core victim related to BTK&#39;s sex and/or revenge fantasies. <BR> <BR>I agree - a picture or text of her obituary, or a respectful biography submitted by a family friend or relative, could be very helpful in discovering a connection.<!--/Text--></td></tr>
+<!--/Post: 4550-->
+<!--Post: 4552--><!--Time: 1106517900-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4552"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 2:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe Anna Williams had been his teacher?  Does anyone know if Ms. Williams used to be a teacher?<!--/Text--></td></tr>
+<!--/Post: 4552-->
+<!--Post: 5283--><!--Time: 1107024214-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5283"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 29, 2005 - 10:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe she did not look her age, or she reminded him of someone. The teacher theory is interesting, as I remember more the teachers that ridiculed and shamed me that the ones that were supportive. Of course, many people were subjected to shame-based child rearing practices, not only at home but at school and church. Generations have been adversely affected by the repurcussions, BTK being one. I would like to think that he had a least one refuge in the arms of someone who loved him. I would say that the person died while he was still young, leaving him to face a scary world alone. That causes one to seek solace in fantasy.<!--/Text--></td></tr>
+<!--/Post: 5283-->
+<!--Post: 8583--><!--Time: 1109212620-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8583"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 6:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I find the phrase   &#34;totga&#34; offensive.<!--/Text--></td></tr>
+<!--/Post: 8583-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="8/349">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=8/349" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

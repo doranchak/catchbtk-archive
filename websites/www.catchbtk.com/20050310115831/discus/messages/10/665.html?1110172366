@@ -1,0 +1,285 @@
+<html>
+<!--Topic: 10/BTK Communications-->
+<!--Me: 665/March &#39;04 code-->
+<!--Level 1: 665/March &#39;04 code-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: March &#39;04 code</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">March &#39;04 code</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Communications</font></a> &#187;
+March &#39;04 code
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=665"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=665"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 10490--><!--Time: 1109972376-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10490"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bojo<!--/name--></b></a><br>Username: <!--field:uname-->Bojo<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 1:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->GBSOAP7-TNLTRDEITBSFA14 <BR> <BR>Has this been decoded?  And is it all of the code? <BR> <BR><a href="http://aolsvc.news.aol.com/news/article.adp?id=20050225192709990002" target=_top>http://aolsvc.news.aol.com/news/article.adp?id=200 50225192709990002</a><!--/Text--></td></tr>
+<!--/Post: 10490-->
+<!--Post: 10494--><!--Time: 1109973093-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10494"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kplynn<!--/name--></b></a><br>Username: <!--field:uname-->Kplynn<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 1:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This looks like it might be letters/numbers from license plates.  Could it be license plates of cars he has driven from crime scenes?  <!--/Text--></td></tr>
+<!--/Post: 10494-->
+<!--Post: 10624--><!--Time: 1110066642-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10624"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 05, 2005 - 3:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->gpsoap7-tnltrdeitbsafV14<!--/Text--></td></tr>
+<!--/Post: 10624-->
+<!--Post: 10638--><!--Time: 1110074468-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10638"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 05, 2005 - 6:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->gBsoap7-tnltrdeitbsafV14<!--/Text--></td></tr>
+<!--/Post: 10638-->
+<!--Post: 10646--><!--Time: 1110078620-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10646"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bojo<!--/name--></b></a><br>Username: <!--field:uname-->Bojo<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 05, 2005 - 7:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sorry, forgot the V.  Memory is not what it used to be.  <!--/Text--></td></tr>
+<!--/Post: 10646-->
+<!--Post: 10652--><!--Time: 1110087232-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10652"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 05, 2005 - 9:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->No problem. I pee&#39;d when I should have bee&#39;d the first time I corrected it.<!--/Text--></td></tr>
+<!--/Post: 10652-->
+<!--Post: 10664--><!--Time: 1110102662-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10664"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 1:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thought I was done staying up all night breaking codes lol, is this all of it, does anyone know<!--/Text--></td></tr>
+<!--/Post: 10664-->
+<!--Post: 10678--><!--Time: 1110131094-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10678"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 9:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->G B S O A P 7-T N L T R D E I T B S F A V 1 4 <BR> <BR>I love words. <BR> <BR>Puzzles? They’re O.K. -- when I’ve got time to kill and I know the rules. <BR> <BR>When only the killer knows the rules, time runs out. <BR> <BR>G B S O A P 7-T N L T R D E I T B S F A V 1 4 <BR> <BR>This string of 20 letters, 3 numerals and a dash was received by the Wichita Eagle on March 2004, according to the link provided by Bojo: <BR> <BR><a href="http://aolsvc.news.aol.com/news/article.adp?id=20050225192709990002#puzzle" target=_top>http://aolsvc.news.aol.com/news/article.adp?id=200 50225192709990002#puzzle</a> <BR> <BR>While the photo does not indicate the scale, the characters appear to be similar to the hand stenciling used on the Post Toasties® box. <BR> <BR>Is it a cryptogram? Is it ascii? Is it an anagram? <BR>If there’s math involved, bring your abacus and count me out! <BR> <BR>G B S O A P 7-T N L T R D E I T B S F A V 1 4 <BR> <BR>1-7 4 B G I N S/ B S A/ A F V E T/ D L R <BR> <BR>OK,  I’ve come up with the month and year of the Otero murders, <BR>Boy Scouts where he learned to tie the clove hitch, <BR>the Air Force &#40; you just know he’ll claim THEY trained him to kill&#41;, <BR>his real initials and… what the Hell is TTP?... PTT?... TPT?... OH WAIT! <BR>He’s already in jail. <BR> <BR>Unless this puzzle is about an unsolved case, why bother?   <BR> <BR>G B S O A P 7-T N L T R D E I T B S F A V 1 4 <BR> <BR>G     S O A P 7-T N L T R D E I T     S F A V 1 4       BB <BR> <BR>G        O A    7-T N L T R D E           S F A V 1 4       SPIT <BR> <BR>G            A    7-T     L T R D E           S F A V 1 4       ON <BR> <BR>                      7-T     L T     D                     A V 1 4       FAGERS <BR> <BR>                      7-T     L T     D                     A V 1 4 <BR> <BR>Now I’d like to buy a vowel. <BR> <BR>Actually I’d prefer a K. <BR> <BR>That way I could get… <BR> <BR>BT”K” SPIT ON FAGERS <BR> <BR>…with <BR> <BR>B 7 – L T D S A V 1 4 <BR> <BR>… as my leftovers. <BR> <BR>SPIT? <BR> <BR>When I first heard about this: <BR> <BR>B     Post <BR>T o a s t i e s®	 <BR>K <BR> <BR>I came up with this:		 <BR> <BR>BTK sPiTs at ote®os  <BR> <BR>Of course, another way to look at th… Whoops, I just ran out of patience. <BR> <BR>Congratulations! If you are still reading this you have less Adult Attention Deficit Disorder than me. <BR> <BR>I’m going to pop a Ritalin® and try to organize my garage now.      <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10678-->
+<!--Post: 10685--><!--Time: 1110137017-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10685"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 11:23 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->O..o  Freaking amazing Lostdog!<!--/Text--></td></tr>
+<!--/Post: 10685-->
+<!--Post: 10690--><!--Time: 1110141385-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10690"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 12:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->LD you are a character lol thanks  <BR>how abut i post you a Cryptogram or Asc to come clean out my garage tooo please lol<!--/Text--></td></tr>
+<!--/Post: 10690-->
+<!--Post: 10702--><!--Time: 1110144564-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10702"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 1:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I second that Ember.  After all, LD....you owe us for the hangovers!  LMAO!!!<!--/Text--></td></tr>
+<!--/Post: 10702-->
+<!--Post: 10724--><!--Time: 1110152528-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10724"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 3:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->GOT IT! <BR> <BR>P T T = Poor Toilet Training. <BR> <BR>That explains quite a bit. <BR> <BR>Back to the workbench with a buzz on, <BR> <BR>LD<!--/Text--></td></tr>
+<!--/Post: 10724-->
+<!--Post: 10726--><!--Time: 1110155793-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10726"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 4:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lost Dog <BR> <BR>You always catch my attention...always makes me wonder...hmmmm <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 10726-->
+<!--Post: 10728--><!--Time: 1110160188-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10728"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 5:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I picked up on the date also, except I noticed that 1-74, could also be a reference to the Michael Williams shooting &#40;notice that no specific date was given, but rather the entire month is referenced&#41;. Ever since there has been a strong Coleman connection re-established I find it hard to overlook this as being connected in some way. <BR> <BR>In march 2004 BTK Comes back, also Raders cousin, Dean Newton Raider, is relaeased from prison. There are allegations that he had raped his own daughter, which if true, would put him in the same sub-human sub-strata as Dennis. <BR> <BR>Michael Williams was a supervisor of assemby and Dennis Rader was an assembly worker. I can&#39;t imagine Rayder working in ANY factory and NOT having some animosity for an immediate supervisor whose father was a big wheel in the company. Anyone as self focused as Rayder, although not necessarily outwardly, would privately, never be able to stand on an assembly line for 8 hours working and not resent the &#34;big wig&#39;s son&#34; acting like a big shot. <BR> <BR>When the shooting occured, Williams father was quick to point out, even insistant, that the incident was a failed robbery attempt, however, if you are going to rob someone you force the door open as soon as it&#39;s unlatched, you don&#39;t just stand there with a shotgun waiting to be invited in. <BR> <BR>A year earlier Williams reported a burglary during which a radio and a rifle were the only things that the burglar found worth taking. That was either a pretty picky burgar, or Williams didn&#39;t have much worth stealing, which make me wonder why he was targeted, just one year later, for a strong arm robbery which it was determined would require two men and at least one shotgun to pull off. <BR> <BR>If Rader was involved, the brutality of the Otero murder may have been to warn the Williams&#39; to keep their mouths shut.  <BR> <BR>Probably when the robbers shot him through the door, the combination of the buckshot pattern being spread and the shrapnel from the door hitting the body made Williams a bloody mess. That, and the fact that very few people survive a shotgun blast in the abdomen from near point-blank range, probably convinced the intruders that he was dead or dying. <BR> <BR>When they found out from the news that he was alive there may have been a phone call telling the Williams&#39; to keep quiet. Then, to be sure, the Otero family, another Coleman worker who Rader may have had a problem that both of the Williams&#39; would know about, is tortured and murdered along with her family, her daughter brutalized, and her son tied to a chair with bags on his head &#40;was there any other evidence about the son that the police suppressed, since they didn&#39;t seem to have any problem with describing how Josephine was left hanging half naked and bound. Or the part of the letter from BTK describing her &#34;pleading eyes&#34; as he watched her hang&#41;. <BR> <BR>After the Williams&#39; realized that the murders would continue, they would be reluctant to come forward with information, both from the fear of retribution and from the awkwardness of explaining how they were cowered in the first place. <BR> <BR>Hell, if Dean is still out there, they probably don&#39;t feel safe , even now. <BR> <BR> <BR>This is all simply conjecture..................of course.<!--/Text--></td></tr>
+<!--/Post: 10728-->
+<!--Post: 10731--><!--Time: 1110166582-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10731"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 7:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well done BM.  Hey...you picked the name! LOL <BR> <BR>Seems like Denny the Dog Catchers&#39; family has a few issues......how were they cousins? Were their moms sisters... dads brothers?....you know what I mean.<!--/Text--></td></tr>
+<!--/Post: 10731-->
+<!--Post: 10733--><!--Time: 1110169461-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10733"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 8:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->G B S O A P 7-T N L T R D E I T B S F A V 1 4 <BR> <BR>GBSOAP - British Detergent? <BR>7-TNLTRDEI - A 7-Ton Letter To G&#42;d? <BR>TBSFAV - Oh, No! Ted Turner is linked to BTK? <BR> <BR>With such a crappily small plaintext, it&#39;s anybody&#39;s guess.  But I like those numbers.  7 is one less than 8 &#40;the pre-10 total&#41;, and 14 is one more than 13 &#40;the rumored maximum&#41;.  After all, what numbers would be most important to a serial killer?  If we&#39;re gonna read something into it, why not do it in a way that will keep this wonderful board going for another year or two?  Hey, hey, hey, no problem.......!!! <BR> <BR>&#40;with tongue half-way in cheek, but still very fascinated by the numbers and their nearby letters...&#41; <BR> <BR> Giving <BR> Bright <BR> Something <BR> Of <BR> A <BR> Pass <BR> 7 <BR>-The <BR> Number <BR> Linked <BR> Together <BR> Real <BR> Deaths <BR> Evaluated <BR> In <BR> The <BR> BTK <BR> Strangler&#39;s <BR> Favor <BR> Actual <BR> Victims <BR> 1 <BR> 4 <BR> <BR>Denny the Deadly Dog Catcher® just couldn&#39;t resist bragging.  I&#39;ll bet the lawyer told him to shut up and hold at 10.  Cut a deal before the post-&#39;94 case comes to light.  Maybe we should go find it before he dodges the needle....<!--/Text--></td></tr>
+<!--/Post: 10733-->
+<!--Post: 10736--><!--Time: 1110170401-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10736"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 8:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree Pax, I honestly believe there are a few more, and B. the idea sounds interesting, we have been trying to link Rader to the Otero&#39;s I believe you might have something there.  <BR>PTT push to Test   PTTnet internet service provider<!--/Text--></td></tr>
+<!--/Post: 10736-->
+<!--Post: 10738--><!--Time: 1110171157-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10738"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 8:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Skov, I think you are wonderful! <BR> <BR>Google me gently. <BR> <BR>Omfavne, <BR> <BR>LostDane <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10738-->
+<!--Post: 10739--><!--Time: 1110172366-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10739"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 9:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok B. see what you started, go to <a href="http://www.docnet.dc.state.ke.us" target=_top>http://www.docnet.dc.state.ke.us</a> <BR>KASPER <BR>type in the name Rader, Male and you will find 6 of them and their criminal records, Dean was there from Criminal Threat and Domestic Battery, check out the rest of them <BR>actually if you just google Dean Raider takes you to the site lol<!--/Text--></td></tr>
+<!--/Post: 10739-->
+<!--Post: 10901--><!--Time: 1110281345-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10901"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 3:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Luv you to LostDog <BR> <BR>that picture of Rader with superman panties and 3 pices of toiletpaper trying to escape this cruel world made me cry so hard you wouldt belive it havent laughed that mutch in a long time thanks I needed it... <BR> <BR> Is your hometown R&#42;&#42;&#42;&#42;&#42;&#42; ? If so I know another of the greatest posters on the net who lives there. maybe you know her<IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0>? <BR> <BR>hugs...skov<!--/Text--></td></tr>
+<!--/Post: 10901-->
+<!--Post: 10925--><!--Time: 1110308395-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10925"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 10:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dear Skov, <BR> <BR>I’m delighted to hear that I’m getting laughs in Scandinavia! <BR>I bet I could be HUGE in Japan. <BR> <BR>Seriously, I’m happy to hear I made you laugh till you cried. <BR>I’ve seen you take a lot of junk from jackass posters who did not appreciate your vigilant brainstorming. <BR> <BR>I was a bit concerned that you might misinterpret remarks I made about you. <BR>Those remarks were always made with a light heart in the spirit of camaraderie.  <BR> <BR>R&#42;&#42;&#42;&#42;&#42;&#42;? No. <BR> <BR>I am gazing out at the beautiful California coast right now. <BR>It’s just a bit overcast, but Mother Nature promises to lift her skirt in about an hour. <BR> <BR>My great-grandfather was born in Copenhagen. <BR>He was educated at the Royal School and spoke seven languages. <BR>He had a ranch in Schleswig-Holstein. <BR>He sailed to America circa 1875. <BR> <BR>Do you know what they call someone who only speaks ONE language? <BR> <BR>An American! <BR> <BR>CatchBTK is the only place I have ever posted. <BR> <BR>Hugs back at you, <BR> <BR>TabtHundt <BR> <BR> <BR>OK, ENOUGH ABOUT ME…  BACK TO THIS: <BR> <BR> <BR>G B S O A P 7-T N L T R D E I T B S F A V 1 4 <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10925-->
+<!--Post: 10931--><!--Time: 1110310014-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10931"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 11:26 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->came in my mail today, thank you who ever you are who sent it to help us. <BR> <BR> <BR>Hi <BR> <BR>I have been reading on this board for the last year or longer &#40;was there not <BR>a message board before this one?&#41; and took some time to write and run a <BR>program against the code mentioned in this thread. <BR> <BR>I really would rather not post on the board, mainly because I already spend <BR>to much time here and other similar places reading and reading, and to post <BR>would only cause more time to be spent. <BR> <BR>But, if you could, perhaps you could post my findings. <BR>If not, I understand, and would go on to request a name/password here. <BR> <BR>Basically, I do not think I found anything that stands out from what I did, <BR>but hopefully will have shown that and not have people run down a false <BR>trail. <BR> <BR>Also, it is probably very sure that those in the various LE areas have <BR>already not only done this, but have most probably decoded it. Question <BR>would be, will we ever be told what it is. Perhaps it will come out during <BR>the trial, or some news report eventually. <BR> <BR>For the decoding I did. It involves some very simple encrypting method that <BR>has been used and known for many centuries. In fact, I believe it was the <BR>Romans who used it a lot in the messages they needed delivered securely. <BR>Also use to play with the same things with friends as kid long ago. <BR> <BR>Basically, you take a message that you want to encode, and then write out <BR>the alphabet. Now choose some number between 1 and 26, and this will be the <BR>number of letters that you count and replace the letters in your original <BR>message. <BR> <BR>Example: <BR>HELLO - THE LAZY DOG JUMPED OVER THE BROWN FOX <BR> <BR>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z <BR> <BR>My code will be &#43;4. For every letter in my message, I will count up 4 <BR>letters, and replace my letter with this one. If I have to count past Z, I <BR>will wrap back around to the letter A <BR> <BR>Starting with the letter H in HELLO, I count up 4 letters to get L <BR>L <BR> <BR>And so on until my message now is encoded to look like: <BR>LIPP - XLI PEDC HSK NYQTIH SZIV XLI FVSAR JSB <BR>or ran together <BR>LIPP-XLIPEDCHSKNYQTIHSZIVXLIFVSARJSB <BR> <BR>Finally, the results of the program I wrote, to rotate the letters from 1 - <BR>26, which covers the range that this encoding scheme is capable of. Also, <BR>note, that for numbers, I used 0-9, and rotated from 9 back to zero as <BR>needed when adding. Again, the results, to me, only show that this is <BR>probably the wrong track, but shown and possibly eliminated as a what if. <BR> <BR>Code: GBSOAP7-TNLTRDEITBSFAV14 <BR> <BR>deCode: GBSOAP7-TNLTRDEITBSFAV14 Offset: 0 <BR>deCode: HCTPBQ8-UOMUSEFJUCTGBW25 Offset: 1 <BR>deCode: IDUQCR9-VPNVTFGKVDUHCX36 Offset: 2 <BR>deCode: JEVRDS0-WQOWUGHLWEVIDY47 Offset: 3 <BR>deCode: KFWSET1-XRPXVHIMXFWJEZ58 Offset: 4 <BR>deCode: LGXTFU2-YSQYWIJNYGXKFA69 Offset: 5 <BR>deCode: MHYUGV3-ZTRZXJKOZHYLGB70 Offset: 6 <BR>deCode: NIZVHW4-AUSAYKLPAIZMHC81 Offset: 7 <BR>deCode: OJAWIX5-BVTBZLMQBJANID92 Offset: 8 <BR>deCode: PKBXJY6-CWUCAMNRCKBOJE03 Offset: 9 <BR>deCode: QLCYKZ7-DXVDBNOSDLCPKF14 Offset: 10 <BR>deCode: RMDZLA8-EYWECOPTEMDQLG25 Offset: 11 <BR>deCode: SNEAMB9-FZXFDPQUFNERMH36 Offset: 12 <BR>deCode: TOFBNC0-GAYGEQRVGOFSNI47 Offset: 13 <BR>deCode: UPGCOD1-HBZHFRSWHPGTOJ58 Offset: 14 <BR>deCode: VQHDPE2-ICAIGSTXIQHUPK69 Offset: 15 <BR>deCode: WRIEQF3-JDBJHTUYJRIVQL70 Offset: 16 <BR>deCode: XSJFRG4-KECKIUVZKSJWRM81 Offset: 17 <BR>deCode: YTKGSH5-LFDLJVWALTKXSN92 Offset: 18 <BR>deCode: ZULHTI6-MGEMKWXBMULYTO03 Offset: 19 <BR>deCode: AVMIUJ7-NHFNLXYCNVMZUP14 Offset: 20 <BR>deCode: BWNJVK8-OIGOMYZDOWNAVQ25 Offset: 21 <BR>deCode: CXOKWL9-PJHPNZAEPXOBWR36 Offset: 22 <BR>deCode: DYPLXM0-QKIQOABFQYPCXS47 Offset: 23 <BR>deCode: EZQMYN1-RLJRPBCGRZQDYT58 Offset: 24 <BR>deCode: FARNZO2-SMKSQCDHSAREZU69 Offset: 25 <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10931-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/665">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/665" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,237 @@
+<html>
+<!--Topic: 9/BTK Suspects-->
+<!--Me: 165/Kent T. Billingham-->
+<!--Level 1: 165/Kent T. Billingham-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 9-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Kent T. Billingham</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Kent T. Billingham</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/9/9.html"><font color="#f7f7f7">BTK Suspects</font></a> &#187;
+Kent T. Billingham
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=9&page=165"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=9&page=165"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 1276--><!--Time: 1098677265-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1276"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, October 24, 2004 - 9:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->See his post in Messages From BTK section. <BR> <BR>Quote: <BR>__________________________________________ <BR>Posted on Monday, Oct 11, 2004 - 11:15 am:      <BR> <BR>her shoes were together sir <BR>__________________________________________ <BR> <BR>I say Kent is a phony. His sentence neither starts with a capital letter nor ends with punctuation. Ok, the teacher in me just had to point that out. lol <BR> <BR>Everyone knows BTK is a very wordy guy. His first letter, inside the engineering book, was two pages of typed information that was single spaced.   <BR> <BR>Hey, Kent. Why don&#39;t you answer Tom&#39;s message to you? <BR>-Deb<!--/Text--></td></tr>
+<!--/Post: 1276-->
+<!--Post: 1343--><!--Time: 1099452239-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1343"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ksguy2178<!--/name--></b></a><br>Username: <!--field:uname-->Ksguy2178<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, November 02, 2004 - 7:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wasn&#39;t this posting related to the interview with the retired employee of the Wichita Police Department when he discussed BTK drawing pictures from memory and drew Nancy Fox&#39;s shoes together instead of apart?  The link I am referring to is at: <a href="http://www.catchbtk.com/inside.html" target=_top>http://www.catchbtk.com/inside.html</a>.<!--/Text--></td></tr>
+<!--/Post: 1343-->
+<!--Post: 1344--><!--Time: 1099496453-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1344"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, November 03, 2004 - 7:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->KsGuy, thanks for the link. Kent is not BTK. He is only posting and showing off. If he was BTK, he would have responded to Tom by now. <BR> <BR>If the real BTK drew the sketch of Nancy Fox&#39;s shoes together, it is probably because he placed them that way himself and someone at the crime scene picked them up to examine them and did not set them straight again. Also her sweater was draped on the chair. When she came home tired from work, did she throw it on the couch or bed? He may have dramatically draped her sweater on the chair because he is obsessed with neatness. Perhaps the only reason he left the contents of the victims&#39; purses dumped out is because he wanted WPD to know he had done it.  <!--/Text--></td></tr>
+<!--/Post: 1344-->
+<!--Post: 1349--><!--Time: 1099510320-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1349"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Interested<!--/name--></b></a><br>Username: <!--field:uname-->Interested<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, November 03, 2004 - 11:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think that btk is someone that frew up in the area and had a really bad childhood.I think he is not killing people at random but in fact is killing people that he knew as a child.This might explian the reasoning for the baby picture.I do not think that kent is btk......but then again who knows.With all the attention this guys likes you would think he would post better messages.<!--/Text--></td></tr>
+<!--/Post: 1349-->
+<!--Post: 1351--><!--Time: 1099519281-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1351"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, November 03, 2004 - 2:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Interested, your message is much appreciated. BTK may have had a good childhood, with a nice family. They may have been poor or middle class, but they were a hardworking and loving family. Yet the parents’ religious upbringing, “spare the rod and spoil the child,” probably meant that he was often punished. He might have older brothers and sisters who were “good” and got all the attention. The family felt like he did not measure up to their high standards. Since he could never be as “good” as the family wanted him to be, he became sullen and depressed. Each time his siblings got attention and praise for their goodness and he got punished for his wrongdoings, he began to get angry and have evil thoughts. The only fun he experienced was when reading or watching TV. &#40;There were no videos or computer back in the days of his childhood.&#41; In order to escape from his lonely and wretched existence, he secluded himself from the family and began reading books, newspapers, and magazines. If only he had read more of the classical literature and not crime and serial killer stuff, maybe he would not have gone down the wrong road. &#40;Maybe his use of videos and computers is what kept him busy all these years before he resurfaced.&#41; Of course this is pure speculation and very simplistic at that. BTK will probably reveal that he was abused as a child and that is the reason that he got off the right track and headed down a one way street to a dead end.  <BR>-Deb <BR><!--/Text--></td></tr>
+<!--/Post: 1351-->
+<!--Post: 1539--><!--Time: 1101969440-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1539"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Das<!--/name--></b></a><br>Username: <!--field:uname-->Das<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 01, 2004 - 10:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Someone has probably already pointed this out.  I hate to say what seems obvious, but the first initials of kent t billingham backwards are btk.  I thought that was interesting if he is btk and he apparently chose a rather cryptic thing to write.  I wouldn&#39;t rule him out too quickly.<!--/Text--></td></tr>
+<!--/Post: 1539-->
+<!--Post: 4376--><!--Time: 1106264066-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4376"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Miamom<!--/name--></b></a><br>Username: <!--field:uname-->Miamom<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 3:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;If the real BTK drew the sketch of Nancy Fox&#39;s shoes together, it is probably because he placed them that way himself and someone at the crime scene picked them up to examine them and did not set them straight again. Also her sweater was draped on the chair. When she came home tired from work, did she throw it on the couch or bed? He may have dramatically draped her sweater on the chair because he is obsessed with neatness. Perhaps the only reason he left the contents of the victims&#39; purses dumped out is because he wanted WPD to know he had done it. &#34; <BR> <BR>I tend to feel the same way.  And after listening to the psychic tapes, the comment Dennis made about the interior of the Vian&#39;s Monte Carlo, really brought this idea home to me. My van is almost always a mess because of the kids.  People who are &#34;picky&#34; always comment about it. <BR> <BR>As for his childhood, Nature vs. Nurture, it may not have mattered for him.  Some criminals are born evil, no matter what beginnings they had.<!--/Text--></td></tr>
+<!--/Post: 4376-->
+<!--Post: 5889--><!--Time: 1107445309-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5889"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lmuncy316<!--/name--></b></a><br>Username: <!--field:uname-->Lmuncy316<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 7:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think Kent should be looked at closely.  I think every suspect should be looked at closely<!--/Text--></td></tr>
+<!--/Post: 5889-->
+<!--Post: 6201--><!--Time: 1107577019-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6201"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 8:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#62;&#62;&#62;Quote:  the comment Dennis [the British psychic?] made about the interior of the Vian&#39;s Monte Carlo, really brought this idea home to me. My van is almost always a mess because of the kids. People who are &#34;picky&#34; always comment about it,&#60;&#60;&#60; <BR> <BR>It was Vickie Wegerle&#39;s 1978 gold Monte Carlo that was stolen, along with her driver&#39;s license and car keys. Shirley Vian did not have a car. I keep getting those two names, Vian and Vickie mixed up.  <BR>-Deb <BR><!--/Text--></td></tr>
+<!--/Post: 6201-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="9/165">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=9/165" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

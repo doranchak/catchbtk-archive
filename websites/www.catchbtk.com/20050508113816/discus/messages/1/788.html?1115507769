@@ -1,0 +1,255 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 788/The Rader family dog-->
+<!--Level 1: 788/The Rader family dog-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: The Rader family dog</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">The Rader family dog</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+The Rader family dog
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=788"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=788"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 13236--><!--Time: 1114624024-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13236"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 27, 2005 - 10:47 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I know, I know...I find the dumbest stuff. <BR> <BR><a href="http://64.233.167.104/search?q=cache:bwr489EzzfkJ:www.greatestjournal.com/users/dark_skies/%2Bbtk%2Bdog&amp;hl=en" target=_top>http://64.233.167.104/search?q=cache:bwr489EzzfkJ: www.greatestjournal.com/users/dark_skies/&#43;btk&#43;dog&amp; hl=en</a> <BR> <BR>March 5th, 2005 <BR>Eternal Sunshine of the Spotless Mind is a very good movie. we have BTK&#39;s dog in boarding at the vet. it&#39;s so old and not taken care of at all. it has sores all over its body. me and the other ward attendent gave it a bath. poor baby. <BR> <BR>I just thought I&#39;d mention it, in case a family member wanted to get him out.<!--/Text--></td></tr>
+<!--/Post: 13236-->
+<!--Post: 13237--><!--Time: 1114625446-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13237"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Foxfire<!--/name--></b></a><br>Username: <!--field:uname-->Foxfire<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 27, 2005 - 11:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Really.  I was concerned about the dog a little myself.  I cannot believe that his daughter or the mom didn&#39;t have somebody pick up the dog.  That&#39;s sad. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 13237-->
+<!--Post: 13247--><!--Time: 1114647835-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13247"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Affie4u<!--/name--></b></a><br>Username: <!--field:uname-->Affie4u<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 27, 2005 - 5:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That is sad. Hwo could nobody have come for the family dog?!<!--/Text--></td></tr>
+<!--/Post: 13247-->
+<!--Post: 13261--><!--Time: 1114701538-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13261"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 28, 2005 - 8:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Perhaps they are all perverts and we are feeling too compassionate for his family. They actually moved and did not take the dog or make accomodations for the dog? They just lost my sympathy and concern. That is inexcusable! They have provided insight into their family that they should have kept hidden. It is very dysfunctional to me.<!--/Text--></td></tr>
+<!--/Post: 13261-->
+<!--Post: 13285--><!--Time: 1114790382-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13285"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 29, 2005 - 8:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->ALSO: That dog might be vital evidence to help prosecute him. Dog hair, DNA, eyewitnesses may have seen him with it around the time of the crimes, etc. <BR>ITTY: If you indeed have that dog &#39;boarded&#39;, take care of it &amp; contact the DA! <!--/Text--></td></tr>
+<!--/Post: 13285-->
+<!--Post: 13288--><!--Time: 1114810050-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13288"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Affie4u<!--/name--></b></a><br>Username: <!--field:uname-->Affie4u<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 29, 2005 - 2:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That must cost a lot of money to be boarding that dog each day. <BR> <BR>If a family memeber like BTK wife or daughter does not want to pick the dog up because they are afraid to come to park city &#40;they probley do not want a picture of them being taken &#41;you would think that a family friend or somebody from there church can pick the dog up from the vet and meet them somewhere to give them the dog back. <BR> <BR>Just think of all the &#34;secerts&#34; that dog probley knows . If olny he could talk...<!--/Text--></td></tr>
+<!--/Post: 13288-->
+<!--Post: 13300--><!--Time: 1114838891-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13300"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsbarn<!--/name--></b></a><br>Username: <!--field:uname-->Elsbarn<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 29, 2005 - 10:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->But the children can talk. <BR> <BR>Someone caring in Wichita go adopt that dog! <!--/Text--></td></tr>
+<!--/Post: 13300-->
+<!--Post: 13306--><!--Time: 1114864942-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13306"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, April 30, 2005 - 5:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->V: That is a very good point about hair evidence. It is difficult to have pets and not have their hair on one&#39;s person. The dog very well could be a silent witness. Can you imagine how uncomfortable the dog must have been around Rader: The smell of other dogs on his clothing and the scent of the dogs&#39; deaths. Animals are very perceptive and see more than we do, but are unable to verbalize it all.<!--/Text--></td></tr>
+<!--/Post: 13306-->
+<!--Post: 13307--><!--Time: 1114865619-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13307"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, April 30, 2005 - 5:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A plaintiff wail - were the words used to described Nicole Brown&#39;s dog in the OJ trial. My heart broke for that dog. I still wonder about that dog from time to time.<!--/Text--></td></tr>
+<!--/Post: 13307-->
+<!--Post: 13312--><!--Time: 1114893125-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13312"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, April 30, 2005 - 1:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Teardrop: Right about Raders&#39; pooch as evidence. If the dog is euthenized &#40;killed&#41; &amp; cremated &#40;which is how they usually do it&#41;, they will lose the source of the dog hair that may have been at MANY of the murder scenes.<!--/Text--></td></tr>
+<!--/Post: 13312-->
+<!--Post: 13316--><!--Time: 1114932392-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13316"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 01, 2005 - 12:26 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It depends on the age of the dog but I would think it would be a factor in the transfer of evidence. Anyone who owns a pet has their pets hairs on them that would then end up at a murder scene. If the dog was born after 1991 and Dennis Rader didn&#39;t kill anyone after 1991 it wouldn&#39;t come into play. If dog hairs not belonging to a murder victim killed during the dogs lifetime and matching Rader&#39;s dog it could link him to known murders linked to Rader or murders not yet linked to him.<!--/Text--></td></tr>
+<!--/Post: 13316-->
+<!--Post: 13317--><!--Time: 1114961524-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13317"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 01, 2005 - 8:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good point, Johno. BLTs&#39; last &#34;known&#34; murder occured in 1991. If the dog was born just AFTER that, it would still be 14 years old- which is VERY old for a dog. HOWEVER: It&#39;s not unheard of for a dog to live over 20 years &#40;I had a friend who had a 22 yr. old basset&#41;. And unless that dog has breeding &#34;papers&#34;, there&#39;s no telling Exactly when it was actually born. &#40;Don&#39;t take the perverts&#39; word for it&#41;. <BR> <BR>PLUS: I don&#39;t think anyone would be surprised to find out that he killed AFTER the last &#34;official&#34; one of 1991.<!--/Text--></td></tr>
+<!--/Post: 13317-->
+<!--Post: 13527--><!--Time: 1115485777-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13527"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ksguy2178<!--/name--></b></a><br>Username: <!--field:uname-->Ksguy2178<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 07, 2005 - 10:09 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The dog does not have sores all over it&#39;s body, it just has allergies.  Dennis Rader loved his dog.  It has been adopted and is well taken care of.<!--/Text--></td></tr>
+<!--/Post: 13527-->
+<!--Post: 13529--><!--Time: 1115507769-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13529"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 07, 2005 - 4:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ksguy, <BR> <BR>Thank you for the status on the dog. <BR> <BR>It’s heartening to know that this pup has a new home and wasn’t dealt the same fate as Charlie Otero’s companion. <BR> <BR>Perhaps this is the only creature in Dennis Rader’s sphere of influence that will live out life unscathed. <BR> <BR>I see that you registered with Catch BTK back in November of 2004. <BR> <BR>Your statement, “Dennis Rader loved his dog”, has raised my curiosity. <BR> <BR>Many of CBTK’s most erudite posters will insist that Dennis Rader was incapable of any kind of love. <BR> <BR>Some postulate that he even took pleasure in euthanizing the pets of Park City – collecting and hawking the used collars of departed dogs at a yard sale. <BR> <BR>My question for you is: <BR> <BR>Did you know Dennis Rader prior to his arrest? <BR> <BR>If so, would you share your impression of this man, ubiquitous in the community, who was simultaneously admired and despised? <BR> <BR>From your words, I believe you saw this man display genuine affection. <BR> <BR>I’m anxious to hear more from you. <BR> <BR>I presume everyone here will respect your opinions --  <BR>and for those who don’t… LostDog has your back Ksguy. <BR> <BR> <BR>LD  <BR><!--/Text--></td></tr>
+<!--/Post: 13529-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/788">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/788" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

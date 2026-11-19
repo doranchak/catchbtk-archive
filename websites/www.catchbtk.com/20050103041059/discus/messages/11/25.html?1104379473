@@ -1,0 +1,284 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 25/Boeing/McDonnell Douglas-->
+<!--Level 1: 25/Boeing/McDonnell Douglas-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Boeing/McDonnell Douglas</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Boeing/McDonnell Douglas</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+Boeing/McDonnell Douglas
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=25"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=25"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 69--><!--Time: 1085377831-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST69"><font face="Verdana" size="1"><b><!--email--><a href="mailto:psychesknot@yahoo.com" target="_blank"><!--/email--><!--name-->Psychesknot<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Psychesknot<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 23, 2004 - 10:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I am still learning of the finer details of this case.  Does anyone know if there is a Boeing/McDonnell Douglas connection of any kind to this case?<!--/Text--></td></tr>
+<!--/Post: 69-->
+<!--Post: 417--><!--Time: 1089471232-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST417"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, July 10, 2004 - 7:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->After listening to the audio of BTK, he struck me as a pilot. I am one as well. He is also familiar with the &#39;Crime Classification Manual&#39;. Because of his level of cunning, I feel that he could change his MO just to confound the police. In his writings, he realizes that another part of him is doing these killings. I think that the masturbation at the crime scenes disgusts him, but he is driven by his compulsion. He may have a scar on his face as well.<!--/Text--></td></tr>
+<!--/Post: 417-->
+<!--Post: 425--><!--Time: 1089595774-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST425"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Muskogee<!--/name--></b></a><br>Username: <!--field:uname-->Muskogee<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, July 11, 2004 - 6:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Teardrop said: <BR>&#34;I think that the masturbation at the crime scenes disgusts him, but he is driven by his compulsion. He may have a scar on his face as well.&#34; <BR> <BR>Whoa, I&#39;d heard of going blind from masturbating, but this is a new one!<!--/Text--></td></tr>
+<!--/Post: 425-->
+<!--Post: 433--><!--Time: 1089638706-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST433"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, July 12, 2004 - 6:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dear Muskogee: Compulsive masturbation does reduce zinc levels in the body which  contributes to a number of mental and physical issues.  I had hoped that the &#39;as well&#39; would indicate that the last statement about the scar would be seen as a separate thought.  Should he be a pilot, there is a small possibility of a scar on the face.  If you ever attend a convention of aircraft owners, never will you see in one place so many short men with scars on their faces. Read the Crime Classification Manual and learn about the various physical anomalies that follow certain types of killers. Perhaps a far cry or perhaps not.  The victims would be glad for one more piece of identifying data.  Thanks for the correction. I will try to be more specific. <!--/Text--></td></tr>
+<!--/Post: 433-->
+<!--Post: 494--><!--Time: 1089927608-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST494"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Muskogee<!--/name--></b></a><br>Username: <!--field:uname-->Muskogee<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, July 15, 2004 - 2:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Teardrop...I thought it would be obvious, but apparently it wasn&#39;t.  I was joking.<!--/Text--></td></tr>
+<!--/Post: 494-->
+<!--Post: 942--><!--Time: 1093724463-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST942"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sapper<!--/name--></b></a><br>Username: <!--field:uname-->Sapper<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 28, 2004 - 1:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Her is a possible scinero for the missing years. <BR>I honestly dont think he stopped killing. He just moved his activities else where. So how does theory strike you? <BR>The BTK got a job working for Boeing in the 70&#39;s. <BR>Somewhere in the early 80&#39;s he was transfered to Seattle countinued to kill up there. &#40; he would be just one among many serial killers there&#41;. Then he gets layed off in the post 9-11 years and goes back to Wichita. <BR><!--/Text--></td></tr>
+<!--/Post: 942-->
+<!--Post: 1422--><!--Time: 1100886649-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1422"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ksugirl<!--/name--></b></a><br>Username: <!--field:uname-->Ksugirl<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, November 19, 2004 - 9:50 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I like Sapper&#39;s theory.  I grew up in Wichita, where my dad worked as an engineer for Boeing.  In 1990, he transfered to the Oklahoma City Boeing location because he and the other engineers were informed that, eventually, there would be no more engineering at the Wichita location.  &#40;Which, by the way, did NOT come to pass, although my dad continues to work for Boeing in OKC, as does my husband.&#41;  All of the Boeing Wichita engineers began looking to transfer to Seattle, Huntsville, Alabama, etc.  Perhaps BTK was/is a Boeing engineer, and was transfered elsewhere at about the same time as my dad.  Like I said, engineering never really left Wichita after all, and I know of several Boeing engineers who have returned to the area, or travel there periodically from other Boeing locations.  My dad and husband are just two Boeing engineers who travel there regularly.  &#40;No, neither one of them is BTK!&#41;  Another BTW, Wichita is only two hours north of Oklahoma City, an easy, straight shot up I-35.  Hey, BTK, you work for Boeing?  Maybe in OKC?       <!--/Text--></td></tr>
+<!--/Post: 1422-->
+<!--Post: 2526--><!--Time: 1103758482-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2526"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 22, 2004 - 3:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->maybe he did/does work for boeing... <BR>maybe he still operates a ham radio... <BR> <BR><a href="http://www.boeingradioclub.org/members.htm" target=_top>http://www.boeingradioclub.org/members.htm</a> <BR> <BR>now take a look at the composite sketches. <BR><a href="http://ghostiesannex.myphotoalbum.com/view_photo.php?set_albumName=BTK&amp;id=Btkdm03" target=_top>http://ghostiesannex.myphotoalbum.com/view_photo.p hp?set_albumName=BTK&amp;id=Btkdm03</a> <BR> <BR>-iq<!--/Text--></td></tr>
+<!--/Post: 2526-->
+<!--Post: 2543--><!--Time: 1103764625-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2543"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Justathought<!--/name--></b></a><br>Username: <!--field:uname-->Justathought<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 22, 2004 - 5:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bold IQ. <BR>Very Bold. <BR>Though if Dennis McKenzie is the real deal and these theories are correct, <BR>Maybe, just maybe<!--/Text--></td></tr>
+<!--/Post: 2543-->
+<!--Post: 2549--><!--Time: 1103779949-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2549"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 22, 2004 - 9:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Which Member? Initials... <BR> <BR>One photo gave me a chill.<!--/Text--></td></tr>
+<!--/Post: 2549-->
+<!--Post: 2577--><!--Time: 1103824472-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2577"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dee<!--/name--></b></a><br>Username: <!--field:uname-->Dee<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 9:54 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Iq... I like the possible connection, but I honestly didn&#39;t see a match.  On that sketch, if factual, that man has a very pronounced dimple on his chin.  I didn&#39;t see that on anyone on the members page, but some did have beards.<!--/Text--></td></tr>
+<!--/Post: 2577-->
+<!--Post: 2599--><!--Time: 1103836018-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2599"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 1:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There&#39;s 2 with a chin dimple &#40;kinda hard to see&#41; but not the one I got the strange chill from.<!--/Text--></td></tr>
+<!--/Post: 2599-->
+<!--Post: 2600--><!--Time: 1103836209-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2600"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 1:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Your assuming he masterbated at the crime scene&#40;s&#41;. In some of the short time spans to produce that much seman and to have it where it was found seems more like he had it with him... perhaps not even his own always?<!--/Text--></td></tr>
+<!--/Post: 2600-->
+<!--Post: 2613--><!--Time: 1103842446-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2613"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 2:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->forensic DNA processing was not available in that era, why would he go through the trouble of planting false evidence that wasn&#39;t evidence at the time? and where in the hell would he get someone elses semen from? did he work at a sperm bank &#40;were they around then&#41;?<!--/Text--></td></tr>
+<!--/Post: 2613-->
+<!--Post: 2615--><!--Time: 1103842614-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2615"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 2:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I see Teardrop was the original culprit in steering this thread off course. For shame. <BR> <BR><b>Boeing/McDonnell Douglas</b><!--/Text--></td></tr>
+<!--/Post: 2615-->
+<!--Post: 2619--><!--Time: 1103846779-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2619"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Justathought<!--/name--></b></a><br>Username: <!--field:uname-->Justathought<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 4:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, <BR>Perhaps you should consider removing this entire thread. If you google some of the guys in the boeing-ham radio pictures you get an address and phone number. we dont want some crackpot showing up at any innocent mens homes.Its very irresponsible.<!--/Text--></td></tr>
+<!--/Post: 2619-->
+<!--Post: 2621--><!--Time: 1103848003-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2621"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 4:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->i tend to agree. although my post, in no way, shape or form indicated  <BR>that one of those men WAS BTK. <BR> <BR>at the same time there is another post with a link to wichita ham operators. that one  <BR>contains names also. if one should be removed so should the other. <BR> if memory serves me, the poster stated &#34;what if i told you BTK was on this list&#34;.  <BR>that&#39;s a little overboard! let&#39;s remember to keep all of this in perspective, please. <BR> <BR>iq <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 2621-->
+<!--Post: 2622--><!--Time: 1103848325-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2622"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Justathought<!--/name--></b></a><br>Username: <!--field:uname-->Justathought<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 4:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Agreed.<!--/Text--></td></tr>
+<!--/Post: 2622-->
+<!--Post: 2627--><!--Time: 1103855959-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2627"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Oklahoma_mike<!--/name--></b></a><br>Username: <!--field:uname-->Oklahoma_mike<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 6:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Looking back over the posts in this thread the Wichita-Seattle link first posed by Sapper is most interesting. I am not sure when Boeing and McDonnell merged. In the time frame 1974--1990 say what other locations did Boeing have where personnel might get transferred?  We need the help of a Boeing person from Wichita who would know this or could find it out.<!--/Text--></td></tr>
+<!--/Post: 2627-->
+<!--Post: 2628--><!--Time: 1103856838-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2628"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dee<!--/name--></b></a><br>Username: <!--field:uname-->Dee<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 6:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That Seattle theory would also be plausible in reverse.  Perhaps he worked in Seattle, but traveled to Wichita for training periodically,  That would account for the time frame&#40;s&#41; between murders; &#34;traveling businessman&#34;.<!--/Text--></td></tr>
+<!--/Post: 2628-->
+<!--Post: 2680--><!--Time: 1103914238-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2680"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ryddik<!--/name--></b></a><br>Username: <!--field:uname-->Ryddik<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 24, 2004 - 10:50 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think the traveling businessman idea is plausable however it seems that btk has knowledge of the area how many business men have time to stalk victims on a business trip. &#40;they often don&#39;t allow for that type of dedicated use of non company time&#41; <!--/Text--></td></tr>
+<!--/Post: 2680-->
+<!--Post: 2683--><!--Time: 1103920653-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2683"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dee<!--/name--></b></a><br>Username: <!--field:uname-->Dee<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 24, 2004 - 12:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I travel for business often and nights in hotels rooms get extremely boring.  There is plenty of time to read maps, take walks, etc. I don&#39;t know the Wichita area, but are/were there any hotels near the crime scenes?  Would explain the quick getaway and clean up.  The room&#40;s&#41; would be cleaned daily, thus no evidence and no one would think to search a hotel.  Just going with the theory...<!--/Text--></td></tr>
+<!--/Post: 2683-->
+<!--Post: 2761--><!--Time: 1104084039-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2761"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ksugirl<!--/name--></b></a><br>Username: <!--field:uname-->Ksugirl<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 26, 2004 - 10:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oklahoma Mike:  See my 11/19 post regarding Boeing Wichita transfers.  My family has a long time association with Boeing.  Seattle, Huntsville, and OKC are just three places where Wichita Boeing personnel transferred  &#40;BTW, my dad worked with Vicki Wegerle at Boeing before she left to stay home with her children.&#41; <BR>Dee:  There is indeed a hotel near quite near some of the crime scenes that Boeing uses  ALL THE TIME, and has used for years, to house Boeing employees visiting Boeing/Wichita.  My dad has stayed there many time in the past, and my husband stays there nearly every time he travels to Boeing in Wichita.  The name of it is The Wichita Suites.  Map its location, then compare it to the map of the BTK crime scenes.  Great theory; I like it.   <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 2761-->
+<!--Post: 3042--><!--Time: 1104379473-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3042"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dee<!--/name--></b></a><br>Username: <!--field:uname-->Dee<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 29, 2004 - 8:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks Ksugirl.  I mapped it out and there is no more than 4 miles from the Suites to the crime scenes; excluding the one on W 13th-which we all know was way out of the &#34;normal&#34; area.  Just a thought...<!--/Text--></td></tr>
+<!--/Post: 3042-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/25">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/25" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

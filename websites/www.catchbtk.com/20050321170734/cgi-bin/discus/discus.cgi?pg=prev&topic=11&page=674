@@ -1,0 +1,250 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 654/What have we each learned?-->
+<!--Level 1: 654/What have we each learned?-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: What have we each learned?</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">What have we each learned?</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+What have we each learned?
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=654"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=654"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 10229--><!--Time: 1109829389-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10229"><font face="Verdana" size="1"><b><!--email--><a href="mailto:williammichael@direcway.com" target="_blank"><!--/email--><!--name-->Oklahoma_mike<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Oklahoma_mike<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 9:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Let us all do some introspection and honestly try and see what we can learn from our efforts and failures at analysis and predictions in the case. <BR>I never posted my profile but main hits and misses were as follows:  I predicted his age at 55-60, that he was an Airforce veteran and had military service in asia, that he was married and that his appearance and daily life was totally normal, that all his neighbors would be surprised. <BR>I was also right that he was a Wichita native and had never lived away from the area except while in the military. I predicted he would be a neat freak and I think I got his intelligence right as bright-normal. <BR>However, I was totally wrong in thinking he had attended but not gratuated from college, that he had lost a close relative as the trigger that caused him to return, that his occupation would be in the utility-maintenance area in terms of working on machinery, electronics or such, and that he would never have been in the public eye. <BR>My biggest error was in not placing Mrs. Hedge or Mrs. Davis on his list of victims.  I thought it remotely possible he was their killer, but not likely. <BR>I did a lot of work on geographic locations, lines on maps,etc.  I found the area of East Wichita as an obvious comfort zone but totally failed to consider the might have MORE THAN ONE comfort zone!  I plotted the crimes from the 70&#39;s and then seperately plotted the latercrimes and ended up with two seperate clusters.  I erroneously concluded 2 different killers, especially since he also changed the ages of his victims at about the same time. <BR>I will write more on how I am trying to learn from my mistakes later, and encourage all of us to do the same so we may learn from each others&#39; errors as well as our own.  Who knows, someday we might actually get good at this!<!--/Text--></td></tr>
+<!--/Post: 10229-->
+<!--Post: 10232--><!--Time: 1109831297-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10232"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 10:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->All in all everyone was generally right.  <BR>We knew just by the date of the Otero crimes through today he would have to be a man between the ages of 55-65. He was 59 almost 60. right in the middle. <BR>We figured he was from the Wichita area and had easy access to the I135. He lived right by it 7 miles north of the city. <BR> <BR>Most assumed he had some military background. He was 4 years Air Force. <BR>Many beleived he at one time or another either graduated from or attended WSU most likely in the 1970&#39;s. He graduated in 1979. <BR>There was a concensus that he had some familiarity with law enforcement. It was his major at WSU. And he worked in city code enforcement. <BR>It was speculated that there had to be some Coleman connection. He worked there for a year from 1972-1973. <BR>Many believed he would be married or had been married. 34 years to the same woman. <BR>It was thought by many that he would someone who was familiar with kids and either had children or worked with kids. He had two of his own who are now in their 20&#39;s and he worked with the scouts. <BR>Some thought there would be a church connection. He was president of his. <BR>Everyone thought he would be your average looking guy-next-door nieghbor who would blend in with his surroundings. And so he was. <BR> <BR>Eliminate the way-out theories, eliminate why he would be a killer and his motives, eliminate his common connection to all of his victims, eliminate where he was and why he came back and just whittle it down to some of the common essentials that most people felt was the core of his being and existence and there you are. He was there all along. Probably in more ways than one as he was probably with us too on the outside looking in. His advantage was he was also on the inside looking out.<!--/Text--></td></tr>
+<!--/Post: 10232-->
+<!--Post: 10367--><!--Time: 1109915806-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10367"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 9:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think alot can be learned by this most interesting case.  <BR>1. Serial murders are very hard to connect. In this case they only connected them because the killer told them &#34;Hey, I killed these people and I also killed this person&#34;. Once he stopped announcing his deeds they assumed he was gone. <BR>2. I believe Rader was caught because of his ego. I think when he started communicating agian after all those years, he did it to thumb his nose at LE and say I&#39;m still here in response to that 30 year anniversay article. I don&#39;t think at that time he intended to keep writing. He was just going to send that 1st note and disappear again. However a funny thing happened, something he did see coming. All of a sudden he got the publicity he had been craving all of these years. This guy ate it up! I think LE capitalized on that this time around, correcting a mistake they made in the 70&#39;s. They kept his name in the news and in the headlines and everytime it started to die down, Rader wrote again. They knew eventually he would slip up. When he sent in the computer disc that was what nailed him. <!--/Text--></td></tr>
+<!--/Post: 10367-->
+<!--Post: 10438--><!--Time: 1109958218-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10438"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dee<!--/name--></b></a><br>Username: <!--field:uname-->Dee<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 9:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, I know I learned that I suck at being an amateur cyber sleuth!<!--/Text--></td></tr>
+<!--/Post: 10438-->
+<!--Post: 10481--><!--Time: 1109970291-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10481"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 1:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here is what i can think of at this moment. <BR>First the reason that serial Killers are not easily caught is because, to society they can appear as normal as the rest of us. I have also learned that those of us with a a balanced ego, id and superego can keep our desires in check while those who&#39;s minds are driven by the id seek immediate gratification right now and will do anything to get it, and you can&#39;t see that by just looking at a person, I feel that a persons upbringing has a lot to do with how they turn out, I feel that this case went on forever because no one was looking out side the box or outside of wichita at unsolved cases, I believe today I learned how the evidence can be decieving and you should always trust your hunchs, because they can lead you in the right direction<!--/Text--></td></tr>
+<!--/Post: 10481-->
+<!--Post: 10486--><!--Time: 1109971118-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10486"><font face="Verdana" size="1"><b><!--email--><a href="mailto:linnieskid@earthlink.net" target="_blank"><!--/email--><!--name-->Linnieskid<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Linnieskid<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 1:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I learned profiling is not all its cracked up to be. As a poster here has mentioned before, geographical profiling is more accurate. There is no more &#34;Mr. Nice Guy&#34;,  he could just be a serial killer. Psychic impressions do hold some validity. Notice: I didn&#39;t say psychics per se are valid. People on this board, the majority, are caring,sharing, have a sense of humor and  work together in a spirit of human decency. Anyone at anytime can be a victim. Never give up hope, people working together can move mountains. If you are a bad guy; know it may take a while, a long while, but you will answer for your actions. The list goes on.<!--/Text--></td></tr>
+<!--/Post: 10486-->
+<!--Post: 10540--><!--Time: 1109991522-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10540"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 6:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I learned that LE, at all levels, deserve a lot of respect for the work that goes into these SK cases -- I never realized how much research, analysis and discussion goes into an investigation -- and we didn&#39;t even have a fraction of the actual evidence to sort through. <BR> <BR>It seems to me that profiling can work on a certain level, where the deductions are based on the known facts, and not conjecture piled upon speculations based on untested theories, etc.  It&#39;s tough for LE because so little is really known about SK, and psychopaths in general.  They don&#39;t have much groundwork for coming up with even a basic psychological profile.  I really hope that more is learned about Denny the Dogcatcher and why/how he operated. <BR> <BR>I found it interesting to see how my own unconscious biases popped up when I was theorizing about various topics.  We all have certain areas that we&#39;re experienced in and about which we have a good level of knowledge.  And then there are the blind spots!  Many of my blind spots I either wasn&#39;t aware of or I was in denial about them.  The give and take of the discussion board, and the voicing of so many well-considered points of view, was a true education for me.  <BR> <BR>Now I hate to get all corny about good finally triumphing over evil, but... As Linnieskid says, you can never give up hope.  Even in the most frustrating cases, and even after decades, the bad guys DON&#39;T always get away.   <BR> <BR>Seeing so many people from so many walks of life pulling together to try to catch this guy really restored my faith in humanity.<!--/Text--></td></tr>
+<!--/Post: 10540-->
+<!--Post: 10560--><!--Time: 1110003319-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10560"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Next<!--/name--></b></a><br>Username: <!--field:uname-->Next<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 10:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The LE deserves respect? LMAO <BR> <BR>They had lists of names of the Wichita males that <BR>1- worked at the Colman plant <BR>2- were in the Military&#40;even narrowed it to Air Force&#41; <BR>3- lived on the same street as murder victims <BR> <BR>And it was their full time job? How come I picture the whole Wichita PD as &#34;Simpsons&#34; cops? <BR> <BR>The dounut shops in Wichita must be very busy.<!--/Text--></td></tr>
+<!--/Post: 10560-->
+<!--Post: 10573--><!--Time: 1110027278-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10573"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Haytrader<!--/name--></b></a><br>Username: <!--field:uname-->Haytrader<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 05, 2005 - 4:54 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I got a call last night from a friend who lives in Wichita . He said he was enrolled at WSU when Rader was. He also worked at Coleman when Rader did. That put my friend on two lists and he was never questioned by LE.<!--/Text--></td></tr>
+<!--/Post: 10573-->
+<!--Post: 10586--><!--Time: 1110035226-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10586"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Essevi<!--/name--></b></a><br>Username: <!--field:uname-->Essevi<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 05, 2005 - 7:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->After starting the December 1st thread under POI, I learned NOT to jump to conclusions when someone is arrested for being BTK.  <BR> <BR>p.s. I apologized to Mr. V. <BR> <BR>p.s. p.s. Rader--I hope you fry! &#40;he at it again&#41; <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10586-->
+<!--Post: 10600--><!--Time: 1110052003-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10600"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 05, 2005 - 11:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Next,  <BR> <BR>1. Lots of former Coleman employees &#40;none of which were necessarily the SK&#41; <BR>2. Lots of former military &#40;see above&#41; <BR>3. Lots of people lived on the same street, or otherwise nearby, the victims.  The suspect didn&#39;t necessarily still live on the same street as the victims, could&#39;ve been a former neighbour, or jsut grew up on a couple of the streets, that would lengthen that list. <BR> <BR>And don&#39;t forget all the other possible connections LE could&#39;ve investigated:  Church connections, shopped at the same grocery store, model train fans, Scouting, hunting, gun collectors, etc. etc. etc.  Wichita isn&#39;t that huge, if look at everyone&#39;s background closely enough, almost everybody would have some coincidental connections to at least some of the victims.  So the linkages you&#39;ve listed don&#39;t mean a heck of a lot. <BR> <BR>They had some LE staff working on the case full time for awhile, but without the hard evidence, or the technology available today.   <BR> <BR>Finding Dennis Radish was hardly the fulltime job of WPD, KBI or FBI for all that time.  Every year Wichita has 20-30 homicides or thereabouts to investigate.  BLT wasn&#39;t even the only high profile case that WPD had to investigate recently.  Remember the Carr brothers? <!--/Text--></td></tr>
+<!--/Post: 10600-->
+<!--Post: 10727--><!--Time: 1110159320-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10727"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Next<!--/name--></b></a><br>Username: <!--field:uname-->Next<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 5:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Audrey- But if a person turns up on those three lists, shouldn&#39;t they be investigated? I&#39;m not saying it was there full time job for 30 years, but for at least 5 years. Raider was on &#40;at the very least&#41; those 3 lists How many people could be on THAT list? 100?  <BR>Hay - Why wasn&#39;t he? That doesn&#39;t make any sense to me at all.  <BR> Who were the 4000 people they DNA tested? I would think that it would include all males that were prior military and Colman employees???? <BR> <BR>If I was in charge of this case&#40;well it would have been solved in the first year ;&#41; with the Oteros, grill friends,co-workers,neighbors. The person had to have known them. Second murder, link the two cases, if both worked at Colman, I would have inverviewed every person who worked there during the times that they were employed. Cross off all women, and people not in the area...... <BR>  This goes on and on. Bottom line is I think the WPD did a terrible job.<!--/Text--></td></tr>
+<!--/Post: 10727-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/654">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/654" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

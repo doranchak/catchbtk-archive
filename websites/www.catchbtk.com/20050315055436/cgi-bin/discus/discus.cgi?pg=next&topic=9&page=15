@@ -1,0 +1,293 @@
+<html>
+<!--Topic: 9/BTK Suspects-->
+<!--Me: 599/Raidar-->
+<!--Level 1: 599/Raidar-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 9-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Raidar</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Raidar</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/9/9.html"><font color="#f7f7f7">BTK Suspects</font></a> &#187;
+Raidar
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=9&page=599"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=9&page=599"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 9269--><!--Time: 1109458888-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9269"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 3:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Okay, this is just wild brainstorming and turning over rocks, but, now in retrospect, does &#34;raidar&#34;&#39;s profile of btk seem just a little &#42;too&#42; on the nose?!  The coincidence here makes me go &#34;hhhmmmmm...&#34;. <BR> <BR><a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?x=e&amp;st=11&amp;scache=110945786192686922698124" target=_top>http://www.catchbtk.com/cgi-bin/discus/search.cgi? x=e&amp;st=11&amp;scache=110945786192686922698124</a> <BR>&#40;if this link does not continue to work, search the mb for &#42;authors&#42; named &#42;raidar&#42; in all threads, then take a read of the various posts. interesting reading...&#41; <BR> <BR>BTW, The Pretty&#39;s were from Houston, a.k.a. &#34;south east texas&#34;.  Hhhmmmmm....  Anyone know if D.R. has any TX connections?!? <BR> <BR>Raidar, you still out there?<!--/Text--></td></tr>
+<!--/Post: 9269-->
+<!--Post: 9274--><!--Time: 1109459667-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9274"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 3:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->more info on The Pretty&#39;s here, for those unfamiliar.... <BR> <BR><a href="http://members.tripod.com/~bailey_T/index-3.html" target=_top>http://members.tripod.com/~bailey_T/index-3.html</a><!--/Text--></td></tr>
+<!--/Post: 9274-->
+<!--Post: 9277--><!--Time: 1109460065-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9277"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 3:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->OMG, that does sound like the BTK MO. <BR> <BR>I hope he does get linked to that one -- a death penalty state no less.  Could give WPD a bargaining chip to get DR to give them as much info as they want from him.<!--/Text--></td></tr>
+<!--/Post: 9277-->
+<!--Post: 9278--><!--Time: 1109460120-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9278"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 3:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->And there was that &#34;ressless texas&#34; post allegedly from BTK in the &#34;Messages from BTK&#34; forum.<!--/Text--></td></tr>
+<!--/Post: 9278-->
+<!--Post: 9283--><!--Time: 1109461737-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9283"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Neverstop<!--/name--></b></a><br>Username: <!--field:uname-->Neverstop<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 3:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Like I said a couple weeks ago, somebody knew just who this guy was but I had it a little wrong. There were a WHOLE lot of people who knew just EXACTLY who this guy was and this is one of the lessons I hope Law Enforcement gets: Somebody ALWAYS knows and THEY need to be leaned on hard, softly, cleverly and every other way next time. And unfortunately there will be a next time and unfortunately that next time is in the makeing right now somewhere in these U. States of A.  Thank God Almighty, Great Glory In the Morning, Praise Be and Hallelujia. Hopefully this dude is nailed.<!--/Text--></td></tr>
+<!--/Post: 9283-->
+<!--Post: 9297--><!--Time: 1109464879-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9297"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 4:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have heard them say that Marine Hedge and Delores Davis were abducted from their homes before being killed, which constitutes kidnapping and murder. If they were taken from the home alive then killed, they could, theoretically, try those cases in federal court where I believe he could recieve a death penalty...don&#39;t read that as absolute fact though. Just trying to cheer you up. Personally I would prefer that they throw him in a cell with lots of bugs for the rest of his life.<!--/Text--></td></tr>
+<!--/Post: 9297-->
+<!--Post: 9324--><!--Time: 1109476100-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9324"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 7:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->On KANSAS.COM, they said he posted as PREACHER3.<!--/Text--></td></tr>
+<!--/Post: 9324-->
+<!--Post: 9327--><!--Time: 1109477389-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9327"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nightdriver<!--/name--></b></a><br>Username: <!--field:uname-->Nightdriver<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 8:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t know if I would believe that, coming from there. PREACHER3 is not hard to find, he started up his own Yahoo group. It&#39;s called whycatchbtk. He even signs his posts with his real name. Look it up and ask him yourself.<!--/Text--></td></tr>
+<!--/Post: 9327-->
+<!--Post: 9339--><!--Time: 1109480267-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9339"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 8:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->yeah but first they have to actually say that he killed them, and right now they are not telling us anything, maybe they haven&#39;t figured out just how many people he has killed, when they do, i bet there is a recent one that he could get the DP for, I want him to stay alive in a cell with a very large man for the rest of his life<!--/Text--></td></tr>
+<!--/Post: 9339-->
+<!--Post: 9701--><!--Time: 1109608636-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9701"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 8:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Unfortunately high profile killers usually end up in maximum security, out of the general population and in private cells. The good news is that other than one hour per day, alone in an exercise yard, they don&#39;t leave their cell. Good thing he has his monster to keep him company.<!--/Text--></td></tr>
+<!--/Post: 9701-->
+<!--Post: 9714--><!--Time: 1109612834-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9714"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Freya<!--/name--></b></a><br>Username: <!--field:uname-->Freya<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 9:47 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Just to establish, <BR>the ress less comment referred to a chat discussion in which ress less and I discussed having lived in Texas. The imposter BTK was reading on the chat room and left that post to freak us out. I believe he was identified and sent on his merry way.<!--/Text--></td></tr>
+<!--/Post: 9714-->
+<!--Post: 9740--><!--Time: 1109622947-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9740"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 12:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->FREYA: Who ID&#39;d the phoney BTK in &#39;chat&#39; and how?? <BR> <BR>BMODULE said: &#34;Unfortunately high profile killers usually end up in maximum security, out of the general population and in private cells.&#34; <BR> <BR>That&#39;s not what I hear. Can you say &#34;JEFFERY DAHMER&#34;? &#40;Killed while working with others&#41;./ Son-Of-Sam? &#40;Almost killed while serving food to others&#41;./ TEX WATSON &#40;the guy who killed Sharon Tate &amp; 7 others in the &#39;Manson-family Murders&#39;&#41;, for years an active high-profile preacher in prison. <BR> <BR>Or does your info apply only to Kansas high profile murderers? <BR> <BR>Victor<!--/Text--></td></tr>
+<!--/Post: 9740-->
+<!--Post: 9770--><!--Time: 1109633860-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9770"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 3:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Vscantu, Don&#39;t forget Manson himself. He&#39;s been attacked several times. Set on fire once.<!--/Text--></td></tr>
+<!--/Post: 9770-->
+<!--Post: 9839--><!--Time: 1109658517-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9839"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 10:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->How do you become more famous than a serial killer? murder one. <BR>Why did the serial killer stop killing? <BR>he ran out of milk lol <BR>Sorry, couldn&#39;t help it <BR><a href="http://kgmb9.com/kgmb/display.cfm?storyID=1973&amp;sid=1209" target=_top>http://kgmb9.com/kgmb/display.cfm?storyID=1973&amp;sid =1209</a> <BR><a href="http://starbulletin.com/2000/09/01/news/story2.html" target=_top>http://starbulletin.com/2000/09/01/news/story2.htm l</a> <BR>got these in mail take a look kind of strange <BR><!--/Text--></td></tr>
+<!--/Post: 9839-->
+<!--Post: 9951--><!--Time: 1109712330-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9951"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lizzie<!--/name--></b></a><br>Username: <!--field:uname-->Lizzie<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 1:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->raidar&#39;s posts are not available anymore...<!--/Text--></td></tr>
+<!--/Post: 9951-->
+<!--Post: 9972--><!--Time: 1109714950-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9972"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hkenley@san.rr.com" target="_blank"><!--/email--><!--name-->Chiefron<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Chiefron<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 2:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Victor, <BR> <BR>The phoney BTK in chat at the time it happened was under the name &#39;Ricky&#39; he later used the name &#39;Lookin4me&#39; and various other nicknames for a couple days after the rash of posts over a 3 day period.  <BR> <BR>Tom posted the IP address for BTK on the forum for a short period of time. That IP matched exactly with the IP Ricky et.al. was chatting from.  <BR> <BR>That IP was for a residential account from an ISP in Carl Junction, MO. I think most people are assuming BTK did not really drive to Missouri to make his internet communications to us. <BR> <BR>Ron<!--/Text--></td></tr>
+<!--/Post: 9972-->
+<!--Post: 10088--><!--Time: 1109748303-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10088"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 11:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->lizzie- you just have to perform a fresh search; the search results in that link were cached.<!--/Text--></td></tr>
+<!--/Post: 10088-->
+<!--Post: 10105--><!--Time: 1109762053-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10105"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 3:14 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Chiefron <BR> <BR>I was receiving email from someone the iland ISP in Missouri for a while that I thought might be BTK. He claimed that he tried to get an account, but kept sending me misleading ideas so I quit paying attention. I ran the ISP down w/whois and it said something about a satalite link. Maybe he was using a sat link and posting from a cell phone or blackberry of something.<!--/Text--></td></tr>
+<!--/Post: 10105-->
+<!--Post: 10131--><!--Time: 1109780648-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10131"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jed4258<!--/name--></b></a><br>Username: <!--field:uname-->Jed4258<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 8:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bmodule,  Do you still have those messages?  Reason I ask is I&#39;m in the part of Missouri where ILand is the local ISP.  I used them for years, dumped them three years ago when broadband arrived here.  I can get some buddies who are stil with them to pull a user name search...<!--/Text--></td></tr>
+<!--/Post: 10131-->
+<!--Post: 10221--><!--Time: 1109822020-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10221"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 7:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->B it would be interesting to find out who that was, go to a cell phone place and ask them to tell you where it came from or find out who owns the towers in that areas, they can tell you exactly where it came from<!--/Text--></td></tr>
+<!--/Post: 10221-->
+<!--Post: 10223--><!--Time: 1109824434-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10223"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 8:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I saved them and can forward them by email, but posting them might be asking for trouble, one person with the name that the sender used is a prominent business person in Missouri.<!--/Text--></td></tr>
+<!--/Post: 10223-->
+<!--Post: 10244--><!--Time: 1109838179-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10244"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 12:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->But I just received another and he has apparently been communicating with several of you: vscantu1, whoisbtk, and Tom and is presently not incarcerated.  <BR> <BR>As for being misleading I need to clarify that. I pretty much got lost in the clutter of the arrest, but the postmark On the KSAS&#40;FOX&#41; package had a different zipcode from either the &#34;sendto&#34; or &#34;return&#34; address on the package. <BR> <BR> The sender had noticed and entered the zip into their computer and came up with Westport Airfield in Wichita. I tried duplicating the search with Google and got squat. Then Googled Westport &#40;since Westport is an area in Kansas City, thinking the sender mixed up Wichita and Kansas City&#41; and found out that it is the airfield Wichian&#39;s called Jabara. So I used Mapquest and the zipcode But that showed it as coming from Mid-Continent Airport &#40;as if somebody had flown into town and mailed the package so it would appear to have been mailed locally&#41;. <BR> <BR> Still thinking that the sender was a BTK suspect, and suspecting that BTK might not live in Wichita &#40;or might be planning to dissappear since the end was obviously near&#41; it appeared the sender might have not realized that large institutions &#40;like Colleges, Airports etc&#41; have their own zips, but saw the envelope on TV or NET and realized the mistake and tried diverting attention to an airfield nearby&#40; since airfields kept popping up throughout the investigation&#41; to buy some time. <BR> <BR>Owing Embersage an e-mail, I enlisted her in a plot to appear to &#34;buy into&#34; the Jabara ploy and cc&#39;d coldcase with the message. By the time I got back to the computer Rader had already been arrested and I doubt that the cops had ever seen my email.  <BR> <BR>Anyway the sender had not communicated since the arrest and following the new twists was more entertaining than asking why other than there was no point so I was actually surprised to hear he is still reading the posts here. I still haven&#39;t figured out why he hadn&#39;t been posting himself, but then I used to have a work computer that I had to be careful about what made permanent records on it too. <BR> <BR>I liked the part about Harvard material. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10244-->
+<!--Post: 10307--><!--Time: 1109889133-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10307"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 2:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Raider implied that she was a woman by saying she had a husband in one of the posts.<!--/Text--></td></tr>
+<!--/Post: 10307-->
+<!--Post: 11016--><!--Time: 1110350741-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11016"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 10:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Welp Raidar just posted, so he&#39;s not Rader <BR><!--/Text--></td></tr>
+<!--/Post: 11016-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="9/599">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=9/599" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

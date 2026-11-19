@@ -1,0 +1,237 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 331/Why did he return?-->
+<!--Level 1: 331/Why did he return?-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Why did he return?</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Why did he return?</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+Why did he return?
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=331"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=331"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4256--><!--Time: 1105979630-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4256"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Run2win<!--/name--></b></a><br>Username: <!--field:uname-->Run2win<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 17, 2005 - 8:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I thought we could start a thread specifically focused on your theories of why he returned. <BR> <BR>My half-baked thought is that he started feeling the &#34;urges&#34; again after following and reading about the Green River Killer.  The trial ended and sentencing was passed down on him 2 months before we heard from BTK again.  I think that once he read and heard about how many women Ridgeway strangled, he was pulled further back into his fantasy world.  <BR> <BR>I also believe that the emotion Ridgeway showed in his apology to the families &#40;all the weeping and raw &#34;I do not know why I did this&#34;&#41; may have made BTK stop and think.  The memories of crying and pleading victims could not touch the hollow man, but, maybe one he would consider his kindred spirit could:  The Green River Killer.  Maybe he thought he could have a soul after all and began to think more seriously about his crimes and his future.  Maybe the releasing of his trophies is the stirring of whatever tiny conscience he has after all these years.  And, now that he has resurfaced, he finds once again the thrill of taunting the police and citizens of Wichita. <BR> <BR>Or... maybe I am just full of crap! <BR>Run<!--/Text--></td></tr>
+<!--/Post: 4256-->
+<!--Post: 4263--><!--Time: 1105988049-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4263"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Curious2<!--/name--></b></a><br>Username: <!--field:uname-->Curious2<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 17, 2005 - 10:54 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Great question, Run2Win!  Unfortunately, we cannot draw any conclusions until we can read the actual communications he has provided WPD with.  We can&#39;t say whether he is taunting them through the context of his letters - is he daring them to find him?  Is he saying &#34;I&#39;ll <BR>provide you with the following clues about me, <BR>and I bet you STILL can&#39;t find me.&#34;  Remember <BR>when WPD released his clues, they specifically <BR>stated that BTK gave them background information <BR>which he CLAIMED was factual; and after  <BR>reviewing said info, WPD was releasing the  <BR>following FACTS about his background.  Run2, how <BR>can they conclude which are FACTS? &#40;For instance, I for one, do NOT believe he was born in 1939 --- when he is captured, I can guarantee that he will have been born between 1946 and 1949!&#41;  So, how did they decide which clues were factual?  Anyway, it appears that the &#34;facts&#34; were not too factual - otherwise, SOMEONE would have recognized SOMETHING about him!  I would love to see what other communications BTK has provided them with.  I do not think it has been a &#34;remorseful&#34; type of communication - I think it is a typical BTK &#34;game-playing.&#34;  It&#39;s exciting for him.  If he married in the late <BR>80&#39;s, and had several children, those children <BR>would now be leaving for college.  And perhaps <BR>BTK went through a divorce when the children <BR>left earlier this year - hence, his &#34;empty nest&#34; syndrome which he chose to fill by teasing and taunting the WPD.  Do I think BTK wants to get caught?  No.  I think he may purge himself of all the murderous &#34;tokens&#34; he has left, and then he will drift into the shadows again - never to be heard from again.  Through this behaviour, <BR>he is elevating his &#34;level&#34; in the annals of <BR>SK history, all the while demeaning WPD by showing their inability to capture him.<!--/Text--></td></tr>
+<!--/Post: 4263-->
+<!--Post: 4265--><!--Time: 1105990621-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4265"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Run2win<!--/name--></b></a><br>Username: <!--field:uname-->Run2win<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 17, 2005 - 11:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good points Curious.  And although I agree that he may have lost someone close to him recently... I truly am of the opinion that he was affected by 2 important events concerning &#34;family members&#34; who would understand him best:  the Green River Killer and the Zodiac.  The Green River Killer as I explained above and the Zodiac because I am in total agreement that BTK had an admiration for his work.  Once they shut down the case about the Zodiac, interest quickly dried up in most arenas as to the identity of the Zodiac.  BTK&#39;s ego is certainly not prepared to drop off &#34;into that good night&#34;.  He wants to ensure that they do not close his case and thereby eliminate interest in him.  I just picture him being unmoved by the death of others.  I believe the first time in years that he has been truly stunned, sitting open mouthed, slack jawed, and doubting his status as a demi-god in the world, was when he heard about the closing of the Zodiac case and again when he saw the vulnerability and emotion of Ridgeway.<!--/Text--></td></tr>
+<!--/Post: 4265-->
+<!--Post: 4267--><!--Time: 1105991943-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4267"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 17, 2005 - 11:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yes, great thread.  I half agree with both of your ideas.  Half of me wants to believe that BTK is actually entertaining &#34;catch me&#34; thoughts, and half of me thinks he&#39;s a totally remorseless SK.  Maybe BTK is conflicted, too.  He can soothe his angst with thoughts of giving up, while he tells himself logically that he never will.  For the conflicted mind, a &#34;win-win&#34; situation. <BR> <BR>The Ridgeway/end-of-life theory is as good as many of the other theories being floated.  Divorce, retirement, prostate cancer, other terminal illnesses, or any other end-of-life &#40;EOL&#41; issues - your idea certainly fits in with the latter.  Although BTK&#39;s emerging conscience would be primarily selfish &#40;driven by his own EOL - he&#39;s afraid of his own condemnation, not his victims&#39; pain&#41;, that&#39;s where it starts for many people.  I don&#39;t think hellfire is the proper way to get people to come in through the church door, but it has certainly been used with success for many folks.  BTK has always felt sorry for himself and not for others, but empathy for others can begin with the self. <BR> <BR>I tend to think that BTK is &#42;toying&#42; with the idea  of giving up, but that he&#39;s either not serious &#40;yet&#41; or is just laughing it up.  One thing I like about your Ridgeway theory is that it fits in with my belief that BTK has a very small but non-zero conscience - one which has always been buried beneath the noise of thrill, sexual obsession, jealousy, anger, resentment, and other self-centered emotions.  BTK may actually be &#34;jealous&#34; of Ridgeway, since Ridgeway may indeed have reached a closure and resolution which BTK envies.  Ridgeway even &#34;dodged the needle&#34;.  Minor thrills of out-foxing the police and stirring up the public are like aspirin or even morphine to BTK&#39;s painful, highly repressed worries about himself, but they don&#39;t cure things.  Ridgeway is &#34;cured&#34; - he made the difficult apologies, he is no longer hunted, and may have even attained salvation &#40;I&#39;m not the one to judge that&#41;.  He&#39;s certainly not looking over his shoulder anymore.  Meanwhile, BTK can&#39;t walk down the sidewalk without the significant possibility that six burly feds are going to jump him at any moment and scrape his face on the concrete.  The odds are certainly changing for BTK, and not in his favor. <BR> <BR>There&#39;s another reason I like your Ridgeway theory.  There has to be a huge barrier to BTK&#39;s admission of guilt - even to himself.  Eight grisly murders is a lot more sin than most folks have to bear.  Many people are afraid to confess their crimes &#40;even to themselves&#41; or to accept the idea of their own religious salvation because the small part of them that wants to do so is overwhelmed by the sense that their own crimes are unforgiveable, even by a most merciful God.  For many people - myself included - acceptance came when we realized that forgiveness is offered by God even to those who sinned terribly against us - even to those who committed far worse crimes than our own.  BTK can&#39;t see himself by looking up the scale to Hitler or Pol Pot - they&#39;re just too monstous - but he probably can see himself in Gary Ridgeway, and realized that &#40;at least to Christians&#41; forgivemess is possible even to people who are regarded as having done worse than BTK. <BR> <BR>Or, like you say, maybe I&#39;m just full of crap, too, and Curious2 is more correct - BTK has absolutely no conscience.  Honestly, I would be very surprised if BTK turned himself in, or purposefully left a clue equivalent to surrender &#40;that would be much easier for him&#41;.  However, I would be very, very pleasantly surprised - both for his sake, and for everybody else. <BR> <BR>Very interesting ideas!<!--/Text--></td></tr>
+<!--/Post: 4267-->
+<!--Post: 4280--><!--Time: 1106020603-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4280"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bulldog87<!--/name--></b></a><br>Username: <!--field:uname-->Bulldog87<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 17, 2005 - 7:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think BTK was just Celebrating 30 Years of murder and alluding the police. He got bored and wanted to direct more attention to the case. He gets off on the attention as much as the murders. I just imagine him calling the police at the convenience store, then watching while they search the park. Later he or an accomplice dropped the package to make the police look incompetent. I dont believe he is terminally ill or any other significant event has greatly effected him. He just needs this to keep himself entertained.<!--/Text--></td></tr>
+<!--/Post: 4280-->
+<!--Post: 4284--><!--Time: 1106024105-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4284"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Hbtcontrol<!--/name--></b></a><br>Username: <!--field:uname-->Hbtcontrol<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 17, 2005 - 8:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe BTK&#39;s return is based on geography and little more. My theory is that his family, most likely parents, lived in that area and he was staying there during the years of the killings. <BR> <BR>I believe he left, but returned, probably for the death or illness of one of his parents in 1986 when he killed Vicki Wegerle.  His parents may have moved further east toward the Wegerle residence in the intervening years. <BR> <BR>I think his most recent return is probably related to the death or illness of the remaining parent and the need to fix, maintain or sell the family home. <BR> <BR>When did the word puzzle come?  Perhaps some of those are clues to his recent activities rather than the past?  Talking to realtors? Hiring or being a handyman?   <BR> <BR>Just thinking outloud. <BR> <BR>I hope Tom had a good trip and has lots of news to report.<!--/Text--></td></tr>
+<!--/Post: 4284-->
+<!--Post: 4285--><!--Time: 1106026213-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4285"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 17, 2005 - 9:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree that geography is the most likely candidate for the core reason of his return.  Your scenario sounds very plausible.  Returning to Wichita would be the main reason he fell back into the role of BTK.  But I would still argue that he may have managed to control his behavior in his new home, since there doesn&#39;t appear to be a string of related murders anywhere else.  Perhaps a change of scene gave him a new life, but returning to Wichita stirred up the old demons. <BR> <BR>Your idea about the puzzles is intriguing.  Written recently, they could easily show a temporal bias toward recent activities, if not an intentional one, as you suggest.  Since I agree with Wichitaboy that the obvious puzzle words are chaff, then the idea that they were drawn from recent activities, or are being used as fake MO words conjured up semi-consciously from his recent activities, is very compelling.  They may or may not be intentional clues, but they are most likely clues all the same.  Excellent point, Hbt.<!--/Text--></td></tr>
+<!--/Post: 4285-->
+<!--Post: 4404--><!--Time: 1106324831-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4404"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 8:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Relating to the &#39;Green River Killer&#39; post, BTK may have wanted the limelight back on himself, again reminding the world that he is by far more clever and cunning than the mousey Ridgeway. BTK has remained free, taunting the police, sending clues, creating free floating fear, etc. He is the subject of worldwide discussions. And all the while, he is right under the nose of police and acquaintances. He acts like a spoiled brat, only child &#40;which he well may be&#41;.<!--/Text--></td></tr>
+<!--/Post: 4404-->
+<!--Post: 6433--><!--Time: 1107788853-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6433"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 7:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe this was his game all along, he patiently waited, and now he is finishing the game. The whole point of the game was to humiliate the authority figures. <!--/Text--></td></tr>
+<!--/Post: 6433-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/331">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/331" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

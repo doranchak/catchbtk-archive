@@ -1,0 +1,261 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 214/BTK is D-E-A-D-->
+<!--Level 1: 214/BTK is D-E-A-D-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK is D-E-A-D</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK is D-E-A-D</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+BTK is D-E-A-D
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=214"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=214"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 2022--><!--Time: 1103253689-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2022"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 7:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->My theory, at least for the moment, is that BTK is dead, maybe long dead, and a family member or someone close has discovered his stash of souvenirs. This person is getting off while achieving the objective of protecting the identity of the killer by slowly getting rid of the evidence. This &#34;new BTK&#34; has nothing to fear from DNA testing and is probably young enough to move freely without attracting the slightest suspicion.<!--/Text--></td></tr>
+<!--/Post: 2022-->
+<!--Post: 2033--><!--Time: 1103260224-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2033"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 9:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sherlock, I arrived at the same theory as you in a post I made earlier tonight in the BTK Letters section under the &#39;Dec. 14 plastic bag letter&#39; thread and as you say maybe long dead. <BR>What if a person or persons came across a trunk or locker or cleaning out an attic or storage facility found a box or two that beonged to the real BTK and it contained a diary or journal detailing the crimes along with crime souviners, photographs and diagrams of the crime scenes. Armed with this knowledge they could launch a multi-phased release of this information and paraphinalia and make it look like this is something only BTK would know and have.  <BR>Perhaps someone came across this, I doubt they could keep it to themselves without telling someone. Maybe originally they wanted to turn it over to the police or dispose of it in fear of being linked as a susupect to the BTK case or was afraid of the media attention so they told a friend first. The friend said hey let&#39;s play a lillte game with Wichita and make them believe BTK has suddenly resurfaced. I think it would take two minds to pull this off properly. Both familiar with BTK from newspaper, television and coverages and internet sources. Familiary with the Zodiac case and others like it they could craft their own puzzles and word games and make it look like it was coming from the real BTK. <BR>You are right in that they would probably be younger and have no fear of DNA testing. Maybe too young to remember the 70&#39;s BTK but old enough to remember the 1986 murder linked to him. That&#39;s why items pertaining to the 1986 case were released first. An internet search of what was written about the crimes before that would be easy. Once the first communication was released in March it opened a floodgate of media attention and website activity that would have further educated them and fueled their desire to continue with their game. <BR>Maybe they somehow got their signals crossed and botched the plastic bag release of the Fox items and that&#39;s why it appears so careless and odd. <BR>Of course if handwriting analysis of any hand written recent communications from 2004 matches conclusively with those of previous known BTK communications would blow this theory out of the water.<!--/Text--></td></tr>
+<!--/Post: 2033-->
+<!--Post: 2034--><!--Time: 1103260944-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2034"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 9:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Johno, I see your earlier post now. Wasn&#39;t trying to steal anyone&#39;s theory. Great minds think alike. Is it known whether or not any of the recent communications are handwritten?<!--/Text--></td></tr>
+<!--/Post: 2034-->
+<!--Post: 2056--><!--Time: 1103269306-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2056"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 11:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sherlock, We are probably the only two who are thinking this so lets look at the communications. <BR> <BR>Known BTK: 1974- Phone call &amp; letter in library textbook. Letter is typewriiten, no signature. <BR>1977- Phone call. 1978- Index card to Wichita Eagle printed with child&#39;s block printing set. 1978- Letter to KAKE-TV two page single spaced. Fifth generation copy of original. I don&#39;t know if this was typed or written but it contained a sketch of crime scene and that would have been done by hand. 1979- Note found in home of Anna Williams. Written there so probably handwritten. 1979- Note written in block letters delivered by mail to Anna Williams. I don&#39;t know if it was typed or written by hand. Contained sketch, the second such known sketch by BTK and that would have been hand drawn. 1979- Identical note that was deliverd Anna Williams is delivered to KAKE-TV. Copy of note to Anna.   <BR> <BR>Suspected BTK: Letter to Phillip Fager claiming to be from BTK does not take credit for his wife&#39;s murder by expresses admiration for who did it. I don&#39;t know if this was typed or handwritten. <BR> <BR>2004 communications: March- Typed envelope to Wichita Eagle with pictures and drivers license. <BR>April- Handwritten envelope to KSN-TV containing picture. Makes no reference to being from BTK. <BR>May- Envelope to KAKE-TV with 3 pages. Typed chapter 8 with subchapters 1-13, word find puzzle and copies of ID&#39;s. <BR>June- Letter to police detailing Otero murders. I don&#39;t know if it was typed or handwritten. <BR>July- Letter/package found in WSU library. Unknown if typed or handwritten. <BR>September- Four letters sent from California to WSU adressed in script to media and police with photocopies of AP LA Times story and name and phone number of a person on backs of each. Person named denies any knowledge. Unknown if a suspected BTK communication or prankster. <BR>October- Manilla envelope found in UPS drop box with pictures and names. Unknown if typed or handwritten. <BR>November- Police disclose BTK self-profile. Unknown if profile was sent to them typed or handwritten. <BR>December- Plastic bag found in park with typed chapters list from May and three chapters missing that were on the May communication. Nancy Fox drivers license. <BR> <BR>So it looks like there is evidence of handwriting of past communications and the 2004 communications. Does anyone know if handwriting, printing or sketch samples of old and new is the same? If Sherlock and my &#39;current&#39; theories are correct, knowlege of crimes and crime objects are something someone could have discovered that were owned by the real BTK but identical handwritten analysis of old and new communications is something that would belong only to the real BTK and thus conclusively prove that BTK is alive. <BR><!--/Text--></td></tr>
+<!--/Post: 2056-->
+<!--Post: 2213--><!--Time: 1103417548-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2213"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tornado<!--/name--></b></a><br>Username: <!--field:uname-->Tornado<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 18, 2004 - 4:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It is my theory that BTK is alive and well and will be caught very soon.  I am more inclined to believe that he wants to lead everyone involved in the search for him, on one last merry chase to the end, but in the end it will be the error of his ways that he will be caught.  In these days of all the ways we have to trace forensic evidence, even a plastic trash bag can be traced down to the store that sold that particular run, that in turn leads to gathering up the camera videos and bingo he will be caught.  I do not however buy the clues that were released about his age, growing up etc...the reason being is that BTK ain&#39;t that stupid...I also believe that all of his spelling errors in his communications were intentional, and the reason I say that is being based on his phone call to the police, that conversation was precise and to the point, unlike his written communications.  He is a game player and is doling out untrue information to throw everyone off the track...also the Petra, Tina thing...out at WSU there are bricks with names in them...one says Petra and a few bricks away another one says Tina, this was reported on KWCH Channel 12 when they interviewed some people who were doing their own investigations.  So once again I say do not believe anything he says about himself, as it is more than likely bits of information about those of his victims.  Anyway just my two cents worth.<!--/Text--></td></tr>
+<!--/Post: 2213-->
+<!--Post: 2253--><!--Time: 1103472732-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2253"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 19, 2004 - 8:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tornado, thanks for joining the fray. You and Johno obviously know the facts of the case much better than I do. This latest &#34;drop&#34; confirms for me that whoever is mailing it in is living right there in Wichita and not driving in to do business. So if it is the killer, alive, that is doing this, he is putting himself at heightening risk of the DNA dragnet. Plus, this guy is apparently so enthusiastic that I don&#39;t see how he could have kept quiet all these years.<!--/Text--></td></tr>
+<!--/Post: 2253-->
+<!--Post: 2261--><!--Time: 1103480825-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2261"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lanena<!--/name--></b></a><br>Username: <!--field:uname-->Lanena<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 19, 2004 - 10:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sherlock:  WPD already has his DNA, so what does it matter if he leaves it again or not?<!--/Text--></td></tr>
+<!--/Post: 2261-->
+<!--Post: 2311--><!--Time: 1103519150-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2311"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 19, 2004 - 9:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lanena, you need to read the thread.<!--/Text--></td></tr>
+<!--/Post: 2311-->
+<!--Post: 2314--><!--Time: 1103528806-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2314"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 19, 2004 - 11:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tornado is correct that these days they can trace a garbage back back to the store that sold it and we have seen examples of that on crime and forensic TV shows. They weren&#39;t that sophisticated in the 1970&#39;s but it is my understanding that they could at least trace it to the manufacturer and apparently they couldn&#39;t trace the BTK plasic bags he used for suffocations to any manufacturer in the world. I would assume those bags remain in evidence and if they have linked them to a specific manufacturer since then they haven&#39;t disclosed that information. <BR>I wonder how they are coming along in finding out the manufacturer of the plastic bag that held the Fox ID and items found in the park or to a store that sold them? If they have I am sure it was a store in Wichita. It has to be a key in bringing them closer to solving the BTK case,<!--/Text--></td></tr>
+<!--/Post: 2314-->
+<!--Post: 2340--><!--Time: 1103562834-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2340"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 20, 2004 - 9:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->But lots of people buy garbage bags, not just serial killers in their sixties. If the theory is correct, and it is someone other than BTK making these drops, then he could have gotten that trash bag from anywhere: his mother&#39;s house, the break room at work, church.<!--/Text--></td></tr>
+<!--/Post: 2340-->
+<!--Post: 2373--><!--Time: 1103579008-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2373"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megan<!--/name--></b></a><br>Username: <!--field:uname-->Megan<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 20, 2004 - 1:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I personally think that BTK is termonally ill with cancer or something and he is &#34;Reaching out&#39;&#39; before he dies.<!--/Text--></td></tr>
+<!--/Post: 2373-->
+<!--Post: 2398--><!--Time: 1103593884-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2398"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tornado<!--/name--></b></a><br>Username: <!--field:uname-->Tornado<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 20, 2004 - 5:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe BTK made the drop, my point was that he shops just like the rest of us...and just about anything he could use these days can be traced back to a point of purchase...such as plastic bags, tape, batteries, ink pens...you name it, it can be traced, nothing that is made has the exact same identifing marks on it, everything is different which makes it easy to go to the manufactuer and find out the run number, where it was shipped, then they go to the store where everything these days is tracked by computer, and then they can figure out when certain items were sold and who bought them, that gives them a suspect list and then they investigate the suspects.  Say for instance you went to the grocery store, you used your Dillons discount card and purchased a item from the same lot run they are looking for...then Dillons would tell them who that person was because they know who the discount card belonged to.  Or, if you paid by a debit card, credit card, or check..it can be traced back to the purchaser, thats all I was saying.<!--/Text--></td></tr>
+<!--/Post: 2398-->
+<!--Post: 2401--><!--Time: 1103600415-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2401"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 20, 2004 - 7:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tornado, it&#39;s a good point, and whoever is doing it, something like what you are talking about is likely to be their downfall, something seemingly insignificant that jumps up to bite him in the ass. Still, if it&#39;s not BTK they may never be caught. What do you think he was doing all those years? I don&#39;t think it was prison. Anyone who has done a long stretch in the state of Kansas in that period has certainly been thoroughly checked out.<!--/Text--></td></tr>
+<!--/Post: 2401-->
+<!--Post: 2402--><!--Time: 1103602275-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2402"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tornado<!--/name--></b></a><br>Username: <!--field:uname-->Tornado<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 20, 2004 - 8:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, I don&#39;t think he was sitting at home knitting sweaters..lol.  Seriously, I think he has probably committed more murders than what we know about.  Maybe he travels as a living and thought maybe he would kill elsewhere while on the road.  I also wondered if maybe his &#34;trophies&#34; that he is parting with would possibly be in safe deposit box instead of in his home where anyone could accidentally run across them...especially if he is married....but I am leaning towards the theory that he is single, a loner &#40;hermit&#41;, no friends, no family...and if that is the case then maybe when he goes on his road trips he puts his &#34;trophies&#34; in a safety deposit box.  He probably doesn&#39;t spend a great deal of money and does his own cooking.  I also think that when he has to deal with people he does so with his head in a tilted down position for fear of recognition...even though no one knows what he looks like...but its like a sort of guilty type of movement on his part that would be automatic...similar to when you discipline a child is the best way I can describe it; anyway just my thoughts.  How do you think he lives and acts?<!--/Text--></td></tr>
+<!--/Post: 2402-->
+<!--Post: 2405--><!--Time: 1103603954-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2405"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 20, 2004 - 8:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, you know from the thread that my hunch is he&#39;s dead. But what do I know I&#39;m in North Carolina! Maybe I like having a theory that no one else &#40;except for Johno&#41; lends any credence. I don&#39;t see how this guy kept quiet for almost twenty years, not with the way he&#39;s going now. I think he died after &#39;86 and someone else, not a killer but likely a relative, discovered his treasure chest a couple of years ago and couldn&#39;t resist playing a game. That person would be bursting at the seams on a power trip and far more likely to give himself away than the real BTK.<!--/Text--></td></tr>
+<!--/Post: 2405-->
+<!--Post: 2411--><!--Time: 1103611331-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2411"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 20, 2004 - 10:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Live or dead there are four scenarieos. 1- BTK is alive. 2- BTK is dead and an accomplice or confidant is perpetuating the name. 3- BTK is dead and a relative has discovered his secret and is perpetuating his name. 4- BTK is dead and someone has stumbled upon his belongings and is perpetuating his name. <BR>Unlike Sherlock&#39;s variation of our theory I don&#39;t think it could be a relative. Even the Unabomber&#39;s own brother turned him in when he put two and two together. My theory is someone discovered his belongings.  <BR>Both Sherlock and myself agree that if indeed it is someone other than BTK releasing this information and sending communications they are probably a younger person. In their 20&#39;s maybe and having kicks. They would also have to have access to some kind of journal that BTK kept detailing his crimes and how he communicated with police so that now it would appear like the real BTK is alive with information that only he would know and secret signals.  <BR>I think if BTK were alive today he would be between 55 and 60 years old and was probably from Wichita and graduated from a Wichita area high school sometime from 1962 to 1967. Those schools would be either Wichita North, Wichita South, Wichita West, Wichita East, Wichita Southeast or Chaplain Kapaun Memorial Catholic High. All in existence during those years. <BR>File this under the odd things we come across when researching BTK angles: Witchita North had a succession of three principals named O.E. Bonecutter 1941-1945, C.E. Strange 1945-1968 and John Gasper 1968-77. <!--/Text--></td></tr>
+<!--/Post: 2411-->
+<!--Post: 2550--><!--Time: 1103780650-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2550"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 22, 2004 - 9:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK had to be doing something for those 18 years before he resurfaced. It doesn&#39;t figure that he led a quiet normal life while his killing machine, his body, went from youngish to old. What happened? Did he retire and then he needed someway to entertain himself? Anybody can fake being a serial killer. Does anybody really believe there is a real message from BTK in that thread? But what if you somehow got hold of his murder souvenirs? Then you are believable.<!--/Text--></td></tr>
+<!--/Post: 2550-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/214">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/214" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

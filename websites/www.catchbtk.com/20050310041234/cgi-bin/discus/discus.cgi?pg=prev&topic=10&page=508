@@ -1,0 +1,359 @@
+<html>
+<!--Topic: 10/BTK Communications-->
+<!--Me: 503/KSAS Communication-->
+<!--Level 1: 503/KSAS Communication-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: KSAS Communication</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">KSAS Communication</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Communications</font></a> &#187;
+KSAS Communication
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=503"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=503"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 7566--><!--Time: 1108581119-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7566"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Neechi<!--/name--></b></a><br>Username: <!--field:uname-->Neechi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 11:11 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just received a breaking news e-mail from KWCH Channel 12 stating that their sister station KSAS Fox Channel 24, received a suspicious mailing that they think may be from BTK.  Here&#39;s the text of the e-mail. &#40;I couldn&#39;t find it on their website to include a link&#41; <BR> <BR>KWCH 12 Eyewitness News Breaking News <BR>Possible BTK Package <BR> <BR>Wichita police are investigating a possible new communication from BTK-- a mailing to KSAS-TV Wednesday morning. Two employees from Fox Kansas going through the mail discovered it, which contains items that may be from BTK. <BR> <BR>At police request, Eyewitness News is not revealing the contents. Workers called police, who took it as evidence. Investigators are looking over the mailing to determine whether it is from BTK.<!--/Text--></td></tr>
+<!--/Post: 7566-->
+<!--Post: 7570--><!--Time: 1108582147-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7570"><font face="Verdana" size="1"><b><!--email--><a href="mailto:BTK_Catcher@cox.net" target="_blank"><!--/email--><!--name-->Catcher<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Catcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 11:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Interesting, he has never sent direct communication to them before, correct?  I hope once verified, they will disclose more info.  We&#39;re tired of the pleas for help, with no guiding light! <!--/Text--></td></tr>
+<!--/Post: 7570-->
+<!--Post: 7574--><!--Time: 1108582988-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7574"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tadpole<!--/name--></b></a><br>Username: <!--field:uname-->Tadpole<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 11:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I wonder if &#34;FOX&#34; &#40;as in Nancy&#41; has anything to do with it. More game playing IMO.  <BR> <BR>I was just thinking last night, if this stuff is from BTK and he has had these momentos all these years, he would have handled them at one time or another most likely without gloves on, leaving prints.  I understand that LE has DNA and I would almost bet on it that they have found some &#40;at least&#41; partial prints that would be usable.  <BR> <BR>And while I am spouting off...that Det. F. Cummins, I understand his sense of privacy for his family, but I would think that he would be more interested in proving that he is NOT the perp than protecting his family. IMO it sound more like he has something to hide. That is only my opinion. <!--/Text--></td></tr>
+<!--/Post: 7574-->
+<!--Post: 7588--><!--Time: 1108590151-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7588"><font face="Verdana" size="1"><b><!--email--><a href="mailto:newmilleniumwriter@yahoo.com" target="_blank"><!--/email--><!--name-->Tippy<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 1:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just heard that blurb, also.  How strange.  Do you think BTK is tired of KAKE not releasing his info?   <BR> <BR>I can&#39;t quite put my finger on it - but something sure smells fishy about all communications lately. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 7588-->
+<!--Post: 7593--><!--Time: 1108591691-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7593"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 2:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->TIPPY wrote: &#34;I can&#39;t quite put my finger on it - but something sure smells fishy about all communications lately.&#34; <BR> <BR>TIPPY: EVERYTHING about this case &#34;smells fishy&#34;- and has for 31 years. Get used to it.<!--/Text--></td></tr>
+<!--/Post: 7593-->
+<!--Post: 7595--><!--Time: 1108593081-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7595"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Icyou<!--/name--></b></a><br>Username: <!--field:uname-->Icyou<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 2:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Fox is a more liberal network, maybe he does think they&#39;ll give out more info.  I also agreee it could be a wordplay on Nancy Fox.  Who knows?  Doesn&#39;t it piss you off how he intrigues us so? <BR> <BR>a little sidenote....I saw a commercial on KAKE this morning about the huge jumps in their ratings.  Yeah, no s&#42;&#42;&#42;!<!--/Text--></td></tr>
+<!--/Post: 7595-->
+<!--Post: 7603--><!--Time: 1108596127-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7603"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 3:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->KWCH channel 12 and Fox news are sister staions here in Wichita. The package was delivered by mail to the KSAS Fox studios on N. West Street. It looked liked a smaller sized package in a brown postal type envelope. It had several stamps on it and that is one of the things that caught the eye of the worker who found it. The postcard said something to the effect of KAKE is a good station and all but he &#40;btk&#41; thought they were being singled out because of all the attention etc.... I will try to get a link if someone does not already have one up.<!--/Text--></td></tr>
+<!--/Post: 7603-->
+<!--Post: 7604--><!--Time: 1108596373-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7604"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 3:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sorry no video up yet. just earlier posted transcript. <!--/Text--></td></tr>
+<!--/Post: 7604-->
+<!--Post: 7609--><!--Time: 1108599907-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7609"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Essevi<!--/name--></b></a><br>Username: <!--field:uname-->Essevi<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 4:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Communication 11? What happened to 10? <BR> <BR>Reports say there was a necklace, but not Nancy Fox&#39;s.<!--/Text--></td></tr>
+<!--/Post: 7609-->
+<!--Post: 7612--><!--Time: 1108601282-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7612"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 4:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.kansas.com/mld/kansas/10916990.htm" target=_top>http://www.kansas.com/mld/kansas/10916990.htm</a> <BR> <BR><a href="http://www.kake.com/news/headlines/1272122.html" target=_top>http://www.kake.com/news/headlines/1272122.html</a><!--/Text--></td></tr>
+<!--/Post: 7612-->
+<!--Post: 7623--><!--Time: 1108610060-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7623"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kansasgirl<!--/name--></b></a><br>Username: <!--field:uname-->Kansasgirl<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 7:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It said it was Communication #11. Did I miss something. The police have admitted getting one other package, although they are not saying what or where. That still leaves one more since the cereal boxes. FOX news said that the package contained a letter, picture, and jewelry. The WPD is saying that all indications show that the letter is real. I noticed that at the bottom of the card it said something to the effect of &#34;From this point forward I will use the following code in order to verify the letters.&#34; Of course it was blacked out. Maybe they will put the video up soon so that we can take a better look at the package.<!--/Text--></td></tr>
+<!--/Post: 7623-->
+<!--Post: 7624--><!--Time: 1108610406-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7624"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kansasgirl<!--/name--></b></a><br>Username: <!--field:uname-->Kansasgirl<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 7:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sorry, I forgot about the HAPP KAKEMAN Postcard &#40;#9&#41;. Maybe the rumor about the pop tart box was more than a rumor??<!--/Text--></td></tr>
+<!--/Post: 7624-->
+<!--Post: 7640--><!--Time: 1108619607-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7640"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hkenley@san.rr.com" target="_blank"><!--/email--><!--name-->Chiefron<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Chiefron<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 9:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here is a chronology of what we know about his communications or have been told by WPD and KAKE. This should explain the numbering. <BR> <BR>First and foremost. From what BTK says in Communication 11, we know that HAPP KAKEMANN post card was not # 9, but in fact had to be #10. <BR> <BR>Why? BTK says &#34;9 was KAKE message asking about 7 and 8&#34;.  <BR> <BR>HAPP KAKEMAN postcard from February 2, 2005 did not ask about 7 and 8. Rather it said &#34;Thank you for your quick response on 7 and 8&#34;. The Janurary 27, 2005 postcard to KAKE did, however, ask about both 7 and 8, and told them where to find both. <BR> <BR>So, if the February 16 letter to KSAS is #11 as it clearly states it is, and the Janruary 27 is # 9, as he clearly states in 11, then the February 2 postcard has to be 10.  <BR> <BR>In 11, BTK says #8 was 2nd Cereal Box, that leads us to assume #7 was also a Cereal Box, although WPD has not confirmed that. <BR> <BR>No missing communication. Sorry scavenger hunters. <BR> <BR>Here is the best list I can come up with. <BR> <BR>1&#41; Wichita Eagle receives Wegerle License. <BR>2&#41; KAKE receives chapter list. <BR>3&#41; WPD receives OTERO letter <BR>4&#41; Letter discovered at library <BR>5&#41; UPS drop <BR>6&#41; Murdock Park <BR>7&#41; Presumably 1st Cereal Box <BR>8&#41; 2nd Cereal Box  <BR>9&#41; Post card to KAKE asking about 7 and 8 <BR>10&#41; Happ Kakemann post card to KAKE <BR>11&#41; Letter to KSAS <BR> <BR>A couple things of note. The baby photo to KSN is excluded. BTK has never talked about the photo, there was no real reason to ever believe it was a communication from him except timing. I think it is safe to say, the baby photo is not from BTK based on his own numbering system. <BR> <BR>The same goes for the letters from California, but most have discounted those since the beginning. <BR> <BR>I hope this makes sense, I am making very few assumptions and absolutely none about the numbering from 7 thru 11. I am using BTKs own words from 11. <BR> <BR>Ron<!--/Text--></td></tr>
+<!--/Post: 7640-->
+<!--Post: 7641--><!--Time: 1108620323-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7641"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stormy74<!--/name--></b></a><br>Username: <!--field:uname-->Stormy74<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 10:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you Ron for that post. Helped me clear up several things since I am new here. I will have to read more about how the baby pic came into play. But that is for another thread!  <BR> <BR>Thanks, <BR>Stormy<!--/Text--></td></tr>
+<!--/Post: 7641-->
+<!--Post: 7644--><!--Time: 1108620823-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7644"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 10:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Nice work, Ron, thanks. Agree with you about the baby picture.<!--/Text--></td></tr>
+<!--/Post: 7644-->
+<!--Post: 7647--><!--Time: 1108623502-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7647"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 10:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->As far as I know that January message was marked as Communication #8 ITSELF and told where to get the latest drop, and then asked if it had found #7.   <BR> <BR>More likely that either there&#39;s another message we don&#39;t know about, or the package that #8 directed the police to had a #9 inside it.  Then Happ Kappman was #10, and here we have #11<!--/Text--></td></tr>
+<!--/Post: 7647-->
+<!--Post: 7651--><!--Time: 1108628914-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7651"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 12:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here are pictures of the envelope and the postcard inside, sent eo Kansas Fox yesterday: <BR> <BR><a href="http://www.kwch.com/servlet/Satellite?pagename=KWCH/MGArticle/WCH_BasicArticle&amp;c=MGArticle&amp;cid=1031780871070&amp;path=" target=_top>http://www.kwch.com/servlet/Satellite?pagename=KWC H/MGArticle/WCH_BasicArticle&amp;c=MGArticle&amp;cid=10317 80871070&amp;path=</a>  <BR>   <BR><!--/Text--></td></tr>
+<!--/Post: 7651-->
+<!--Post: 7653--><!--Time: 1108636330-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7653"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 2:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks Skov! Shades of the Otero letter. I notice how rigid and controlling his layout is. He&#39;s a true sociopath. <!--/Text--></td></tr>
+<!--/Post: 7653-->
+<!--Post: 7654--><!--Time: 1108636925-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7654"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 2:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This seems to mean that the communications are all accounted for but where does that leave us on chapter numbers?<!--/Text--></td></tr>
+<!--/Post: 7654-->
+<!--Post: 7681--><!--Time: 1108654422-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7681"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Maxgravis<!--/name--></b></a><br>Username: <!--field:uname-->Maxgravis<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 7:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just noticed something too, it said number 8 was the second cereal box, so number 7 had to have been a cereal box too. On another note, I just rented the movie &#34;Saw&#34;, it is weird, I wonder how much BTK likes movies about serial killers? The guy in Saw had a brain tumor. <!--/Text--></td></tr>
+<!--/Post: 7681-->
+<!--Post: 7689--><!--Time: 1108657039-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7689"><font face="Verdana" size="1"><b><!--email--><a href="mailto:BTK_Catcher@cox.net" target="_blank"><!--/email--><!--name-->Catcher<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Catcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 8:17 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Nice work Ron!  Do you mind if we replicate your synopsis at  <a href="http://www.catchbtk.com/discus/messages/10/508.html?1108655567" target=_top>http://www.catchbtk.com/discus/messages/10/508.htm l?1108655567</a> <BR><!--/Text--></td></tr>
+<!--/Post: 7689-->
+<!--Post: 7690--><!--Time: 1108657376-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7690"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 8:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Gee  catcher your one step ahead of me as usual lol<!--/Text--></td></tr>
+<!--/Post: 7690-->
+<!--Post: 7691--><!--Time: 1108657427-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7691"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kansasgirl<!--/name--></b></a><br>Username: <!--field:uname-->Kansasgirl<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 8:23 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The local media keep insisting that #10 package is unaccounted for and that HAPP KAKEMAN was #9. The do not include the postcard about #7 and #8 in their sequence. Media feels that WPD received #10 and are not releasing info.<!--/Text--></td></tr>
+<!--/Post: 7691-->
+<!--Post: 7698--><!--Time: 1108658945-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7698"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hkenley@san.rr.com" target="_blank"><!--/email--><!--name-->Chiefron<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Chiefron<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 8:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Kansasgirl, <BR> <BR>This is what confuses me the most.  <BR> <BR>BTK clearly states the order of communications but the local media disputes it. I don&#39;t really get it. They keep insisting that HAPP KAKEMANN is #9 but they have never released a photo of the card without redacting the portion that tells us what communication it is. Nor have they released one of the S. Killet communication without the communication number redacted. Why?  <BR> <BR>The other question would be, is there something missing from the latest letter? It tells us what 7 8 and 9 were, clearly contradicting what local media is saying even though the info on 7 is redacted. But it makes no mention of 10, unless it is on the back of that page and they just choose not to show it. <BR> <BR>My point here is, at least in the area of his communication numbers BTK has been more honest than either KAKE or WPD, why should I believe what they are saying now? <BR> <BR>Ron<!--/Text--></td></tr>
+<!--/Post: 7698-->
+<!--Post: 7710--><!--Time: 1108662027-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7710"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 9:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->you know the puzzle everyone was working on the one that Skov figured out the three parts, the MO the Id and the Ruse can anyone tell me what #letter that was. Because if you lay it out in the chapters of the BTK story he retitled It would be #8<!--/Text--></td></tr>
+<!--/Post: 7710-->
+<!--Post: 7712--><!--Time: 1108663057-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7712"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 9:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Per ChiefRon from another thread: <BR> <BR>1&#41; Wichita Eagle receives Wegerle License.  <BR>2&#41; KAKE receives chapter list.  <BR>3&#41; WPD receives OTERO letter  <BR>4&#41; Letter discovered at library  <BR>5&#41; UPS drop  <BR>6&#41; Murdock Park  <BR>7&#41; Presumably 1st Cereal Box  <BR>8&#41; 2nd Cereal Box  <BR>9&#41; Post card to KAKE asking about 7 and 8  <BR>10&#41; Happ Kakemann post card to KAKE  <BR>11&#41; Letter to KSAS  <BR> <BR>That would be drop 4 or 5..I&#39;m not sure<!--/Text--></td></tr>
+<!--/Post: 7712-->
+<!--Post: 7716--><!--Time: 1108664052-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7716"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 10:14 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->thank you<!--/Text--></td></tr>
+<!--/Post: 7716-->
+<!--Post: 7734--><!--Time: 1108668175-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7734"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hkenley@san.rr.com" target="_blank"><!--/email--><!--name-->Chiefron<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Chiefron<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 11:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Emberage, <BR> <BR>The puzzles were received in the same multi page letter to KAKE in May or 2004, communication #2 if our list is correct. So the Chapter list and the puzzles arrived together. There is no telling whether more puzzles were included either. The top of each page of the puzzle is the title Chapter 8.  <BR> <BR>His communications are referencing different chapters, however we only have puzzles for chapter 8. He also is not going in order if we are to believe WPD.  <BR> <BR>Communication 9 &#40;by BTK&#39;s count&#41; references Chapter 9 &#34;Hits&#34; however all the information pertaining to his C9 ref is redacted on the released photos. <BR> <BR>Communication 11 references Chapter 4 &#34;Fetishes&#34; but again, the text leading up to the reference is redacted. <BR> <BR>Based on the information we have, I have to believe that puzzles exist for all of his chapters and not just chapter 8. He mentions something about them having received and understood something. It is obvious he follows the case and knows that they received the Chapter 8 puzzle and understand some of it. I have to assume he is asking if they have received and or understand the other puzzles that we have not been given a chance to see. <BR> <BR>Ron<!--/Text--></td></tr>
+<!--/Post: 7734-->
+<!--Post: 7737--><!--Time: 1108669567-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7737"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hkenley@san.rr.com" target="_blank"><!--/email--><!--name-->Chiefron<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Chiefron<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 11:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Just wanted to repost this with as much detail for each drop. <BR> <BR>1&#41; 3/19/2004 Wichita Eagle receives a letter from Bill Thomas Killman. It contained a single sheet of paper with a photo copy of Vicki Wegerle&#39;s License and 3 photos of her body in different positions.  <BR> <BR>2&#41; 05/05/2005 KAKE receives chapter list, the Chapter 8 puzzle and photocopy of 2 IDs and a badge.  <BR> <BR>3&#41; June 2004 WPD receives a letter from BTK. The contents of this letter have not been released to the public but is rumored to contain details fo the Otero murder. <BR> <BR>4&#41; 7/17/2004 A letter discovered at main branch of the Wichita library. Contents have not been released. <BR>  <BR>5&#41; 10/22/2004 A manilla envolope is found in a UPS drop box. The envelope reportedly contained pictures and names.  <BR> <BR>6&#41; 12/14/2004 A bag is discovered in Murdock Park. The bag contained Nancy Fox&#39;s license, and a copy of the chapter list among other things not released at the time.  <BR> <BR>7&#41; Week of Jan 08, 2005. Presumably 1st Cereal Box. Contents unknown, discovered with BTKs assistance from communication 9 on 1/26/2005 <BR> <BR>8&#41; Week of Jan 17, 2005. Post Toasties Cereal Box Presumably 2nd Cereal Box, discovered with BTK assistance from communication 9 on 1/25/2005. Box contained among other things, jewelry and a reference to Chapter 9. <BR>  <BR>9&#41; 1/25/2005 S. Killet Post card to KAKE telling them where to find Cereal Box 2 &#40;#8&#41;, and asking them if they had found Cereal Box 1 &#40;#7&#41; and giving its location as well. <BR> <BR>10&#41; 2/3/2005 Happ Kakemann post card to KAKE thanking them for quick response on 7 and 8 and offering condolences to Susan and Jeff. <BR>  <BR>11&#41; 2/15/2005 PJ Fox Letter to KSAS short summary of why he is communicating with them instead of KAKE, contains a new Code# for future verification of his communications with them. Makes reference to Chapter 4. Asks them if they have received and understand something. However those refs are redacted. <BR> <BR>Ron<!--/Text--></td></tr>
+<!--/Post: 7737-->
+<!--Post: 7740--><!--Time: 1108671083-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7740"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 12:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Check this out.. <BR> <BR><a href="http://forums.prospero.com/foxamw/messages/?msg=1616.1" target=_top>http://forums.prospero.com/foxamw/messages/?msg=16 16.1</a> <BR> <BR>Scroll down a bit to the P.S. section.  <BR> <BR>#7 is blacked out <BR>#8 was the 2nd cereal box - PT <BR>#9 was KAKE message asking about #7 and 8. <BR> <BR>So, you are right, Chief.   <BR> <BR>He seems very intent on making sure the numbers are right and correlate to the proper messages/drops.  Significant? <BR> <BR>Also I think the HAPP KAKEMANN referenced the fact that he was &#39;THE&#39; KAKEMANN, but not much longer as now he is communicating with someone other than KAKE.  Maybe the HAPP stood for happy?  I&#39;m not sure?<!--/Text--></td></tr>
+<!--/Post: 7740-->
+<!--Post: 7762--><!--Time: 1108674804-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7762"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Msrusty<!--/name--></b></a><br>Username: <!--field:uname-->Msrusty<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 1:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In which of the drops was the baby pic included? I&#39;ve read both that it was from him and that it wasn&#39;t. Which is it, does anybody know for sure?<!--/Text--></td></tr>
+<!--/Post: 7762-->
+<!--Post: 7766--><!--Time: 1108675835-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7766"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Neechi<!--/name--></b></a><br>Username: <!--field:uname-->Neechi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 1:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->No one from area LE have ever said that it is a confirmed communication from BTK.  There was some local media speculation, partially because a lot of people feel the baby picture resembles Shirley Vian.  But it has never been stated to be a &#34;true&#34; communication from BTK.<!--/Text--></td></tr>
+<!--/Post: 7766-->
+<!--Post: 7773--><!--Time: 1108677408-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7773"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hkenley@san.rr.com" target="_blank"><!--/email--><!--name-->Chiefron<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Chiefron<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 1:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Msrusty, <BR> <BR>The baby picture was delivered on its own to KSN in April of 2004. It was sent anonymously. KSN believed it could be related to BTK only because of the timing. There is no evidence to suggest that it has anything to do with BTK and that is why I left it off the list. <BR> <BR>Ron<!--/Text--></td></tr>
+<!--/Post: 7773-->
+<!--Post: 7811--><!--Time: 1108688568-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7811"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Msrusty<!--/name--></b></a><br>Username: <!--field:uname-->Msrusty<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 5:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks for the answer, Ron. That&#39;s what I thought too but since I&#39;m fairly new to the case I asked. <!--/Text--></td></tr>
+<!--/Post: 7811-->
+<!--Post: 7821--><!--Time: 1108692783-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7821"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 6:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The &#34;BTK Story Chapter list&#34; is, originally based,on the &#34;Crime Library Chapter List&#34; <BR> <BR><a href="http://www.crimelibrary.com/serial_killers/unsolved/btk/index_1.html?sect=4" target=_top>http://www.crimelibrary.com/serial_killers/unsolve d/btk/index_1.html?sect=4</a> <BR> <BR>BTK has changed and keeps changing the chapter titles to fit the way he wants things to unfold and I would assume that the KAKE list is the accurate one to use for reference. <BR> <BR>The &#34;C.4. the start of BWs or EWs&#34; reference in the letter contained in the latest drop,could refer to drop #4 &#40;which has not been released to the public&#41;, or Chapter #4 Fantasy World or the original chapter name &#34;Different Worlds Collide&#34;.  <BR> <BR>&#34;Different Worlds Collide&#34; refers to the time that the public had become aware that a serial killer was definately active in Wichita, and specifically to the Nancy Fox murder and has a composite drawing of BTK showing him with dark skin and a moustache, and looking around 25 years old. <BR> <BR>This is also where the chapters start to be renamed. He has changed that Chapter To &#34;Fantasy World&#34;. <BR> <BR>Does anyone have any idea what the BW or EW &#40;letter in drop at FOX&#41; refers to? Black/Whites possibly, as in potographs? The Crime Library story also shows a B/W photo of Nancy Fox but if it is the same photo as the one showing the necklace, it is too small to be visible. <BR> <BR>Does anyone have any idea why BTK would refer back to this point in time, specifically, at this time. <BR> <BR>Is this just a reaffirmation from BTK that he is calling the shots &#40;as was suggested by one newscast&#41; by reminding us that he will write his story his own way?<!--/Text--></td></tr>
+<!--/Post: 7821-->
+<!--Post: 7838--><!--Time: 1108706712-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7838"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Icyou<!--/name--></b></a><br>Username: <!--field:uname-->Icyou<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 10:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bmodule, <BR> <BR>Thank you!  I was getting annoyed that the news reports were trying to make it look like BTK had wirtten the chapters himself.  I wish they would have informed people that he was just modifying something that was already written.  Another way the public is being misinformed.<!--/Text--></td></tr>
+<!--/Post: 7838-->
+<!--Post: 7846--><!--Time: 1108709682-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7846"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dsv<!--/name--></b></a><br>Username: <!--field:uname-->Dsv<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 10:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->IMO the portions of BTK&#39;s messages that are redacted are actually direct responses to LE in response to direct communctions to BTK from LE &#40;that LE has never made public&#41;. <BR> <BR>In other words, &#40;&#34;I got your message&#34;&#41;, &#40;&#34;I found your message in the LA Times&#34;&#41; or &#40;&#34;Not going to turn myself in yet&#34;&#41;  etc.  <BR> <BR>It wouldn&#39;t be unusual at all for LE to be communicating to BTK for example through the LA or New York times &#40;far removed from Wichita&#41;, since the FBI is involved. <BR> <BR>Obviously since LE has in the past and continues even now to withold information about this case tells me that BTK is communcated directly with LE and it&#39;s his answers that are redacted.   <BR> <BR>As a result he send messages to the news media to keep the public informed &#40;since LE wants to hide everything&#41;. This way at least some of his communications are made public because of KAKE. <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 7846-->
+<!--Post: 7891--><!--Time: 1108736875-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7891"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rev<!--/name--></b></a><br>Username: <!--field:uname-->Rev<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 6:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bmodule: Most people have &#34;decided&#34; that on the FOX communication, it says &#39;C.4 The start of FWs&#39; meaning Fantasy World&#40;s&#41; which is Chapter 4 on his list. <BR> <BR>I thought it was EW when I first saw it, but I would agree with most others that it is FW.<!--/Text--></td></tr>
+<!--/Post: 7891-->
+<!--Post: 7895--><!--Time: 1108739579-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7895"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 7:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree since we know that C4 chapter four fw in the crime Library is all about Nancy fox. Fantasy World We also believe that The M letter = 13 Chapter 13 More clues revealed.<!--/Text--></td></tr>
+<!--/Post: 7895-->
+<!--Post: 7920--><!--Time: 1108747214-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7920"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Icyou<!--/name--></b></a><br>Username: <!--field:uname-->Icyou<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 9:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dsv, <BR> <BR>Yes, I would agree that he has communicated directly with LE, I got that feeling watching the news conference yesterday.  I even get the feeling they know exactly who he is.  Maybe he IS one of their own and they want to drag it out and spin it any way they can so as not to uncover a corrupt police force.  <!--/Text--></td></tr>
+<!--/Post: 7920-->
+<!--Post: 7956--><!--Time: 1108765528-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7956"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 2:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Icyou, the FBI is involved. They would also know if it was a corrupt cop and they could never allow WPD to cover it up or aid in a coverup or assist, aid and abet in dragging out the investigation. <BR>BTK is not LE in my opinion.<!--/Text--></td></tr>
+<!--/Post: 7956-->
+<!--Post: 7979--><!--Time: 1108772232-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7979"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brown_tornado<!--/name--></b></a><br>Username: <!--field:uname-->Brown_tornado<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 4:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe it&#39;s very possible BTK is ex-LE, but there is no cover-up. That part is bullcrap. Too many man hrs., resources, sleepless nights have gone into solving this case.<!--/Text--></td></tr>
+<!--/Post: 7979-->
+<!--Post: 7981--><!--Time: 1108772351-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7981"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brown_tornado<!--/name--></b></a><br>Username: <!--field:uname-->Brown_tornado<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 4:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->And one other thing...kinda strange that BTK can correctly spell &#34;verification&#34; &#40;Comm. #11 to KSAS&#41;, but can&#39;t spell much easier words...<!--/Text--></td></tr>
+<!--/Post: 7981-->
+<!--Post: 7994--><!--Time: 1108778309-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7994"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 5:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Goto Larry King Live Right Now <BR><!--/Text--></td></tr>
+<!--/Post: 7994-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/503">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/503" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

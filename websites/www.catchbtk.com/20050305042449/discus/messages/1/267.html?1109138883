@@ -1,0 +1,327 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 267/Findings on the web, related to BTK?-->
+<!--Level 1: 267/Findings on the web, related to BTK?-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Findings on the web, related to BTK?</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Findings on the web, related to BTK?</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Findings on the web, related to BTK?
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=267"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=267"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 3082--><!--Time: 1104436472-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3082"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 30, 2004 - 11:54 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Long time agoe I found this on the net, and found the wording Bind, torture, and kill suspicious. <BR>I post it here so that others can resach more on it. <BR>When I resached futher on this I ended up with a man who has established a farm in Canada where adults and children come on vication NAKED. <BR> <BR>Actually there is nothing wrong with beeing naked, the problem is that there are mant links to this farm/man that is connected with phedophila and porn. <BR> <BR>I´ll post the info I have on this farm, if it´s allowed due to the forum ruels. TOM VOGHT? <BR> <BR>OK here is the bind torture and kill post I found on the web. <BR> <BR> It is written Date: 2000-11-02 23:14:11 PST <BR> <BR><a href="http://groups.google.com/groups?q=%22Bind%2BTorture%2Band%2BKill%22&amp;hl=en&amp;lr=&amp;ie=UTF-8&amp;oe=UTF-8&amp;scoring=d&amp;selm=t04pe336q98h82%40corp.supernews.com&amp;rnum=5" target=_top>http://groups.google.com/groups?q=%22Bind&#43;Torture&#43; and&#43;Kill%22&amp;hl=en&amp;lr=&amp;ie=UTF-8&amp;oe=UTF-8&amp;scoring=d&amp; selm=t04pe336q98h82%40corp.supernews.com&amp;rnum=5</a> <BR>  <BR>Your site promotes bondage_and_discipline and Sado-Masochism. <BR> By extension you are saying you would like to tie little children up and brutalize them as a &#34;lifestyle&#34;? <BR> Take it to its &#39;rational&#39; conclusion ... snuff films are made for the savor of your most extreme deviants. <BR> These artifacts are the product of a &#39;lifestyle&#39;. <BR> So you are saying you encourage people to abduct children, bind, torture and kill them {all on film} for the pleasure of your barnyard animals. <BR>-------------------- <BR> <BR>Here is another post related to the one above <BR> <BR>The person, that is refered to, apparently is a very bad speller ect. just like the BTK-killer: <BR>  <BR> Your abuse of the English language is a matter of much comment in the groups. <BR>As the leader of your mob, it is important that you DELEGATE. Leave the editing to someone with more than a grade school command of the language. Find someone WITH skills and have them edit everything you <BR>type/write. <BR> <BR> <BR>skov <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 3082-->
+<!--Post: 3102--><!--Time: 1104451997-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3102"><font face="Verdana" size="1"><b><!--email--><a href="mailto:dammitslicky@cox.net" target="_blank"><!--/email--><!--name-->Cougar<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 30, 2004 - 4:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Poor Tom. His site is going quickly to the pervs, lol.  <BR> <BR>Here is another one I found quite some time ago on Google. I searched for BDSM groups and found this trio, &#34;T, K and Me&#34;, writing stories, tag team style.  <BR> <BR>&#42;WARNING - ADULT MATERIAL AT THIS LINKED SITE&#42; <BR> <BR><a href="http://groups-beta.google.com/group/soc.subculture.bondage-bdsm.femdom/browse_thread/thread/b6093c768ae086f6/79926f6a715de580#79926f6a715de580" target=_top>http://groups-beta.google.com/group/soc.subculture .bondage-bdsm.femdom/browse_thread/thread/b6093c76 8ae086f6/79926f6a715de580#79926f6a715de580</a> <BR> <BR>Wonder what &#34;Me&#39;s&#34; initial is. <!--/Text--></td></tr>
+<!--/Post: 3102-->
+<!--Post: 3104--><!--Time: 1104454603-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3104"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jujuree<!--/name--></b></a><br>Username: <!--field:uname-->Jujuree<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 30, 2004 - 4:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good grief.  Some of these people have too much free time &#40;and other assorted &#34;issues&#34;&#41;.  I wouldn&#39;t be surprised if BTK didn&#39;t frequent some site like that if he is online. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 3104-->
+<!--Post: 3139--><!--Time: 1104487738-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3139"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 31, 2004 - 2:08 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->What is the matter with you? Why making fun of the post I have posted? <BR> <BR> I have posted a post refering to a person who likes to tie up children and also uses the term &#34;bind torture and kill&#34; and all you have to say is that I have too much time on my hand! <BR> <BR>Oteros little girl was treated JUST the way described in the post. <BR> <BR>Also, I can tell you that this is one of 3 hits on the entire net that contains thise words in a row, when you exclude BTK related hits. <BR> <BR>SO please stop you meanness thamk you! <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 3139-->
+<!--Post: 3144--><!--Time: 1104510546-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3144"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 31, 2004 - 8:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Skov? Are you talking to me? <!--/Text--></td></tr>
+<!--/Post: 3144-->
+<!--Post: 3164--><!--Time: 1104536333-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3164"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jujuree<!--/name--></b></a><br>Username: <!--field:uname-->Jujuree<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 31, 2004 - 3:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->No, Cougar, I think Skov is speaking to me. <BR> <BR>Skov, by saying some people have too much time on their hands, I was not referring to you.  I was referring to the people on the sites you&#39;d referenced.  My apologies if my meaning wasn&#39;t as obvious as I thought it was.  <!--/Text--></td></tr>
+<!--/Post: 3164-->
+<!--Post: 3181--><!--Time: 1104561745-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3181"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 31, 2004 - 10:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Don&#39;t worry, skov - everybody loves you here!  I did not start posting until I observed that people are good-natured on this site, even when they disagree vigorously or appear irritated.  My wife is non-American, too, so she also finds American humor and joking remarks very confusing.  Especially around areas of pornography and violence or unpleasant topics, Americans have an interesting way of using deflecting humor &#40;often toward unstated persons&#41; as a form of politeness, but completely unlike the way British English speakers would do so &#40;and of course quite different from Japanese politeness&#41;.  You will know if people are mean to you in this way - Tom will remove their posts, and people will come to your defense! <BR> <BR>Back to the subject, I believe that a cross between military and BDSM may be where BTK will have left tracks on the web.  Naturists as in the people you have found here just don&#39;t sound like BTK - he has too many hang-ups, although I must admit that I have too many hang-ups to be a naturist as well!  But you are very right in my opinion that he has probably satiated his deviant appetites using the web.  Also, I believe that you are right that he has at least one persona operating on the discussion groups, maybe several.  Nevertheless, he will be difficult to find, because they will be highly modified from his true self.  Consider also poetry, possibly erotic, true crime, and maybe military, although porno is probably what he has to go to the net for.<!--/Text--></td></tr>
+<!--/Post: 3181-->
+<!--Post: 3196--><!--Time: 1104604585-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3196"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 01, 2005 - 10:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Cougar and Jujuree and Pax <BR> <BR>THANKS for explaing my miissunderstanding Cougars post, I´m sure you, Pax is right that it is because of that english is not my first langhuish. <BR>Sorry i missunderstod you Cougar. <BR> <BR>Now back to my first post in this thred. <BR> <BR>The person, intials PR, that I think it is refered to in the post, is a man who owns this nudist barn in Canada. <BR>In different posts that are also referning to this PR person AND his nudist barn, there is a man who lives in Wichita intials MJ. MJ is living in Wichita, workes at a boeing company in Wichita: <BR>Boeing Wichita Service Center <BR>The Boeing Company <BR>3801 South Oliver <BR> <BR>His work is located just 900 feet from McConnell Air Force Base &#40;The name McConnell mentioned in several of the posts TO BTK on theis forum&#41; don´t know if this has any relevamce to the BTK case but I think it is worth looking into. <BR> <BR>Becuase it is not alowed to post names and links to specific web´s that one suspect in som way could be related t the BTK case I dont know how to back up my info? <BR> <BR>How do we do that Tom Voight? <BR> <BR>Wish you all a happy new year... <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 3196-->
+<!--Post: 3214--><!--Time: 1104625474-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3214"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 01, 2005 - 4:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Skov, if you believe you have a suspect, send your info to the Wichita PD.<!--/Text--></td></tr>
+<!--/Post: 3214-->
+<!--Post: 3243--><!--Time: 1104667273-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3243"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 4:01 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I dont think it is fair to consider thise person/persons  suspects YET, I think it takes more research, and that is what I thought forums was all about, to be som kind of team who can reseach and think together. <BR>In your post you basicly say, &#34;don´t bother to post about your thoughts/findings here on this forum, send it to the police.  <BR> <BR>The PR man I have sent to the police 6 months ago <BR>because of the very destinkt wording bind torture and kill children, but who knows how many leeds the WPD follows up on, this man is in Canada &#40;but he started out his kinck barn in 1988, just after the last BTK murder&#41;  <BR>I have just followed the Laci Peterson Case for 2 years, and God knows that the MPD did NOT follow upp a LOT of leeds because they thought they were already on track from the beginning. <BR> <BR>SO IMO the answer is not just to send a name to the police if one belive that there COULD be a connection, IMO one should belive STRONGLY that a person is connected to the BTK case otherwise the police would drown in hints from the public and amature sleuths.  I <BR>I wish that there was more support from you considering this thoughts about working together and research more, when someone have found somebody who maybe could connect to the case. <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 3243-->
+<!--Post: 3262--><!--Time: 1104703382-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3262"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wade<!--/name--></b></a><br>Username: <!--field:uname-->Wade<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 2:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Man skov....all he said was if you have a suspect send it in. <BR>Take a valium.<!--/Text--></td></tr>
+<!--/Post: 3262-->
+<!--Post: 3273--><!--Time: 1104711561-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3273"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 4:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->OK Tom! <BR> <BR>If you are deleeting posts about my way of posting, because it is not anything that gain the BTK board, wich i agree on, then WHY don´t you deleet Wades latest post? Are you keeping it to indirectly mobbing me even further? <BR> <BR>This has to stop! I think it´s time that you tell me your REAL reason for your mobbactions against me. <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 3273-->
+<!--Post: 3316--><!--Time: 1104788292-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3316"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 1:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Skov, this is getting old fast.<!--/Text--></td></tr>
+<!--/Post: 3316-->
+<!--Post: 3319--><!--Time: 1104793134-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3319"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 2:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Skov- <BR> <BR>I for one appreciate your input and creative thinking, and have been amazed by some of the stuff you&#39;ve come up with being limited to googling from a hemisphere away from the crimes. <BR> <BR>From what I can see, Tom isn&#39;t picking on you, but is just protecting assumed-innocent people and his own and the website&#39;s well being &#40;by being careful not to make himself open to lawsuits for slander, etc.&#41;.  He&#39;s applying the same rules to others evenhandedly, and has actually been pretty patient with you. <BR> <BR>Skov: don&#39;t quote/paste more than a line or two from another website- instead post only the url or a link to the original text; also don&#39;t mention explicit names, addresses, telephone numbers, etc., of anyone who you might be categorizing as a &#34;suspect&#34;.  &#40;I suppose this probably excludes &#34;known&#34; police suspects, such as Bill Butterworth&#41;. <BR> <BR>Tom: am I reading between the lines correctly that linking to a site that might happen to mention these kinds of personal details about a theoretical &#34;suspect&#34; in a legitimate way &#40;for instance, a ham radio club website, or a phone directory&#41;, but not providing explicit, detailed, information to single out the reference at the linked site is okay to do on the catchbtk.com message board? <BR> <BR>I do hope, Skov, you can manage to see Tom&#39;s point and behave yourself so that we can continue to benefit from your efforts and passion for the case.<!--/Text--></td></tr>
+<!--/Post: 3319-->
+<!--Post: 3386--><!--Time: 1104860801-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3386"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 04, 2005 - 9:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Armchairpi <BR> <BR>Thanks for taking you time to post this kind post to me. I will, as we say here in Denmark &#34;write it all behind my ear&#34; &#40;means I will remember it well&#41; <BR>By the way somthing realy strange happened yeaterday, suddenly ALL my incoming emails&#40;privat emails&#41; since august &#40;1500 emails&#41; was gone! And among this 1500 email I think about 50 was realy interesting researchmaterial about BTK, that I have sent to myself, links ect ect. So its all gone now and I have NO idea why/how it happened. Never experienced to lose one single email before in my 7 years on the net. I´m not saying that it is related to the BTK work I´m doing but I thought I would add it here so that if anyone else have experienced anything like it maybe it is a virus or somthing? <BR> <BR>hugs...skov<!--/Text--></td></tr>
+<!--/Post: 3386-->
+<!--Post: 3411--><!--Time: 1104883816-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3411"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 04, 2005 - 4:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Found this on the net, it´s from 1997: <BR> <BR><a href="http://groups.google.dk/groups?q=bind%2B%2Btorture%2B%2Bkill%2B-btk&amp;hl=en&amp;lr=&amp;selm=5guqvr%24kvu%40alpha.sky.net&amp;rnum=4" target=_top>http://groups.google.dk/groups?q=bind&#43;%2Btorture&#43;% 2Bkill&#43;-btk&amp;hl=en&amp;lr=&amp;selm=5guqvr%24kvu%40alpha.sk y.net&amp;rnum=4</a> <BR> <BR>I wouldn&#39;t think it&#39;s in here they&#39;re looking I bet it&#39;s in alt.fetish. <BR>bind.torture.kill.tape-record and stuff.   <BR> <BR>skov <BR><!--/Text--></td></tr>
+<!--/Post: 3411-->
+<!--Post: 3414--><!--Time: 1104884373-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3414"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 04, 2005 - 4:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here is another find on the net: <BR> <BR><a href="http://groups.google.dk/groups?q=.bind.torture.kill.&amp;hl=en&amp;lr=&amp;selm=1991Aug15.154708.32753%40kuhub.cc.ukans.edu&amp;rnum=1" target=_top>http://groups.google.dk/groups?q=.bind.torture.kil l.&amp;hl=en&amp;lr=&amp;selm=1991Aug15.154708.32753%40kuhub.c c.ukans.edu&amp;rnum=1</a> <BR> <BR>When I was a kid growing up in Wichita, it was BTK &#40;Bind, Torture, Kill&#41;, <BR>a man who entered houses while the whole family was there and tortured them <BR>and hung them all from the rafters in the basement.  In high school, a kid <BR>would tell me how he loved to shoot squirrels and birds just for the hell of <BR>it, then skin them and hang them up in his bedroom for trophies.<!--/Text--></td></tr>
+<!--/Post: 3414-->
+<!--Post: 4039--><!--Time: 1105558020-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4039"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 12, 2005 - 11:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here is som very strange art called BTK ART. It´s from germany. Klick on the Gallery1 and Gallery2. <BR> <BR>Maybe somone who is inspired by BTK? <BR> <BR><a href="http://www.btk-art.net/disc6_welc.htm" target=_top>http://www.btk-art.net/disc6_welc.htm</a> <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 4039-->
+<!--Post: 4101--><!--Time: 1105673369-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4101"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Crimone<!--/name--></b></a><br>Username: <!--field:uname-->Crimone<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 13, 2005 - 7:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think his favorites include all of Monet&#39;s work, &#34;The Scream&#34; by E.M., some Oriental works &#40;symbols&#41; and of course &#34;Whinnie the Pooh&#34; And yes, Einstein classic photographs  <!--/Text--></td></tr>
+<!--/Post: 4101-->
+<!--Post: 5493--><!--Time: 1107148084-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5493"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 30, 2005 - 9:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Is this related to BTK? I don&#39;t know, but it&#39;s under the &#34;BTK&#34; heading &amp; it&#39;s HILARIOUS!!! <BR> <BR>Hurry &amp; visit it before it gets Deleted. &#40;Warning: It has some &#39;adult&#39; language.&#41;. One of the funniest threads I have ever seen, called, &#34;Hey Everyone, I Wanna Propose A Toast&#34;. And we on-line sleuths could use some humor! <BR> <BR><a href="http://forums.prospero.com/foxamw/messages/?msg=1171.1" target=_top>http://forums.prospero.com/foxamw/messages/?msg=11 71.1</a><!--/Text--></td></tr>
+<!--/Post: 5493-->
+<!--Post: 7129--><!--Time: 1108218402-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7129"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 6:26 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.patriciagragg.com/fiction_example.htm" target=_top>http://www.patriciagragg.com/fiction_example.htm</a> <BR> <BR>------------------------------------------------ <BR>&#34;He placed his knee on her back. &#34;Stop. No one will hear.&#34; He whipped the tights around her wrists and tied the ends together. He used the slip to bind her ankles. <BR>She thrashed her legs, tried to squirm away. <BR>He leaned more weight into the knee. Wonderful game.&#34; <BR> <BR>---------------------------------------------- <BR>&#34;If she shows up again, give her the brush off fast.&#34; Sunny swished her tea bag around the mug and then, brightening, said, &#34;Did you know that Kev has moved back?&#34; <BR> <BR>-------------------------------------- <BR>&#34;It’ll take time. Are you teaching today?&#34; <BR>Val shook her head with a grimace. She tried never to think of the pre-school tap class until she had to. &#34;I’m down to Tuesdays and Thursdays.&#34; <BR>--------------------------------------------- <BR>&#34;Is this about that killer thing? Don’t worry about me. I know karate.&#34; <BR>---------------------------------- <BR> <BR>This story takes place in Cordova Kansas and mentions btk 2x. But the streets mentioned are in Wichita. Some coincidental words and phrases in the story, such as &#34;bright&#34; is used alot,&#34;fox&#34; &#34;eyes glistening &#34; &#34;bind&#34;, telephone rings when hes done killing girl, about the girls hair &#34;soft red curls&#34; , family with the last name  &#34;BRICKells&#34;, &#34;red curls&#34; again, weird mailman in story. btk killer is mentioned twice, &#34;mirror&#34;,grocery store is called l&amp;n, sounds like dillon,&#34;vine&#34;. <BR> <BR>Just seems like a lot of things popped out at me. <BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 7129-->
+<!--Post: 7214--><!--Time: 1108285965-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7214"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Denise<!--/name--></b></a><br>Username: <!--field:uname-->Denise<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 13, 2005 - 1:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->WOW, that is very eerie, that&#39;s alot of coincidences in one story.. the rape in the story includes her being binded with pantyhose, that story is pretty gruesome.. does this story have an author? I saw where it said &#39;unknown&#39; but I wonder if that lady wrote it? I think you found something that might have significance... but you never know?...<!--/Text--></td></tr>
+<!--/Post: 7214-->
+<!--Post: 7215--><!--Time: 1108286534-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7215"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 13, 2005 - 1:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe it is authored by Judy Chard, which is a nome de plume for Dorothy Doreen Chard. That woman pictured is an editor, offering editing services on the web.<!--/Text--></td></tr>
+<!--/Post: 7215-->
+<!--Post: 7226--><!--Time: 1108308641-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7226"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 13, 2005 - 7:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The book by Judy Chard called &#34;person unknown&#34; was originally published in 1988, and is a romance novel. This Patricia Gragg site has only been up a year or two. I think Chard is also from the UK. <BR>Patricia Gragg apparently edited this for somebody, I would like to know who the writer was. <BR>Also strange is the fact that Gragg says she authored 2 books, but when you look at the books covers they have a different authors name. Could be a psuedonym I guess.<!--/Text--></td></tr>
+<!--/Post: 7226-->
+<!--Post: 7235--><!--Time: 1108315672-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7235"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 13, 2005 - 9:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m thinking there is more than one book titled &#39;Person Unknown&#39;. Perhaps googling on the wrong side of the road will help. I&#39;ll give it a shot.<!--/Text--></td></tr>
+<!--/Post: 7235-->
+<!--Post: 7272--><!--Time: 1108346614-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7272"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 13, 2005 - 6:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That story is another example of great literary talent wasted on accounts of senseless violent crimes against women, passed on as somewhat erotic and worthy of a reader&#39;s time. <BR> <BR>I read up until the moment he attacked the woman, and I had to stop reading. Not because the story was shocking or scary, but because the story&#39;s tone was making the attack more of a love-making erotic kind of tale, rather than a horrible violent criminal attack against a woman. <BR> <BR>It is because of people like the author and those who publish their work, that some men get caught up in the lust and the fantasy of the storyline and then they go out and hurt women themselves. <BR> <BR>Pure literary trash, I would say. <BR> <BR>------------ <BR> <BR>Thanks for the link. I know that if we are discussing violent criminals like BTK this type of violence against women has to be referenced, and the link does have references to BTK and his attacks.  <BR> <BR>I just hope and pray that no other man gets &#34;inspired&#34; by the BTK case and starts his own serial killing spree of his own.<!--/Text--></td></tr>
+<!--/Post: 7272-->
+<!--Post: 7306--><!--Time: 1108392289-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7306"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 14, 2005 - 6:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;KAKE-TV showed film footage of the contents of a package, including an unidentified wrapped metallic object and blurred images of three pages purported to be a list of chapters of a book entitled &#34;The BTK Story.&#34;&#34; <BR> <BR>Thats the first time I read &#34;unidentified metallic object. <BR> <BR>In the story referenced above, the killer takes a metal decorative cigarette lighter or cigarette case. Just one more coincidence.<!--/Text--></td></tr>
+<!--/Post: 7306-->
+<!--Post: 7322--><!--Time: 1108400787-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7322"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stormy74<!--/name--></b></a><br>Username: <!--field:uname-->Stormy74<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 14, 2005 - 9:06 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Itty, may I ask where you saw that KAKE footage? I would like to see that.<!--/Text--></td></tr>
+<!--/Post: 7322-->
+<!--Post: 7324--><!--Time: 1108401479-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7324"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 14, 2005 - 9:17 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#92;link <a href="http://www.google.com/search?sourceid=navclient&amp;ie=UTF-8&amp;rls=GGLD%2CGGLD:2004-51%2CGGLD:en&amp;q=KAKE%2DTV%2Bshowed%2Bfilm%2Bfootage%2Bof%2Bthe%2Bcontents%2Bof%2Ba%2Bpackage%2C%2Bincluding%2Ban%2Bunidentified%2Bwrapped%2Bmetallic%2Bobject%2Band%2Bblurred%2Bimages%2Bof%2Bthree%2Bpages%2Bpurported%2Bto%2Bbe%2Ba%2Blist%2Bof%2Bchapters%2Bof%2Ba%2Bbook%2Bentitled%2B%22The%2BBTK%2BStory" target=_top>http://www.google.com/search?sourceid=navclient&amp;ie =UTF-8&amp;rls=GGLD,GGLD:2004-51,GGLD:en&amp;q=KAKE%2DTV&#43;s howed&#43;film&#43;footage&#43;of&#43;the&#43;contents&#43;of&#43;a&#43;package%2C &#43;including&#43;an&#43;unidentified&#43;wrapped&#43;metallic&#43;object &#43;and&#43;blurred&#43;images&#43;of&#43;three&#43;pages&#43;purported&#43;to&#43;be &#43;a&#43;list&#43;of&#43;chapters&#43;of&#43;a&#43;book&#43;entitled&#43;%22The&#43;BTK&#43; Story</a><!--/Text--></td></tr>
+<!--/Post: 7324-->
+<!--Post: 7389--><!--Time: 1108450281-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7389"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Denise<!--/name--></b></a><br>Username: <!--field:uname-->Denise<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 14, 2005 - 10:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->itty,  <BR>I tried to go to that link, but it&#39;s not cut.. instead of copying it, cut it, when you right click on it... that might help..<!--/Text--></td></tr>
+<!--/Post: 7389-->
+<!--Post: 7405--><!--Time: 1108471804-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7405"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 15, 2005 - 4:50 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.thoughtpeach.com/archives/000721.html" target=_top>http://www.thoughtpeach.com/archives/000721.html</a> <BR> <BR><a href="http://www.cjonline.com/stories/121504/kan_park.shtml" target=_top>http://www.cjonline.com/stories/121504/kan_park.sh tml</a>  <BR> <BR>Well, there&#39;s 2 links, &#40;I understand its not true just because its written on the net somewhere&#41; You need to register to read cjonline now, or you can do a a google search on &#34;unidentified metal object wrapped in plastic btk&#34;, and go to the cached cjonline page. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 7405-->
+<!--Post: 7817--><!--Time: 1108691818-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7817"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 5:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Excerpt about letter rec&#39;d by Kake in 2004 <BR> <BR>The KAKE letter contained three pages, including photocopied identifications of &#34;Special Officer&#34; from Southwestern Bell and the Wichita school district. Both SBC and the school district said employees don&#39;t show up at homes unannounced.  <BR> <BR>: The copy of the school ID badge contained a logo not used by Wichita public schools until 1988, district spokeswoman Susan Arensman said. She said officials found it on only one document prior to 1986.  <BR><a href="http://forum.creeindian.com/_disc1/0000024e.htm" target=_top>http://forum.creeindian.com/_disc1/0000024e.htm</a> <BR> <BR>That puts a date on the school id badge, after 1988. There is some more info in this article that I haven&#39;t read before. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 7817-->
+<!--Post: 7850--><!--Time: 1108710671-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7850"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stormy74<!--/name--></b></a><br>Username: <!--field:uname-->Stormy74<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 11:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you for that link. Very interesting. I am going to assume they still have not released copies/photos of those badges...Correct? Itty, you do a great job with posting interesting links, keep up the good work!<!--/Text--></td></tr>
+<!--/Post: 7850-->
+<!--Post: 7870--><!--Time: 1108729033-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7870"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 4:17 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Stormy thanks, I have not seen copies of the badges.<!--/Text--></td></tr>
+<!--/Post: 7870-->
+<!--Post: 8451--><!--Time: 1109136475-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8451"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 9:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://64.233.167.104/search?q=cache:_5gGck9mXRMJ:www.stayfreemagazine.org/10/graham.htm%2Bhistory%2Bpost%2Btoasties%2Bcorn%2Bflakes&amp;hl=en&amp;lr=lang_en" target=_top>http://64.233.167.104/search?q=cache:_5gGck9mXRMJ: www.stayfreemagazine.org/10/graham.htm&#43;history&#43;pos t&#43;toasties&#43;corn&#43;flakes&amp;hl=en&amp;lr=lang_en</a> <BR> <BR>weird stuff<!--/Text--></td></tr>
+<!--/Post: 8451-->
+<!--Post: 8455--><!--Time: 1109138883-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8455"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 10:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.amazon.com/exec/obidos/tg/cm/member-glance/-/A38PKBI3AEH4XP/1/ref=cm_cr_auth/103-7007213-3295802?%5Fencoding=UTF8" target=_top>http://www.amazon.com/exec/obidos/tg/cm/member-gla nce/-/A38PKBI3AEH4XP/1/ref=cm_cr_auth/103-7007213- 3295802?%5Fencoding=UTF8</a> <BR> <BR>strange<!--/Text--></td></tr>
+<!--/Post: 8455-->
+<!--Post: 10259--><!--Time: 1109859687-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10259"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 6:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://64.233.167.104/search?q=cache:h-SUYTa2N8cJ:www.juicedthoughts.com/archives/on_the_hunt_for_a_new_logo.cfm%2Bbtk%2Bdesigns&amp;hl=en&amp;lr=lang_en" target=_top>http://64.233.167.104/search?q=cache:h-SUYTa2N8cJ: www.juicedthoughts.com/archives/on_the_hunt_for_a_ new_logo.cfm&#43;btk&#43;designs&amp;hl=en&amp;lr=lang_en</a> <BR> <BR>scroll down for the dicussion, and to see this guys logo<!--/Text--></td></tr>
+<!--/Post: 10259-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/267">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/267" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

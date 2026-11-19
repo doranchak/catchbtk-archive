@@ -1,0 +1,228 @@
+<html>
+<!--Topic: 9/BTK Suspects-->
+<!--Me: 426/T. Bob Kreisch-->
+<!--Level 1: 426/T. Bob Kreisch-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 9-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: T. Bob Kreisch</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">T. Bob Kreisch</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/9/9.html"><font color="#f7f7f7">BTK Suspects</font></a> &#187;
+T. Bob Kreisch
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=9&page=426"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=9&page=426"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 6096--><!--Time: 1107532312-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6096"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 7:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->After thinking about drop #8, I thought that perhaps the sign itself was more important than the drop.  I noticed that there was an arrowhead turning left.  I then cross-referenced to the T. Bob Kreisch post about going down arrowhead street and turning left on Iroquois.  I googled Iroqois and found that the tribe originates in New York.  That then brought me to Kevin Bright&#39;s statements.  Anyway, the research took this interesting path. <BR> <BR>First: <BR> <BR><a href="http://homepage.mac.com/thorntonstreiff/The_Wichita_Group.html#The%20Fantastic%20Fifties:%20Part%20I" target=_top>http://homepage.mac.com/thorntonstreiff/The_Wichit a_Group.html#The%20Fantastic%20Fifties:%20Part%20I</a>   <BR> <BR>Click on the &#34;Fantastic Fifties, part 1 <BR> <BR>Then: <BR> <BR><a href="http://www.geocities.com/bakfan_uk/Bruce_Conner.htm" target=_top>http://www.geocities.com/bakfan_uk/Bruce_Conner.ht m</a> <BR> <BR>Then: <BR> <BR><a href="http://www.canyoncinema.com/C/Conner.html" target=_top>http://www.canyoncinema.com/C/Conner.html</a> <BR> <BR>Then: <BR> <BR><a href="http://archivesofamericanart.si.edu/oralhist/conner73.htm" target=_top>http://archivesofamericanart.si.edu/oralhist/conne r73.htm</a> <BR> <BR>It&#39;s a lot to read, but interesting nonetheless. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6096-->
+<!--Post: 6108--><!--Time: 1107535093-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6108"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 8:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->verrrrrrrrry interesting!  <BR>He&#39;s exactly the type of person I see btk being. A real oddball! It sounds like this guy spent much of his time in California though. Zodiak?<!--/Text--></td></tr>
+<!--/Post: 6108-->
+<!--Post: 6115--><!--Time: 1107537297-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6115"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 9:14 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Notoriously illusive, he&#39;s periodically dropped out of sight throughout his career, and his productivity came to a complete halt four years ago when he contracted a rare liver disease. <BR> <BR>Conner the man is hardly what you&#39;d expect in light of his work.  Meeting with him at his exceptionally orderly house, one encounters a neat, soft-spoken gent who obviously quenches his thirst for chaos and grunge in his work. <BR> <BR>&#34;I&#39;ve descended into this private hell of being an artist who&#39;s thought of as dead, but, in fact, I&#39;m still living,&#34; he says with a laugh.  <BR> <BR>That&#39;s from this link:  <a href="http://www.geocities.com/bakfan_uk/Bruce_Conner.htm" target=_top>http://www.geocities.com/bakfan_uk/Bruce_Conner.ht m</a> <BR> <BR>The Dillons connection and the university connection are also really, really eerie, and there is so much more. <BR><!--/Text--></td></tr>
+<!--/Post: 6115-->
+<!--Post: 6159--><!--Time: 1107555784-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6159"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 2:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Why is the Dillons connection eerie?  I don&#39;t know that the Dillons are anything but a very nice, albeit wealthy, family.   <BR> <BR>Is there supposed to be some connection between BTK and the Dillons?  Because I have not heard of one to this point.<!--/Text--></td></tr>
+<!--/Post: 6159-->
+<!--Post: 6161--><!--Time: 1107556489-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6161"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 2:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Isn&#39;t that where the Otero&#39;s car was left/found...Dillons parking lot?  I found it weird because his father was a manager at Dillons, that&#39;s all.  No offense to the family themselves. <BR> <BR>Did you read the links I provided en toto prior to asking your question?<!--/Text--></td></tr>
+<!--/Post: 6161-->
+<!--Post: 6317--><!--Time: 1107676821-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6317"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kansasgirl<!--/name--></b></a><br>Username: <!--field:uname-->Kansasgirl<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 06, 2005 - 12:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->GET A SWAB! That gave me the chills reading the story. He said his films were based on sex, death and violence. I wonder what a timeline would look like with the murders and his location? Any unsolved murders in other areas where he lived? His picture was that of a well dressed man who probably carried a briefcase and fits into society. Very strange!<!--/Text--></td></tr>
+<!--/Post: 6317-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="9/426">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=9/426" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

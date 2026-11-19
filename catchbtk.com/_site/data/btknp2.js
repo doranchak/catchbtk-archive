@@ -1,0 +1,1 @@
+window.CBTK={"page":"btknp2.html","title":"January 17, 1974","archive":"../index.html","versions":[{"t":"20041124132648","e":"20041124132648","n":1,"f":"history/btknp2~20041124132648.html","a":0,"d":0,"sa":[],"sd":[]}]};

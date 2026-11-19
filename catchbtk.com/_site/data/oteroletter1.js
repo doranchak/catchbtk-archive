@@ -1,0 +1,1 @@
+window.CBTK={"page":"oteroletter1.html","title":"The Otero Letter, Page 1","archive":"../index.html","versions":[{"t":"20060503160633","e":"20060503160633","n":1,"f":"history/oteroletter1~20060503160633.html","a":0,"d":0,"sa":[],"sd":[]}]};

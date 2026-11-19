@@ -1,0 +1,1 @@
+window.CBTK={"page":"ip.html","title":"Not nice to mess with Charlie...","archive":"../index.html","versions":[{"t":"20050223004329","e":"20050223004329","n":1,"f":"history/ip~20050223004329.html","a":0,"d":0,"sa":[],"sd":[]}]};

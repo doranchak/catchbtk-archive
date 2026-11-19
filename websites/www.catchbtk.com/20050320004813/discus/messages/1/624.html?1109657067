@@ -1,0 +1,259 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 624/What happens Now?-->
+<!--Level 1: 624/What happens Now?-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: What happens Now?</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">What happens Now?</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+What happens Now?
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=624"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=624"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 9806--><!--Time: 1109647575-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9806"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 7:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Now that BTK is caught, what will happen to this site in the long hall?  I&#39;d imagine it be left as a continuing discussion on BTK&#39;s activities in the past 59 years.   <BR> <BR>So will Tom update the board with new sections for Davis and Hedge, and keep the site updated with new information as it comes?<!--/Text--></td></tr>
+<!--/Post: 9806-->
+<!--Post: 9808--><!--Time: 1109649708-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9808"><font face="Verdana" size="1"><b><!--email--><a href="mailto:crazyhorse4440@hotmail.com" target="_blank"><!--/email--><!--name-->Lola<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Lola<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 8:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Verm, I would imagine catchbtk will be an excellent souce of info/discussion during Dennis Radar&#39;s upcoming trial. I can&#39;t see this board being dismantled in the nearby future, at least I hope not, as many in here are friends because of this very site. And I can see the benefit to all of the victims to have a place where it&#39;s &#34;safe&#34; for them to discuss, make friends, feel comfortable etc. Also,they are going to need everyone&#39;s support to get thru a long and detailed trial. Sooo Please Tom, keep it going? I would be lost without this site! <BR><!--/Text--></td></tr>
+<!--/Post: 9808-->
+<!--Post: 9814--><!--Time: 1109652635-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9814"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 8:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->What happens now? We keep on working, we are putting together Rader&#39;s life story under the Victims link and trying to make sure he is charged with every one he killed. WE are also trying to figure out if any one helped him, with drop offs, etc. BTW Verm can you find out about Tina Fredrick? Her name came up as a possible Victim  Thanks E.<!--/Text--></td></tr>
+<!--/Post: 9814-->
+<!--Post: 9815--><!--Time: 1109653092-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9815"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 8:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The capture of Dennis Rader is merely the beginning of a new chapter. The police investigation will continue to determine the number of victims. The number of victims will most probably increase. Rader enjoyed 31 years of freedom and the number of victims will be much greater than anyone can estimate. A sadistic psychopathic serial murderer does not forego the pursuit of a victim to attend the opera. The judiciary will follow the investigation. Rader will most probably enjoy the judicial process. I suspect he will taunt the victim&#39;s families by denigrating the victims and expressing gratification at ending their lives. This process can take several years. The purpose of the website will expand from catching the BTK Strangler to the trials of the BTK Strangler.<!--/Text--></td></tr>
+<!--/Post: 9815-->
+<!--Post: 9828--><!--Time: 1109656161-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9828"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 9:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This site was all about the mystery and it was great for that. But now he&#39;s caught. And if he&#39;s confessing he&#39;s taking all the suspense out of any trial. So this site is bound to die down. Looks like that is already happening. <BR> <BR>This site will stick around with the Zodiac site. But I bet Tom Voight highlights another unsolved case. That would be cool. Might help lead to another arrest.<!--/Text--></td></tr>
+<!--/Post: 9828-->
+<!--Post: 9834--><!--Time: 1109657067-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9834"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 10:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->For yourself Sherlock you can take a little time off and then in about 10-20 years from now when BTK dies in prison you can start another thread. <BR>And I&#39;ll be the first to post on it.<!--/Text--></td></tr>
+<!--/Post: 9834-->
+<!--Post: 9875--><!--Time: 1109679889-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9875"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 4:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ember- Tina Frederick is a case that was already solved.  If the police goofed up badly and charged an innocent man &#40;well not to innocent since he was already in jail&#41; then it would look really bad.  May be one reason why they are so hush hush.<!--/Text--></td></tr>
+<!--/Post: 9875-->
+<!--Post: 9928--><!--Time: 1109706093-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9928"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 11:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You see Johno, of all the posters to this site, I&#39;m the only one bound &#40;no pun intended&#41; to be right sooner or later. And dead has a lot of possible meanings, too. <BR><!--/Text--></td></tr>
+<!--/Post: 9928-->
+<!--Post: 9938--><!--Time: 1109709797-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9938"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nancydrew<!--/name--></b></a><br>Username: <!--field:uname-->Nancydrew<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 12:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Reality check, folks....I don&#39;t think we had the slightest thing to do with DR getting caught, and I doubt we are going to &#34;make sure he is charged with every one he killed.&#34;  Sure, maybe 3 out of the 1000s of theories posted here were right, but that&#39;s just dumb luck. <BR> <BR>I also don&#39;t think that the families are going to come looking to these boards as a safe place to make friends.   <BR> <BR>This is a hobby.  This is an interesting thing to follow.  He&#39;s been caught, and I for one plan to focus the energy I spent here on things I should have been more focused on anyway....loved ones, work, etc.  Because if nothing else, BTK showed us that a loved one can be gone from your life in an instant. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 9938-->
+<!--Post: 9990--><!--Time: 1109718990-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9990"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Salem<!--/name--></b></a><br>Username: <!--field:uname-->Salem<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 3:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Perhaps a separate section of the board can be devoted to &#34;post arrest&#34; chat to distinguish it from pre arrest. An awful lot of information has been posted since the early days.  <!--/Text--></td></tr>
+<!--/Post: 9990-->
+<!--Post: 10001--><!--Time: 1109721750-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10001"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 4:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;d like to see updates about the new info that comes out on the case, or links to info, so that we can find out answers to some of our unanswered questions.  But, it&#39;s no longer &#34;catchbtk&#34;!  Now that he&#39;s in the pokey. <BR> <BR>I&#39;m sure Tom is relieved that &#34;BTK&#34; is now in custody -- this site has probably swallowed up a good chunk of his life in the past few months.  I think it was all for the better, though.  This was a really unusual case.  By feeding DR&#39;s ego, the site, along with kansas.com and AMW&#39;s forums, may have provoked DR to continue with his communications -- and give LE the hard evidence that they needed to find him.  Like I said though, really unique case. <BR> <BR>It&#39;d be great to discuss other cold cases and continue to do the amateur sleuth thing, I think I may check out some existing sites elsewhere for forums to join &#40;C&amp;J maybe&#41;.   <BR> <BR>I&#39;ve wondered from time to time during the BTK investigation if things we posted may have helped or hurt the efforts of LE.  I wish we could get some feedback from LE on stuff they would&#39;ve appreciated not seeing on the messages boards.  If we could have provoked DR into increasingly dangerous behaviour, for example.  When DR is finally convicted and sentenced, I&#39;d like to see if WPD, KBI or FBI would have anything to say, advice or whatever, for amateur sleuths on the Web.  Who knows, they may be able to give guidelines of some sort.  They can&#39;t control what people put on the Web, exactly, but they might be able to explain what people can post without interfering with an investigation.<!--/Text--></td></tr>
+<!--/Post: 10001-->
+<!--Post: 10005--><!--Time: 1109722921-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10005"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 4:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Audreyamw, I would have to think that a message board like this and others would have to be helpful in two ways for any law enforement investigator to monitor.  <BR>First, when you hundreds or thousands of people kicking around ideas something may come up that a law enforcement offial had not thought of before or may have reinforced a standing theory that they held. <BR>Second, again when you have all these people kicking around ideas it could help a law enforcement official to eliminate a standing questionable theory that they may have been exploring.<!--/Text--></td></tr>
+<!--/Post: 10005-->
+<!--Post: 10125--><!--Time: 1109777610-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10125"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Yomama<!--/name--></b></a><br>Username: <!--field:uname-->Yomama<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 7:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->i think this board and discussion is a great thing for starters, where i live i wasn&#39;t getting any news hardly at all about btk and i so wanted to find out more so i got on the web and found this board, got to reading the stuff tom had posted which alone got me up to speed alot better then the news media around this neck of the woods, then i got to reading the posts...which got me to thinking...which is a small feat in itself...!!! then i realized that this is a wonderful site for law enforcement...!!! if they need ideas they could come here and get many good ideas which maybe they hadn&#39;t thought of  which in itself is worth all the effort of each and everyone of the posters here,  i also like to think that this site may of tripped dr up a bit having to come and check what was going on here and if anybody was on to him...maybe we got him worried or confused. we now do know that he was on the internet...getting worried.  i hope that tom will not only leave this board up about post arrest and the facts of this case as everything comes out but also comes up with some other monster for us to harrase<!--/Text--></td></tr>
+<!--/Post: 10125-->
+<!--Post: 10545--><!--Time: 1109996174-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10545"><font face="Verdana" size="1"><b><!--email--><a href="mailto:zodiacfiles@aol.com" target="_blank"><!--/email--><!--name-->Ed_neil<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 8:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This site is going nowhere.  Bundy&#39;s been gone for 16 years, and people still talk about him.  Just because Rader&#39;s been arrested doesn&#39;t mean it&#39;s over yet.  There&#39;s almost certainly going to be a long, drawn-out trial and decades of appeals.  And yes, Tom will be updating the site when he returns.<!--/Text--></td></tr>
+<!--/Post: 10545-->
+<!--Post: 10637--><!--Time: 1110073579-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10637"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 05, 2005 - 5:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks Ed, we are still working as hard as ever to put the pieces together, Thank you Angie, Tom and the Family for putting up with us and making this possible E.<!--/Text--></td></tr>
+<!--/Post: 10637-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/624">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/624" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

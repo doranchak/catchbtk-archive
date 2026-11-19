@@ -1,0 +1,1 @@
+window.CBTK={"page":"5.html","title":"catch BTK .com -- CURLY LOCKS","archive":"../index.html","versions":[{"t":"20041204125213","e":"20041204125213","n":1,"f":"history/5~20041204125213.html","a":0,"d":0,"sa":[],"sd":[]}]};

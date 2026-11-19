@@ -1,0 +1,250 @@
+<html>
+<!--Topic: 10/BTK Letters-->
+<!--Me: 146/BTK&#39;s Poetry-->
+<!--Level 1: 146/BTK&#39;s Poetry-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK&#39;s Poetry</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK&#39;s Poetry</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Letters</font></a> &#187;
+BTK&#39;s Poetry
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=146"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=146"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 953--><!--Time: 1093911886-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST953"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 30, 2004 - 5:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m not too sophistimacated when it comes to poetry. &#40;LOL&#41; However, even to a novice like me, BTK&#39;s poetry doesn&#39;t look too impressive. Of course, even the stuff that is highly regarded puts me to sleep... <BR> <BR>Anyway, this thread is for general comments about BTK&#39;s poetry.<!--/Text--></td></tr>
+<!--/Post: 953-->
+<!--Post: 921--><!--Time: 1093588454-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST921"><font face="Verdana" size="1"><b><!--email--><a href="mailto:zodiacfiles@aol.com" target="_blank"><!--/email--><!--name-->Ed_neil<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, August 26, 2004 - 11:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->25 years later, they&#39;ll be lucky to get a good tip.  They should have released the poem within days of receiving it, not decades; whoever might have known something then might have forgotten it, might not connect it now, or might even be dead.  WPD isn&#39;t doing anyone any favors.<!--/Text--></td></tr>
+<!--/Post: 921-->
+<!--Post: 922--><!--Time: 1093612664-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST922"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Beckyks<!--/name--></b></a><br>Username: <!--field:uname-->Beckyks<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, August 27, 2004 - 6:17 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Seems strange that they have said all this time that they believed BTK was actually after the daughter - when the poem is clearly directed at the 63-year old Anna. <BR> <BR>I wonder what the purpose of the deception was?<!--/Text--></td></tr>
+<!--/Post: 922-->
+<!--Post: 934--><!--Time: 1093641289-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST934"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, August 27, 2004 - 2:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I do not think that the poem was original to BTK. despite WPD&#39;s belief that it was. I think that he borrows. It has the phrasings of Ovid and some of the very early erotic poets. Could BTK have the ability to be so eloquent in his phraseology and can then only end the poem &#39;why didn&#39;t you appear&#39;? Surely, he can do better than that. The poem is awkward at times.  He may daydream and toy with some of the feelings expressed, but I do not think him capable of feeling those things. He could not kill if he was truly capable of such emotions of the heart. <BR> <BR>And the younger woman may have still been the intended victim, with BTK trying again to confuse the issue and the police.  They are clearly grasping at straws: waiting a quarter of a century to develop a lead!!!!<!--/Text--></td></tr>
+<!--/Post: 934-->
+<!--Post: 940--><!--Time: 1093712588-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST940"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Micaela<!--/name--></b></a><br>Username: <!--field:uname-->Micaela<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 28, 2004 - 10:03 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe this is not a communication from BTK. It is a &#34;fake&#34; genereated by LE to bait or flame BTK. It will be intersting to see if it is real.<!--/Text--></td></tr>
+<!--/Post: 940-->
+<!--Post: 943--><!--Time: 1093727575-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST943"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sapper<!--/name--></b></a><br>Username: <!--field:uname-->Sapper<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 28, 2004 - 2:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe the BTK is alot smarter then any of us are giving him credit for.The why he copies others then changes it around is a small window into his mind. If you dont want to be caught you make it look like its not your work. We realy need to step back and take a fresh lookk at it all. No serial killer just stops cold he was some where else killing. What other serial killers match his Mo in North America? <BR>I think he masked himself in this poem &#34;Oh Anna &#34; Just  to mess with WPD. <!--/Text--></td></tr>
+<!--/Post: 943-->
+<!--Post: 947--><!--Time: 1093749596-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST947"><font face="Verdana" size="1"><b><!--email--><a href="mailto:btk@mikecole.org" target="_blank"><!--/email--><!--name-->Mike_cole<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Mike_cole<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 28, 2004 - 8:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oh WPD Why Didn&#39;t You Release...<!--/Text--></td></tr>
+<!--/Post: 947-->
+<!--Post: 950--><!--Time: 1093804975-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST950"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sean<!--/name--></b></a><br>Username: <!--field:uname-->Sean<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, August 29, 2004 - 11:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The words that struck me from the poem were &#34;Memory of mirrors&#34; which I thought unique by itself. However there are a couple of references to this same phrase around the web. <BR>Including a poem called &#34;Memory of mirrors&#34; and a quote that a &#34;memory of mirrors helped me endure&#34;.Perhaps it was not an unknown phrase and therefore must have an origin somewhere.<!--/Text--></td></tr>
+<!--/Post: 950-->
+<!--Post: 954--><!--Time: 1093924236-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST954"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 30, 2004 - 8:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I wonder what poem BTK borrowed the lyrics to the &#34;Oh, Anna&#34; poem from? <!--/Text--></td></tr>
+<!--/Post: 954-->
+<!--Post: 955--><!--Time: 1093938182-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST955"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, August 31, 2004 - 12:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;I&#39;ll tie your hands till you can&#39;t make a stand.&#34;  <BR> <BR>To me, that&#39;s &#40;by far&#41; the most interesting line of BTK&#39;s adaptation of the &#34;Oh! Death&#34; poem/song. The rest of BTK&#39;s version at least rhymes. What&#39;s the deal? Compare below:  <BR> <BR>&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#42;  <BR> <BR>Oh, Death  <BR> <BR>BTK version from 1978:  <BR> <BR>Oh! Death to Nancy  <BR>What is this taht &#40;sic&#41; I can see  <BR>Cold icy hands taking hold of me  <BR>for Death has come, you all can see.  <BR>Hell has open it,s &#40;sic&#41; gate to trick me.  <BR>Oh! Death, Oh! Death, can&#39;t you spare  <BR>me, over for another year!  <BR>I&#39;ll stuff your jaws till you can&#39;t talk  <BR>I&#39;ll blind &#40;sic&#41; your leg&#39;s &#40;sic&#41; till you can&#39;t walk  <BR>I&#39;ll tie your hands till you can&#39;t make a  <BR>stand.  <BR>And finally I&#39;ll close your eyes so you  <BR>can&#39;t see  <BR>I&#39;ll bring sexual death unto you for me.  <BR>B.T.K.  <BR> <BR>The original lyrics:  <BR>&#40;The Anglin brothers were the first American group to record it in 1938&#41;  <BR> <BR>Oh Death  <BR>Oh, death Oh, death Won&#39;t you spare me over til another year  <BR>Well what is this that I can&#39;t see  <BR>With ice cold hands taking hold of me  <BR>Well I am death none can excel  <BR>I&#39;ll open the door to heaven or hell  <BR>Whoa death someone would pray  <BR>Could you wait to call me til another day  <BR>The children pray the preacher preached  <BR>Time and mercy is out of your reach  <BR>I&#39;ll fix your feet til you can&#39;t walk  <BR>I&#39;ll lock your jaw til you can&#39;t talk  <BR>I&#39;ll close your eyes so you can&#39;t see  <BR>This very hour come and go with me  <BR>In death I come to take the soul  <BR>Leave the body and leave it cold  <BR>To drop the flesh off of the frame  <BR>The earth and worms both have a claim  <BR>Oh death  <BR>Oh death  <BR>Won&#39;t you spare me over til another year  <BR>My mother came to my bed  <BR>Place a cold towel upon my head  <BR>My head is warm my feet are cold  <BR>Death is a movin upon my soul  <BR>Oh death how you&#39;re treatin me  <BR>You close my eyes so I can&#39;t see  <BR>Well you&#39;re hurtin my body you make me cold  <BR>You run my life right out of my soul  <BR>Oh death please consider my age  <BR>Please don&#39;t take me at this stage  <BR>My wealth is all at your command  <BR>If you&#39;ll remove your icy hands  <BR>Oh the young the rich or poor  <BR>All alike to me you know  <BR>No wealth no land no silver or gold  <BR>Nothin satisfies my but your soul  <BR>Oh death  <BR>Oh death  <BR>Won&#39;t you spare me over til another year  <BR>Won&#39;t you spare me over til another year  <BR>Won&#39;t you spare me over til another year  <BR><!--/Text--></td></tr>
+<!--/Post: 955-->
+<!--Post: 956--><!--Time: 1093959362-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST956"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Beckyks<!--/name--></b></a><br>Username: <!--field:uname-->Beckyks<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, August 31, 2004 - 6:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe he was rhyming &#34;stand&#34; to &#34;hands&#34; <BR> <BR>&#34;I&#39;ll tie your hands till you can&#39;t make a stand.&#34;  <BR> <BR>I realize it&#39;s different phrasing than the rest of the poem, but that&#39;s how I took it.<!--/Text--></td></tr>
+<!--/Post: 956-->
+<!--Post: 957--><!--Time: 1093971627-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST957"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Colette<!--/name--></b></a><br>Username: <!--field:uname-->Colette<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, August 31, 2004 - 10:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;can&#39;t make a stand&#34; ... can&#39;t get away from him or fight back &#40;ala Custer&#39;s last stand, ect.&#41;You can&#39;t really fight back with your hands tied.<!--/Text--></td></tr>
+<!--/Post: 957-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/146">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/146" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,1 @@
+window.CBTK={"page":"15.html","title":"catch BTK .com -- VICKI WEGERLE","archive":"../index.html","versions":[{"t":"20041015034635","e":"20041015034635","n":1,"f":"history/15~20041015034635.html","a":0,"d":0,"sa":[],"sd":[]}]};

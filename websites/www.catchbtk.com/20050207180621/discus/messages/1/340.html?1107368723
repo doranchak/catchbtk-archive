@@ -1,0 +1,246 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 340/BTK /ORIGINAL Night Stalker-->
+<!--Level 1: 340/BTK /ORIGINAL Night Stalker-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK /ORIGINAL Night Stalker</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK /ORIGINAL Night Stalker</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+BTK /ORIGINAL Night Stalker
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=340"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=340"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4416--><!--Time: 1106339018-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4416"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 12:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Recently found a post from someone on another site about the Orange Coast Killer, or the Original Night Stalker &#40;as in, before Richard Ramirez.&#41; - take your pick.  <BR> <BR>I personally get tired of seeing so many people try to tie BTK in with other killers, but when I read up a bit on this one I felt it was worth pointing out.  <BR> <BR>The Original Night Stalker has enough similarities in his MO to compare and contrast, even though I strongly doubt he is the same killer. He bound his victims with special knots - in this case not buntline hitch knots but &#39;diamond&#39; knots - he had total control of the crime scenes, he cut the phone lines, he left very little evidence behind. There was a marked sadomasochistic element to his murders &#40;rem. BTK and his &#34;bondage master sadist tendencies&#34;&#41;. His physical description was not so different from some of the BTK descriptions, but he was perhaps younger at the time and in very good shape, physically. He targeted lower-risk victims just like BTK, but ONS&#39;s were &#39;higher-dollar&#39; professionals - he seemed to kill more than his share of people associated with the medical field, and a woman whose husband was hospitalized at the time of her murder as well. I already suspect, from what reading I&#39;ve done in a day and a half, that ONS had some connection to the field of medicine. Like BTK he was unafraid of dealing with more than one vic - in fact, he seemed to prefer killing couples.  <BR> <BR>ONS did not taunt the press that I know of - he preferred to take it to the victim. The most comprehensive site I&#39;ve found on him is this one; <BR> <BR><a href="http://www.ear-ons.com/" target=_top>http://www.ear-ons.com/</a>. If you go to the index page, there is a slightly silly-looking digitally rendered portrait of the killer in a ski mask, looking utterly crazed. If you click on that portrait, you will hear a phone call he left on one of his rape-only victims&#39; machines. It&#39;s terrifying, if you ask me. Don&#39;t listen to it late at night, alone in the dark.  <BR> <BR>Here is the other thing I wanted to point out about this, and this is more than relevant to BTK;  <BR> <BR><a href="http://www.ocsd.org/" target=_top>http://www.ocsd.org/</a> <BR> <BR>The Orange County Sheriff&#39;s Department&#39;s pages on this killer <i>&#40;just scroll down on their main page to the link in red that says &#39;serial killer update&#39;&#41;</i> are a model of how to engage the public in a manner that does not compromise their investigation and still encourages people looking at the info they have to do their own work on this unsolved series of killings. Wichita PD needs to look at how carefully rendered these OCSD pages are and do the same. It&#39;s one of the smartest things I&#39;ve seen a police department do in a situation like this.  <BR> <BR>The final thing I&#39;d like to note is the profile of the Original Night Stalker. What has stayed with me for a bit now is the feeling that the profiles are so comparable that perhaps a study of ONS may shed a little light in some dark corners in one&#39;s understanding of BTK. ONS inevitably seems to have had his own quirks - he actually brought his dog to at least a couple of crime scenes - but I still think that even if they are not the same killer, the comparison between them might be educational.  <BR> <BR>And if you follow those links and do think you&#39;re looking at BTK&#39;s more advanced work, after he&#39;d learned a few lessons and refined his methods, I&#39;d like to hear about that, too. <!--/Text--></td></tr>
+<!--/Post: 4416-->
+<!--Post: 4422--><!--Time: 1106349708-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4422"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 3:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve, nice work on a case which doesn&#39;t get the interest it deserves. ONS is by far the scariest serial killer in US history, IMO. I&#39;ve known about him for a while but half a year ago, in Zodiac Chat, Tom also opined that this guy was colder-than-cold so I immediately sought the profile, have probably read it four times since then, and I finally discovered the site you link, a couple of months ago. <BR> <BR>I don&#39;t think he&#39;s BTK as ONS was capable of sex to completion inside a woman and I don&#39;t think BTK can do this. ONS also seems to know his attack areas too well for it to be BTK, ONS attacks at night, BTK during the day and before he was ONS, he was EAR who raped approximately sixty women. Again, BTK would not be capable of this, in my opinion. <BR> <BR>I agree completely that ONS is an excellent resource for study. Right now he&#39;s the only serial killer I&#39;m aware of who resembles BTK in any way. Is it possible to link the profile? And did you sense, as I had when reading the profile, that even hardcore LE types were slightly unnerved? I felt a sense of, &#34;This guy is incredibly dangerous.&#34; I agree with you that the phone call is straight from Satan, and it&#39;s the type of call women hate most. My good news is in my belief that ONS is dead or in prison, in that order. I know the same was said of BTK but this is a gut reaction of mine. Yes, ONS should be studied. No question. I don&#39;t think it so but if he&#39;s out there, there isn&#39;t a more dangerous killer in the entire country.<!--/Text--></td></tr>
+<!--/Post: 4422-->
+<!--Post: 4435--><!--Time: 1106359454-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4435"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsbarn<!--/name--></b></a><br>Username: <!--field:uname-->Elsbarn<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 6:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree with George about this not being BTK, but there are similarities, including the timeframe &#40;EAR/ONS raped a 16 year old girl on March 18, 1977 and Shirley Vian was killed on March 17, 1977&#41;and the possible military and university connections. Neither attacked in the summer of 1977.  EAR/ONS built up to murder through a series of rapes.  I think it is likely BTK must have a similar history that has not been tied to him, although the number of victims may not be as high. There seems to be an attraction to having another male who becomes a victim or children present as well.  Additionally, from the profile of Original Night Stalker: <BR>  <BR>Target Neighborhoods <BR> <BR>    Suspect primarily targeted middle-class to upper-middle class neighborhoods with homes on or near cul de sacs or homes adjacent to vacants fields, schools, parks, creeks or homes under construction. Several of the neighborhoods targeted by the suspect had &#34;homes for sale&#34; or homes recently sold. Suspect is known to have posed as a realtor, building inspector or prospective home-buyer. <BR> <BR><a href="http://www.ear-ons.com/investigate7.html" target=_top>http://www.ear-ons.com/investigate7.html</a> <BR> <BR>This sort of angle has been brought up repeatedly with BTK. <BR> <BR>What do you make of the witness descriptions of two young men? &#40;After these sketches were released on March 16, 1978, the Sacremento rapes stopped, I guess causing investigators to feel they were on to something with these descriptions&#41;. <BR> <BR><a href="http://www.ear-ons.com/composites.html" target=_top>http://www.ear-ons.com/composites.html</a><!--/Text--></td></tr>
+<!--/Post: 4435-->
+<!--Post: 4442--><!--Time: 1106364335-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4442"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 7:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i>&#34;EAR/ONS built up to murder through a series of rapes.&#34;</i> This is the main reason I believe ONS isn&#39;t BTK; it&#39;s not even close. Of all known BTK murder victims, <i>none</i> were traditionally sexually penetrated, indicating strongly that BTK is sexually dysfunctional. For the same reason, I can&#39;t see BTK as a serial rapist who &#34;graduated&#34; to serial killer. It happens - in fact it happened with ONS - but I don&#39;t see it happening with BTK. I don&#39;t see BTK raping to completion even once.  <BR> <BR>ONS <i>always</i> sexually penetrated victims, and did so to completion as the crime scenes demonstrate. This is a huge difference which I say is enough to eliminate BTK as the ONS. Enough of my sophistry, I&#39;ll ask a pro who knows matters which the rest of us don&#39;t. Mike Kelleher really is a boon to this website.<!--/Text--></td></tr>
+<!--/Post: 4442-->
+<!--Post: 4451--><!--Time: 1106369468-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4451"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 8:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George, you&#39;ve nailed why I concluded ONS wasn&#39;t the same guy, pretty quickly. In the sense you described, he was more sexually &#34;mature&#34; than BTK. BTK&#39;s offenses, sexually speaking, spoke of a more voyeuristic, immature sexuality. ONS was an aggressively physical rapist. BUT, the other commonalities are striking enough for me to think he&#39;s a killer to really learn about - that he and BTK are two variations on a very particular sort of serial killer - call him mostly organized to mixed, call him power-control, but either way they are peas in a pod. I think the biggest differences in the two were how adequate they probably seemed in daily life. I have a feeling ONS was a much more presentable sort, probably more a Ted Bundy-type on the outside; charming, witty, charismatic. BTK, I am convinced, has always been and still is the man everyone knows of but nobody really knows, and they have just a creepy enough impression of him to not want to try. In his everyday life, much more of a non-entity.  <BR> <BR>On the inside, though...their makeups were remarkably similar. If ONS is still alive, he is following BTK&#39;s resurgence, I&#39;d bet, with a passionate-seeming interest.  <BR> <BR>I do not know what to make of the two men; the very odd and chilling thought crossed my mind that two guys formed a team of sorts after meeting in the AF and one was the dominant &#39;actor&#39; in the crimes while the other was a voyeur, a lookout - wouldn&#39;t be the first time. There&#39;s no evidence I know of for that, though - it&#39;s raw, unsupported speculation on my part.  <BR> <BR>George, I have to agree - that recording is one of the most scary things I&#39;ve heard. How did the recipient sleep after that? How do they still? If this guy is still around, you&#39;re right, he&#39;s one of the most dangerous killers out there, hands down.<!--/Text--></td></tr>
+<!--/Post: 4451-->
+<!--Post: 4453--><!--Time: 1106370055-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4453"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 9:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oh, and thank you both for the responses so far. This forum gives one hope that smart, sane people are actually studying BTK as well.<!--/Text--></td></tr>
+<!--/Post: 4453-->
+<!--Post: 4459--><!--Time: 1106377176-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4459"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 10:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve, thanks. Mr. Kelleher&#39;s new addition to the original profile seems to say that BTK wasn&#39;t sexually dysfunctional and I won&#39;t argue with Mr. Kelleher. I still think the two killers are different people, if only because of geography &#40;ONS struck in <i>much</i> wealthier neighborhoods than did BTK&#41;. Also BTK attacked by day, ONS by night. Finally, ONS usually &#40;possible always&#41; used blunt force trauma to dispatch his victims. BTK strangled, once stabbed, once shot but didn&#39;t kill. I recall two of the blunt force tools used by ONS were a sprinkler head and a fire log. BTK never approached this form of death. &#40;Although Bundy did.&#41; ONS drove hundreds of miles, whereas BTK could take a bus or ride a bicycle to his crime scenes. And I still find it interesting that of the proposed &#34;names&#34; for BTK, three of the nine include the word &#34;Wichita.&#34;  <BR> <BR>And he&#39;s only murdered in Wichita. There is something in BTK&#39;s psyche about Wichita. I&#39;m not glorifying a madman but the guy, to use newer terminology, I&#39;d rate as &#34;significantly above average&#34; when it comes to intelligence. The newer scale, I think, is something like average, above average, significantly above average, gifted. I don&#39;t know if gifted is the pinnacle or not. In thirty-one years he&#39;s only killed in Wichita. That <b>must</b> mean something. I&#39;m using solely definite BTK victims as opposed to possible victims. Do you think it unusual that in thirty-one years BTK has only killed in Wichita? I could be overreacting to this, I have Wichita&#39;s 1970 population at 349,600 and that figure includes suburbs. Maybe that&#39;s large enough for BTK, but for some reason BTK&#39;s sole use of Wichita seems a little odd to me. Thanks, gotta run. <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4459-->
+<!--Post: 4464--><!--Time: 1106393099-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4464"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nugzter<!--/name--></b></a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 3:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Isnt it strange that ONS and BTK asr both suspected of being in the Air Force. Man, there just rollin out the serial killers.<!--/Text--></td></tr>
+<!--/Post: 4464-->
+<!--Post: 4486--><!--Time: 1106417800-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4486"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 10:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, sorry if this in the wrong place, but I wanted to respond to Nugzter. <BR> <BR>I know some guys that were in Vietnam, South America, etc, basically trained as assassins for the U.S. Military. They only know how to survive. <BR> <BR>Now, when they get back into &#34;society&#34; they need to get help to re-adjust. <BR> <BR>Some don&#39;t, and that could be why we end up with BTK&#39;s and EAR-ONS. <BR> <BR>Please don&#39;t take this wrong, as I am sure not all SK&#39;s have a military background. Nor am I saying all military turns out to be SK&#39;s.<!--/Text--></td></tr>
+<!--/Post: 4486-->
+<!--Post: 5748--><!--Time: 1107323802-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5748"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 9:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->For one who is sure BTK and ONS are different people, I keep coming back here! It&#39;s tempting to consider them one and the same. I still think they are unrelated. But something very basic has been overlooked. California LE has DNA from ONS. WPD has DNA from BTK. I really hope that the DNA has been compared. Then we&#39;d know if they are the same.  <!--/Text--></td></tr>
+<!--/Post: 5748-->
+<!--Post: 5757--><!--Time: 1107350653-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5757"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Juno<!--/name--></b></a><br>Username: <!--field:uname-->Juno<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 5:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve_huff said: <BR> <BR>&#34;If you click on that portrait, you will hear a phone call he left on one of his rape-only victims&#39; machines. It&#39;s terrifying, if you ask me. Don&#39;t listen to it late at night, alone in the dark.&#34; <BR> <BR>I&#39;ll second that!  I listened to that late at night after everyone was in bed, after having read the info on the same site earlier in the day.  Needless to say, I was up for most of the night.  That is probably THE creepiest thing I have ever heard. <BR> <BR>Was that call left on a victim&#39;s answering machine?   <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 5757-->
+<!--Post: 5782--><!--Time: 1107368723-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5782"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bodycheck<!--/name--></b></a><br>Username: <!--field:uname-->Bodycheck<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 10:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I listened to it too...FREAKY... <BR>what was it he said right at the end... <BR>I couldnt pick it up.... <BR> <BR>sounded to me ...like the guy was pulling his pud and repeating &#34;kill you&#34; over and over til right at the end.... <BR> <BR>i do admit though...If i got a msg like that on my machine....Id be VERY VERY armed. <BR> <BR>B <!--/Text--></td></tr>
+<!--/Post: 5782-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/340">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/340" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

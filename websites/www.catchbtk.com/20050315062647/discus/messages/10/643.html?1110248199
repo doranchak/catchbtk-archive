@@ -1,0 +1,260 @@
+<html>
+<!--Topic: 10/BTK Communications-->
+<!--Me: 643/Chapter 8-->
+<!--Level 1: 643/Chapter 8-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Chapter 8</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Chapter 8</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Communications</font></a> &#187;
+Chapter 8
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=643"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=643"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 10067--><!--Time: 1109739967-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10067"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 9:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://media.graytvinc.com/images/btk_puzzle.jpg" target=_top>http://media.graytvinc.com/images/btk_puzzle.jpg</a> <BR> <BR>happy decoding <IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0>  KAKE apparently has done most of it already<!--/Text--></td></tr>
+<!--/Post: 10067-->
+<!--Post: 10072--><!--Time: 1109740999-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10072"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 9:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Words found: <BR> <BR>Telephone Service Man <BR>Insurance <BR>USD 259 <BR>MadDress <BR>Fantasies <BR>Wrong Man <BR>Fake ID <BR>For Sale <BR>Lost Pet <BR>316-268-2043 City Hall? <BR>for sale <BR>realtors <BR>victim <BR>prowl <BR>follow <BR>sold <BR>spot <BR>tops <BR>office <BR>fake <BR>handyman <BR>fake <BR>wrong <BR>end <BR>office <BR>school <BR>Shed <BR>6220 <BR>For Sale Vend<!--/Text--></td></tr>
+<!--/Post: 10072-->
+<!--Post: 10073--><!--Time: 1109741192-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10073"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 9:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Of course the most interesting clue: <BR> <BR>D RADER <BR> <BR>Others: <BR>MY DNA WRONG <BR> <BR>KAKE showed a secret signature.  <BR>Top was a B laying sideways - straight side on top. Coming down from the middle was a line which made a &#34;T&#34; from that line and the top laying down line of the B. Branching off from the up and down line of the T was a leg of a K.  <BR><!--/Text--></td></tr>
+<!--/Post: 10073-->
+<!--Post: 10075--><!--Time: 1109741241-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10075"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 9:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->time <BR>build <BR>mad <BR>anderson <BR>even <BR>go for it <BR>ate <BR>details <BR> <BR>I&#39;m done here ...<!--/Text--></td></tr>
+<!--/Post: 10075-->
+<!--Post: 10123--><!--Time: 1109776334-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10123"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 7:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Since those grids revealed his name and address, it might have been recognized by a few in however many thousands of people would have been trying to solve it: of course, it needed to be released to the public!!!! The police knew him, worked with him, and could not see it. They were too close. I find it unforgivable that the info was not released since the info the police kept to themselves made no sense to them apparently. I realize that hind sight is 20/20. That is why multiple source input is so vital. One small nuance caught by one person will make all the difference. I guess he played with dolls. I wonder if they found any anatomically correct ones in his collection.<!--/Text--></td></tr>
+<!--/Post: 10123-->
+<!--Post: 10132--><!--Time: 1109780738-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10132"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hkenley@san.rr.com" target="_blank"><!--/email--><!--name-->Chiefron<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Chiefron<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 8:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Also near all the numbers in the middle section: <BR> <BR>BOA <BR> <BR>Bet one of those number sequences is his troop number. <BR> <BR>Ron<!--/Text--></td></tr>
+<!--/Post: 10132-->
+<!--Post: 10176--><!--Time: 1109794737-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10176"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Beckyks<!--/name--></b></a><br>Username: <!--field:uname-->Beckyks<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 12:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->His pack/troop number was 491 or 591.  I saw it in the paper but can&#39;t remember which.<!--/Text--></td></tr>
+<!--/Post: 10176-->
+<!--Post: 10196--><!--Time: 1109808132-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10196"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 4:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->How about a new way of looking at this puzzle. A third grader could have made it the way we have been interpreting it. Try doing it as a letter path, as long as your pencil follows the path, you can go any direction, up, down, across, or diagonal.  <BR> <BR>MO Grid:mull, snit, mis pig,mame, dl, dl, sit, jello, jef, leo, ciophn, six, wit, pet, hint, slit, tip, det, ht, poet, fog, your it, builds, lie, fume, jr, fox, foe, fib, nanci, then, nestle, jew,tub, tempt, toll, poll, poem, salt, hated, peot, pest, limits, sir, nanci, senor, retch, roe, ted, ten, tit, cia, dike, depth, rib, quills, unlit, slip, juke, kiss, kids, kiddo, loot, nola, jig, praise o pj, crass, flown, fib, vd, dl, sin, rat, spated, ted, dl, my four, craft, sale, hex, own, pow, two, oasis, few, im so, fall, fall, tag, stag, path, slit, pub, jails, fanci, raspy, met <BR> <BR>ID Grid:pew, hiv, north, recoil, con, condit, shag, tear, dea, sue, ice, hones, DER son, dean, padre, step, steph, pond, sold, sob, nephew, soffi, lucy,nest, nail, dear radre, rail, rear, hero, coat, cop, read, folk, lion, front, splash, gift, shiv, fray, que, steal, fob, lean, him , her, slander,quest, snag, w&#42;ore, den, adt, dig, pray, dr, prayer, doll, dcf, VI, sos, helm, hornet, respond, wag, wage, whet, radre, con, ties, tied, tiarra, dim, boo, hoo, sue, bold, rx <BR> <BR>Ruse Grid:leo, ceo, lane, poet, more, pore, teen, fist, fir, sister, dame, wear, dress, mace, tpm, rice, race, narc, nest, empty, slut, roar, were, camera, camera, steer, dig, ice, hope fades, six, fuse, god, shed, photo, joe, pjs, pelt, pent, fat, far, begin, sled, damn, dancer, fog, lust. leaf, toes, steal, splat, splash, knee, rein, rein, svu, oj or jo, mopes, sad, five, success, seance, cancer , reel, rest, lose, oh, rant, hark, her, ford, ruser, ask, steer, sad, grope, ode, road, rodeo, dine, dingy, post, stale, hell, hose, meet, carrot, warn, vian, nance, nam, naive, dork, bath, used, stash, seal, modas. <BR> <BR>Well, this many words cant be a coincidence. Remember, we got fooled before because we only saw the obvious.<!--/Text--></td></tr>
+<!--/Post: 10196-->
+<!--Post: 10571--><!--Time: 1110014072-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10571"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->J_eric<!--/name--></b></a><br>Username: <!--field:uname-->J_eric<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 05, 2005 - 1:14 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, he also gave us WICHITA &#40;ATIHCIW is what I do when catching cold&#41;; POI; &#34;Officer Rader;&#34;  Strong; &#34;Larry Anderson&#34;&#60;?&#62;; Ran help; and, as mentioned, a wonderfully entrapped MY DNA inside HANDYMAN.   I&#39;d go on but seem to be at a TY UP. <BR> <BR>I am of the opinion that there is no &#34;ulterior code&#34; happening here - unlike Zodiac&#39;s ciphers.  Just some hidden words, not a truly complex puzzle to leave, after all.<!--/Text--></td></tr>
+<!--/Post: 10571-->
+<!--Post: 10836--><!--Time: 1110248199-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10836"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 6:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree, J_eric - no fancy stuff at all.  I&#39;ve dumped some of his strings &#40;both known and possible BTK&#41; into a couple of programs and ended up just shaking my head at myself for wasting the time.  I liked how Wichitaboy culled out the obvious keyboard traversal filler on the main puzzle, but what was left was junk.  All that seemed left to me was a rather dopey &#34;I AM CLD DL&#34; - no risky clues there.  The only clue that matters in this game is DNA &#40;and I&#39;m not talking 3 letters in a puzzle&#41;.  On another board, MissCalculation &#40;love the name&#41; picked all kinds of 2-D wordfinds out of the puzzles, but it was obviously just random stuff.  If the more enigmatic string posts have any meaning &#40;or if they&#39;re BTK&#39;s at all, which I seriously doubt!&#41;, then I&#39;m figuring they&#39;re either anagrams &#40;uncertain, multi-solution, and low-value&#41; or huge acronyms &#40;even more worthless&#41;.  I think I saw a solution to one of them that involved cycling through the letters &#40;4-4-0&#41;, but if that was our boy Denny, I&#39;ll lick my calculator clean.  But I do think the &#40;in my opinion&#41; likelihood that there&#39;s no substitution going on in genuine BTK stuff makes it more likely that a simple solution is going to be a hit.  That&#39;s why I&#39;m intrigued by the values 7 and 14 in the more recently released March &#39;04 &#40;&#34;baby&#34;&#41; puzzle, which like the big puzzle is genuine BTK.  If it&#39;s an anagram, the numbers could be anything, but they&#39;re still &#40;in my opinion&#41; true numbers.  I&#39;m leaning toward the idea that it&#39;s really an acronym for a sentence, and if that&#39;s the case, then &#34;V is for Victim&#34;, &#34;TBS&#34; is for &#34;The BTK Strangler&#34;, and the rest are unknown.  &#34;V14&#34;  sure looks to me like 14 victims.  I know it&#39;s just speculation, but so was DL, so I&#39;m trusting the simple stuff now.  Rader has not been coming clean on victims from the word go, but has been dribbling them out over a long period, as I would expect from somebody whose &#34;non-confessions&#34; should not be trusted.  He knows damn well how many he killed, and we know he&#39;s cocky about it on the inside, so I trust a &#34;14&#34;, left in a code he figured nobody could prove, a lot more than what he&#39;s not confessing to.  Short version - 10 my @$$.  He&#39;s easily good for 4 more, and his little puzzle is enough of a confession in my book that I think he should sweat for it until the numbers add up.<!--/Text--></td></tr>
+<!--/Post: 10836-->
+<!--Post: 11158--><!--Time: 1110485792-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11158"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 12:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK&#39;s Symbol a Secret No More <BR> <BR><a href="http://www.kansascity.com/mld/kansascity/news/nation/11081112.htm" target=_top>http://www.kansascity.com/mld/kansascity/news/nati on/11081112.htm</a><!--/Text--></td></tr>
+<!--/Post: 11158-->
+<!--Post: 11215--><!--Time: 1110506044-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11215"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 5:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think Kansascity.com has caught on because now unless i become a member I can&#39;t get in so can you copy and paste a pic of it somewhere for us to see? or mail it to me, and I will have someone put it in photobucket?<!--/Text--></td></tr>
+<!--/Post: 11215-->
+<!--Post: 11296--><!--Time: 1110561507-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11296"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lctrip<!--/name--></b></a><br>Username: <!--field:uname-->Lctrip<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 9:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ditto to Embersage&#39;s request.  PLEASE! &#40;and thanks&#41;<!--/Text--></td></tr>
+<!--/Post: 11296-->
+<!--Post: 11297--><!--Time: 1110561640-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11297"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lctrip<!--/name--></b></a><br>Username: <!--field:uname-->Lctrip<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 9:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->And having just posted the above I see that you can link to it from the &#39;Symbol&#39; thread on &#34;BTK Communications&#34;. <BR> <BR>Sorry for the hasty post.<!--/Text--></td></tr>
+<!--/Post: 11297-->
+<!--Post: 11309--><!--Time: 1110571347-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11309"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 12:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lemme see if this works: <BR> <BR>IMG]<a href="http://img.photobucket.com/albums/v257/SurfieTX/122640894580.jpg" target=_top>http://img.photobucket.com/albums/v257/SurfieTX/12 2640894580.jpg</a>[/IMG]<!--/Text--></td></tr>
+<!--/Post: 11309-->
+<!--Post: 11372--><!--Time: 1110620811-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11372"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->J_eric<!--/name--></b></a><br>Username: <!--field:uname-->J_eric<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 1:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;Verm_inve&#34; you mention the code words FAKE ID, but reading them backwards we of course find &#34;DIE&#34; in there too.  FAKE ID so you DIE. <BR> <BR>Pax56, thanx for your input.  We should note that the &#40;not-so&#41; hidden words in Chapter 8 all read vertically or horizontally EXCEPT his &#34;signature&#34; above OFFICER:  &#34;RADER 6220&#34; <BR> <BR>Those letters are &#34;hunched over,&#34; perhaps graphically depicting the actual position of his victims.<!--/Text--></td></tr>
+<!--/Post: 11372-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/643">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/643" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

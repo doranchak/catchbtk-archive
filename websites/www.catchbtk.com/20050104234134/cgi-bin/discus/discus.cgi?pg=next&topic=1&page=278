@@ -1,0 +1,257 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 280/Despite all my rage, i&#39;m still just a ...-->
+<!--Level 1: 280/Despite all my rage, i&#39;m still just a ...-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Despite all my rage, i&#39;m still just a ...</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Despite all my rage, i&#39;m still just a...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Despite all my rage, i&#39;m still just a ...
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=280"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=280"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 3326--><!--Time: 1104806916-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3326"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 6:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->okay, i was going to ignore it, but now i&#39;ve noticed that Tom&#39;s even got the background image rotating on the &#34;Pet rat in a ...&#34; graphic at /index.html . <BR> <BR>Tom, what gives?  Clues? <BR> <BR>Theories anyone?<!--/Text--></td></tr>
+<!--/Post: 3326-->
+<!--Post: 3329--><!--Time: 1104810204-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3329"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->J<!--/name--></b></a><br>Username: <!--field:uname-->J<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 7:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->ArmChairPI, <BR> <BR>What are you talking about?  I can&#39;t see anything rotating on my screen.  ??? <BR> <BR>I think this is just supposed to be some spooky way of using the names &#34;Petra&#34; and &#34;Tina&#34; &#40;said by WPD to be acquaintances of BTK&#41; in a sentence: <BR> <BR>Pet rat in a  <BR>Petra Tina <BR> <BR>Cute.  So, can we assume the word &#34;cage&#34; is to follow...and there is some significance to this?<!--/Text--></td></tr>
+<!--/Post: 3329-->
+<!--Post: 3331--><!--Time: 1104810581-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3331"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 7:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->aaahhhh! nice catch j! <BR> <BR>the background is &#34;rotating&#34; in so far as it was different a few hours ago... it looked more like prison bars or something... and currently it looks like chicken wire.<!--/Text--></td></tr>
+<!--/Post: 3331-->
+<!--Post: 3336--><!--Time: 1104812382-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3336"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wade<!--/name--></b></a><br>Username: <!--field:uname-->Wade<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 8:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->the message is petra tina..pet rat in a ...... <BR>petra tina <BR> <BR>thank you<!--/Text--></td></tr>
+<!--/Post: 3336-->
+<!--Post: 3337--><!--Time: 1104812423-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3337"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wade<!--/name--></b></a><br>Username: <!--field:uname-->Wade<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 8:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->i meant to finish.....nice job J<!--/Text--></td></tr>
+<!--/Post: 3337-->
+<!--Post: 3341--><!--Time: 1104813540-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3341"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->J<!--/name--></b></a><br>Username: <!--field:uname-->J<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 8:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks, guys. <BR> <BR>OK, Tom.  Give us something harder.<!--/Text--></td></tr>
+<!--/Post: 3341-->
+<!--Post: 3348--><!--Time: 1104816341-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3348"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 9:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Who said it was for you? lol<!--/Text--></td></tr>
+<!--/Post: 3348-->
+<!--Post: 3349--><!--Time: 1104817341-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3349"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 9:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#40;lol&#41;  Thanks, J! <BR> <BR>I don&#39;t think the message is for us, quite frankly.  But if I&#39;m reading this right, BTK&#39;s joke is.  The wordplay is classic BTK.  He never had any playmates named Petra and Tina.  He had a pet rat in a cage.  Which certainly fits in with my contention that his 2004 confessions are mostly bogus.  I imagine he had major, colossal hoot, rotfl, listening to Wichita&#39;s finest reading off those bogus names on TV.  Petra and Tina - just realistic enough to have us chasing our tails all over the net. <BR> <BR>Sadly, that &#40;speculative&#41; pet rat may have treated him better than a lot of other folks - adults and children - probably did. <BR> <BR>Point for BTK.  And two points to Tom for catching it.  The BTK crypto club loses a point, but gains insight, validating some theories toward the puzzle.<!--/Text--></td></tr>
+<!--/Post: 3349-->
+<!--Post: 3350--><!--Time: 1104818439-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3350"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jujuree<!--/name--></b></a><br>Username: <!--field:uname-->Jujuree<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 10:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Where is this at?  I&#39;m not seeing anything.<!--/Text--></td></tr>
+<!--/Post: 3350-->
+<!--Post: 3353--><!--Time: 1104819331-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3353"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 10:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Jujuree - if your browser doesn&#39;t show the image on the entrance page to the site, just take a look at: <a href="http://catchbtk.com/images/petratina.gif" target=_top>http://catchbtk.com/images/petratina.gif</a><!--/Text--></td></tr>
+<!--/Post: 3353-->
+<!--Post: 3354--><!--Time: 1104819742-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3354"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 10:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->juj- like i said, it&#39;s at /index.html &#40;ie. <a href="http://www.catchbtk.com/index.html" target=_top>http://www.catchbtk.com/index.html</a> &#41; <BR> <BR>tom- can you comment on whether there is any secondary BTK to &#34;pet rat&#34; connection in evidence?<!--/Text--></td></tr>
+<!--/Post: 3354-->
+<!--Post: 3357--><!--Time: 1104821282-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3357"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->J<!--/name--></b></a><br>Username: <!--field:uname-->J<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 10:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Pax56: Do I get .25 points at least? <BR> <BR>Perhaps BTK&#39;s first name is Ben &#40;as in the pet rat in the movie &#34;Willard&#34;&#41;.<!--/Text--></td></tr>
+<!--/Post: 3357-->
+<!--Post: 3358--><!--Time: 1104821997-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3358"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 10:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->brainstorming here... perhaps &#34;petra&#34; and &#34;tina&#34; are not from btk at all, but a world puzzle created by wpd to encode a message to btk within the recent press release? <BR> <BR>which, naturally, means there could be even more still left to find in the press release....<!--/Text--></td></tr>
+<!--/Post: 3358-->
+<!--Post: 3360--><!--Time: 1104823005-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3360"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 11:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#40;lol&#41; J - at least .25 in my book, maybe a full one!  More than I deserve. <BR> <BR>I&#39;m ashamed to admit - when I first saw it on the way into the site, I looked at it briefly and said to myself &#34;Hey, that looks like Petra and Tina.  I wonder if Tom knows that?&#34;  Yeah.  Uh-huh.   <BR> <BR>Seriously, kids remember which of their friends owned pet rats - it&#39;s the kind of thing you don&#39;t forget &#40;at least, I didn&#39;t&#41;.  If BTK had any friends at all, somebody is going to remember.  Maybe the joke is on him now. <BR> <BR>Armchair - You may be right - I never considered it could be a 2-way thing.  I would actually love to see &#40;if it exists&#41; BTK&#39;s actual statement about Petra and Tina.  The context would probably confirm if it was really a joke.  Otherwise you&#39;re right, there could even be games going on in the released info.  But.... <BR> <BR>Sorry - wife says &#34;Go to bed!&#34;  More later.....<!--/Text--></td></tr>
+<!--/Post: 3360-->
+<!--Post: 3366--><!--Time: 1104827441-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3366"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jujuree<!--/name--></b></a><br>Username: <!--field:uname-->Jujuree<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 04, 2005 - 12:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks for the link, Pax.  I have AOL and often times when a site makes a change, my browser won&#39;t show me the change for a day or two, so I still can&#39;t see it at index.html. <BR> <BR>That is very interesting.  I wonder if BTK did have a pet rat?  I know a lot of people here felt there was something screwy with all that Petra/Tina stuff. <BR> <BR>Maybe a pet rat named Tina?  When I think &#34;Petra Tina&#34; together, with the word &#34;rat&#34; in mind, it sounds like &#34;pet rat tina.&#34;  The double t&#39;s run together as one. <BR> <BR>Hopefully, the rat in the cage will soon be BTK himself, sitting in the pokey.<!--/Text--></td></tr>
+<!--/Post: 3366-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/280">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/280" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

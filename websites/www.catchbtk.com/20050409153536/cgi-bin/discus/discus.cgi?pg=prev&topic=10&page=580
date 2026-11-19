@@ -1,0 +1,251 @@
+<html>
+<!--Topic: 10/BTK Communications-->
+<!--Me: 548/The Postmark-->
+<!--Level 1: 548/The Postmark-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: The Postmark</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">The Postmark</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Communications</font></a> &#187;
+The Postmark
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=548"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=548"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 8216--><!--Time: 1109005254-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8216"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 9:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Finally I find a clear picture of what was eating at me for weeks. That postmark next to the stamp on BTK&#39;s two communications.  <BR> <BR><a href="http://www.downingworld.com/postmark.jpg" target=_top>http://www.downingworld.com/postmark.jpg</a> <BR> <BR>Someone posted it in the resource section of this website. Thanks to whoever did. <BR> <BR>Now my question is... <BR> <BR>This is a postmark that is very old. So, how did it get to the postcards he mailed in February 2005? <BR> <BR>Did he reconstructed them from old mail? Did he really work for the post office and stole it from his work decades ago? <BR> <BR>Can someone come up with a better explanation? <BR> <BR><a href="http://www.geocities.com/for_btk_board/postcardcartoon1.jpg" target=_top>http://www.geocities.com/for_btk_board/postcardcar toon1.jpg</a> <BR> <BR><a href="http://www.geocities.com/for_btk_board/postcardcartoon2.jpg" target=_top>http://www.geocities.com/for_btk_board/postcardcar toon2.jpg</a><!--/Text--></td></tr>
+<!--/Post: 8216-->
+<!--Post: 8217--><!--Time: 1109005754-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8217"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Amandab<!--/name--></b></a><br>Username: <!--field:uname-->Amandab<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 9:09 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t understand; that looks like it&#39;s plugging the new movie &#34;Robots&#34; - am I msising something?<!--/Text--></td></tr>
+<!--/Post: 8217-->
+<!--Post: 8220--><!--Time: 1109006928-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8220"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 9:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Z- <BR> <BR>I don&#39;t think the postmark is old at all. Rodney and Fender are characters in the new movie &#34;robots&#34;. What made you think it was old? <BR> <BR>iq<!--/Text--></td></tr>
+<!--/Post: 8220-->
+<!--Post: 8240--><!--Time: 1109012255-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8240"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jed4258<!--/name--></b></a><br>Username: <!--field:uname-->Jed4258<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 10:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Just checked the USPS site, this is a promotional stamp <BR><a href="http://www.usps.com/cpim/ftp/bulletin/2005/pb22147.pdf" target=_top>http://www.usps.com/cpim/ftp/bulletin/2005/pb22147 .pdf</a> <BR>Page 65 <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 8240-->
+<!--Post: 8242--><!--Time: 1109012534-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8242"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tecno242<!--/name--></b></a><br>Username: <!--field:uname-->Tecno242<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 11:02 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It&#39;s slightly interesting that one of them originated in St. Paul Minnesota.  <BR> <BR>I&#39;ve seen lots of links to Minnesota or Detroit being a second stomping ground for BTK.<!--/Text--></td></tr>
+<!--/Post: 8242-->
+<!--Post: 8243--><!--Time: 1109012881-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8243"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Amandab<!--/name--></b></a><br>Username: <!--field:uname-->Amandab<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 11:08 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Why Detroit?<!--/Text--></td></tr>
+<!--/Post: 8243-->
+<!--Post: 8255--><!--Time: 1109016099-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8255"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 12:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tecno- <BR> <BR>I don&#39;t believe any of the actual letters originated anywhere other than Wichita.  <BR>The link above is just an example that provides a clear picture of the postmark. <BR> <BR>iq<!--/Text--></td></tr>
+<!--/Post: 8255-->
+<!--Post: 8259--><!--Time: 1109018927-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8259"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 12:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I assumed is it old, because it said so in the website it linked to. The link is on catchbtk.com&#39;s resource page, I didn&#39;t post it there. <BR> <BR>I am not implying that BTK&#39;s letters originated in Minnesota. The picture shows the stamp from Minnesota because it is clearer. The ones on BTK&#39;s postcards are very fuzzy. <BR> <BR>I am not familiar with the movie Robots, but I guess I&#39;m gonna have to watch it now, eh? <BR> <BR>Thanks for letting me know about the movie. See? This things are under my very nose and I don&#39;t see them. Let&#39;s see, I spent about a week trying to figure out what the drawing next to the stamp on the cards was. Now I know. <BR> <BR>The question now is... does Wichita post offices use that same type of stamp? <BR><IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0><!--/Text--></td></tr>
+<!--/Post: 8259-->
+<!--Post: 8284--><!--Time: 1109038070-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8284"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sidewalker<!--/name--></b></a><br>Username: <!--field:uname-->Sidewalker<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 6:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I work for the Postal Service. Many different types of cancellation marks are used. I remember the Christmas one several yrs ago, which had a Dr Suess cancellation on it seeming like a promotion for the movie The Grinch. <BR>Different areas use different cancellation marks, for different things. In my area, a large chunk of the bay area uses one type cancellation mark. But if say, there was maybe a new postoffice bldg, or some commerative thing happening, they may use a special cancellation mark.  I&#39;ll have to pay attention to some of the cancellation marks, just to see. <BR>&#40;I know, they had several for Valentines day, recently&#41;<!--/Text--></td></tr>
+<!--/Post: 8284-->
+<!--Post: 8344--><!--Time: 1109080227-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8344"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rev<!--/name--></b></a><br>Username: <!--field:uname-->Rev<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 5:50 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I wouldn&#39;t waste my time looking too much into this cancellation mark.  It is on all mail coming from Wichita.<!--/Text--></td></tr>
+<!--/Post: 8344-->
+<!--Post: 8658--><!--Time: 1109272881-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8658"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Suze<!--/name--></b></a><br>Username: <!--field:uname-->Suze<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 11:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ztargate, The second link you posted &#40;above&#41; Happ Kakemann Postcard with the robot circled...I understand the cancellation mark is from the P.O.... but if you go further over and look at the stamp...there is a label outlined on the stamp ...do you know what this is?  <BR> <BR>If you print a copy it is much more noticable &#40;on photo paper even better&#41;. All of BTK&#39;s mailings have a label outline around his return address etc.   <BR> <BR>Has something been superimposed over the stamp?  Or could this be something the police did...labeling it as evidence?  Any ideas?<!--/Text--></td></tr>
+<!--/Post: 8658-->
+<!--Post: 8696--><!--Time: 1109291045-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8696"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 4:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think it&#39;s all part of the cancellation stamp. But, it may be something else someone added.  <BR> <BR>The pictures are in such terrible shape, I wish there were official copies which were clear and neat. That way we could be able to see stuff on them. <BR> <BR><IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0><!--/Text--></td></tr>
+<!--/Post: 8696-->
+<!--Post: 9727--><!--Time: 1109619306-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9727"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 11:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->By the way, did anyone notice the zip code on both the send and return address of the KSAS &#40;FOX&#41; letter/package are different from the zip code on the postmark. The letter/package was sent from MID-Continent Airport.<!--/Text--></td></tr>
+<!--/Post: 9727-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/548">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/548" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

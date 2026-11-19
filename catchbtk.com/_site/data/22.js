@@ -1,0 +1,1 @@
+window.CBTK={"page":"22.html","title":"catch BTK .com -- MURDOCK PARK","archive":"../index.html","versions":[{"t":"20050305001904","e":"20050305001904","n":1,"f":"history/22~20050305001904.html","a":0,"d":0,"sa":[],"sd":[]}]};

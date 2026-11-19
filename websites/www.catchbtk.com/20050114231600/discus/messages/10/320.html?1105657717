@@ -1,0 +1,235 @@
+<html>
+<!--Topic: 10/BTK Letters-->
+<!--Me: 320/BTK&#39;s Poetry, Part 2-->
+<!--Level 1: 320/BTK&#39;s Poetry, Part 2-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK&#39;s Poetry, Part 2</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK&#39;s Poetry, Part 2</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Letters</font></a> &#187;
+BTK&#39;s Poetry, Part 2
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=320"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=320"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4087--><!--Time: 1105657717-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4087"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 13, 2005 - 3:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Continued from <a href="http://www.catchbtk.com/discus/messages/10/146.html?1105656969"> <b>here</b></a>.<!--/Text--></td></tr>
+<!--/Post: 4087-->
+<!--Post: 4091--><!--Time: 1105663536-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4091"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 13, 2005 - 4:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->From George&#39;s last post in poetry thread 1: &#34;...He probably had an awful childhood, but so do others, they don&#39;t end up murderers, etc....&#34; <BR> <BR>Just so it&#39;s clear...the last thing I&#39;ll ever be is an apologist of any sort for a serial murderer or any other sex criminal. If every single victim of sexual abuse, for instance, turned out to be a pedophile, then the streets in some places might be cleared of people completely. The percentage of victims who become victimizer is smaller than mass media, especially dramas like CSI or Profiler that toss out glib general statistics like fact without having the luxury of explaining details, have led us to believe.  <BR> <BR>BTK became who he is not because he was abused, but because there is something fundamentally wrong with him, perhaps from birth.  <BR> <BR>There have been studies, specifically one done in Denmark - I can hunt down the link if anyone&#39;s interested - that show sociopathic behavior runs in families. I firmly believe this based on my very own family, but in part because I am who I am, I also believe we all have a choice at some point as to whether or not we choose to &#34;go over to the Dark Side&#34; - one of those symbolic things G. Lucas inserted in Star Wars that is so psychologically apt, nerdiness of my reference notwithstanding. I come from a family where 90% of my male first cousins on both sides, maternal and paternal, have been jailed at some point for criminal activity, on the paternal side often violent activity. My own brother, who committed suicide in 2000, had a very long criminal record dating back to age 15. Most of his known crimes were misdemeanors and non-violent, but as much as I loved him I still suspect him of more crimes than he admitted, even one violent one. He might have had an excuse as a bipolar meth addict whose mania tended to always spiral into psychosis, but unfortunately I can reference another bipolar addict I&#39;ve known who has never committed any crime other than acquiring their drug of choice. One of my paternal great-grandfathers was suspected when he lived of possibly two murders - money motivated, in one case - and my maternal grandfather abandoned his family and came back only to sell the family&#39;s one cow for a bottle of whiskey. Point in this litany of awfulness is that whatever problems I may have, I do feel this streak of sociopathy has either passed me by or always fallen within the realm of easily controlled impulse. For instance, I might truly want to get out of the car at the next light and yank the guy who cut me off out of his car and beat him half to death, but God knows I&#39;d never do such a thing. I&#39;ve got one, maybe more than one cousin who used to do stuff like that for fun.  <BR> <BR>So I feel I can say personally that even if one has inherited a streak of violence, or antisocial behavior, that still does not ever mean you must become a criminal. BTK chose. He found it fun. It was and still is the biggest thrill of his life. He&#39;s able to dampen that part of him publicly, but it never leaves. Any writings found by him if he&#39;s captured, on the internet or in his home, will be not only violent and sexual, but perhaps also nihilistic. He was never truly &#39;Sorry this happen to society&#39;. He felt society deserved what it got, and I bet you no matter how he acts on the outside, great disasters such as the Asian tsunamis thrill him to no end.  <BR> <BR>His inner world is a vast landscape of emptiness, a void, and it contains only him. <BR> <BR>I guess, reading back over what I&#39;ve written here, I&#39;m saddened to realize that if any of my insights into him ever prove to be true, it&#39;s because I&#39;m a little too close genetically to at least a couple of personalities that contain mere echoes of his sickness. <BR> <BR>A note - I&#39;ve been reading about forensic linguistics...in figuring out these poems, that&#39;s what we&#39;re really doing, though in a &#34;layman&#39;s&#34; way...I might have some different insights into the poems after I&#39;m done with what I&#39;m looking at now.<!--/Text--></td></tr>
+<!--/Post: 4091-->
+<!--Post: 4094--><!--Time: 1105665627-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4094"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsbarn<!--/name--></b></a><br>Username: <!--field:uname-->Elsbarn<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 13, 2005 - 5:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve, I agree that an effort to analyze the poem does lend some insight into BTK&#39;s personality, probably more so than the Petra/Tina autobiography. <BR> <BR>Ego is expressed, showing selfishness and immaturity--my inner felling &amp; my pleasure of entanglement. <BR> <BR>He repeats &#34;fear&#34; and &#34;rapture&#34; in sequence--warm,wet with inner fear and rapture &amp; in that small world of longing, fear, rapture and desparation. I think it is obvious what this reveals about his drive. <BR> <BR>He suggests he is a loner--alone now in another time span &amp; alone again I trod. <BR> <BR>He reduces the potential victim to a number--why for number 8 was not. <BR> <BR>He suggests he gets off on stolen momentos--I lay with sweet enrapture &#40;rapture again&#41;garments across most private thought. <BR> <BR>He does not have high level spelling skills and misuses words so that they make little sense in the context he is using them--lofty fever, hot with propension &amp; sweet enrapture garments. Again, as many have stated, he wants to give the impression of being literate. <BR> <BR>His metaphors/similes are half-baked--like new vines at night, fall on devil ears &amp; memory of mirrors. It&#39;s as if he thinks they sound poetic, but they really add nothing to the imagery of the poem. In fact, a lot of it really makes little sense. &#34;Bed of spring moist grass, clean before the sun, enslaved with control...&#34; Has he enslaved a bed of grass, or is this another really bad metaphor? I would love to hear other&#39;s thoughts on these. <BR> <BR>His best attempt &#34;Fantasy springs forth, mounts, to storm fury, then winter clam at the end&#34; is marred with that out of place comma. This line also explains the cycle of fantasy to execution and the relief that he is seeking.  <BR> <BR>In this apparent ode, he does have a spring theme running, and some possible attempts at alliteration. But overall, I agree with everyone here about the poor sophistication he exhibits in his poetry. The last line &#34;ponder why for number 8 was not&#34; reminds me of something off Hee Haw. <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4094-->
+<!--Post: 4099--><!--Time: 1105669602-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4099"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 13, 2005 - 6:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->He stinks as a poet.<!--/Text--></td></tr>
+<!--/Post: 4099-->
+<!--Post: 4104--><!--Time: 1105675250-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4104"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 13, 2005 - 8:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Many serial killers and infamous murders have their so-called artistic side. More commonly it is into the visual arts like drawing and painting but many have also wrote poetry. Angel Resendez, Arthur Shawcross, Charles Schmid, Herbert Mullin, Joseph Kallinger, Phillip Carl Jablonski, James Files and Keith Hunter Jesperson were all killers who dabbled in poetry.<!--/Text--></td></tr>
+<!--/Post: 4104-->
+<!--Post: 4111--><!--Time: 1105682201-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4111"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 13, 2005 - 9:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks for sharing, Steve.  After days of surfing through BTK&#39;s selfishness and egotism, it&#39;s frankly rather refreshing to read from somebody who&#39;s suffered through a life on the rough side and come out OK.  But I have to admit that there&#39;s a bit of me that is simply glad to hear that I&#39;m not the only one with dysfunctional relatives popping out all over in the family tree. <BR> <BR>On the topic of poetry - I hope this doesn&#39;t give anybody any ideas &#40;wink to skov&#41;, but do you think all his stuff is on a personal website somewhere?  He&#39;s just so full of himself, and apparently so big on his own poetry - I don&#39;t see how he could resist publishing himself.  There&#39;s just got to be a way to find his stuff out there.  Not just his BTK stuff - I mean all the poetry he&#39;s written since then. Hmmmmmm......<!--/Text--></td></tr>
+<!--/Post: 4111-->
+<!--Post: 4116--><!--Time: 1105692402-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4116"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 14, 2005 - 12:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A &#34;Billy the Kid&#34; search with different keyword phrasing turned up a poem from 2002 - when most or all thought BTK deceased or otherwise gone for good - but can&#39;t be linked as an author&#39;s name, albeit a probable psuedonym, is seen. Linking may be silly anyway, only the last few lines sound like BTK, the poem is sexually juvenile &#40;the anatomy of the poem&#39;s subject, his &#39;carrot,&#39; is mentioned&#41; and sounds more like Art Allen than anything else. The poem <i>is</i> in prose form. It&#39;s unlike the two BTK poems, save the final lines which wonder if Billy will make a return, etc. There are millions of Billy The Kid links, mixing the initials before searching may help. I&#39;d bet that BTK has posted an Internet poem or two but how to find it? What a chore!<!--/Text--></td></tr>
+<!--/Post: 4116-->
+<!--Post: 4119--><!--Time: 1105697635-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4119"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 14, 2005 - 2:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve, eloquent as always. I was an abused child and my early report cards pointedly mention my taciturn nature. I began drinking at eleven and am a recovering alcoholic. Others have summoned the police, on my account, more times than I care to remember and one time I <i>don&#39;t</i> remember &#40;1980s, due to huge amounts of vodka and the violence that sporadically but inevitably ensued&#41;. Nearly pulled the trigger at age twenty because I thought my life was really over. Almost anywhere my family tree can be tapped for applejack. Point is, as you say, conscience choice. I&#39;m living with the choices I made twenty and thirty years ago. There is a man who believes that Ted Kaczinsky was the Zodiac killer. The guy is brilliant and literate and he once wrote that he felt a certain kinship with Kaczinsky - to a point. It&#39;s requisite for no one but I wonder if an untoward past has lead me to become interested in BTK&#39;s burnt and blank prose? It could be. Great post. <BR> <BR>Pax: I&#39;m trying to find another thread and a post you made, as I had a question. No big thing, I&#39;ll find it. Concerning &#34;Oh, Anna,&#34; you mention dangerous autoerotic practices. It would be disconcertingly ironic if BTK&#39;s end was self-inflicted in this fashion. I want all mortal justice for BTK, everyone does. Nothing gets through; perhaps his crimes and charnel outlook are so fused in his psyche that it&#39;s hopeless - but I think of your perspective and while earthly justice must first prevail there are things BTK ought to consider seriously.<!--/Text--></td></tr>
+<!--/Post: 4119-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/320">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/320" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,261 @@
+<html>
+<!--Topic: 10/BTK Communications-->
+<!--Me: 198/The Killman Letter Anagram-->
+<!--Level 1: 198/The Killman Letter Anagram-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: The Killman Letter Anagram</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">The Killman Letter Anagram</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Communications</font></a> &#187;
+The Killman Letter Anagram
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=198"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=198"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 1815--><!--Time: 1102920983-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1815"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Josef_carlin<!--/name--></b></a><br>Username: <!--field:uname-->Josef_carlin<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 12, 2004 - 10:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The letter sent by BTK, postmarked &#34;17 MAR 2004&#34;, to the Wichita Eagle and Beacon, was mailed in an envelope which contained the return name and address: <BR> <BR>Bill Thomas Killman <BR>1684 S. Oldmanor <BR>Wichita, KS 67218 <BR> <BR>This return address was discovered to be an empty apartment. No one with that name and connected with this case was ever identified. I propose that &#34;Bill Thomas Killman&#34; is an intended and possibly important clue in the form of a anagram &#40;a word or phrase formed by reordering the letters of another word or phrase, i.e. satin to stain&#41; such that when the letters are rearranged, reads: &#34;HL, I am Olan Mills, BTK&#34; or &#34;HL, I&#39;m a Olan Mills, BTK.&#34; I&#39;ve added the punctuation to make the sentence clear. I also hope to make its meaning and any significance clear as well. Before jumping to any conclusions, please read further. <BR> <BR>Who is BTK? BTK is a serial killer who is believed to be responsible for a string of murders between January 1974 and March 1986 in Wichita, Kansas. Over the years he has written several letters to Wichita police and to local Wichita media which contain details of the crimes only the killer would know. These letters and parcels have contained photographs, diagrams and drawings of the crime scene, and most recently photocopies of word puzzles. Profiles by the police and others mention that he has a interest in photography and the ability to process photographs. It has been reported that Wichita police obtained a list of Wichita area subscribers of &#34;Games&#34; magazine in their efforts to develop a suspect list. In one of his earliest correspondences he wrote, &#34;The code words for me will be... Bind them, toture &#40;sic&#41; them, kill them. B.T.K.&#34;. <BR> <BR>Who is Olan Mills? Olan Mills is a national photographic studio chain that over the years has had multiple locations in Wichita. In the mid 70&#39;s they had a Wichita location at 4100 E. Harry. This is just three-quarters of a mile from the Nancy Fox murder at 843 S. Pershing, one and one-half miles from the 600 S. Pinecrest attempt, and two miles from the Shirley Vian murder at 1311 S. Hydraulic. In the mid 80&#39;s they had a studio at 601 N. West Street, just two miles from the Vicki Wegerle murder at 2404 W.13th.  At least one picture published of the victims was a portrait taken by this studio. These four locations are just 3-5 minutes away from Olan Mills studio&#39;s and include four of the six crime scenes. <BR> <BR>Who is HL? On January 17, 2004, an article appeared in the Wichita Eagle and Beacon titled &#34;BTK case unsolved, 30 years later.&#34;  This article is believed to have prompted the &#34;Bill Thomas Killman&#34; letter, and was the first of five communications from BTK in 2004. The letter was postmarked exactly two months after that article was published. &#34;HL&#34; are the initials of the staff writer for the Wichita Eagle and Beacon who wrote that article; Hurst Laviana. That article is on-line at <a href="http://www.kansas.com/mld/kansas/news/special_packages/btk/archive/7732738.htm" target=_top>http://www.kansas.com/mld/kansas/news/special_pack ages/btk/archive/7732738.htm</a> Other possible HL&#39;s, I guess, could include any other person who is closely associated with the investigation and/or the local Wichita Media and who have H and L as initials. However, the timing and increased frequency of subsequent communications from BTK following Laviana&#39;s article suggests this message, hidden in the name of the sender and addressed to the paper that published the article, specifically identified and was intended for that article&#39;s author. <BR> <BR>What are the odds? After stumbling upon this anagram within the senders name I began to wonder. Two specific persons connected to the case are identified by their initials. One is the killer and the other a reporter whose article appears to have sparked the recent flood of communication from that killer, on a letter addressed to the reporter&#39;s employer. Within the message is the name of a photo studio which had locations just 3-5 minutes away from 4 of the 6 BTK attributed crime scenes. At least one victim&#39;s portrait was taken at their studio. The released profile of the killer indicates a knowledge of photography and access to equipment to process photographs. All of this is suggested within the space of just 17 rearranged letters of the senders name. In addition, subsequent communications from the killer contained other hidden word puzzles, and the Wichita Police have shown an interest in &#34;Games&#34; magazine&#39;s Wichita subscribers. I think it is at least plausible that this is a intentionally constructed anagram. <BR> <BR>So now we have him, right? Well, no. No matter how unlikely, this anagram may still be merely coincidental or possibly even serendipitous. Even if it is an intentional act by BTK,  it may be meant to deceive just as easily as it was meant to inform. For instance, BTK may think that the Wichita Police Department already suspects that he is/was associated in some way with photo studios generally, or even Olan Mills in particular. He then crafts this &#34;clue&#34; and stuffs the envelope with evidence that he is the genuine killer, but does not provide any real help in identifying him. If the WPD solve the &#34;Bill Thomas Killman&#34; anagram, and I believe that they have, this may be another BTK attempt to lead them down yet another dead end. After all, that same anagram can be rearranged &#34;HL, Am I Olan Mills?, BTK.&#34; Further, his intent may be nothing more than an attempt to unjustly implicate a respected business and it&#39;s employees for some past grievance,  merely as a cruel prank, or because it was convenient &#40;i.e. he could fit this anagram within the letter space of the name of a plausible person&#41;. <BR> <BR>So what&#39;s the point? I don&#39;t know, but I don&#39;t think this anagram should be ignored either. If BTK intended to provide this &#34;clue&#34; it&#39;s unlikely to point directly at him. He might have some very tangential and tantalizing close relationship which has faded almost completely over time. Maybe he delivered bottled water or photographic chemicals, or worked on their copier, or dated the receptionist, or Petra had her portrait done there. Whatever the connection, if any, it is unlikely to produce a nice clean list of suspects. Nothing so simple as merely looking at employment records. Personally, I do not believe he worked for Olan Mills, that would be much too easy and too direct.  <BR> <BR>When I first stumbled across this I was certain it was important and focused on the words in the message. After working on this for over a week, I believe the message is of less importance than the act of planting the message itself. A BTK counterintelligence move to see if it will be discovered, what importance is placed on the message, and watching how the opposition reacts. Or perhaps it is just more noise to hide any unintentionally disclosed information that might lead to his capture.  <BR>  <BR>I lived in the Wichita area during many of the events which surround this case, and like a lot of people I thought BTK was dead or in jail. Shows how smart I am! Like most Wichita residents, both past and present, I have my own favorite suspect. Well to be perfectly honest, I have two suspects. I guess there could be two perpetrators, working together or even independently copying each other. Over the years I lost track of them both. As far as I can remember neither worked for Olan Mills. Even the sticky DNA could have been planted to mislead, or even exclude the real killer if he was ever tested &#40;think &#34;Presumed Innocent&#34;&#41;. But I should leave these topics for another time. In the end I don&#39;t think BTK will ever be caught, but who knows?<!--/Text--></td></tr>
+<!--/Post: 1815-->
+<!--Post: 1818--><!--Time: 1102927294-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1818"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 13, 2004 - 12:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Josepf C <BR> <BR>Thanks for that sublime post of yours realy great job! <BR> <BR>I just found this newsreport with som info on the HL reporter you are mentioning in your post. <BR> <BR><a href="http://www.newsday.com/news/nationworld/nation/wire/sns-ap-looking-for-btk%2C0%2C2584010.story?coll=sns-ap-nation-headlines" target=_top>http://www.newsday.com/news/nationworld/nation/wir e/sns-ap-looking-for-btk,0,2584010.story?coll=sns- ap-nation-headlines</a> <BR> <BR>I´m looking forward to read more posts from you... <BR> <BR>NB. I posted a theorie on a Olan Mills connection in the Theorie thred. I had the worong adress on the OM studio I know now, the adress I provided is where it is located today. The adress you provided is closer to the crimescenes. <BR> <BR>hugs...skov &#40;I´m from Denmark so please bear over with my bad spelling <IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0><!--/Text--></td></tr>
+<!--/Post: 1818-->
+<!--Post: 1819--><!--Time: 1102927548-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1819"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 13, 2004 - 12:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Josef <BR> <BR>Here is a link to my post on the Olan Mills angle <BR> <BR><a href="http://www.catchbtk.com/discus/messages/11/195.html?1102890850" target=_top>http://www.catchbtk.com/discus/messages/11/195.htm l?1102890850</a> <BR> <BR>hugs...skov<!--/Text--></td></tr>
+<!--/Post: 1819-->
+<!--Post: 1820--><!--Time: 1102931718-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1820"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 13, 2004 - 1:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Not that I think this is related but I found the coincident interesting. I didnt read the whole text. <BR>Here is the quote: <BR> <BR>&#34;I knew you couldn&#39;t bear to part with me so soon,&#34; White Owl quipped. &#34;But don&#39;t they have a sadistic, immortal, mass murderer photo package down at Olan Mills?&#34;  <BR> <BR><a href="http://www.google.dk/search?q=cache:X4EpYqvQjVAJ:www.superstories.net/sportsman/whiteowl/wocodw.htm%2B%22Olan%2BMills%2B%2B%22%2B%2Bpolice%2B%2Bsuspect&amp;hl=en" target=_top>http://www.google.dk/search?q=cache:X4EpYqvQjVAJ:w ww.superstories.net/sportsman/whiteowl/wocodw.htm&#43; %22Olan&#43;Mills&#43;&#43;%22&#43;%2Bpolice&#43;%2Bsuspect&amp;hl=en</a> <BR> <BR>hugs...skov<!--/Text--></td></tr>
+<!--/Post: 1820-->
+<!--Post: 1821--><!--Time: 1102935377-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1821"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 13, 2004 - 2:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I found this case, it´s located in UK, a case about a man who in 1982, murdered two women, he was an employ in Oland Mill. <BR> <BR>&#40;Another funny coincident, the texst says that one should contact a Ms P Wyatt for futher information on the case&#41; <BR> <BR><a href="http://www.google.dk/search?q=cache:QsC5WDydEmQJ:www.gnn.gov.uk/gnn/national.nsf/0/EC933D4666757E37802567FC0052C5A7%3Fopendocument%2B%22Peter%2BAlan%2BFell%22&amp;hl=en" target=_top>http://www.google.dk/search?q=cache:QsC5WDydEmQJ:w ww.gnn.gov.uk/gnn/national.nsf/0/EC933D4666757E378 02567FC0052C5A7%3Fopendocument&#43;%22Peter&#43;Alan&#43;Fell% 22&amp;hl=en</a> <BR> <BR>here is a more deailed description on the case: <BR> <BR><a href="http://www.google.dk/search?q=cache:PhMkwYc0dF0J:www.homepage-link.to/justice/Fell/%2B%22Olan%2BMills%2B%2B%22%2B%2Bpolice%2B%2Bsuspect&amp;hl=en" target=_top>http://www.google.dk/search?q=cache:PhMkwYc0dF0J:w ww.homepage-link.to/justice/Fell/&#43;%22Olan&#43;Mills&#43;&#43;% 22&#43;%2Bpolice&#43;%2Bsuspect&amp;hl=en</a> <BR> <BR>My long fethced thought her is: could there have been som sort of Killer Loge around that time who exchanged ideas? with members in several countries? <BR> <BR>hugs...skov<!--/Text--></td></tr>
+<!--/Post: 1821-->
+<!--Post: 1822--><!--Time: 1102937504-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1822"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 13, 2004 - 3:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just read this on another forum: <BR> <BR>Not sure if anyone noticed this last night on AMW. The picture of Katherine Bright is also an Olan Mills photograph. Its is the same one posted in the Eagle and our recource thread the Olan Mills part has just been removed. It was showing quite clean in last night show.  <BR> <BR>INTERESTING IMO! <BR> <BR>hugs...skov<!--/Text--></td></tr>
+<!--/Post: 1822-->
+<!--Post: 1826--><!--Time: 1102947360-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1826"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 13, 2004 - 6:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->OK think I found somthing realy interesting here! <BR> <BR>I found another old adress of Olan Mills: <BR>5110 East 21st Street North Wichita KS  <BR>NOTE! OLDMANOR RD IS 500 FEETS FROM THIS ADRESS!!! <BR>Map: <BR><a href="http://maps.yahoo.com/maps_result?zoomin=yes&amp;name=&amp;ed=TmFgPOp_0TqBCrH7lfGl0BOyfbY8scXO4dI2Moh3Q5gTMOZx6yxlZyAAcv0Gn_WfxVGCKIStxxQuph0u.WmifLDqfKjRaDAKiva9r7UloosRU.M-&amp;state=KS&amp;csz=Wichita%2C%2BKS%2B67208-1649&amp;ds=n&amp;uzip=67208&amp;mag=9&amp;desc=&amp;country=US&amp;dma=678&amp;cat=&amp;resize=l&amp;rezoom=0&amp;.intl=us&amp;compass=&amp;pan_x=0&amp;pan_y=0" target=_top>http://maps.yahoo.com/maps_result?zoomin=yes&amp;name= &amp;ed=TmFgPOp_0TqBCrH7lfGl0BOyfbY8scXO4dI2Moh3Q5gTMO Zx6yxlZyAAcv0Gn_WfxVGCKIStxxQuph0u.WmifLDqfKjRaDAK iva9r7UloosRU.M-&amp;state=KS&amp;csz=Wichita%2C&#43;KS&#43;67208- 1649&amp;ds=n&amp;uzip=67208&amp;mag=9&amp;desc=&amp;country=US&amp;dma=67 8&amp;cat=&amp;resize=l&amp;rezoom=0&amp;.intl=us&amp;compass=&amp;pan_x=0 &amp;pan_y=0</a> <BR> <BR>This is where I found this adress: <BR><a href="http://www.google.dk/search?q=cache:c8stXhMOWfsJ:www.wichita.gov/NR/rdonlyres/952E486F-C0F7-47CB-A2F7-60D97BD9FC86/0/06192001Council_Minutes.pdf%2B%22olan%2Bmills%22%2B%22in%2Bthe%2Bpast%22%2B%2Bwichita&amp;hl=en" target=_top>http://www.google.dk/search?q=cache:c8stXhMOWfsJ:w ww.wichita.gov/NR/rdonlyres/952E486F-C0F7-47CB-A2F 7-60D97BD9FC86/0/06192001Council_Minutes.pdf&#43;%22ol an&#43;mills%22&#43;%22in&#43;the&#43;past%22&#43;%2Bwichita&amp;hl=en</a> <BR> <BR>Could you Josef take a closer look at this document and look into if it has any further valuble info that could conect to the BTK case? <BR> <BR> <BR>thanks...skov<!--/Text--></td></tr>
+<!--/Post: 1826-->
+<!--Post: 1949--><!--Time: 1103160182-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1949"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Josef_carlin<!--/name--></b></a><br>Username: <!--field:uname-->Josef_carlin<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 15, 2004 - 5:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Skov: <BR> <BR>Thanks for you nice comments on my post! I am a little suprised that TKLA did not generate more interest, especially since Tom, and others, had expressed an interest in any Olan Mills connection to these crimes elsewhere on this board. Perhaps I should have called it &#34;Killman Olan Mills Anagram&#34;. Maybe the new communication from BTK &#40;this time without a return address&#41; just two days after my post has grabbed everyones attention. In any event, I think I&#39;ll post this elsewhere to see what kind of response I get. I&#39;ll be sure to post a URL so you can follow the discussion.  <BR> <BR>Along the orignal TKLA lines, I was looking for someone in Wichita who could check to see if Olan Mills was continuously in business all this time. It is my understanding that they ceased operating in Wichita during the early 80&#39;s, around the lull in the BTK activity in the area. A trip to the Wichita City Library&#39;s reference desk to look at phonebooks from the 70&#39;s and 80&#39;s would put that open issue to bed for me.<!--/Text--></td></tr>
+<!--/Post: 1949-->
+<!--Post: 2260--><!--Time: 1103479713-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2260"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jeffnem<!--/name--></b></a><br>Username: <!--field:uname-->Jeffnem<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 19, 2004 - 10:08 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Could the name Bill Thomas Killman be as simple as to ask a question? Bill-short for William, or Will, Thomas or Tom, Kill,man. ie Will Tom kill man? ie will he kill again?<!--/Text--></td></tr>
+<!--/Post: 2260-->
+<!--Post: 2265--><!--Time: 1103483207-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2265"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Josef_carlin<!--/name--></b></a><br>Username: <!--field:uname-->Josef_carlin<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 19, 2004 - 11:06 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I suppose it could. What support, either internal or external, do you have for this interpretation?<!--/Text--></td></tr>
+<!--/Post: 2265-->
+<!--Post: 2404--><!--Time: 1103603819-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2404"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jeffnem<!--/name--></b></a><br>Username: <!--field:uname-->Jeffnem<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 20, 2004 - 8:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Just seems logical I guess. It was the first thing that came to mind when I heard/read it, and thought that it fit.<!--/Text--></td></tr>
+<!--/Post: 2404-->
+<!--Post: 2521--><!--Time: 1103756259-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2521"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jeffnem<!--/name--></b></a><br>Username: <!--field:uname-->Jeffnem<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 22, 2004 - 2:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->To further support this, I had thought that BTK had listed a return address as Thomas B. King. I guess at a stretch, assuming his name is Thomas like in the above mentioned senario, one could assume he may have meant: Thomas be king, or Thomas is the king. A stretch I know, but looking for something a little easier. Word puzzles don&#39;t lend themselves well to a super enigmatic person, so I was trying to keep it simple.<!--/Text--></td></tr>
+<!--/Post: 2521-->
+<!--Post: 4240--><!--Time: 1105941447-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4240"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Boffa994<!--/name--></b></a><br>Username: <!--field:uname-->Boffa994<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 16, 2005 - 9:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Olan mills seems to be a good theory. I also read a post message on this site that BTK might refer to movies in his angrams like Zodiac did with the Exorcist and Badlands. Like the post I read by a member on here the movie Kill Bill is easily seen in the anagram. Then I did my own research .  Take away Kill Bill and your left with thomas man. <BR>So I looked it up on the internet and it turns out that Thomas Mann was an author in the early 1900s. He was awarded the nobel piece prize for literature in 1929. Just curious to wonder if any literature classes in the 1960&#39;s of Witchita State University studied his work or books.<!--/Text--></td></tr>
+<!--/Post: 4240-->
+<!--Post: 4588--><!--Time: 1106564665-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4588"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nugzter<!--/name--></b></a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 3:04 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Found this a while back, long shot but very strange... <BR><a href="http://community.rapverse.com/showthread.php?threadid=110426" target=_top>http://community.rapverse.com/showthread.php?threa did=110426</a><!--/Text--></td></tr>
+<!--/Post: 4588-->
+<!--Post: 4589--><!--Time: 1106565910-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4589"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 3:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Nugzter <BR> <BR>The &#34;TWISTED CLICKS&#34; part is VERY disturbing IMO. I wonder if BTK are hiding behind the &#34;born to kill&#34; slogan?<!--/Text--></td></tr>
+<!--/Post: 4589-->
+<!--Post: 4625--><!--Time: 1106597698-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4625"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Devbost<!--/name--></b></a><br>Username: <!--field:uname-->Devbost<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 12:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t think you&#39;re likely to narrow the field much with the Thomas Mann lead. His work is widely read and widely taught, unlike the poem &#34;O Death&#34; that P.J. Wyatt taught.<!--/Text--></td></tr>
+<!--/Post: 4625-->
+<!--Post: 4680--><!--Time: 1106668121-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4680"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nugzter<!--/name--></b></a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 7:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I read the post after googling photography, btk, ollan mills. it chilled me to the bone. this is not the work of some teenager, this is written by someone that is in an older generation. strange, isnt it?<!--/Text--></td></tr>
+<!--/Post: 4680-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/198">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/198" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

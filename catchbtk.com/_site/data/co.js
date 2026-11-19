@@ -1,0 +1,1 @@
+window.CBTK={"page":"co.html","title":"Charlie Otero","archive":"../index.html","versions":[{"t":"20041204185744","e":"20041204185744","n":1,"f":"history/co~20041204185744.html","a":0,"d":0,"sa":[],"sd":[]}]};

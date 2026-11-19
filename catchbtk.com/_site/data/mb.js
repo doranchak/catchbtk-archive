@@ -1,0 +1,1 @@
+window.CBTK={"page":"mb.html","title":"catch BTK .com -- MESSAGE BOARD","archive":"../index.html","versions":[{"t":"20041115034618","e":"20041115034618","n":1,"f":"history/mb~20041115034618.html","a":0,"d":0,"sa":[],"sd":[]}]};

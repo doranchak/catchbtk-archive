@@ -1,0 +1,235 @@
+<html>
+<!--Topic: 5/Definite BTK Victim: Kathryn Bright-->
+<!--Me: 329/Something Kevin said...-->
+<!--Level 1: 329/Something Kevin said...-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 5-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Something Kevin said...</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Something Kevin said...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/5/5.html"><font color="#f7f7f7">Definite BTK Victim: Kathryn Bright</font></a> &#187;
+Something Kevin said...
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=5&page=329"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=5&page=329"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4227--><!--Time: 1105913414-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4227"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Affie4u<!--/name--></b></a><br>Username: <!--field:uname-->Affie4u<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 16, 2005 - 2:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I read on the BTK crime library story that BTK <BR>told Kevin that he was wanted in California by the police . Think the is true?<!--/Text--></td></tr>
+<!--/Post: 4227-->
+<!--Post: 4252--><!--Time: 1105973580-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4252"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Beck<!--/name--></b></a><br>Username: <!--field:uname-->Beck<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 17, 2005 - 6:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If this is a BTK crime, which I am pretty sure it is, then I doubt it. Because he said he was wanted in California, wanted to steal their car to go to New York. Obviously he didn&#39;t go to New York. I think he said that to try to keep the situation calm until got them tied up so he could do what he set out to do.  <BR> <BR>It may be because I&#39;m from a big city, &#40;which Wichita very well might be, I don&#39;t know&#41; but if someone was in my house telling me that they were wanted in one specific place, and was planning to go to another specific place, a red flag would be raised in my mind to run and scream. Why would he tell a victim where to find him unless he was going to kill them?<!--/Text--></td></tr>
+<!--/Post: 4252-->
+<!--Post: 5006--><!--Time: 1106848982-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5006"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stealth<!--/name--></b></a><br>Username: <!--field:uname-->Stealth<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 10:03 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Kevin also said he tied up his sister and he broke loose...so were the knots Kevin tied the same as the Otero&#39;s?<!--/Text--></td></tr>
+<!--/Post: 5006-->
+<!--Post: 7053--><!--Time: 1108153448-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7053"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 12:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Kevin says that the killer told them he was from California and needed a car. Then he asks Kevin &#34;Haven&#39;t I seen you at the University?&#34; <BR> <BR>Of course, the first statement could have been made just to keep them calm and thinking they were in no danger if they didn&#39;t resist. <BR> <BR>My question would be: At what point was Kevin asked about the University? Does anyone know? <BR> <BR>iq<!--/Text--></td></tr>
+<!--/Post: 7053-->
+<!--Post: 7080--><!--Time: 1108173387-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7080"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 5:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I recall reading in an article that BTK told Kevin Bright he was wanted in California...the cops were after him there.  I also recall that BTK asked Kevin Bright &#34;Haven&#39;t I seen you at the University?&#34;.. <BR>I suppose BTK gave Bright this information as he was busily KNOWING Kevin Bright was going to die that day...but ...as it turns out, Kevin lived to tell us that BTK asked him about the University...and letting Bright know the cops in CA were after him.... <BR> <BR>I find both of those mentions by BTK very interesting...thanks.<!--/Text--></td></tr>
+<!--/Post: 7080-->
+<!--Post: 7092--><!--Time: 1108178168-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7092"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 7:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m with Beck.<!--/Text--></td></tr>
+<!--/Post: 7092-->
+<!--Post: 7114--><!--Time: 1108188296-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7114"><font face="Verdana" size="1"><b><!--email--><a href="mailto:zodiacfiles@aol.com" target="_blank"><!--/email--><!--name-->Ed_neil<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 10:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This is not unlike the Zodiac Killer at Lake Berryessa, where he told his victims that he was an escaped convict from Deer Lodge, Montana, and that he killed a guard and stole a car, and needed another one to get to Mexico.  He expected both Bryan Hartnell and Cecelia Shepard to die, and yet made up a story &#40;subsequent inquiries indicated that there were no recent escapees&#41;; Hartnell survived and related what was said.  BTK obviously studied the Zodiac case and mimicked the Lake Berryessa attack to a certain extent with the Brights.<!--/Text--></td></tr>
+<!--/Post: 7114-->
+<!--Post: 7175--><!--Time: 1108258321-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7175"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 5:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Binding robbery victims in their house happens every day. Charles Manson himself bound one or both of the LaBiancas&#39; and told them they were going to be robbed. Bugliosi didn&#39;t use any quotes but apparently Manson successfully completed his task, telling the LaBiacas to be calm, they only wanted to rob them. <BR> <BR>Kevin Bright took gunshots to the head and was interviewed thirty years later. I think the information in his interview needs to be analyzed with this in mind. <BR> <BR>I guess my point is that I don&#39;t find a lot here to get excited about, although I don&#39;t entirely dismiss it, either. A robber - in this case, a murderer - needs to say something when he&#39;s talking to his victims. I don&#39;t think the California mention is significant. What I do find significant is the need to say he was wanted by police. This makes him sound tough, more dangerous and would get the victims to comply at a faster rate, in my opinion. <BR> <BR>Ed, didn&#39;t Ranger White first say &#34;Colorado?&#34; I know Colorado was dismissed and Hartnell then half-heartedly agreed that Z had said, &#34;Deer Lodge, MT.&#34;<!--/Text--></td></tr>
+<!--/Post: 7175-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="5/329">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=5/329" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

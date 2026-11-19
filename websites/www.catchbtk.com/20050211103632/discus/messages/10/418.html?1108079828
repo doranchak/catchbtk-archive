@@ -1,0 +1,255 @@
+<html>
+<!--Topic: 10/BTK Communications-->
+<!--Me: 418/&#42;New Communication #9&#42;-->
+<!--Level 1: 418/&#42;New Communication #9&#42;-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: &#42;New Communication #9&#42;</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">&#42;New Communication #9&#42;</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Communications</font></a> &#187;
+&#42;New Communication #9&#42;
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=418"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=418"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 5971--><!--Time: 1107470751-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5971"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tucker<!--/name--></b></a><br>Username: <!--field:uname-->Tucker<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 2:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->KAKE has just recieved a postcard from BTK.  I have no details on the card, but just heard that they did indeed receieve, what can be called, a 9th communication from BTK.<!--/Text--></td></tr>
+<!--/Post: 5971-->
+<!--Post: 5984--><!--Time: 1107472906-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5984"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 3:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The postcard bore the return address: <BR>HAPP KAKEMANN <BR> <BR>and the address of the KAKE Studio. <BR> <BR>Go wordsleuths - go! <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 5984-->
+<!--Post: 5985--><!--Time: 1107473087-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5985"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 3:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->They are not releasing part of what the postcard said - but in one part, BTK offers his condolences to Susan Peters and Jeff for their colds.   <BR> <BR>The rest was blacked out.  So the WPD could pretend they&#39;re &#34;on the job&#34;.   <BR> <BR>Who wonders if it is not the affirmation of the little post BeeTeeKay left earlier today here? <BR> <BR>Did he reveal a killing in 1993? <BR> <BR>Who could it be if it is linked?<!--/Text--></td></tr>
+<!--/Post: 5985-->
+<!--Post: 5987--><!--Time: 1107474007-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5987"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 3:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tippy, I just read your post to BTK where you mention WPD has just swabbed Larry Hatteberg for DNA.  Where&#39;d you get that info? <BR> <BR>I Googled him, and the WPD might not be so crazy.  LH did start out as a photojournalist.  He&#39;s the right age range. He&#39;s lived in Wichita for a long time.  He trained as a teacher and his wife&#39;s a teacher, and they have 2 grown kids, and BTK is apparently comfortable dealing with kids.... <BR> <BR>Who are Susan Peters and Jeff?  KAKE anchors?<!--/Text--></td></tr>
+<!--/Post: 5987-->
+<!--Post: 5988--><!--Time: 1107474466-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5988"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 3:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It was on the 5pm newscast.  Larry mentioned it - said the WPD had gotten a call about him - so he was swabbed. <BR> <BR>That doesn&#39;t look too good.  If they don&#39;t have some evidence that would rule out guys like Larry - then they don&#39;t have any evidence of any significance. <BR> <BR>Susan and Jeff are anchors.  Susan used to be with KWCH  - then moved away, CA, I think, about 15 years ago, then returned to Wichita and took up with KAKE. <BR> <BR>Larry is quite high-profile, does books and segments called &#34;Hatteburg&#39;s People&#34;.  He a real down-to-earth farm sort.  Been with KAKE forever, it seems. <BR> <BR>He&#39;s kind of little and wimpy however.  I doubt he could overpower his mother, much less a family of four trained in Judo.   <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 5988-->
+<!--Post: 5989--><!--Time: 1107474470-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5989"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 3:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here is som info on Susan Peters <BR> <BR><a href="http://www.kake.com/station/bios/news/12121.html" target=_top>http://www.kake.com/station/bios/news/12121.html</a> <BR> <BR>And Jeff Herndon &#40;I guess its him&#41; <BR> <BR><a href="http://www.kake.com/station/bios/news/12266.html" target=_top>http://www.kake.com/station/bios/news/12266.html</a> <BR> <BR>What is interesting IMO is HOW BTK knows that they have a cold??? if they in fact HAS a cold.<!--/Text--></td></tr>
+<!--/Post: 5989-->
+<!--Post: 5991--><!--Time: 1107475022-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5991"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 3:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->They DID have colds last week, they mentioned they had the &#34;crud&#34; in a newscast.  He must have been watching. <BR> <BR>BTW - the return address name &#34;kakeman&#34; is &#40;may be&#41; a play on what used to be a very popular children&#39;s hour they had on KAKE called KAKEman.  Little puppet show.  I didn&#39;t see it - but I&#39;ve heard about it and they recently did some sort of anniversary commemorating it.  Called it the &#34;longest running&#34; kids show on KAKE or something like that.   <BR> <BR>Why KAKE?  They&#39;re not all that great.  There are two other stations - and one of them is higher rated - KWCH.<!--/Text--></td></tr>
+<!--/Post: 5991-->
+<!--Post: 5993--><!--Time: 1107475743-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5993"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 4:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here  is a link to a video newsreport on the latest postcard: <BR> <BR><a href="http://www.kake.com/news/headlines/1227847.html" target=_top>http://www.kake.com/news/headlines/1227847.html</a><!--/Text--></td></tr>
+<!--/Post: 5993-->
+<!--Post: 6002--><!--Time: 1107477533-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6002"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Purple<!--/name--></b></a><br>Username: <!--field:uname-->Purple<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 4:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Kakeman was a puppet that was on Henry Harvey&#39;s Santa Show on Kake.  It was eventually switched to another network and he became Toyboy.  Henry Harvey died a few years ago.  He did kids shows in the Wichita area.  One was reading the Sunday funnies on Sunday morning.  <!--/Text--></td></tr>
+<!--/Post: 6002-->
+<!--Post: 6014--><!--Time: 1107479552-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6014"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Researcher<!--/name--></b></a><br>Username: <!--field:uname-->Researcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 5:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well from the photo of the latest postcard I see that BTK corrected the position of the : this time that I commented on.  See my post here re: The Postcard 01/31/05. <BR> <BR>Maybe a coincidence.  Maybe he is reading this board carefully.<!--/Text--></td></tr>
+<!--/Post: 6014-->
+<!--Post: 6032--><!--Time: 1107485414-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6032"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 6:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->My post was deleeted so now I´m posting it again moderated. <BR> <BR>There is a person with the last name HAPP &#40; Happ Kakemann the return adress ofthe latest postcard&#41; living aprox. 2 miles from the#8 BTK drop in Valley center.  <BR> <BR>The same person in 1997 had an email adress related to Wichita.Boeing.Com  <BR> <BR>I´m NOT sugesting that this person is related to BTK case at all, but BTK mighthave used this persons name for som reson unknown to me, OR I´m just way off here? <BR>  <BR>   <BR><!--/Text--></td></tr>
+<!--/Post: 6032-->
+<!--Post: 6064--><!--Time: 1107516092-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6064"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bakerwood<!--/name--></b></a><br>Username: <!--field:uname-->Bakerwood<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 3:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Happ is one of the sons in Death Of A Salesman. He was a football hero/BMOC but has lived a life as a failure in his father&#39;s eyes. Which, that and $.99 will get you a cup of coffee. <BR>Far more likely that this refers to the Puppet character who appeared on KAKE.   <!--/Text--></td></tr>
+<!--/Post: 6064-->
+<!--Post: 6070--><!--Time: 1107524002-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6070"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 5:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I found this post on the net. It is from a former paramedic who calls himself Cranky. <BR>It is about the puppet called &#34;Cakeman&#34; <BR> <BR><a href="http://66.102.9.104/search?q=cache:9GwQAmF4NjQJ:www.crankychick.net/blog/weblog/archives/000328.html%2B%22Henry%2BHarvey%22%2B%2Bpuppet&amp;hl=en&amp;lr=lang_en" target=_top>http://66.102.9.104/search?q=cache:9GwQAmF4NjQJ:ww w.crankychick.net/blog/weblog/archives/000328.html &#43;%22Henry&#43;Harvey%22&#43;%2Bpuppet&amp;hl=en&amp;lr=lang_en</a> <BR> <BR>He &#40;Henry Harvey, added by me&#41; also had a pretty fiery little side kick - a hand puppet worked by someone behind the set, first named &#34;Cakeman&#34;, complete with bakers outfit, and then years later, changed to &#34;Toy Boy&#34; with his elf hat and tassle, and exuberant, high pitched little voice. He would help Santa count down the days till Christmas, mark it on a chalk board, and then twirl his little head around in a circle such that his tassle spun violently, as he exclaimed, &#34;Oh, boy, Santee! We&#39;ll go ZOOMING and ZOOMING around the big wide world delivering presents to all the boys and girls!&#34; He was an excitable little fella. The banter between he and Santa was often exceptionally funny, and I&#39;m grinning from ear to ear just thinking about it now. <BR> <BR>Here is the program mentioned at kansas.com : <BR> <BR><a href="http://66.102.9.104/search?q=cache:P9aL3ODKN7AJ:www.kansas.com/mld/kansas/entertainment/10449710.htm%2B%22Henry%2BHarvey%2B%22%2B%2Bwichita&amp;hl=en&amp;lr=lang_en" target=_top>http://66.102.9.104/search?q=cache:P9aL3ODKN7AJ:ww w.kansas.com/mld/kansas/entertainment/10449710.htm &#43;%22Henry&#43;Harvey&#43;%22&#43;%2Bwichita&amp;hl=en&amp;lr=lang_en</a> <BR> <BR>Monday <BR> <BR>5:30 p.m. &#40;Channel 5&#41; &#34;Santa&#39;s Workshop&#34; &#40;children&#41;. Locally made daily countdown to Christmas by Santa &#40;Henry Harvey&#41; with sidekicks ToyBoy and Montague Moose. This is the 1983 season of the series that ran for three generations. <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6070-->
+<!--Post: 6124--><!--Time: 1107540043-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6124"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 10:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->An interesting and very wide array of products from Happ Controls including, surveillance equipment.  <BR> <BR>Just wondering if KAKE has any of Happ Controls equipment or knows of any involved with the BTK investigation. <BR> <BR><a href="http://www.happcontrols.com/" target=_top>www.happcontrols.com/</a><!--/Text--></td></tr>
+<!--/Post: 6124-->
+<!--Post: 6928--><!--Time: 1108079828-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6928"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Odd1<!--/name--></b></a><br>Username: <!--field:uname-->Odd1<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 3:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->saw this on another board. why is the communication # blacked out? this should be #9 right?<!--/Text--></td></tr>
+<!--/Post: 6928-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/418">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/418" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

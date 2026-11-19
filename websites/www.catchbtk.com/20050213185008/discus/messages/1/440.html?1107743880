@@ -1,0 +1,290 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 440/LE Releasing Information to Public-->
+<!--Level 1: 440/LE Releasing Information to Public-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: LE Releasing Information to Public</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">LE Releasing Information to Public</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+LE Releasing Information to Public
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=440"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=440"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 6385--><!--Time: 1107743880-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6385"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 06, 2005 - 6:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m just wondering... Why doesn&#39;t WPD tell the public the contents of the packages dropped off by BTK? <BR> <BR>I doubt that knowing this information would help crack the case, but I don&#39;t see why WPD doesn&#39;t release the info either.  My take on it is that someone out there might recognize one of BTK&#39;s &#34;trophies&#34; -- they may even have seen one of these objects on display in BTK&#39;s house or something like that.  But if anyone has ever come across one of these items, without knowing the significance of it, they&#39;ll never know unless WPD makes the package contents public &#40;complete with photos of the objects&#41;. <BR> <BR>The media has already given the public some glimpses of some of the objects, like Nancy Fox&#39;s drivers license and what appears to be a pair of pantyhose or stockings that were included in that package. <BR> <BR>I&#39;m just confused about this one.  Can anyone familiar with LE methods enlighten me?<!--/Text--></td></tr>
+<!--/Post: 6385-->
+<!--Post: 6527--><!--Time: 1107852415-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6527"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Toto<!--/name--></b></a><br>Username: <!--field:uname-->Toto<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 12:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Audreyamw - I believe if LE shared their rationale for witholding so much info it would be something like:   <BR> <BR>1. Releasing that much info would have every crack-pot in Wichita and across the country would overwhelming them with useless tips and info.  <BR>2.  They&#39;d waste precious man-hours following up on these useless tips and BTK will still roam free.     <BR>3.  They don&#39;t have the budget or manpower to even dream of following up on the potential response from the public.   <BR>4.  To release it all would put BTK was &#39;in control&#39;.  As it is, by witholding info, LE feels they&#39;re driving him...hopefully out of the woodwork and into the open.       <BR>  <BR>While I understand and as a taxpayer here in Wichita, appreciate this stance, I have to agree with Tom on this one...it isn&#39;t working.    <BR> <BR>It makes me think of Einstein&#39;s definition of stupidity: <i>&#39;Repeating the same actions and expecting a different outcome&#39;</i>.   <BR> <BR>I believe a compromise is in order.  They release more, but withold enough facts to maintain the integrity of the case.  For instance, as has been mentioned before on this board; How about his drawings and handwriting samples &#40;discreetly blacked out as needed&#41;.  Art styles are distinctive, as is handwriting.  People recognize them.  Give the public a real chance and they just might lead LE to the real killer.....     <BR><!--/Text--></td></tr>
+<!--/Post: 6527-->
+<!--Post: 6528--><!--Time: 1107852560-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6528"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Toto<!--/name--></b></a><br>Username: <!--field:uname-->Toto<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 12:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->P.S.  Forgot to add #5.  They want a chance to verify it is BTK material.  I have no problem with that one either. <!--/Text--></td></tr>
+<!--/Post: 6528-->
+<!--Post: 6540--><!--Time: 1107874470-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6540"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 6:54 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom and I have both started threads on this topic. Mine was deleted. Tom&#39;s is &#34;Recipe for catching BTK&#34; or something. <BR> <BR>I find it odd that you wrote &#34;I doubt knowing this information would help crack the case&#34;  but then go on to make the same point we have made. If released, the drawings, letters etc.. may be recognized by someone. Especially the drawings, I doubt the only drawings he has done are the murder scenes. Therefore, there are other drawings out there that carry the same characteristics. The letters may contain things that LE doesn&#39;t find significant, but someone that knows BTK on a personal level may find the same thing very significant. <BR> <BR>America&#39;s Most Wanted is a prime example of how instrumental everyday citizens can be in identifying suspects. IMO, the WPD needs to stop waiting for BTK to &#34;slip up&#34;, it&#39;s not going to happen. If they don&#39;t get aggressive abd think outside the box BTK will pass away and he will never be made to pay his debt to society. <BR> <BR>iq<!--/Text--></td></tr>
+<!--/Post: 6540-->
+<!--Post: 6608--><!--Time: 1107907440-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6608"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 4:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Iq:  Making the package contents public can only lead to a break if someone has seen the items before.  If BTK kept them hidden in a private stash somewhere, like a safety deposit box, it wouldn&#39;t make any difference if the public were made aware of the package contents.  No one would recognize them then.  Totos reasons all sound plausible enough, esp. #5.  I don&#39;t know, I&#39;m of two minds about this. <!--/Text--></td></tr>
+<!--/Post: 6608-->
+<!--Post: 6620--><!--Time: 1107910880-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6620"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Haytrader<!--/name--></b></a><br>Username: <!--field:uname-->Haytrader<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 5:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Somthing about this whole &#34;release more info&#34; theory keeps coming to mind. Let&#39;s say there is info in the drops that we all would like to see. And LE is witholding some of the facts from the public. My question is, why is BTK not upset with LE for not letting the public see what he is leaving? If he wants the public to know/see what is in his drops, why doesn&#39;t he send a post card to someone else or notify a different person or group of his latest cereal box drop off? Could it be he doesn&#39;t care if the bublic gets the info contained therin? Could it be he just wants to dangle the carrot in front of the WPD?  <!--/Text--></td></tr>
+<!--/Post: 6620-->
+<!--Post: 6622--><!--Time: 1107911575-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6622"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 5:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If someone in your family was artistic &#40;child, spouse, parent etc...&#41; you would probably be able to see characteristics of their work in other drawings. Even if you had never seen that particular drawing before. <BR> <BR>Besides, I would think there is more to the contents of BTK&#39;s communication than drawings. I will not speculate on the specifics but it&#39;s possible he didn&#39;t always &#34;hide&#34; his treasures. I&#39;ve read about several serial killers that enjoyed wearing their trophies that wouldn&#39;t draw attention to them but served as a reminder of their &#34;deeds&#34; &#40;jewelry etc...&#41;. The most important thing is that we don&#39;t know for sure but the possibility is there. What good are the items doing in the evidence locker? What would the negative effects of releasing these thing be? <BR> <BR>Some dead end leads? Even if LE was able to eliminate a few suspects from making these things public they would be a few steps closer to BTK, wouldn&#39;t they? <BR> <BR>iq<!--/Text--></td></tr>
+<!--/Post: 6622-->
+<!--Post: 6647--><!--Time: 1107924728-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6647"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Toto<!--/name--></b></a><br>Username: <!--field:uname-->Toto<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 8:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Iq- I completely agree.  Look at what the public accomplishes with the Amber Alert in addition to AMW.  My rationale is mix of what was released to the public way back in 78 and after...and years of questioning friends in LE about this throughout my adult life.  I was 18 in 1978 and while we didn&#39;t let BTK ruin our college &#40;at WSU&#41; years, he certainly overshadowed them.  I have a girlfriend that still picks up the phone and checks for dial tone when she comes home!     <BR> <BR>Haytrader - I could be wrong, but gut instinct and 27 years of armchair researching this guy says to me -- BTK really doesn&#39;t care what is released to the public.  It&#39;s a game between him and LE.  Another reason I think he was in security...but that&#39;s another topic.  Anyway, for as long as LE keeps the public in a kind of feeding frenzy with mere tid-bits of info - it reinforces his feeling of superiority over both LE and his public pawns.  Besides, the more info LE witholds -- the greater the chance he won&#39;t be caught.  LE is playing right into his hand....    <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6647-->
+<!--Post: 6681--><!--Time: 1107959408-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6681"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 6:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->TOTO your girlfriend is smart i think that would be a good practice for everyone to check phones,for dial tones..<!--/Text--></td></tr>
+<!--/Post: 6681-->
+<!--Post: 6792--><!--Time: 1108009476-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6792"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 8:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good thinking TOTO.  LE is playing right into his hands...Looks like they have to though...IF he cannot be caught &#40;certainly no fault of the WPD in my opinion..&#41;, they HAVE to play into his hands for the safety of everyone.  JMO..<!--/Text--></td></tr>
+<!--/Post: 6792-->
+<!--Post: 6827--><!--Time: 1108023846-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6827"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Toto<!--/name--></b></a><br>Username: <!--field:uname-->Toto<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 12:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Featherw - can&#39;t take credit for the thinking, but thanks anyway.  And I don&#39;t agree they have to be so cautious.  See my post under GENERAL DISCUSSIONS - &#39;Receipe to Identify BTK&#39; for more.   <BR> <BR>Skiller- She&#39;s done that since LE suggested it in a press conference in 78.  I gave her a hard time a few years back when she built a house and added phones just inside the front, back and garage doors.  Guess who&#39;s getting ribbed now.  And yes, there is a phone by my front door too.  Feels like a deja-vu.  Let&#39;s catch this creep before he scars another generation!      <!--/Text--></td></tr>
+<!--/Post: 6827-->
+<!--Post: 6845--><!--Time: 1108045117-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6845"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 6:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Toto yes lets catch him,But how? I dont know if you have read my post&#39;s to Btk but, in my mind if we keep doging this coward out maybe he will get pissed enough to start communicating with us through his postings, I want to know what gis personality is like when he is put down,and what can trigger his anger.someone needs to list some facts about his true life. the only thing i have seen him reply is &#34;freya&#34;  remember he said &#34;let me Freya something&#34; he used that user name in a communication. Im thinking Freya struck a note.<!--/Text--></td></tr>
+<!--/Post: 6845-->
+<!--Post: 6856--><!--Time: 1108051770-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6856"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Toto<!--/name--></b></a><br>Username: <!--field:uname-->Toto<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 8:09 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Skiller - Ah, the million dollar question - How to catch him?  Tom&#39;s &#34;Receipe&#34; sounds like a great start to me!!!  <BR> <BR>Release some of the drawings, doodles and handwritten scribbles they have.  His poetry  may be a part of him that co-workers, family and acquaintances never see.  On the other hand, working people write, doodle and quick-sketch when trying to explain things.  These are both distinctive and everyday.  Somebody will recognize it!    <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6856-->
+<!--Post: 6864--><!--Time: 1108055247-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6864"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Toto<!--/name--></b></a><br>Username: <!--field:uname-->Toto<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 9:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Skiller - PS to your comments above.  I really think BTK sees us &#40;the public&#41; as mere pawns in his chess game with LE.  In his mind we are &#39;dispensable&#39;. Because of that mentality, I sincerely doubt that our taunting does anything but amuse and entertain his sick mind.  He&#39;ll go so far as to throw out morsels, then sit back and laugh while LE can neither control our wild speculation... or find him.  Just for the record, I feel certain he scans the boards.  I&#39;m less certain he has actually posted.  Even if he had, you can&#39;t believe any of it.  Regardless of whether he&#39;s truly genius or moronically lucky, he&#39;s definitely a master of deception.  Anything he writes has been chosen for it&#39;s deceptive value first.  Although I&#39;ll agree there&#39;s truth in it somewhere - the primary intent is to lead astray.  It is for that exact reason I&#39;m tired of seeing the product of his conscious mind i.e., typed words.  I want to see something that shows his unconscious mind at work &#40;drawings, handwriting, etc.&#41;   <BR> <BR>As for things that will truly engage him.  He&#39;s very territorial.  While I don&#39;t think he wants to be caught, he d&#42;mn sure wants credit for his &#39;legacy&#39;.  The wrongful arrest of RV  -- now that&#39;s more along the lines of something that would draw him out.  I&#39;d like to know what he&#39;s said to LE in the communications following that fiasco &#40;how hard could it have been to get a DNA sample without the circus show?&#41;.  I&#39;m sure BTK thoroughly enjoyed that. I&#39;d be shocked if he didn&#39;t gloat to LE about it.  <!--/Text--></td></tr>
+<!--/Post: 6864-->
+<!--Post: 6867--><!--Time: 1108056482-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6867"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 9:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Toto In your thoughts where do you think he lives? explain in a one mile radias. I think park city area near the little arkansas river. I would like all users ideas of wherabouts. <BR>Please let me know. Police dont have enough man power to cover these grounds<!--/Text--></td></tr>
+<!--/Post: 6867-->
+<!--Post: 6978--><!--Time: 1108103477-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6978"><font face="Verdana" size="1"><b><!--email--><a href="mailto:tbjostad@cox.net" target="_blank"><!--/email--><!--name-->Toto<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Toto<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 10:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Skiller, I&#39;ve always thought he grew up in the area from Hillside to Oliver &#40;maybe Edgemoor&#41; running E to W and Central to Harry &#40;possibly Pawnee&#41; N to S.  As a kid, he rode his bike all over that area as well as a good portion of the areas adjoining it. He learned every alley, nook, cranny and shortcut then.  Information he later used to stalk victims, gain access and get out of areas quickly.  This was his &#39;comfort zone&#39;.   <BR> <BR>The latest communications lend credence to your thoughts he&#39;s in or around the Park City area.  Could he have made that his adult home for the last 20 some-odd years?  He got &#39;comfortable&#39; there and changed his MO to abduction and dumping?  Sounds plausible to me...  <!--/Text--></td></tr>
+<!--/Post: 6978-->
+<!--Post: 7010--><!--Time: 1108131393-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7010"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Fsu44<!--/name--></b></a><br>Username: <!--field:uname-->Fsu44<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 6:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Toto, very good insight about the loation were btk might live at. It&#39;said that the first attack &#34;if known&#34; is within a mile of his home. You said his &#34;comfort zone&#34; that speaks loud and true. The easier it get for him, his play ground grows. I would go back to the org. attack sites, retrace the leads and look at the drop sites of his many clues to L.E.O. There is a connection between the two locations.  <!--/Text--></td></tr>
+<!--/Post: 7010-->
+<!--Post: 7015--><!--Time: 1108132751-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7015"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 6:39 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Toto thank you for reply on locations  <BR>Fsu44 where do you think he lives?<!--/Text--></td></tr>
+<!--/Post: 7015-->
+<!--Post: 7018--><!--Time: 1108133954-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7018"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Fsu44<!--/name--></b></a><br>Username: <!--field:uname-->Fsu44<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 6:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good question, I am new to this site so I am really behind the eight ball. I have been a homicide investigator for the last 20 years and the two serial killers I had a chance to work, one lived within 1/2 mile of his dump-site. A major canel that ran near his home. He would pick-up street walkers and then kill them. He made it to five before we got him. But, the sad thing was, he was always right there. <BR> <BR>The other clown was a semi-homeless man, but he killed all of his victims within walking distance to the place he slept at night. A case here in Florida: Danny Rolling,  &#40;UF&#41;Gainsville killing, stayed in a small campsite between the two apartments were his first two victims were discovered. I was not part of that investigation, I am to far south of Gainsville.  Same cirus differant clowns. Stay safe.  <BR>  <!--/Text--></td></tr>
+<!--/Post: 7018-->
+<!--Post: 7020--><!--Time: 1108134610-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7020"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 7:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Fsu44 Do you think I am on the right track on narrowing down place of residence or am i just waisting time?<!--/Text--></td></tr>
+<!--/Post: 7020-->
+<!--Post: 7022--><!--Time: 1108135658-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7022"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Fsu44<!--/name--></b></a><br>Username: <!--field:uname-->Fsu44<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 7:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->No you are not waisting time. I don&#39;t know that much about the case, at least not as much as you do. Like I said I just started to read the thousand or so postings. If you feel that the first killing was close to the the home of the killer that&#39;s a good bet. The thing that worries me is,what homicide did WPD miss before the one they think was the first btk killing. It&#39;s easy to turn a murder scene into a sucide scene. Or a murder scene into an accidental death. LE has come a long way since the 70&#39;s. I feel good about WPD investigation, but it&#39;s always catchup work. Then staff will let the money being spend on the investigation lead the investigation. I really think that if btk has written out or drew a picture to let the public see it. It has worked down here. We put this killer&#39;s writings on a billboard along a major highway, We got the lead that broke the case within a week. Stay on it Skiller.      <!--/Text--></td></tr>
+<!--/Post: 7022-->
+<!--Post: 7023--><!--Time: 1108135996-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7023"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Fsu44<!--/name--></b></a><br>Username: <!--field:uname-->Fsu44<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 7:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Toto; has hit it right on the head with his or her posting on Feb. 8th.  about why WPD have not released so much information.  <!--/Text--></td></tr>
+<!--/Post: 7023-->
+<!--Post: 7024--><!--Time: 1108136315-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7024"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 7:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Fsu44 hey thanks bro!  if you have anything else you would like to share i&#39;m open to any sugestions you might have. i would reallt like to see this guy hooked up.  I have burnt alot of gas driving around known areas of his marks please give me more knoledge on tactics.<!--/Text--></td></tr>
+<!--/Post: 7024-->
+<!--Post: 7035--><!--Time: 1108142423-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7035"><font face="Verdana" size="1"><b><!--email--><a href="mailto:tbjostad@cox.net" target="_blank"><!--/email--><!--name-->Toto<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Toto<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 9:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->FSU44 - Glad to see you here!  Thanks for the input too.  You&#39;re right there is a TON of info here. Tom&#39;s history page is a great synopsis.  His &#39;receipe&#39; under the General thread is also along the lines of our discussion.  I&#39;ve got a question for you over there too.  I&#39;d be curious to your answer to Skiller&#39;s question about tactics for narrowing the field.  thxx  <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 7035-->
+<!--Post: 7063--><!--Time: 1108162277-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7063"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Fsu44<!--/name--></b></a><br>Username: <!--field:uname-->Fsu44<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 2:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, it&#39;s way to late to canvass the area of the first known homicide. But old records might lead one to a path of hope. Old telphone books, most people were listed back then because being unlisted was unheard of. Water and sewer connections, deeds of homes, newpaper articles prior to first event, does anything stick out of the norm. DNA was out of the question back them. Now that you have a pool of names, start getting rid of the ones that you know could not have been part of the spree back then. Really old folks, Blacks, Asian, kids etc. Focus on young adult males, blue collar job, part of the block&#39;s landscape <BR> <BR>btk has had contact with law enforcement some way; by chance or direct conflict, but he is or was discounted. I would be checking V.A. hospitals personel, home from either Korean or Vietnam conflicts.   <BR> <BR>The thing is that btk has moved his field of leaving clues outside the normal zones LEO or the media has been looking at. This clown is no fool. No one wants to go to jail or die. But he is caught up in this hype up world that he has painted. I would image nothing from him for sometime. He has nothing to lose by picking his time table. Why play into LEO game. All the baiting in the world will not bring this clown out. He will make another mistake and another and another, then someone will see btk. Did you know that the avg. person&#39;s image is caught on video nine time during a normal day. The field is already small, the idea is to make it smaller.        <!--/Text--></td></tr>
+<!--/Post: 7063-->
+<!--Post: 7242--><!--Time: 1108320397-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7242"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Freya<!--/name--></b></a><br>Username: <!--field:uname-->Freya<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 13, 2005 - 10:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe this is obvious to everyone else, but I think that the latest release of info from WPD about its late-70&#39;s subliminal message to BTL of a pair of Nancy Fox&#39;s glasses &#40;check out KAKE.com&#41; is an intentional tactic by WPD to feed the public&#39;s need for &#34;new&#34; information without 1&#41; letting BTL feel that he&#39;s inciting panic or frustration with his latest drops AND 2&#41; giving the public any info that might compromise the investigation. What do yall think?<!--/Text--></td></tr>
+<!--/Post: 7242-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/440">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/440" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

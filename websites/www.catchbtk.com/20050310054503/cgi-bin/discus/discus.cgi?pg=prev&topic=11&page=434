@@ -1,0 +1,284 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 432/Theory-->
+<!--Level 1: 432/Theory-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Theory</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Theory</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+Theory
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=432"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=432"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 6179--><!--Time: 1107565834-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6179"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Doom<!--/name--></b></a><br>Username: <!--field:uname-->Doom<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 5:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK has increased his frequency of communications drasticly.  What if...We, the media, and LE just ignore him?  He will not kill again and if he does he is toast...But he could be forced into making a fatal mistake when the lime-light is suddenly turned off for no apparent reason....Because after all he wants the attention he is getting finally.  Thoughts?   <!--/Text--></td></tr>
+<!--/Post: 6179-->
+<!--Post: 6187--><!--Time: 1107569308-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6187"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brady<!--/name--></b></a><br>Username: <!--field:uname-->Brady<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 6:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->As fun as that sounds, it won&#39;t happen.  BTK was silent for a long time - something/someone kept him busy.  I think the more &#34;drops&#34; or communications he makes the closer we are to finding out who this nut case is.  Forensics are light years ahead of where they were in 1974.  He&#39;ll trip up soon.<!--/Text--></td></tr>
+<!--/Post: 6187-->
+<!--Post: 6199--><!--Time: 1107574689-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6199"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Msrusty<!--/name--></b></a><br>Username: <!--field:uname-->Msrusty<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 7:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m thinking LE might think if they ignored him he might kill again. I think at this point he only wants the attention that&#39;s being focused on him.<!--/Text--></td></tr>
+<!--/Post: 6199-->
+<!--Post: 6207--><!--Time: 1107579500-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6207"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Newyorker<!--/name--></b></a><br>Username: <!--field:uname-->Newyorker<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 8:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe that he is slowly dropping clues that would lead to him being dead. I don&#39; tknow why I just have this sick feeling.<!--/Text--></td></tr>
+<!--/Post: 6207-->
+<!--Post: 6229--><!--Time: 1107607018-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6229"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 4:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I wonder if BTK was planning on committing suicide?   If he&#39;s too over-the-hill to kill anymore, and he hasn&#39;t got anything else going on in his life to give him any thrills or to feed his ego, maybe he just decided he&#39;d end it all.  But first, he&#39;d get rid of all his crime trophies and taunt the police and the public one last time.  If he got rid of all his trophies &#40;all the evidence linking him to the crimes in other words&#41; and then died, he could disappear like a phantom -- build up his legend, and then vanish in a puff of smoke like Jack the Ripper or somebody.   <BR> <BR>Except now that he&#39;s been indulging himself with all these communications, and the police are still no closer to catching him, maybe he&#39;s really enjoying this.  Enjoying it -- too much to commit suicide just yet. <BR> <BR>A wild theory! <!--/Text--></td></tr>
+<!--/Post: 6229-->
+<!--Post: 6233--><!--Time: 1107623189-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6233"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Newyorker<!--/name--></b></a><br>Username: <!--field:uname-->Newyorker<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 9:06 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hmm... Audreyamw, I have another theory. I think that he will tell KAKE or WPD where another communication is and they would try and find it and notice that there is a dead body and it is him with a note saying I AM BTK. I don&#39;t know just a sick theory of mine. I saw it in a movie lol. Sort of like in the movie The Saw, he was acting dead all along in the middle of the bathroom.<!--/Text--></td></tr>
+<!--/Post: 6233-->
+<!--Post: 6237--><!--Time: 1107625525-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6237"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Blade<!--/name--></b></a><br>Username: <!--field:uname-->Blade<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 9:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think that he will bite the bullet as law enforcement closes in.<!--/Text--></td></tr>
+<!--/Post: 6237-->
+<!--Post: 6247--><!--Time: 1107631290-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6247"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 11:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have to disagree with Brady - There is nothing to suggest that he will &#34;trip up&#34;. He has not made any mistakes up to this point and he probably will not. Some of these posts make it sound like, just because he&#39;s older now, he doesn&#39;t understand LE&#39;s forensic capabilities. If he was keen on investigayion techniques and procedures in the 70&#39;s, you can bet he knows just as much, if not more, about the advances. <BR> <BR>This guy could have been caught decades ago if LE had released more to the public. Letters &#40;within reason&#41;, clues, drops, and especially drawings. Everything except what is necessary to authenticate true BTK communications. There were/are people in the area that would recognize something about the communications and id him. <BR> <BR>Just my opinion. <BR> <BR>iq<!--/Text--></td></tr>
+<!--/Post: 6247-->
+<!--Post: 6266--><!--Time: 1107643129-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6266"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 2:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This is getting off topic...<!--/Text--></td></tr>
+<!--/Post: 6266-->
+<!--Post: 6292--><!--Time: 1107661726-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6292"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 7:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Doom, I like your premise in the original post. I believe the media would never suddenly begin ignoring BTK - the story is too big. I&#39;ve had a similar idea about suddenly ignoring BTK but I just don&#39;t think it&#39;ll happen. <!--/Text--></td></tr>
+<!--/Post: 6292-->
+<!--Post: 6457--><!--Time: 1107804115-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6457"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Blade<!--/name--></b></a><br>Username: <!--field:uname-->Blade<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 11:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I can’t access this site from work. It looks like it is in Wichita  <BR> <BR><a href="http://www.woolfks.com/" target=_top>http://www.woolfks.com/</a><!--/Text--></td></tr>
+<!--/Post: 6457-->
+<!--Post: 6461--><!--Time: 1107807222-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6461"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kansasgirl<!--/name--></b></a><br>Username: <!--field:uname-->Kansasgirl<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 12:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Blade, what does this site have to do with anything? Just asking, I&#39;m lost. It is a site for Wichita Organization Of Leather Fetishes.<!--/Text--></td></tr>
+<!--/Post: 6461-->
+<!--Post: 6483--><!--Time: 1107819654-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6483"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Blade<!--/name--></b></a><br>Username: <!--field:uname-->Blade<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 3:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Kansasgirl, <BR>I Google s/m clubs in the Wichita area and this is one of the sites that popped up. I just could not check the site from my office computer. I believe that if there are any s/m type clubs in the area our boy could have visited this type of setting.<!--/Text--></td></tr>
+<!--/Post: 6483-->
+<!--Post: 6592--><!--Time: 1107903061-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6592"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 2:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK could be from Halstead Ks   school district happens to be 440<!--/Text--></td></tr>
+<!--/Post: 6592-->
+<!--Post: 6602--><!--Time: 1107905961-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6602"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 3:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Blade: Ive done some research on the topic myself &#60;smirk&#62;. Ive found some characters on the national services. Makes me wonder if he &#34;ordered in&#34; using the internet....<!--/Text--></td></tr>
+<!--/Post: 6602-->
+<!--Post: 6790--><!--Time: 1108008836-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6790"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Doom<!--/name--></b></a><br>Username: <!--field:uname-->Doom<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 8:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you George and I also agree with your comment.  It just will not happen and why it cannot happen.  BTK does know who to play with and why in his game.  <BR> <BR>Doom<!--/Text--></td></tr>
+<!--/Post: 6790-->
+<!--Post: 9417--><!--Time: 1109508081-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9417"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brady<!--/name--></b></a><br>Username: <!--field:uname-->Brady<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 4:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Regarding this thread, in a way it appears as if he was ignored - at least by LE anyway.  I completely understand why they didn&#39;t release some of the stuff  over the last 30 years, but it seems aparent now that using the public&#39;s help brought this to an end.  It certainly created a lot of &#34;buzz&#34; and, if it&#39;s true that his daughter turned him in, then it worked.  As I said in the second post, he would trip up soon.<!--/Text--></td></tr>
+<!--/Post: 9417-->
+<!--Post: 9844--><!--Time: 1109659090-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9844"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Doom<!--/name--></b></a><br>Username: <!--field:uname-->Doom<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 10:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks Brady it is a tactic to keep the perp communicating and the more an unsub communicates the more likely he or she will be caught.  He in this case.  The chief has confirmed that was the tactic used to keep him writing. It has been reported his daughter turned him in but she did not she was asked by LE to provide DNA. I am sure it will come out soon but it involves a computer disc BTK sent to LE. <BR> <BR>Doom <!--/Text--></td></tr>
+<!--/Post: 9844-->
+<!--Post: 9851--><!--Time: 1109660644-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9851"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Doom<!--/name--></b></a><br>Username: <!--field:uname-->Doom<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 11:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->And I must add that is just part of the story of how factually BTK was captured there is much more that will come out during the trial.  <BR> <BR>Doom  <!--/Text--></td></tr>
+<!--/Post: 9851-->
+<!--Post: 9917--><!--Time: 1109705110-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9917"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whatthehell<!--/name--></b></a><br>Username: <!--field:uname-->Whatthehell<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 11:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Posted on Sunday, February 20, 2005 - 10:37 pm:      <BR>This was my original post on BTK <BR>-------------------------------------------------- ------------------------------ <BR>HERE IS MY PERSONAL THEORY, FEEL FREE TO PICK IT APART OR SUPPORT IT. I BASE IT ON WHAT WE HAVE BEEN GIVEN AS FACT. SHOULD OTHER CASES BE CREDITED TO BTK OR OTHER INFO. BECOME AVAILABLE IT MAY NOT HOLD WATER, BUT WITH WHAT WE KNOW NOW I BELIEVE IT TO BE WORTH CONSIDERING.  <BR> <BR>FIRST OFF THE FIRST KILLINGS WITH THE OTERO FAMILY IS BY DEFINITION A MASS MURDER. THE SECOND KILLING WITH THE BRIGHTS WAS AN ATTEMPTED MASSMURDER. &#34;A KILLER IS BORN&#34;  <BR> <BR>I BELIEVE THAT BTK HAS A COLEMAN CONNECTION. A VERY STRONG ONE. THE KILLING OF JULIE OTERO WAS IN MY OPINION A GRUDGE KILLING. I THINK THAT EITHER A SEXUAL ADVANCE REJECTED, ROMANCE GONE BAD OR DRUGS INVOLVED. WHAT EVER I THINK THERE WAS A CONNECTION AND IT WENT WRONG. HE WENT TO KILL JULIE AND MAYBE JOSEPH ALSO BUT NEVER THE KIDS. HE DID NOT PLAN ON THEM BEING HOME.  <BR> <BR>I ALSO THINK THAT THE SHOOTING/ATTEMPTED ROBBERY OF MICHEAL WILLIAMS COULD HAVE BEEN ASSOCIATED BUT EVEN IF IT WAS F YOU KNOW HE WAS THE LINE SUPERVISOR OF THE COLEMAN LINE WHERE JULIE WORKED.  <BR> <BR>LESS THEN THREE MONTHS LATER KATHRYN BRIGHT IS KILLED. SHE ALSO WORKED AT COLEMAN ON THE SAME LINE. I DO NOT KNOW HOW MANY PEOPLE WORKED AT COLEMAN OR ON THAT LINE IN THE FIRST 4 MONTHS OF 1974. BUT EVEN IF IT WAS 100, IF TWO OF THEM WERE KILLED AND THE FOREMAN WAS SHOT ALL IN THE SAME PERIOD OF FOUR MONTHS I WOULD HAVE TO SAY THAT IS A STATISTICAL ODDITY.  <BR> <BR>MY THOERY IS THAT THE OTERO KILLING A GRUDGE KILLING. THE BRIGHT KILLING WAS EITHER AN ASSOCIATED GRUDGE KILLING OR &#34;SHE KNEW TOO MUCH&#34; KILLING.  <BR> <BR>HERE IS WHERE I THINK THAT BTK STARTED TO LIKE THE KILLING AND THE SEXUAL RELEASE IT OFFERED.  <BR> <BR>HE DOES NOT HAVE TO KILL, BUT HE IS LEARNING TO LIKE IT. THREE YEARS WITHOUT ANOTHER KILL. MAYBE IN A RELATIONSHIP? MAYBE NOT REJECTED OR SCORNED ENOUGH TO SET OFF THE MONSTER THAT IS IN HIM NOW.  <BR> <BR>PERHAPS SHIRLEY VIAN REJECTED HIM AT THIS POINT. NOT BEING A TRU SERIAL KILLER HE DOES NOT NEED TO KILL BUT WANTS TO KILL HER FOR THE REJECTION, ETC.  <BR> <BR>ANOTHER NINE MONTHS GO BY BEFORE THE MONSTER IS SUMMOND TO KILL NANCY FOX.  <BR> <BR>UNLIKE MOST SERIAL KILLERS BTK IS NOT KILLING TRANSIENTS AND HOOKERS. HE IS COMMUNICATING WITH MEDIA AND AND LE AND NOT FEELING ANY THREAT OF BEING CAUGHT. BY DEFINITIONS HE IS NOT FOLLOWING SERIAL KILLER PATTERNS. SO FAR HE HAS STABBED, SHOT, STRANGLED AND SUFFERACATED VICTIMS. HIS ONLY SET PATTERN SO FAR IS THE TUESDAY AND THURSDAY KILLING DAYS. PHONE LINES BEING CUT DOES NOT EVEN STAY TRUE BECAUSE OF THE KIDS BEING SAVED BY THE RINGING PHONE.  <BR> <BR>1 YEAR AND FOUR MONTHS LATER THE WILLIAMS LETTER IS SENT. EVERONE INVOLVED THAT THE TRUE TARGET WAS THE ELDERLY WOMANS DAUGHTER. 1 YEAR AND FOUR MONTHS WITHOUT KILLING. NOT TRUE TO FORM FOR A SERIAL KILLER. ONCE AGAIN REJECTION WAKED THE MONSTER.  <BR> <BR>THE TIME BETWEEN THE KILLINGS GETS LONGER EACH TIME. MAYBE HE IS HAVING LUCK WITH THE LADIES DURING THIS TIME. HE MAY EVEN BE IN RELATIONSHIPS DURING THESE PERIODS.  <BR> <BR>ALMOST NINE YEARS WITHOUT A CLAIMED KILLING AND OVER 7 WITHOUT A CLAIMED ATTEMPT. THEN VICKI WEGERLE.  <BR> <BR>WHAT THE HELL!!!!!!!  <BR>WHY NOW? THE GROUP KNOWN AS THE GHOST BUSTERS IS ACTIVLY WORKING THE CASE. THEY ARE USING NEW TECH., DNA TESTING, COMPUTER DATABASES AND PSYCHOLOGICAL PROFILES. DAMN, THIS WOULD SURE MAKE A GUY THAT IS LYING LOW AND THINKING HE HAS GOTTEN BY WITH MURDER A LITTLE NERVOUS. THUS HE KILLS VICKI AS DISTRACTION. HOW IS THIS A DISTRACTION? IT MAY HAVE BEEN ANOTHER KILLING IN THE SAME MODE OR DUE TO THE GEOGRAPIC LOCATION A DISTRACTION FROM HIS &#34;COMFORT ZONE/KILLING FIELD&#34;.  <BR> <BR>ALL THE OTHER KILLINGS, H.R. BUILDING, THE PHONE BOOTH THAT THE FOX CALL WAS MADE FROM, ALL IN A LITTLE &#34;NEST&#34; AROUND DOUGLAS AND HILLSIDE. I THINK THIS IS HIS COMFORT ZONE. HIS KILLING FIELD AND PROBABLY HIS HOME NEIGHBORHOOD. THE WEGERLE KILLING COULD HAVE JUST BEEN A DISTRACTION FROM THIS ZONE.  <BR>EVEN TODAY, MURDOCK PARK WHERE THE PACKAGE WAS FOUND, THE C STORE WHER HE PLACED THE CALL TO TELL ABOUT THE FOX PACKAGE, ALL IN THIS &#34;NEST&#34;.  <BR>EVENT HE WILLIAMS ATTEMPT IS IN THIS NEST.  <BR> <BR>I BELIEVE THAT HE WAS A SETTLED MAN AFTER THE WILLIAMS ATTEMPT AND THE WEGERLE KILLING WAS EITHER A DISTRACTION OR A BRIEF BACKSLIDE.  <BR> <BR>THE BTK KILLER HAS NEVER LEFT WICHITA. HE HAS NOT BEEN IN JAIL AND HE HAS NOT BEEN HOSPITALIZED. HE HAS BEEN LIVING RIGHT THER AMONG THE GOOD PEOPLE OF SEDWICK COUNTY. HE PROBABLY HAS OR MOST LIKELY HAD A WIFE. SHE MAY HAVE RECENTLY DIED. THUS HIS NEW COMMUNICATIONS AND ACTIVITY. HE STOPPED KILLING BECAUSE HE IS NOT A REAL SERIAL KILLER. HE IS THE GUY NEXT DOOR. WHEN HIS IDENTITY IS KNOWN, WE WILL ALL BEING GOING, &#39;HOLY CRAP IT WAS HIM&#34;. HE IS SOMEONE THAT WALKS THE STREETS OF WICHITA EVERYDAY. HE DID/DOES HOLD A JOB. HE PROBABL HAS A MORTGAGE AND A RETIRMENT PLAN AND PROBABLY ONE FRIEND THAT WHEN IT IS ALL OVER WILL SAY &#39;DAMN I HAVE KNOWN THAT GUY FOR TWNETY FIVE YEARS&#34;  <BR> <BR>DO NOT GET ME WRONG BTK IS A SICK MAN. HE HAS A TASTE FOR KILLING AND HAS THE MENTAL AD EMOTIONAL CAPACITY TO KILL AGAIN IF NPT THE PHYSICAL. HE IS A VERY SMART MAN. HOWEVER NOT AS SMART AS WE ALL GIVE HIM CREDIT FOR. MIS INFORMATION AND AFTER THE FACT MODERATION DO NOT MAKE A GENIUS.  <BR> <BR>LE IS CLOSE. THEY HOLD ALOT BACK IN HOPES OF NOT HAVING TO PICK UP ANOTHER BODY. THEY WANT THE COMMUNICATION TO STAY OPEN SO THE SAVE VALIDATION INF FROM US SO THAT NOT EVERY NUT JOB IN THE MIDWEST STARTS SENDING IN STUFF.  <BR> <BR>HE MAY BE ON HIS DEATH BED. HIS WIFE/LOVER WHATEVER MAY HAVE RECENTLY DIED OR BEEN REMOVED FROM THE PICTURE, EITHER WAY HIS MIND IS SPINNING AND HE NEED TO GET SOME OF THIS OFF HIS CHEST. THUS THE GAME. WE ARE CLOSE TO THE END OF THAT GAME. I DO NOT THINK THERE WILL BE ANYMORE KILLING AND I THINK THAT WE WILL KNOW WHO BTK IS REAL SOON. MAYBE BY THE END OF SUMMER.  <BR> <BR>CHECK MY DATES, CHECK THE MAP OF THE KILLINGS AND ASSOCIATED LOCATIONS. CHECK THE COLEMAN CONNECTION. HELL THROW IN THE DMV, BLACKOUT CONNECTIONS ALSO IT STILL FITS. THE BLACK OUT IS NOT FAR AWAY FRO THE &#34;NEST&#39; AND A BULIDING THAT USED TO BE A STATE BUILDING SITS AT HILLSIDE AND DOUGLAS.  <BR> <BR>PLEASE FEEL FREE TO SUPPORT OR DISAGREE. IT IS ONLY ONE MANS THEORY. I DO LOOK FORWARD TO THE FEEDBACK. <!--/Text--></td></tr>
+<!--/Post: 9917-->
+<!--Post: 9919--><!--Time: 1109705221-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9919"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whatthehell<!--/name--></b></a><br>Username: <!--field:uname-->Whatthehell<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 11:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Posted on Monday, February 21, 2005 - 6:18 pm:     original &#34;Coleman&#34; connection stats <BR> <BR> <BR>-------------------------------------------------- ------------------------------ <BR>A AGREE ON THE POSSIBILITY OF SUCH A RATIO IN A SMALLER TOWN BUT THE WICHITA POPULATION IS FAR TOO BIG TO HAVE THAT RATIO NOT BE SIGNIFICANT. THAT IS JUST THE WORK RATIO, CONSIDER THE ODDS OF TWO PEOPLE BEING KILLED AND TWO OTHERS BEING SHOT ALL IN THE SAME FOUR MONTH PERIOD. EVEN WITH TODAYS POPULATION AND OUR NATIONAL AVERAGE OF 4 HOMICIEDS PER EVERY 10,000 PEOPLE ALLOWING FOR 2.57 PEOPLE TO BE KILLED IN WICHITA ON AVERAGE PER MONTH AND BEING 134 PER YEAR. <a href="http://www.nationmaster.com/graph-T/cri_mur_cap" target=_top>http://www.nationmaster.com/graph-T/cri_mur_cap</a>  <BR>I DO NOT KNOW HOW MANY THE COLEMAN COMPANY EMPLOYEED IN 1974 BUT TODAY IT IS 1300 AT WICHITA. THAT TRANSLATES TO AN AVERAGE MURDER RATE OF ABOUT .067 MURDERS A YEAR FOR THE COLEMAN EMPLOYEE POPULATION. SO I WOULD THINK THAT STATISTICALLY 2 MURDERS AND TWO SHOOTING IN 4 MONTHS WOULD BE OF A VERY HIGH SIGNIFICANCE.  <BR>THE RATIO OF COLEMAN EMPLOYEES 1300 TO THE GENERAL WICHITA POPULATION 336,300 IS ABOUT 1 IN EVERY 259 PEOPLE.  <BR><!--/Text--></td></tr>
+<!--/Post: 9919-->
+<!--Post: 9922--><!--Time: 1109705405-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9922"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 11:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Whatthehell, your again awesome! But, why didn&#39;t tell me he lived around the curve and 6 doors down from Marine? I&#39;m kidding - but your profile was awesome and I still appreciate you! <BR><!--/Text--></td></tr>
+<!--/Post: 9922-->
+<!--Post: 9924--><!--Time: 1109705588-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9924"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whatthehell<!--/name--></b></a><br>Username: <!--field:uname-->Whatthehell<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 11:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky, I didnt want to give it all up at once. LOL <BR>Thanks for the props. <!--/Text--></td></tr>
+<!--/Post: 9924-->
+<!--Post: 10080--><!--Time: 1109742095-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10080"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Foxfire<!--/name--></b></a><br>Username: <!--field:uname-->Foxfire<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 9:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think a lot of his killings DID have to do with a grudge, real or imagined.  It seems that he was not picking people at random really at all.  There was something that triggered it in advance where he would either work around them or run into them under some other &#34;normal&#34; circumstances.   <BR> <BR>Then at the very least, he felt a sort of &#34;attraction&#34; for a few of the women but it was translated into how great it would be to &#34;btk&#34; them. <BR> <BR>Julie and Katherine were both either around him at work even in the lunch area or something like that or he knew them through somebody else who still worked at Coleman&#39;s when and after he quit or was laid off, I think. <BR> <BR>However, he seemed to have WAY too much enjoyment out of killing poor sweet little Josephine which is so terribly horrible and odd since there are no more reports at least yet of him having been inappropriate with children in any way in his regular life.  Usually pedafiles just CANNOT stop from transferring it into their daily activities. <BR> <BR>If he shot Michael Williams, and it seems likely to me at least that he did, THAT may have been a REAL grudge type of crime originally for maybe having something to do with him losing his job.  After he did that, it felt &#34;GOOD&#34; in a twisted, satisfying way.<!--/Text--></td></tr>
+<!--/Post: 10080-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/432">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/432" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

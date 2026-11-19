@@ -1,0 +1,323 @@
+<html>
+<!--Topic: 1/General BTK discussion-->
+<!--Me: 28/BTK and Zodiak-->
+<!--Level 1: 28/BTK and Zodiak-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK and Zodiak</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK and Zodiak</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK discussion</font></a> &#187;
+BTK and Zodiak
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=28"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=28"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 88--><!--Time: 1085539547-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST88"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Clarice<!--/name--></b></a><br>Username: <!--field:uname-->Clarice<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, May 25, 2004 - 7:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, since you&#39;ve had the Zodiak site for a while, and since some folks theorize that BTK and Zodiak are the same &#34;dude&#34;; I am wondering if you think they are the same person.<!--/Text--></td></tr>
+<!--/Post: 88-->
+<!--Post: 106--><!--Time: 1085685801-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST106"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 27, 2004 - 12:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Clarice, I believe BTK was highly influenced by the Zodiac, but that they are separate individuals. I see no evidence to indicate BTK and the Zodiac are one and the same.<!--/Text--></td></tr>
+<!--/Post: 106-->
+<!--Post: 116--><!--Time: 1085778395-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST116"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Mike_r<!--/name--></b></a><br>Username: <!--field:uname-->Mike_r<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 28, 2004 - 2:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi- <BR> <BR>I think that it is pretty clear that Zodiac and BTK are not one and the same person.  After all, by 1969 Zodiac had perfected the art of getting all of the attention he wanted.  In the late 1970s, BTK was so pathetic that he had to whine about not being able to get the attention that he so desired. <BR> <BR>Mike<!--/Text--></td></tr>
+<!--/Post: 116-->
+<!--Post: 126--><!--Time: 1085792060-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST126"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ed_neil<!--/name--></b></a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 28, 2004 - 5:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In addition to the newspaper accounts and magazine articles, there were at least two books BTK could have had access to in order to copycat the Zodiac killer to some extent: &#34;The California Crime Book&#34; by Robert Colby &#40;September 1971&#41; and &#34;Great Crimes of San Francisco,&#34; edited by Dean W. Dickensheet &#40;1974&#41;. <BR><!--/Text--></td></tr>
+<!--/Post: 126-->
+<!--Post: 155--><!--Time: 1086100385-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST155"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Warren_b<!--/name--></b></a><br>Username: <!--field:uname-->Warren_b<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, June 01, 2004 - 7:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Would be interesting to know if WSU or city library carried those books back then.<!--/Text--></td></tr>
+<!--/Post: 155-->
+<!--Post: 157--><!--Time: 1086112549-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST157"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ed_neil<!--/name--></b></a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, June 01, 2004 - 10:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If not, they might have been available at any decent bookstore.  These days, you pretty much have to get lucky to get ahold of those; I managed to find two copies &#40;in the same bookstore!&#41; of &#34;Great Crimes of San Francisco,&#34; and was able to order &#34;The California Crime Book&#34; through Amazon.com&#39;s z shops &#40;somewhat fittingly&#41;.<!--/Text--></td></tr>
+<!--/Post: 157-->
+<!--Post: 158--><!--Time: 1086115646-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST158"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, June 01, 2004 - 11:47 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK wouldn&#39;t have even needed a book; it was all covered in his local newspaper. Take a look at the Zodiac historical newspaper archive I put together for a sample of how widespread the coverage was.<!--/Text--></td></tr>
+<!--/Post: 158-->
+<!--Post: 166--><!--Time: 1086273762-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST166"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, June 03, 2004 - 7:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe the attention the Z craved, could never be enough for his appetite. So &#34;if&#34; he was in Kansas as the &#34;BTK&#34;, haveing the attention in Calif. as Z, still wouldn&#39;t be enough for him. Why wouldn&#39;t he wonder why he was able to get so much attention in Calif., and not as much in Kansas? After all he was more horrifying in Kansas, than in Calif.or so he thought anyway.<!--/Text--></td></tr>
+<!--/Post: 166-->
+<!--Post: 169--><!--Time: 1086297999-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST169"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, June 03, 2004 - 2:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK is scarier to me since it seems he&#39;s still around.<!--/Text--></td></tr>
+<!--/Post: 169-->
+<!--Post: 174--><!--Time: 1086312626-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST174"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Muskogee<!--/name--></b></a><br>Username: <!--field:uname-->Muskogee<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, June 03, 2004 - 6:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think Z was too prideful to suddenly go by another moniker.  And imagine the shock value he&#39;d have if ZODIAC suddenly showed up in Kansas.  I think he&#39;d go for that in a heartbeat over creating a new identity.  <BR> <BR>I do think BTK was an avid &#34;fan&#34; of Zodiac, though.<!--/Text--></td></tr>
+<!--/Post: 174-->
+<!--Post: 180--><!--Time: 1086335036-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST180"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->John_prisk<!--/name--></b></a><br>Username: <!--field:uname-->John_prisk<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, June 04, 2004 - 12:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree with the &#34;avid fan&#34; theory - - The phone call&#40;s&#41; are very much like Zodiac&#39;s calls to Vallejo and Napa PD&#39;s. And I agree with what Sandy said re: attention - - BTK wanted attention but Zodiac NEEDED it.<!--/Text--></td></tr>
+<!--/Post: 180-->
+<!--Post: 307--><!--Time: 1087867163-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST307"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, June 21, 2004 - 6:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lets say I was the Zodiac,and things were starting to quiet down in the mid 70&#39;s I was no longer on the front page. I still want the attention,but the police have been to my home asking me questions about the z crimes.They don&#39;t have enough to arrest me,but if I continue with the same game,I could be caught! I could go to some other town like Santa Rosa and stir it up there, but I won&#39;t be able to send letters or they would know its me again. I will kill a few there and see if those crimes make the front page. That turned out to be not as much fun as I had killing, and sending notes to all the media as well as the police. The only thing I can do is go to some other state,change my m.o. so they won&#39;t catch on to who it is,and I can continue haveing a fun time. All I have to do is give myself a new name,darn I would love to use &#34;Zodiac&#34; again but,then the Calif.police would soon find out I am not liveing at my old address,they would put two and two together.I will just be forced to change my name, along with my way of collecting slaves, and go far away....&#40;I Sandy, see this as a possibity&#41;<!--/Text--></td></tr>
+<!--/Post: 307-->
+<!--Post: 309--><!--Time: 1087873637-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST309"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rachel<!--/name--></b></a><br>Username: <!--field:uname-->Rachel<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, June 21, 2004 - 8:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Sandy~ <BR>Have you found anything out that lends credence to Kane being in the Wichita area during the mid to late 70s? For some reason, I lean toward Kane as having more to do with the Z crimes than he&#39;s given credit for. Call it a gut feeling, I guess. <BR>Also, I saw your posts on C&amp;J. Anything new with the &#34;scarred&#34; perp? Thanks &amp; have a great night! <BR>Rachel<!--/Text--></td></tr>
+<!--/Post: 309-->
+<!--Post: 322--><!--Time: 1087969943-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST322"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, June 22, 2004 - 10:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks Rachel, I know he has the money to travel,and I do know some of the places he has gone.Some time in 74 he was told to get out of LasVegas by his boss Allen Dorphman,and I was told or read, that Dorphman was killed in Kansas not long after.Sure anyone could have killed him,but Kane would have the motive and opportunity! I would love to know where in Kansas Dorphman was killed,and the date.As far as the scarred perp,she told me it was on his cheek. My suspect has one on his cheek, and along his jaw line.Short, stocky ,dark brown hair, space between his front teeth, mustache, odd voice,sure are a lot of similaritys !<!--/Text--></td></tr>
+<!--/Post: 322-->
+<!--Post: 348--><!--Time: 1088287855-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST348"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Matt<!--/name--></b></a><br>Username: <!--field:uname-->Matt<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, June 26, 2004 - 3:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Interesting observation; I was a freshman in high school in Fairfield, Solano County California when Zodiac started his attacks.  The next few years kept the entire community on edge, since three of his attacks were in Solano County &#40;Benecia, Vallejo, Lake Berryessa&#41;Although I left California in 1972, I kept up with the Zodiac updates. I moved to Wichita in 1985 to continue my  Law Enforcement career.  I was amazed to learn the similarities between the two killers. It seems that Tom Voight probably did solve the Zodiac killings and attacks. Perhaps he can &#34;dig in&#34; here.<!--/Text--></td></tr>
+<!--/Post: 348-->
+<!--Post: 1382--><!--Time: 1099713588-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1382"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, November 05, 2004 - 7:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Matt, <BR> <BR>If you see this post I find your post a facinating story. To have been in the Vallejo area during the Zodiac activities and then to have moved to Wichita only to run into another case that has Zodiac similarities.  .  .   <BR> <BR>In your opinion does the area of the BTK killings remind you of the Northern Calif areas where the Zodiac killed in their topography, rural qualities, or any other similarities ???<!--/Text--></td></tr>
+<!--/Post: 1382-->
+<!--Post: 1383--><!--Time: 1099714129-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1383"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, November 05, 2004 - 8:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sandy, <BR> <BR>If I am not mistaken, Allen Dorfman was a lawyer for the teamsters and he was the mob&#39;s man in Vegas re: the skim oh so many years ago. <BR> <BR>Again if I have the right man, Dorfman was &#34;hit&#34; or executed by the mob. He knew too much and his usefullness was beginning to wane as the days of skimming the casinos was coming under direct attack from the government.  .  .   <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 1383-->
+<!--Post: 1395--><!--Time: 1099942980-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1395"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, November 08, 2004 - 11:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Matt is on a sweet vacation and sends his regards! <BR>-Deb <BR> <BR>&#34;Tac, Thanks for the note.  Wichita, Fairfield and Vallejo share some urban similarities except for the small hills in the Bay Area.  In regards to rural similarities, there are no hills outside Wichita.  However, the site of the Lake Herman Rd. killings  is very similar to rural  areas in Kansas.  The major difference in all this is that BTK&#39;s crimes have all occured in urban sites.&#34; <BR><!--/Text--></td></tr>
+<!--/Post: 1395-->
+<!--Post: 1811--><!--Time: 1102902571-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1811"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megan<!--/name--></b></a><br>Username: <!--field:uname-->Megan<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 12, 2004 - 5:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Personally I think that BTK is an admirer of the Zodiac Killer.<!--/Text--></td></tr>
+<!--/Post: 1811-->
+<!--Post: 1814--><!--Time: 1102920095-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1814"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 12, 2004 - 10:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The BTK Strangler and the Zodiac Killer are both psychopathic serial murderers who derive pleasure from murdering people, in particular women. Serial murderers are familiar with the modus operandi and any signature traits of other serial murderers. Its possible the BTK Strangler may respect the Zodiac Killer. Richard Ramirez, the Night Stalker appreciated the efforts of Kenneth Bianchi and Angelo Buono. Bianchi and Buono were the Hillside Stranglers. <BR> <BR>The BTK Strangler and the Zodiac Killer are very intelligent individuals who enjoyed manipulating the police and public by corresponding with the police and media organisations. Both want the police and the public to know they possess superior intelligence and flaunt it in poetry, puzzles and daring the police to apprehend them. <BR> <!--/Text--></td></tr>
+<!--/Post: 1814-->
+<!--Post: 1876--><!--Time: 1103069264-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1876"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 14, 2004 - 4:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ivy, <BR> <BR>BTK is known as BTK not BTK Strangler. BTK&#39;s intelligence is unknown. Alluding the police for decades, especially police that share very little or none of the important BTK communications with the public, does not qualify BTK as above intelligent.  <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 1876-->
+<!--Post: 1889--><!--Time: 1103076804-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1889"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 14, 2004 - 6:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The name BTK is a recent development. Between 1974 and 2003 the unknown subject was known as the BTK Strangler. He crafted the sobriquet in any early letter to the police. View any publication during the last thirty years examining the Wichita serial murders and the serial murderer is referred to as the BTK Strangler. <BR> <BR>The BTK Strangler is very intelligent. The planning involved in the crimes and the lengthy time spent at the crime scenes viewing the victims last breath, photographing the corpses and not leaving physical evidence at the crime scenes would suggest the unknown subject is an organized murderer. Organized murderers or serial murderers tend to be highly intelligent, meticulous and careful. Some people would suggest avoiding apprehension for nearly 31 years requires a high degree of intelligence. Not many prominent serial murderers have achieved it.<!--/Text--></td></tr>
+<!--/Post: 1889-->
+<!--Post: 1893--><!--Time: 1103078994-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1893"><font face="Verdana" size="1"><b><!--email--><a href="mailto:raolesin@hotmail.com" target="_blank"><!--/email--><!--name-->Ryan_olesin<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Ryan_olesin<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 14, 2004 - 6:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Interesting similarity. <BR> <BR>BTK&#39;s 13th chapter is &#34;Will there be more&#34; <BR>The Bates letters in the Zodiac case said &#34;There will be more&#34;<!--/Text--></td></tr>
+<!--/Post: 1893-->
+<!--Post: 2138--><!--Time: 1103336656-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2138"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 6:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ivy, <BR> <BR>Many of the highly publicized serial killers like the Zodiac, Bundy were thought &#40;proven in Bundy&#39;s case&#41; to be highly intelligent. But for every Bundy or Zodiac there is a Henry Lee Lucas, Ed Kemper, Green River Killer or Gaci and many lesser publicized men. I just don&#39;t buy it that all or the majority of serial killers are highly intelligent even if they have eluded capture. <BR> <BR>Remember the concept or definition created for these people, Serial Killer, is a relatively new label. I think we need more case study and more comparison but that&#39;s just my opinion. <BR> <BR>I stand corrected indeed the orginal references did include &#34;strangler&#34; as part of the BTK name. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 2138-->
+<!--Post: 2139--><!--Time: 1103336938-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2139"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 6:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ryan, <BR> <BR>Great observation and it seems to fit that BTK would attempted to inject Zodiac references in the most subtle ways possible.  .  .  <!--/Text--></td></tr>
+<!--/Post: 2139-->
+<!--Post: 2172--><!--Time: 1103360419-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2172"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 18, 2004 - 1:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Not all serial murderers are highly intelligent or intelligent. Some possess low intelligence, such as Gary Ridgway. Ted Bundy was considered to have above average intelligence with an IQ of 124. Michael Ross, a Cornell graduate has an IQ of 122. Big Ed Kemper is considered to be highly intelligent with an IQ of 140 and greater. Possessing a high IQ does not imply a serial murderer is intelligent. Competence, sophistication and complexity in manipulation, control and domination determines the serial murderers&#39; level of intelligence. <BR>    <BR>Psychological profilers have suggested the BTK Strangler is highly intelligent in terms of academic achievement and competence. Michael Kelleher believes the BTK Strangler studied engineering or the physical sciences at an undergraduate level at college. Dr. Deborah Schurman-Kauflin from the Violent Crimes Institute prepared a psychological portrait of the unknown subject in 2000 and determined the BTK Strangler is highly intelligent. Her assessment was based on his desire to read books on true crime, poetry and literature. She believes he is capable of concealing his psychopathic traits of control and domination with a facade of modesty and conservatism.   <BR> <BR>The term &#39;serial killer&#39; was devised by Robert K. Ressler from the FBI in 1976. Serial murderers are different. Their fantasies and motives are distinct. Some may use the same modus operandi, some may use a signature and others do not. Studies have demonstrated the &#39;typical&#39; serial murderer does not exist.<!--/Text--></td></tr>
+<!--/Post: 2172-->
+<!--Post: 2222--><!--Time: 1103425427-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2222"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 18, 2004 - 7:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ivy, <BR> <BR>Facinating.  .  .  can I assume then that a serial killer&#39;s motives and fantasies may be random and spur of the moment ideas produced by their impulses ? Would this make the serial killer a easier person to catch because they might strike out without planning their attacks ? <BR> <BR>If the serial murderer is more distinctive in his fantasies and motives might this person be more thorough in planning and executing his crime ? This person then would fit the BTK and Zodiac mold ? <!--/Text--></td></tr>
+<!--/Post: 2222-->
+<!--Post: 2243--><!--Time: 1103443982-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2243"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 19, 2004 - 12:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ed Kemper&#39;s motive and fantasies were different to Ted Bundy, John Wayne Gacy and others. Kemper murdered coeds to counter his mother&#39;s claim they were too good for him. He was motivated by hatred for his mother. Ted Bundy&#39;s motives were more complex. In essence, Bundy murdered women who reminded him of Stephanie Brooks, the girlfriend who rejected him. He thought she was the epitome of refinement, breeding and bourgeois values and was devastated by the dissolution of the relationship. Some serial murderers commit murder on impulse, some are more restrained and disciplined. It does not imply the perpetrator who acted on impulse will be easier to apprehend, but its more likely. <BR> <BR>The BTK Strangler and the Zodiac Killer are considered organized serial murderers. They are more meticulous and careful in planning and executing a murder. They are not likely to commit a murder based on impulse. They are likely to select a victim, survey them, plan an attack and then commit murder. <!--/Text--></td></tr>
+<!--/Post: 2243-->
+<!--Post: 2245--><!--Time: 1103444837-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2245"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 19, 2004 - 12:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ivy,  <BR> <BR>While I know you are correct about Kemper and Bundy, I don&#39;t think you are including the caveat that both were also sadistic psychopaths who found they got a sexual charge out of the pain and death of others, too - in Kemper&#39;s case, actually, some of the adolescent games he played with his sister seem to indicate he was a bit like Albert Fish, and liked the idea of his own pain and death too...that said, I&#39;m not disagreeing, just adding.  <BR> <BR>As to BTK/Z, I agree completely that this was obviously their methodolog&#40;ies&#41; - but I still am puzzling what bottomline trigger got pulled that sent either BTK or Zodiac into the surveillance/stalking/killing cycle. As you pointed out, Kemper had his Mother, and Bundy had Stephanie Brooks to stand there as a symbol of what he wanted to possess, eradicate - what dynamic kicked in with BTK? If we look solely at the women BTK killed, all save Shirley Vian and Julie Otero have a certain look to them, to my eyes. Nancy Fox was a handsome woman, didn&#39;t look to be very big, Vicki Wegerle appears to have been slight and girlish, and it&#39;s possible Kathryn Bright was as well. Could it be that with BTK there was a mix of such motives? If these victims were representing &#40;a la Bundy/Brooks&#41; someone, who? And then there&#39;s this - could there have been something different motivating the Otero murders entirely?  <BR> <BR>It&#39;s a relief to go ahead and post here after lurking for quite a bit. Posters like Ivy Leaguer, Victor &#40;VSCantu&#41; and others are an intellectual breath of fresh air after some of the other forums I&#39;ve read. <BR> <BR>Steve<!--/Text--></td></tr>
+<!--/Post: 2245-->
+<!--Post: 2256--><!--Time: 1103477370-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2256"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Mike_kelleher<!--/name--></b></a><br>Username: <!--field:uname-->Mike_kelleher<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 19, 2004 - 9:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Very interesting discussion. Thanks. I would point out only one detail to keep in mind as the thread continues. All serial killers exhibit both MO and signature. The MO can change, and often does. Sometimes this is a conscious decision on the part of the killer, sometimes not. The signature will not change. That is an unconscious or semi-conscious part of the crime that provides the best behavioral indicators. <BR><!--/Text--></td></tr>
+<!--/Post: 2256-->
+<!--Post: 2279--><!--Time: 1103493218-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2279"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 19, 2004 - 1:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There is no doubt Kemper and Bundy were sadistic psychopaths who enjoyed inflicting pain and suffering on their victims. They derived sexual gratification from viewing the suffering of victims. Bundy mentioned he enjoyed observing the last breath of his victims. <BR> <BR>It seems the Zodiac Killer could have been motivated by rejection or the inability to have an intimate relationship with women. He attacked three couples enjoying a date. His anger and frustration from adolescence increased during adulthood. His lack of success with women may be attributed to them not considering him physically or sexually desirable or he was asocial. After years of frustration he reached the conclusion experiencing sexual gratification was more likely to occur through murder than a romantic relationship with a woman. <BR> <BR>Violent sexual fantasies are at the foundation of the BTK Strangler&#39;s motivation. The unknown subject would consider Nancy Fox and Kathryn Bright and Vicki Wegerle to be attractive and realized he could only have a relationship with them in death. The murder of Shirley Vian may suggest the type of woman that reminds him of his mother or wife or  former girlfriends or all of them. Julie Otero may be included in this category. The BTK Strangler wanted Vian and Otero to experience the suffering women in his life caused him. <BR> <BR>I will amend an earlier statement concerning signature. Modus operandi is dynamic and may change. A serial murderer tends to improve and refine the modus operandi during their period of operation. Signature is static and reveals the perpetrator&#39;s personal expression. However, a signature may evolve over time where a sexually sadistic murderer performs more postmortem mutilation from one murder to another. In some cases the police may have diffculty determining the signature due to decomposition of the corpse or interruptions of the murderer&#39;s routine.     <!--/Text--></td></tr>
+<!--/Post: 2279-->
+<!--Post: 2281--><!--Time: 1103494001-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2281"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Oliver<!--/name--></b></a><br>Username: <!--field:uname-->Oliver<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 19, 2004 - 2:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Has it ever occurred to you that BTK could have just developed the way he is. With murder/torture his only way of sexual gratification. Maybe he doesn&#39;t even know why. Maybe it had nothing to do with his environment or the way he grew up.<!--/Text--></td></tr>
+<!--/Post: 2281-->
+<!--Post: 2282--><!--Time: 1103494784-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2282"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 19, 2004 - 2:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oliver, this discussion is about the similarities between BTK and the Zodiac.<!--/Text--></td></tr>
+<!--/Post: 2282-->
+<!--Post: 2414--><!--Time: 1103615303-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2414"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 20, 2004 - 11:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have to at least partly agree with Oliver: BTK and Zodiac both could easily have become serial killers just &#34;out of the blue&#34;. Kinda like Bundy, who was an upstanding yuppie law-school student. Sure, he might of had a lousey breadup with a girlfriend, but who among us hasn&#39;t? Who among us hasn&#39;t? <BR> <BR>In other words, BTK &amp; Zodiac may be otherwise &#34;normal&#34; persons in society. Not hideous-looking gargoyles with green skin &amp; horns sticking out of their heads. In fact, this totally &#34;normal&#34; appearence is exactly what may have kept them from ever being noticed or captured during their respective lifetimes. <BR> <BR>But that could change soon.....<!--/Text--></td></tr>
+<!--/Post: 2414-->
+<!--Post: 2417--><!--Time: 1103621837-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2417"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 21, 2004 - 1:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I could not have said this any better, Victor - I think one of the big commonalities BTK and Zodiac may have will be this kind of bland-seeming, nebbishy camouflage of a personality. They will seem as inadequate to casual acquaintances as they are, and will have learned to hide the pathologies early in life. They are both very innocuous men, who probably seem particularly harmless to relatives and/or acquaintances. This demeanor both contributed to their continuing to feel less than adequate, but also became their mask. <BR> <BR>Steve<!--/Text--></td></tr>
+<!--/Post: 2417-->
+<!--Post: 2419--><!--Time: 1103624498-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2419"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 21, 2004 - 2:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The BTK Strangler and the Zodiac Killer would appear normal to relatives, acquaintances and people who met them in the community. The facade of respectability or the appearance of normality is a factor in both perpetrators avoiding punishment. The families of the BTK Strangler and the Zodiac Killer would be shocked and in a state of disbelief if they were captured. <BR> <BR>It would be unlikely the BTK Strangler and the Zodiac Killer suddenly decided to become serial murderers. Years of frustration, anger and inadequacy would have accumulated before the decision was made to murder and continue to murder. Both took enormous risks in murdering some of their victims. An individual who accepted such risks would expect a payoff that provided a high level of gratification. Murdering for sexual gratification could be justified by the BTK Strangler and Zodiac Killer. It would provide the motivation to murder for several years and most probably murder more victims that remain unknown. Murdering someone for fun would provide satisfaction in the short term, but not after murdering the sixth or seventh victim. The fun would dissipate. The economic principle of the law of diminishing returns would apply. The murderer would believe the risks surpassed the gratification derived and would contemplate not murdering in the future or not murder in the future. The compulsion for the BTK Strangler and the Zodiac Killer to continue to murder would be greater than murdering for fun. Psychopaths murder for enjoyment and to assert control and dominance over the victim and realize their fantasies.  <!--/Text--></td></tr>
+<!--/Post: 2419-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/28">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/28" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

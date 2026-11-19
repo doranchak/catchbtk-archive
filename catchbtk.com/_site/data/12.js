@@ -1,0 +1,1 @@
+window.CBTK={"page":"12.html","title":"catch BTK .com -- WEGERLE DRIVER'S LICENSE","archive":"../index.html","versions":[{"t":"20041204182043","e":"20041204182043","n":1,"f":"history/12~20041204182043.html","a":0,"d":0,"sa":[],"sd":[]}]};

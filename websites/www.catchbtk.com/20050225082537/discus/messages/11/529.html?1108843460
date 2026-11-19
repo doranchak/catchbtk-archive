@@ -1,0 +1,227 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 529/Dead-ends -->
+<!--Level 1: 529/Dead-ends -->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Dead-ends </title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Dead-ends </td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+Dead-ends 
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=529"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=529"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 7954--><!--Time: 1108764973-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7954"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Prairie_chicken<!--/name--></b></a><br>Username: <!--field:uname-->Prairie_chicken<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 2:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->On the C&amp;J message board there are satellite views of each of the houses where the murders occurred.  I perused those, and then comparing them to Mapquest, this is what I’ve noticed &#40;not to mention that I live in Wichita and have driven by all the locations just in the course of life, not spying&#41;: <BR>  <BR>J Otero house:  803 N Edgemoor is on the NW corner of Edgemoor and Murdock.  The maps now show Murdock extending east of Edgemoor &#40;name changes to Carriage Parkway east of Edgemoor,&#41; but it was not that way in the 70’s.  That extension east of Edgemoor did not exist then, so Murdock was a dead-end at Edgemoor.  There were entrances to the park and stables further south on Edgemoor.  There is, however, another street, Pine St., that extends south and west from the intersection of Murdock and Edgemoor.  Pine St. dead-ends at the corner of Murdock and Edgemoor as well.     <BR> <BR>Kathryn Bright house:  3217 E 13th St. was on the south side of 13th St, with a gravel alley that ran along the east side the house.  The alley continues on the north side of 13th St, but slightly offset from the south side.  This could loosely be called a dead-end. <BR>  <BR>Shirley Vian house:  1311 S Hydraulic is three houses south of Bayley St.  It has a gravel alley that runs behind the house, and Bayley dead-ends one block east, at S. Kansas Ave. <BR> <BR>Nancy Fox apartment:  843 S Pershing is three houses north of Lincoln on Pershing.  Pershing dead-ends at Lincoln.  It picks up south of Lincoln after it skips about a block. .  There is a gravel alley that runs behind the Fox apartment and there are lots of low rent apartments around and cars parked behind in the alley, some old junk cars.   <BR>  <BR>Vicki Wegerle house:  2404 W 13th St. is on the north side of 13th St.  Arrowhead St. runs from Mohawk Ln. north and dead-ends at 13th St., directly across the street from the Wegerle house.  <BR>  <BR>Anna Williams house:  615 S Pinecrest is three houses south of the intersection of S Pinecrest and E. Orme St.   Until a year ago, Orme St. dead-ended at Pinecrest because there is a creek/drainage canal that runs behind the houses on the west side of Pinecrest.  This year the city built a bridge across the creek and Orme now intersects Pinecrest.  I lived next door in the 2nd house from the dead end for a couple years in the late 60’s. <BR> <BR>“Sandy”, the other one that got away, 300 block of N. Old Manor.  Going north, the 300 block of Old Manor dead-ends at Waterman St.  With no address, I would be interested to know if it was three houses down. <BR> <BR>So, what are your thoughts?  Have I gone off on a hokey tangent?  Something makes me believe there is a clue here. <BR> <BR>PChick <BR><!--/Text--></td></tr>
+<!--/Post: 7954-->
+<!--Post: 7968--><!--Time: 1108769506-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7968"><font face="Verdana" size="1"><b><!--email--><a href="mailto:BTK_Catcher@cox.net" target="_blank"><!--/email--><!--name-->Catcher<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Catcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 3:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You know what&#39;s crazy?!?!?! I just got back from riding my motorcycle to the Otero residence, with the intention of going to Fox&#39;s afterward.  I was analyzing the area as well, and thought &#34;Wow, the roads end here as far as residentially, I wonder how it was in the 70s?  I also noticed that only 1 neighbor could really have a view of the Otero residence, and it is blocked by spuce trees and what have you.  As I made my way towards Pershing, I was frustrated that it dead-ended at Kellogg, and didn&#39;t wish to continue zig-zagging without looking at a map first.  I really do think you are onto something, especially since &#34;dead-end&#34; is a play on words, which BTK is partial to.  I want to look at the return addresses of his communications in this light as well.  You down for a road trip?  Lol.....<!--/Text--></td></tr>
+<!--/Post: 7968-->
+<!--Post: 7985--><!--Time: 1108773534-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7985"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 4:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, at first I thought perhaps the dead ends were chosen so if he were being chased by a vehicle, he could easily slip away on foot to &#34;the other side&#34; of the dead end. <BR> <BR>I presume that idea entered my mind because some years ago a child was murdered in broad daylight where I used to live.  She was stabbed at the corner at a busy intersection. <BR> <BR>The perp got away ON FOOT!  How?  The cops had motocycles and cars that gave chase, and he simply slithered betwixt and between buildings, lots, where the cops couldn&#39;t drive. &#40;So the story goes.&#41; <BR> <BR>BUT -- my second thought is that BTK sometimes TAKES THE VICTIM&#39;S CARS. <BR> <BR>So I guess we need decide if the houses WITHOUT dead ends are the ones where BTK heisted the car? <BR> <BR>Plus hiding in the dead-end bramble to spy may have been BTK&#39;s first move before striking.  <!--/Text--></td></tr>
+<!--/Post: 7985-->
+<!--Post: 8022--><!--Time: 1108816571-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8022"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Prairie_chicken<!--/name--></b></a><br>Username: <!--field:uname-->Prairie_chicken<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 4:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey Catcher, Jan, thanks for the reply.  This has been rolling around in my mind for a couple weeks now.  Today I will also start looking at the return addresses on recent communication.  I do know that the address on S. Oldmanor, the vacant apartment, is on a little strip of S. Old Manor that runs from Harry St to Countryside and is only 1 block long, dead-ending at both ends.  Old manor continues both ways, but offset.  Eerily enough, I lived just around the corner at Parkwood and Countryside for three years in early eighties. <BR> <BR>And yes!  I&#39;m up for a road trip...lol.  My kids are tired of hearing me talk about this. <BR> <BR>PChick<!--/Text--></td></tr>
+<!--/Post: 8022-->
+<!--Post: 8053--><!--Time: 1108843460-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8053"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 12:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Please don&#39;t think this is stupid but I have an idea about the dead-ends. Catcher, think about the neighborhood you were in, map the murders including Old Manor and Kellogg, because Kellogg is a cereal  then tell me if you get anything out of this S. Skillet means kiss and tell kiss/tell. Is there any street, store, etc that could have to do with these words, in that area?<!--/Text--></td></tr>
+<!--/Post: 8053-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/529">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/529" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

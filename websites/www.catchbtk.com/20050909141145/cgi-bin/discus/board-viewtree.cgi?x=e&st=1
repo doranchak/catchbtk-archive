@@ -1,0 +1,139 @@
+<html>
+<head>
+<title>Tree View</title>
+<style>
+<!--
+body { font-family: Verdana; line-spacing: 0 }
+-->
+</style>
+<script language="JavaScript1.2">
+<!--
+function loader() {
+}
+// -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="loader()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Tree View</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<font face="Verdana" size="1">
+<!-- Non-JavaScript Tree -->
+<img src="/discus/icons/tree_g.gif" height=16 width=20 align=top>catchBTK.com MESSAGE BOARD<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=817"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/817/817.html?1125947027">Dennis Rader</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=264"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/264/264.html?1109996812"><b>Messages From BTK</b></a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=59"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/59/59.html?1125043892">Messages To BTK</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=c&st=1"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/1/1.html?1126129006">General BTK Discussion</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/12.html?1085510083">Welcome everyone!</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/13.html?1108624887">Site feedback</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/16.html?1103240818">The Profile</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/209.html?1116670354">The Profile, Part 2</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/18.html?1108508663">BTK Secret Revealed</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/46.html?1109545182">Recipe to identify BTK</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/37.html?1106263950">Baby Picture</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/141.html?1115380073">Baby Picture -- ENHANCED</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/28.html?1114818957">BTK and Zodiak</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/80.html?1111551395">Postal clerk talked to BTK - 4 a.m. June 16, 1979</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/197.html?1109472884">Puzzles</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/220.html?1105401987">Fancy Nancy? Picture</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/232.html?1125459245">&#34;North Of Kechi&#34;</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/848.html?1125762308">&#34;North Of Kechi&#34;, Part 2</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/242.html?1107704479">Safety Deposit Box for 25 years?</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/267.html?1109859687">Findings on the web, related to BTK?</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/275.html?1109031854">Maps</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/280.html?1108756180">Despite all my rage, i&#39;m still just a ...</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/299.html?1124434397">&#34;TALKING TO TOM&#34;</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/837.html?1125364707">&#34;TALKING TO TOM&#34;, part 2</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/337.html?1108460671">The Newspaper and the Victims</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/340.html?1108593644">BTK /ORIGINAL Night Stalker</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/342.html?1112725914">In Cold Blood; Coincidences Galore!</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/343.html?1107111404">Additions to Kelleher&#39;s profile</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/345.html?1108058640">Why does BTK stay &#40;or return&#41; to Wichita?</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/389.html?1108051784">BTK&#39;S MOVIES</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/414.html?1110151029">BTK timeline</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/413.html?1109055567">What do all of the victims have in common?</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/436.html?1126128871">A Blackout Tavern</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/440.html?1109630645">LE Releasing Information to Public</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/456.html?1109485914">Fake BTKs</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/480.html?1108320597">Interesting post from yahoo group now locked down</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/487.html?1109177351">Maps to freak out over</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/492.html?1109392214">BTK&#39;s Intelligence Level</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/495.html?1109607332">:Links to various related websites</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/513.html?1124694966">P.J. Wyatt taught ENGLISH 440</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/522.html?1109112094">BTK&#39;s Mementos/Keepsakes</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/531.html?1124419702">Petra</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/554.html?1112252884">Bundy Factor</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/569.html?1109407633">Is there anyone else ...</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/601.html?1109686567">He kept killing .. WPD bungled it</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/629.html?1111498794">WHAT NEXT? Other Faceless Monsters To Hunt.</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/691.html?1110583912">First cop on Oteros scene UNBELIEVABLE !!!!!!!!!</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/767.html?1124433179">Preventing Future BTKs</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/835.html?1124759466">Preventing Future BTKs, Part 2</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/647.html?1110384102">Articles that contradict what we thought </a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/175.html?1102040234">New clues released</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/704.html?1113913025">Symbol</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/622.html?1111180100">What, if any, was BTK&#39;s success strategy?</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/611.html?1124433733">Was BTK Posting Here? ROLL CALL</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/836.html?1125406226">Was BTK Posting Here? ROLL CALL, Part 2</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/333.html?1106877916">We need someone from the outside</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/842.html?1125103203">Google search trends</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/847.html?1125422852">Park City Phone Directory Project 1993</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/236.html?1125648802">Oh Death and PJ</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_f.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/1/850.html?1126129006">Special officer</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=2"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/2/2.html?1114088077">Definite BTK Victims: The Oteros</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=5"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/5/5.html?1115574803">Definite BTK Victim: Kathryn Bright</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=6"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/6/6.html?1124418822">Definite BTK Victim: Shirley Vian</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=3"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/3/3.html?1124129856">Definite BTK Victim: Nancy Fox</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=7"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/7/7.html?1113980629">Definite BTK Victim: Vicki Wegerle</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=822"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/822/822.html?1124734332">Definite BTK Victim: Marine Hedge</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=823"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/823/823.html?1125502540">Definite BTK Victim: Delores &#34;Dee&#34; Davis</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=8"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/8/8.html?1126232318">Possible BTK Victims</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=9"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/9/9.html?1115935760">BTK Suspects</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=10"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/10/10.html?1125702200">BTK Communications</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=11"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/11/11.html?1124588366">BTK Theories</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=76"><img height=16 width=20 border=0 src="/discus/icons/tree_f.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/76/76.html?1126227184">BTK Media</a><br>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=admin" target=_top><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>
+<!--HTTP Cookie:  -->
+<!--Setting Cookies:
+  -->

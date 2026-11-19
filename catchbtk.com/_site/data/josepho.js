@@ -1,0 +1,1 @@
+window.CBTK={"page":"josepho.html","title":"Joseph Otero","archive":"../index.html","versions":[{"t":"20050305003516","e":"20050305003516","n":1,"f":"history/josepho~20050305003516.html","a":0,"d":0,"sa":[],"sd":[]}]};

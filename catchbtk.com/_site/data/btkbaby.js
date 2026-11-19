@@ -1,0 +1,1 @@
+window.CBTK={"page":"btkbaby.html","title":"catch BTK .com -- BABY BTK?","archive":"../index.html","versions":[{"t":"20040826110123","e":"20040826110123","n":1,"f":"history/btkbaby~20040826110123.html","a":0,"d":0,"sa":[],"sd":[]}]};

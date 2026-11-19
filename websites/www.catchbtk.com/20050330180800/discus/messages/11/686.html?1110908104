@@ -1,0 +1,316 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 686/There Never Was a Dennis...-->
+<!--Level 1: 686/There Never Was a Dennis...-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: There Never Was a Dennis...</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">There Never Was a Dennis...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+There Never Was a Dennis...
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=686"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=686"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 10830--><!--Time: 1110246847-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10830"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 5:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In <a href="http://www.catchbtk.com/discus/messages/1/679.html?1110246437">this thread</a> I just realized, as I wrote the post, that I had a theory about the man we now believe to be the BTK Strangler. <BR> <BR>Recapping what I said in that thread; <BR> <BR> <BR><i>&#34;Ever read William Diehl&#39;s &#34;Primal Fear&#34;, or see the movie starring Edward Norton and Richard Gere? <BR> <BR>Norton played a young man who seemed afflicted with two personalities; the genteel, shy, retiring Aaron, and Roy, the vicious, highly intelligent killer. <BR> <BR>In the novel and movie, Gere&#39;s character, Aaron/Roy&#39;s attorney, brilliantly convinces, he thinks, the jury that Aaron/Roy is not guilty by reason of insanity. <BR> <BR>But my favorite part, the one I think applies to any discussion of &#34;Dennis Rader&#34;, is the end, when Martin Vail &#40;the lawyer&#41; is speaking with Aaron/Roy before he is to be taken to the mental hospital, and finally the boy says; <BR> <BR></i><b>&#34;...There never was an Aaron, counselor...&#34;</b><i> <BR> <BR>There never was, I believe, a &#34;Dennis&#34;. <BR> <BR>That&#39;s just one reason I&#39;m still around and posting about this...&#34;</i> <BR> <BR>I&#39;d like to see other&#39;s thoughts on this. I don&#39;t mean that the man had any split personality - just that the &#34;mask&#34; persona was Rader. The true creature was BTK. I am fully aware of &#34;The Mask of Sanity&#34; used by psychopaths to cope, but I&#39;d just like to hear thoughts about this aspect of the killer&#39;s personality.<!--/Text--></td></tr>
+<!--/Post: 10830-->
+<!--Post: 10833--><!--Time: 1110247297-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10833"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 6:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->k then here&#39;s what I said lol <BR>Hey Steve funny you should bring that up That movie was on the other day and I completely agree. I can&#39;t remember right at the moment which Pyschologist came up with the Lookig Glass Theory, but is basically says that we act the way we believe others want us to act. we can not truly look into ourselves because we are more concerned with how to be acceptable to others, Serial Killers grow up apeing other people, since they can not form feelings of their own, they study other peoples actions and pretent to have those same feelings, everything in life is an act and they are better skilled at the art then the rest of us, because most of us don&#39;t have to analysis our emotions on a daily basis. <BR><!--/Text--></td></tr>
+<!--/Post: 10833-->
+<!--Post: 10840--><!--Time: 1110251857-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10840"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 7:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m starting to agree with your idea, Steve - that there is only BTK.  For a long time I&#39;ve had a part of me that says: &#34;Deep down inside, BTK wants to get caught so he can come clean and get right with G&#42;d.  That&#39;s why he came back, which was so obviously stupid from a purely practical, sociopathic point of view.&#34; <BR> <BR>But I think I have a better explanation.  He wanted to cash in on his fame.  He wanted to get out of the SK market - not because he didn&#39;t have a nice nest egg built up, but because he did, and he didn&#39;t want to die and leave it all behind.  He wanted to cash in on it in this life, and didn&#39;t give 2 bits of a hoot about the next life.  Sure, he would risk getting caught - but that was one of two acceptable outcomes. <BR> <BR>Most of us only get 15 minutes of fame, and we have zero choice in what it will be.  A car accident, or a spontaneous act of local heroism at somebody else&#39;s.  Guys like you get more time, and have some choice in what it will be, but only partial control of how much.  But Rader - he had a boatload of fame chips built up as an almost accidental interest on his SK &#34;investment&#34;, and he had a heck of a lot of control in how the chips would fall if he wanted them to.  And it was all gonna go back to the bank if he didn&#39;t do something. <BR> <BR>I hate to say this, but I&#39;m really glad to hear that he is depressed.  The reason is simple - if there ever was a Dennis, he&#39;s buried way more than 6 feet under Deadly Denny, and it&#39;s gonna take some life-changing events to dig him up.  We may be talking about something left way back in childhood - something that has never even been near the surface for 55 years.  In prior dealings with juvenile sociopaths, I&#39;ve estimated that the good kid got left behind as early as 2 years old.  If there&#39;s something anywhere in this guy that can be saved, there&#39;s gonna have to be some major excavation.  A serious, full-on depression will just be scratching the surface.  And, in the end, there may truly be no Dennis, as you say.  But I will continue to pray that there is, all the same.<!--/Text--></td></tr>
+<!--/Post: 10840-->
+<!--Post: 10849--><!--Time: 1110254985-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10849"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 8:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The Shakespearean distinction between appearance and reality is an important matter when discussing the psyche of psychopathic serial murderers. Dennis Rader projected a facade of &#39;respectability&#39;. The term respectability in this context refers to the perpetrator&#39;s ability to conceal violent sexual fantasies and the desire to murder. The Dennis Rader known to family, friends, neighbors and the public was a fraud. He may have been a compliance supervisor in local government, a college graduate and a leader in his parish, however it did not matter to his psyche. The BTK Strangler provided his psyche with nourishment. The BTK Strangler&#39;s desire to realize violent sexual fantasies and murder provided the greatest gratification. <BR> <BR>The BTK Strangler dominated Rader&#39;s psyche for the last 31 years and will continue until his death. The BTK Strangler is not only a sadistic serial murderer, but is narcissistic and enjoys taunting the police and the public. The BTK Strangler wants the public to believe he was not capable of murder. It provides him with enjoyment. Its another attempt to control the public. The BTK Strangler does not care that his wife and children are humiliated and embarrassed. He is not concerned by the support of a member of his congregation. The BTK Strangler is only concerned with his fate and manipulating, controlling and dominating his family, friends, the Wichita Police Department and the public.<!--/Text--></td></tr>
+<!--/Post: 10849-->
+<!--Post: 10852--><!--Time: 1110260282-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10852"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 9:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Very well put<!--/Text--></td></tr>
+<!--/Post: 10852-->
+<!--Post: 10868--><!--Time: 1110262825-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10868"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 10:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->After reading IL&#39;s penetrating analysis of him, it&#39;s clear that BTK will probably try to exert as much negative control on the public from inside his jail cell as he did on the outside, from where he managed to keep millions of people in a state of fear, suspicion, and general uproar. <BR> <BR>As a member of the public, I just feel used by this guy.<!--/Text--></td></tr>
+<!--/Post: 10868-->
+<!--Post: 10876--><!--Time: 1110264318-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10876"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Raedelina<!--/name--></b></a><br>Username: <!--field:uname-->Raedelina<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 10:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->No amount of &#40;possible&#41; abuse can account for his adult behavior, however, as a survivor of horrific abuse myself, I CAN say that recovery is a very confusing place.  I have been filled with such sadness and rage that I am ashamed to say that anything might have been possible in certain situations.  Who knows what Rader&#39;s were? <BR> <BR>No excuses.  Just trying to feel each possible truth. <BR> <BR>I also feel that he very well might be an emotionless reptile who experiences the same loss of life for Nancy Fox as he does for a cricket.   <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10876-->
+<!--Post: 10887--><!--Time: 1110266105-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10887"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Raedelina<!--/name--></b></a><br>Username: <!--field:uname-->Raedelina<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 11:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->No, that&#39;s not true.  He wouldn&#39;t get off on watching a cricket die but he does for his human victims.  I&#39;m sorry to have made such a stupid metaphor.  It minimizes their unimaginable suffering.<!--/Text--></td></tr>
+<!--/Post: 10887-->
+<!--Post: 10890--><!--Time: 1110267084-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10890"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 11:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok Ivy - Did Dennis Rader or BTK have the Mens Rea to committee his criminal acts? Bare in mind that there are 4 criminal states of mind, for some reason I think you know this but they are: <BR>intentionally, knowingly, recklessly and grossly negligent. I think Dennis Rader intentionaly murdererd these victims, not so much as BTK generally wanted to.<!--/Text--></td></tr>
+<!--/Post: 10890-->
+<!--Post: 10896--><!--Time: 1110275268-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10896"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 1:47 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky, <BR> <BR>It seems Dennis Rader purposely or intentionally murdered four members of the Otero family, Kathryn Bright, Shirley Vian, Nancy Fox, Marine Hedge, Vicki Wegerle and Dolores Davis. Its highly likely the number of victims could increase in the future. Dennis Rader meticulously planned, stalked, threatened, bound and strangled his victims. Kathryn Bright was stabbed. Rader was most probably motivated by violent sexual fantasies, narcissism and a desire to inflict death on his victims. The other three levels of mens rea: knowingly;recklessly and negligently rarely apply in a criminal case against a serial murderer. Serial murderers intend to commit murder against a particular person.<!--/Text--></td></tr>
+<!--/Post: 10896-->
+<!--Post: 10903--><!--Time: 1110286144-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10903"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 4:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->rockys been watching to many reese witherspoon movies<!--/Text--></td></tr>
+<!--/Post: 10903-->
+<!--Post: 10905--><!--Time: 1110288160-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10905"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 5:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree, I believe the one important aspect to remember here is that The only true emotion felt by a Serial Killer is the primative instinct of survival, For mankind, that consists of a variation of food, shelter, a thirst for knowledge, etc. For those driven by their underdevelop psyche, the drive is pleasure, at any cost at the expense of anyone who stands in the way. As children we learn to manipulate our enviroment to satisfy our needs and desires, as we become adults we learn to limit those desires depending on our consideration for how our needs and wants will affect others. It is the feeling of guilt that keeps us in check. When we do not have that internal system of checks and balances, we become a danger to others. Have no concern  or regard for anyone or anything that does not supply immediate gratification. There is no place in society for people like this. This type of person has been studied In Psychology, debated, tested and still there is no explaination and little understanding of how or why they kill. Remember we are all born with the ability to cross the line, yet thru nature and nurture come to understand our limitations. Rader never learned these limitations, I do not believe he could have been helped even during his Youth. In the DSM-IV a book used by Psychologist to classify mental disorders. There is no cure for this type of Mental Illness and of course it is the most dangerous.<!--/Text--></td></tr>
+<!--/Post: 10905-->
+<!--Post: 10912--><!--Time: 1110293379-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10912"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 6:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sc, Actually I studied Criminal Law, Psychology, and Constitutional Law then interned with criminal defense lawyers. It was after the 4th or 5th crack head I interviewed as witnessess that I arrived at the conclusion, criminals had more rights than victims. There seems to be a question of competency for DTDC. Gee, I can&#39;t imagine why? But one thing I do understand are the odds of a misfiring in the human brain. Synaptic Gaps,&#40;is that right E?&#41;where messages are fired across - I think DTDC has a lot of misfirings. BTW - which Reese Witherspoon movie are you referring to?<!--/Text--></td></tr>
+<!--/Post: 10912-->
+<!--Post: 10922--><!--Time: 1110305725-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10922"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 10:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky, I believe you, but Ivy Leaguer is right - essentially, proving Rader insane is going to be really, really, hard.  <BR> <BR>Simplify to the M&#39;Naghten rule, which is still the fundamental basis for many states&#39; requirements of legal proof of sanity/insanity. Did he know what he was doing was wrong, or was he too crazy? <BR> <BR>He knew, beyond a shadow of a doubt, and concealed his association with his crimes very well. The man is sane by the normal standards. However, the old, old, definition of psychopathy - &#34;moral insanity&#34; - does apply. That old definition won&#39;t help him though.  <BR> <BR>Accepting that Rader is sane by any standard definiton only serves to underscore the...well, the <b>evil</b> inherent in his acts.<!--/Text--></td></tr>
+<!--/Post: 10922-->
+<!--Post: 10934--><!--Time: 1110311623-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10934"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 11:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yes Rocky you are right and in most cases medication can be administered to open or close certain doors, to speed up or slow down the firing of impulses. For example antidepressants, like paxil, changes how many receptors open to allow the flood of Seritonin into the brain. the problem which the Antipsychotic drugs for patients with extreme mental illness, is that we don&#39;t have a drug for people like Rader. and the understanding is still in the infantile stage. The worst part is the diagnosis, You can&#39;t very well see the word Serial Killer in their head. On a brain scan the pattern is slighty different, that&#39;s about all.  BTW you can not fake multiple personality disorder. Without going into a million details. Look at it in layman&#39;s terms. Everything you do is a learned behavior, a child will experiment with motor skills until they find correct patterns, Like pick up spoon, place in mouth. Now over time, this idea becomes imprinted into your mind so you no longer have to think about it. That is basically how we catch imposters of MPD.<!--/Text--></td></tr>
+<!--/Post: 10934-->
+<!--Post: 10941--><!--Time: 1110312812-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10941"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 12:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve: that&#39;s exactly right, I had forgotten about that rule. &#40;I&#39;m in insurance defense now, thank god!&#41;But, why is LE using the term competency in a criminal matter? I&#39;ve seen it used in contracts, wills &amp; trusts etc...what is their strategy here?<!--/Text--></td></tr>
+<!--/Post: 10941-->
+<!--Post: 10946--><!--Time: 1110314301-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10946"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 12:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;ll tell you why I <i>think</i> this word has entered into this criminal case.  <BR> <BR>I would lay dollars to donuts that Denny the Deadly Dog Catcher is getting a Green River Gary &#40;Ridgway&#41; dealie-o, where in exchange for life and possibly better than usual treatment he will spill ALL, to any authorities who need to hear it.  <BR> <BR>That &#34;better than usual&#34; might be incarcerating him in a special segregation unit or even a maximum security hospital. Just a guess, and could definitely be wrong.<!--/Text--></td></tr>
+<!--/Post: 10946-->
+<!--Post: 10947--><!--Time: 1110314378-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10947"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 12:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok wait, I think I just answered my own question. Competency is dealing with &#34;only&#34; his enter of a plea. So essentially, his lawyers could say he is incompetent therefore disqualifying himself from even entering a plea. Am I close? If it is a question of sanity he has to prove his own mental defect. We&#39;ll that makes since for lawyers to say he&#39;s even incompetent to enter a plea on his own behalf that way he doesn&#39;t have to prove his sanity, right?<!--/Text--></td></tr>
+<!--/Post: 10947-->
+<!--Post: 10960--><!--Time: 1110319766-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10960"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 2:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->E- your awesome, but I think the Dalhmer scientist better hurry up then! Are you talking about Povlov&#39;s theory of operational conditioning?<!--/Text--></td></tr>
+<!--/Post: 10960-->
+<!--Post: 10971--><!--Time: 1110323042-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10971"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 3:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sort of, also talking about life span and development. Erickson, Maslow, good examples<!--/Text--></td></tr>
+<!--/Post: 10971-->
+<!--Post: 11011--><!--Time: 1110347193-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11011"><font face="Verdana" size="1"><b><!--email--><a href="mailto:williammichael@direcway.com" target="_blank"><!--/email--><!--name-->Oklahoma_mike<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Oklahoma_mike<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 9:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Very interesting discussion.  Allow me to hopefully clarify the distinction between &#39;competency&#39; and &#39;insanity&#39; as applied in this situation.  I am not certain of the Kansas state laws regarding specifics of competency but I have experience with doing competency evaluations here in Oklahoma, though none recent. <BR>&#39;Competency&#39; here refers to the accused person&#39;s ability to understand and appreciate the nature of the charges, possible punishments, basic rights, basic court procedure, and to demonstrate the ability to communicate and assist with attorneys in their defense.  It is actually seperate from insanity, as no trial or sentence may begin if the defendant is not competent.  A person could be competent to stand trial yet still be found insane.  Merely having a mental illness does not automicically qualify as incompetent, just as it does not automatically qualify as being insane. The words competence and insanity are legal, not medical or psychological terms. <BR>If there is a request for competency evaluation it might be the prosecution or defense filing the request.  Prosecutors would want to eliminate any question of competency before proceeding, especially if they are interested in any plea bargain.  Same for the defense, a plea may later be challenged by either side if cause is shown that the defendant was incompetent at the time the agreement was reached or the sentence imposed. <BR>Looking at the dedendant only through the eyes of the media nobody can do a true competency evaluation. But what I can observe indicates nothing that would call into question either competency or sanity.  It is either the defense grasping at any straw or the prosecution wanting to make sure all ducks are in the proper row.<!--/Text--></td></tr>
+<!--/Post: 11011-->
+<!--Post: 11021--><!--Time: 1110354917-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11021"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 11:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I thank you for the clarification Mike. I do not believe Rader&#39;s competency should be in question, since he is Capable of understanding right from wrong. In other cases of this nature, the defendent was found to be insane and yet guilty. The defense team has already make statements concerning the limited amount of preparation time, I feel this may be a ploy to ask the Judge for more time.  <!--/Text--></td></tr>
+<!--/Post: 11021-->
+<!--Post: 11168--><!--Time: 1110488479-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11168"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 1:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey Steve, I had a theory handed to me today, without going into to many details, the point was that Dennie the Dog Catcher stalked his victims like he did his dogs, Sorry to make it sound so impersonal for thoses reading this. The point was that He used his victim catching technique the same  way on his dog catching. Or the other way around, the hunt, the snare, etc. What do you think.<!--/Text--></td></tr>
+<!--/Post: 11168-->
+<!--Post: 11189--><!--Time: 1110494017-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11189"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Foxfire<!--/name--></b></a><br>Username: <!--field:uname-->Foxfire<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 2:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->. . . wasn&#39;t it rather that he ended up stalking his dogs like he had and continued to do his victims? <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 11189-->
+<!--Post: 11190--><!--Time: 1110494201-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11190"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 2:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->yes your are right,  if we go along that line of thinking then we can track him easier, The way he hunted and chose him victims.<!--/Text--></td></tr>
+<!--/Post: 11190-->
+<!--Post: 11428--><!--Time: 1110695592-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11428"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 10:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I guess I&#39;m not getting your stalking theories, because your not really doing much hunting if your prey lives 6 doors down the street. &#40;Forgive me Marine&#41;.<!--/Text--></td></tr>
+<!--/Post: 11428-->
+<!--Post: 11489--><!--Time: 1110782806-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11489"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 13, 2005 - 10:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here this substantiate&#39;s the failed psych eval theory! <BR> <BR>http://www.kake.com/home/headlines/1354787.html<!--/Text--></td></tr>
+<!--/Post: 11489-->
+<!--Post: 11490--><!--Time: 1110782910-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11490"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 13, 2005 - 10:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Excuse me: <BR><a href="http://www.kake.com/home/headlines/1354787.html" target=_top>http://www.kake.com/home/headlines/1354787.html</a><!--/Text--></td></tr>
+<!--/Post: 11490-->
+<!--Post: 11542--><!--Time: 1110896487-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11542"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 15, 2005 - 6:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok I am guessing he failed the test BEcause he was nuts. They are not going to give you a gun and all that power so you can go out and shoot anyone who doesn&#39;t pay a parking ticket. I am sure LE is very greatful right now for those Psyc. Eval. tests<!--/Text--></td></tr>
+<!--/Post: 11542-->
+<!--Post: 11546--><!--Time: 1110897650-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11546"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 15, 2005 - 6:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Now I&#39;m wondering why Park City didn&#39;t give him one as well! I&#39;m totally convinced DTDC committed all these crimes because of his failing the psych eval and the WPD not hiring him as a result. He was vengful! Which make him sane, right?<!--/Text--></td></tr>
+<!--/Post: 11546-->
+<!--Post: 11557--><!--Time: 1110906650-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11557"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 15, 2005 - 9:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Would that they still had a copy of the test if he got that far in the screening process. When in the police academy, we took the MMPI and spoke with a psychologist. They did want to screen out the trigger happy, pistol packing, PMS shooter, etc. I am sure that he scored high on Masculinity and Pshycopathic Deviance. So do motorcycle gang members. It is called the &#39;Chest Thumping Masculinity&#34;. Young men can exhibit this as well: my tires are larger than yours, my car is louder, I peel out at all times, etc. In an adult, it can be more serious. Nurses test high in PD: they shove things up someone&#39;s rear and down their throat, stick them with needles, make them swallow nasty stuff, all in the name of the patient&#39;s good. Climbing the corporate ladder by crushing others is another example &#40;Enron&#41;. Likewise, the police do not need someone to whimp out either. The missing information is the key: When did he first kill and how long had he been dealing with these urges before he no longer held them in check. The code enforcement allowed him to sublimate greatly. He could fantasize during the ADT job, feeling the thrill of what he could do to the woman of the house. &#40;Since those security systems rely on the telephone line may be why he customarily cut the wire.&#41; <BR> <BR>I am sure someone is studying his genetic makeup since his parents were cousins. Unless there is a history of birth defects and oddities in the family line, intermarrying should not be a problem. Of course, there may not be until Frog Baby is born, much to everyones&#39; dismay.<!--/Text--></td></tr>
+<!--/Post: 11557-->
+<!--Post: 11561--><!--Time: 1110908104-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11561"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 15, 2005 - 9:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->T- Frog baby! LOL Seriously, I didn&#39;t know that his folks were cousins! WOW! Well that certainly explains a lot.<!--/Text--></td></tr>
+<!--/Post: 11561-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/686">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/686" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

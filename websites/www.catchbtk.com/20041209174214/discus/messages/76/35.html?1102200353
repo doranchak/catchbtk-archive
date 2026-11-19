@@ -1,0 +1,252 @@
+<html>
+<!--Topic: 76/BTK Media-->
+<!--Me: 35/BTK on TV &#40;America&#39;s Most Wanted&#41;-->
+<!--Level 1: 35/BTK on TV &#40;America&#39;s Most Wanted&#41;-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 76-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK on TV &#40;America&#39;s Most Wanted&#41;</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK on TV &#40;America&#39;s Most Wanted&#41;...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/76/76.html"><font color="#f7f7f7">BTK Media</font></a> &#187;
+BTK on TV &#40;America&#39;s Most Wanted&#41;
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=76&page=35"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=76&page=35"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 130--><!--Time: 1085843712-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST130"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 29, 2004 - 8:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tonight AMW will be showing the BTK story.I hope they show the letters !<!--/Text--></td></tr>
+<!--/Post: 130-->
+<!--Post: 134--><!--Time: 1085854901-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST134"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 29, 2004 - 11:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Glad you reminded everyone, Sandy. <BR> <BR>If the Wichita police actually contributed materials to <i>America&#39;s Most Wanted</i> for this episode, I&#39;ll be very surprised.<!--/Text--></td></tr>
+<!--/Post: 134-->
+<!--Post: 144--><!--Time: 1085957613-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST144"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 30, 2004 - 3:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sorry Tom , No surprise.I wonder why they didn&#39;t mention Kathryn Bright ? I know her brother wouldn&#39;t want to be seen on TV,he is trying to get on with his life,and has a family now.<!--/Text--></td></tr>
+<!--/Post: 144-->
+<!--Post: 145--><!--Time: 1085959981-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST145"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 30, 2004 - 4:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This killer sure did his homework on Zodiac, he even left the phone dangling ! Tom I found more BTK letters,I will give them to you this week. <!--/Text--></td></tr>
+<!--/Post: 145-->
+<!--Post: 149--><!--Time: 1086031880-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST149"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lilahsue<!--/name--></b></a><br>Username: <!--field:uname-->Lilahsue<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, May 31, 2004 - 12:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sandy...you have BTK letters?  WHOLE letters?<!--/Text--></td></tr>
+<!--/Post: 149-->
+<!--Post: 151--><!--Time: 1086044366-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST151"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, May 31, 2004 - 3:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m sure Sandy meant the textual reproductions of portions of BTK&#39;s letters that have been released. <BR> <BR>Back to the <i>America&#39;s Most Wanted</i> episode: It was obvious to me while watching it that the Wichita police offered nothing in the way of sharing/cooperation. Not that I&#39;m at all surprised, but that would explain any discrepancies that might have occured in the AMW reenactments. <!--/Text--></td></tr>
+<!--/Post: 151-->
+<!--Post: 152--><!--Time: 1086051046-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST152"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, May 31, 2004 - 5:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That is correct. Most are reproductions.I do have a copy of the first page of the 5/5/04 letter,at least that is what it says. Its about the chapters the btk would like for a book about himself. I will give what ever I have for Tom to look over.I also found a interesting sort of confession from a person who calls himself &#34;Bernie&#34;. He apologizes for the things he has done in the past &#40;tongue in cheek&#41;.Could be a fraud, who knows for sure? At the end of his apology he writes: You&#39;re an absolutely fantastic person,and you&#39;re going to make me very, very happy when I kill you. Thanks.&#34;<!--/Text--></td></tr>
+<!--/Post: 152-->
+<!--Post: 160--><!--Time: 1086255540-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST160"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Unsub<!--/name--></b></a><br>Username: <!--field:uname-->Unsub<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, June 03, 2004 - 2:39 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->My understanding is that AMW segments are filmed by independent producers. I think this guy was doing this one on spec. He may have cut Bright out due to time limits etc. I thought it was pretty wortless myself except for the phone call. <!--/Text--></td></tr>
+<!--/Post: 160-->
+<!--Post: 188--><!--Time: 1086359546-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST188"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Warren_b<!--/name--></b></a><br>Username: <!--field:uname-->Warren_b<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, June 04, 2004 - 7:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Like your name, Unsub, wish I had thought of it.<!--/Text--></td></tr>
+<!--/Post: 188-->
+<!--Post: 215--><!--Time: 1086533313-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST215"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ryan_olesin<!--/name--></b></a><br>Username: <!--field:uname-->Ryan_olesin<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, June 06, 2004 - 7:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Anyone hear of AMW getting any worthwhile tips since the show?<!--/Text--></td></tr>
+<!--/Post: 215-->
+<!--Post: 222--><!--Time: 1086578899-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST222"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Unsub<!--/name--></b></a><br>Username: <!--field:uname-->Unsub<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, June 06, 2004 - 8:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks, Warren_b. <BR> <BR>Last I saw they had recieved 23 tips, how worthwhile only time will tell. I did hear from some folks who live there that weather was bad in Wichita that night and TV was knocked out so it may have missed the most important audience.<!--/Text--></td></tr>
+<!--/Post: 222-->
+<!--Post: 1598--><!--Time: 1102200353-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1598"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ryan_olesin<!--/name--></b></a><br>Username: <!--field:uname-->Ryan_olesin<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 04, 2004 - 2:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->FYI, amw.com has listed BTK has part of tonights show.<!--/Text--></td></tr>
+<!--/Post: 1598-->
+<!--Post: 1599--><!--Time: 1102228847-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1599"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 04, 2004 - 10:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Turned out tonight was just a teaser for the main segment next week.<!--/Text--></td></tr>
+<!--/Post: 1599-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="76/35">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=76/35" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,231 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 181/Profiling BTK - Conflicts and New Suggestions.-->
+<!--Level 1: 181/Profiling BTK - Conflicts and New Suggestions.-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Profiling BTK - Conflicts and New Suggestions.</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Profiling BTK - Conflicts and New Sug...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+Profiling BTK - Conflicts and New Suggestions.
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=181"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=181"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 1517--><!--Time: 1101932107-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1517"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Simonapro<!--/name--></b></a><br>Username: <!--field:uname-->Simonapro<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 01, 2004 - 12:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->“Yes. You will find a homicide at 843 South Pershing. Nancy Fox.” <BR> <BR>If you listen to the audio again you will here him say “Yerh” like Rocky. A very directive Yes with a helpful tone. Also note his pronunciation of Homicide… he says HOMEicide or HOMOcide. It is interesting to note, not to mention a hell of a piece of evidence to have. I am sure voice recognition would certainly clue the detectives into their man during interrogation. Surely they know where his accent comes from? Anyone? The photo-fit shows a man of latin American origin. However can anyone detect anything foreign in his voice? His English is quite clear and precise. <BR> <BR>The importance of this audio is different from The Yorkshire Ripper investigation which was stalled for years because a hoax caller with a Geordie accent appeared to give insider information on the Ripper murders. As it turned out Peter Sutcliffe, the Yorkshire Ripper, did not have a Geordie accent and the hoax caller merely reported what he had read in the newspapers which the investigators believed was information that only the guilty party was privy too. It nearly destroyed the case and certainly allowed the ripper more freedoms than he had before resulting in more attacks on women. In this case however the police appear to have the genuine article, a recording of BTK’s voice, and although the link <a href="http://www.crimelibrary.com/serial_killers/unsolved/btk/collide_4.html?sect=4" target=_top>http://www.crimelibrary.com/serial_killers/unsolve d/btk/collide_4.html?sect=4</a> says that “Unfortunately, the quality of the recording was too poor for investigators to perform any type of voice analysis”, I believe that was said back in 1977 and the audio is certainly more valuable now in 2004.  <BR> <BR>However we must also keep an open mind. It is possible that someone else other than BTK could have made this call, but the chances of this are slim for us as this call led to the discovery of Nancy Fox, however we must not discount that the investigators are withholding information on this topic, that is standard procedure, but to not release the audio was maybe a choice made with information that we, the public, have not been given. Is there a possibility that the voice may not be that of the guilty party? I would wonder if someone connected to this case could clarify this point. Did someone say during the Nancy Fox investigation that the legality of the recording would come into question because of other possible case scenarios that would not make that call exclusive to the killer? <BR> <BR>I do not believe that what we are listening too in the clip has been edited between the IN and OUT points. However the following points can be concluded. <BR> <BR>&#40;1&#41;There is heavy traffic in the background which makes the voice hard to hear at times. <BR>&#40;2&#41;The voice is assertive but is some distance away from the phone’s mouthpiece. The voice says what it has prepared to say &#40;if this is the guilty party&#41;.  <BR>&#40;3&#41;A second operator is listening to the call. It seems that only the second operator can understand him. However the first operator is possibly trying to get more voice on tape. When asked for the address again there is a pause, but it is controlled and the caller stays listening, waiting, but quickly the second operator speaks in by repeating the address. The caller who has paused then replies quickly “That is correct” and that is the end of the call. I believe this clip is really all he had to say and did not want to say anything more. The second operator repeating the address simply aided the caller. In fact operator number one, who seems more like she was not in control, got us more from the caller in the end. If she did it on purpose or not can only be found in her statement to the police. <BR> <BR>The police are actually something I want to talk about here for a moment if I may. I was interested in hearing that BTK had left a voice call because I have read a book, “Wicked Beyond Belief: The Hunt for the Yorkshire Ripper” by Michael Bilton, &#40;which I highly recommend because it describes in tremendous detail how the police bungled the investigation before eventually capturing him&#41; and because the Yorkshire Ripper was supposed to have sent an audio tape of his voice to the police, who believed it was there man &#40;later turning out not to be the case&#41;.  These are examples where the police did not use the tape when they should have and where the police used the tape and should not have. The former being because the police believed it was of no value to them &#40;according to our facts&#41; and the latter because the police believed it was of value to them &#40;and we now know it was not&#41;. Both are bad policing. Before anyone tries to make connections between the two criminals here are facts that show disconnection. <BR> <BR>Yorkshire Ripper: <BR>Started: October, 1975 <BR>Ended: November, 1980 <BR>Captured: On Friday, January, 1981 <BR> <BR>BTK: <BR>Started: January, 1974 <BR>Ended?: 1977 / September, 1986 <BR> <BR>Yorkshire Ripper Letter &#40;fake&#41; – March 8, 1978. <BR>Yorkshire Ripper Voice &#40;fake&#41; - June 17, 1979.  <BR>BTK Letter – October, 1974, <BR>BTK Call - December, 1977 <BR> <BR>However both the Yorkshire Ripper and BTK killed closely in the spring of 1977 but nothing seems related. Anyway the point is that BTK is less a copycat than we thought, or competitive when comparing his crimes with others, except to say that both serial killers killed in the spring of 1977 without any obvious correlations. Even though both where big media stories, neither world seems to have met. Both BTK and the Yorkshire rippers are of a similar sexual killer pathological configuration. The Yorkshire ripper got away for so long because of bad policing. It appears that the BTK case suffers from the same problem.  <BR> <BR>One should also note that even though the Yorkshire Ripper was interviewed by the police, on several occasions, he kept on killing. For someone of this nature to stop killing is extremely rare. I would actually favour the view that he was incarcerated over the view that he simply stopped. Even the Green River Killer kept on killing after being interviewed, on several occasions. It just doesn’t seem to stop them. We know this because of repeat offenders &#40;the core reason why mentally ill serial killers are rarely ever released, if ever&#41;. However we must thus also conclude that BTK was not in prison just once, but TWICE [somewhere between 1977 and 1986 &#40;possible 9 years total&#41;; and somewhere between 1986 and 2004 &#40;possible 18 years total … a second offence for the same crime?&#41;.  These crimes would be on-grid felony sentences. These would most likely be offences for breaking and entry with intent to STEAL or grand theft auto rather than homicides.  <BR> <BR>As a note Peter Sutcliffe was arrested for trying to break into someone’s house with a hammer when he was spotted hiding in a hedge. No one thought he was there to actually brain some unfortunate woman. He was also arrested for soliciting a prostitute &#40;that led to his capture and confession&#41;. Sutcliffe changes his car’s tires and his cars but also fixed false licence plates to them. <BR> <BR> <BR>Gary Ridgway was busted with prostitutes and kept on killing. His truck was spotted by a abduction witness. Ridgway does not appear to have been concerned about his mode of transport being identified. <BR> <BR>Is it likely that BTK is stealing cars? Absolutely given that he has no problem with houses. So BTK steals. That is an important characteristic. He believes he can take anything, any time he wants to take it. <BR> <BR>The other thing is that if we list some points we can see that if everything we know where correct that this guy should not be too hard to miss. <BR> <BR>&#40;1&#41;He has latin features, blond air, now grey. The photofit is important because it is probably a dead-ringer for BTK in every aspect. If BTK is ever caught, photographs from the late 1970s, early 80s will show how uncanny the resemblance is. <BR>&#40;2&#41;He has two previous felony convictions for possible car theft or breaking and entry. He may have been caught with a fake ID… or with a gun… or with a camera… or even better ALL! <BR>&#40;4&#41;He has avoided being identified and has not been given a DNA test. <BR>&#40;5&#41;He has connections to higher level education. <BR>&#40;6&#41;He has connections to the military. He may have known a victim Josepth Otero &#40;was Josepth latin in origin?&#41; through these connections. <BR> <BR>I believe that looking for a man of this exact description, with two previous felonies, maybe caught with fake ID, who has not given a DNA test, with some higher level education and possible military training and a possible history of domestic violence, who is known to prostitutes, etc. <BR> <BR>However look here <a href="http://www.crimelibrary.com/serial_killers/unsolved/btk/busters_6.html?sect=4" target=_top>http://www.crimelibrary.com/serial_killers/unsolve d/btk/busters_6.html?sect=4</a>  <BR> <BR>– “Using all of the available evidence obtained, investigators soon began to assemble lists of every white male that lived within a quarter-mile of the Oteros&#39; house in or around January 1974.” <BR> <BR>?? White male?  <BR> <BR>Anyway maybe the crimelibrary version is a bit… dated? <BR> <BR>Look at this -&#62;  “The killer waited inside a home in the 600 block of South Pinecrest in Wichita, but left before the 63-year-old female occupant returned. He later sent the woman a letter letting her know he had planned to kill her but had gotten tired of waiting for her to return home. Police believed the killer was targeting the woman&#39;s daughter.” <BR> <BR>He got tired? More like he did not like sitting around in his stolen car. <BR> <BR>We know he steals cars -&#62; <a href="http://www.catchbtk.com/8.html" target=_top>http://www.catchbtk.com/8.html</a> <BR> <BR>If BTK does not have “I am twice convicted grand theft auto repeat offender” written all over him then I would be surprised. <BR> <BR>I have doubts as to the authenticity of the new biography of BTK we have been given. Pathologically these guys give little of use away. You can strike dates, times, places, people, gender, names, work, connections as fantasy. For example:   <BR> <BR>&#40;A&#41;He claims he was born in 1939, which would make his current age 64 or 65. <BR>Is this right? He was probably born in the late 50s. The photo-fit is that of a man in his twenties. He is pushing 50 now. <BR>&#40;B&#41;His father died in World War II, and his mother raised him. <BR>Probably fiction. <BR>&#40;C&#41;His mother was forced to work, so his grandparents cared for him. <BR>You could probably guess that his grandparents where dead or one was dead and he never got to meet them. <BR>&#40;D&#41;His mother worked during the day near the railroad. <BR>He probably does like to ride on trains. <BR>&#40;E&#41;He had a cousin named Susan, who moved to Missouri. <BR>Rubbish. <BR>&#40;F&#41;His family moved a lot, but always lived near a railroad. <BR>He doesn’t, and never has, lived near a railroad. He probably likes to travel by rail when he is not is prison. He likes to watch people in trains. <BR>&#40;G&#41;His grandfather played the fiddle and died of a lung disease. <BR>No, but our man may have lung cancer. He may smoke. He certainly drinks. He may be drunk on the trains although he would not allow himself to be seen taking a drink, especially in the company of other people. He may carry something to mask alcohol smells. <BR>&#40;H&#41;His mother started dating a railroad detective when BTK was around 11 years old. This relationship would have occurred during the years 1950-1955. <BR>Again I am not sure why the police have included this but there is a possible psychological subliminal message in these questions. For example this one contains keywords that may allude to the fact that the police believe he was born between 1950-1955 &#40;makes sense with our photo-fit&#41; and that the ‘11 years old’ means that around the age of 11 &#40;1961 – 1966&#41; something happened &#40;merely indicating something in childhood&#41;, mother dating &#40;driving something else home to BTK&#41;, railroad detective &#40;we are like your mother, we are watching you on the rail, stay away&#41; type communication.   <BR>&#40;I&#41;In the early 1950s he built and operated a ham radio. <BR>No comment on this one except to say the date is out by 10 years. Does he use ham radio code in his cryptic clues? <BR>&#40;J&#41;He has participated in outdoor hobbies including hunting, fishing and camping. <BR>No comment. <BR>&#40;I&#41;As a youth he attended church and Sunday school. <BR>No comment. <BR>&#40;J&#41;He had a female, Hispanic acquaintance named Petra, who had a younger sister named Tina. <BR>Here the Hispanic feature hits home. Is BTK Hispanic? Probably. Maybe the only key thing here is that BTK is probably Hispanic. <BR>&#40;K&#41;Around 1960, he went to tech military school. He then joined the military for active duty and was discharged in 1966. <BR>Where have we heard these dates before? Look at &#40;H&#41;. <BR>&#40;L&#41;He has a basic knowledge of photography and the ability to develop and print pictures. <BR>This is obvious from the fact that he took photographs of his crimes, developed and printed them himself. He actually keeps a collect of all his crimes somewhere safe. <BR>&#40;M&#41;In 1966 he moved back in with his mother who had re-married and was renting out part of her house. <BR>Again this eludes to the mysterious 1966 date. As these dates guesses at birthdates? <BR>&#40;N&#41;His first job was as an electro-mechanic, requiring some travel. <BR>After attending more tech school, he worked repairing copiers and business equipment; this sometimes required travel and he was away from home for extended periods. <BR>I think this electro-mechanic skill is attributed to BTK’s means of gaining entry, breaking into cars, or whatever traces he leaves behind &#40;maybe oil like Peter Sutcliffe&#41;. He may have left prints at some stage. He does not take great care because he leaves traces of himself. DNA is everywhere. Probably hair. He may wear gloves casually. The only thing organized about him is his history of theft. He has friends, ex-cons, who teach him this expert trade. Once inside he is disorganized. He is a secretor. <BR>&#40;O&#41;He admits to soliciting prostitutes. <BR>He probably does. <BR>&#40;P&#41;He has a lifetime fascination with railroads and trains. <BR>When he is not in prison he likes to travel by rail. <BR>&#40;Q&#41;Based upon the investigation to date, police believe that BTK: <BR>&#40;i&#41;Frequented the WSU campus in the early 1970s. <BR>We know this because there are WSU connections to the BTK case.   <BR>&#40;ii&#41;Was acquainted with PJ Wyatt, who taught a folklore class at WSU during the 1970s. <BR>We understand this is in relation to a poem sent to the police. <BR>&#40;iii&#41;Has written or still writes poetry. An example of this is the &#34;Oh Anna, Why Didn&#39;t You <BR>See above. <BR>&#40;iv&#41;Appear&#34; poem and the &#34;Oh! Death to Nancy&#34; poem that were released in earlier media advisories. <BR>See above. <BR>&#40;v&#41;Utilized fake identification to gain access to people&#39;s homes or to conduct surveillance. <BR>Okay BTK has probably admitted this or the police already know this is his method. They also mention surveillance to say … no press pass and camera is going to get you out of this next time.  <BR> <BR>&#40;R&#41;Based upon the information contained in the letter, police are again asking for help from the public. Police want to talk to any citizen who currently knows, or recalls anyone having a similar background to the one described above. <BR>BTK call us now. <BR>&#40;S&#41;Citizens with information who are calling locally are asked to call 383-8273; those calling from outside the Wichita area are asked to call 1-866-SOLVBTK &#40;1-866-765-8285&#41;. They can also e-mail information to <a href="mailto:coldcase@wichita.gov">coldcase@wichita.gov</a> or mail information to Cold Case, P.O. Box 9202, Wichita, KS 67277-0202. <BR>Here is how. <BR> <BR>The photograph of the unknown infant <a href="http://www.catchbtk.com/16.html" target=_top>http://www.catchbtk.com/16.html</a> should be dated if they can do it to tell the public when it was taken. Why have the police not released this information? <BR> <BR>We also know that police warnings as of July 17, 2004 clearly indicate that BTK has promised to strike again. Whether BTK said so or not is not clear but it is clear that the police are worried. <BR> <BR>More than likely BTK is just a Hispanic man with a severe personality disorder coupled with extreme sexual sadistic needs, who has a history of stealing, breaking and entering, car theft, who has studied while in prison, and maybe out of prison, but when out travels by train and talks to strangers, building desires and fantasies to break into a family home, using fake ID cards, to rape and kill, destroy the family, leave with trophies… <BR> <BR>... who does this cycle over and over again and is now out for the last time before he gets put away again, a third and final offence, 3 strikes and you are out. <BR> <BR>Anyway just wanted to post this to get some answers to age old BTK questions and maybe suggest some angles. <BR> <BR>Any takers? <BR><!--/Text--></td></tr>
+<!--/Post: 1517-->
+<!--Post: 1525--><!--Time: 1101935019-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1525"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 01, 2004 - 1:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bookworm, are you still here? :D <BR>-Deb<!--/Text--></td></tr>
+<!--/Post: 1525-->
+<!--Post: 1529--><!--Time: 1101943333-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1529"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Juno<!--/name--></b></a><br>Username: <!--field:uname-->Juno<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 01, 2004 - 3:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Interesting reading and some good points.  However, in all fairness, BTK did not rape his victims. <BR> <BR>&#34;Is it likely that BTK is stealing cars? Absolutely given that he has no problem with houses.&#34; <BR> <BR>That doesn&#39;t really to make sense to me, nor does <BR>&#34;He got tired? More like he did not like sitting around in his stolen car.&#34; <BR> <BR>He was waiting IN THE HOUSE not ouside in a stolen car. <BR> <BR>I also do not think we can conclude he was in prison.  Just because he did not claim victims publicly at the time does not mean he was not still killing.  Or perhaps he killed infrequently.  Until Vicki Wegerle was brought to public attention BY BTK....Who Knew?  We do know that he wasn/t in prison then, when prior maybe one would think he was. The point is--one cannot assume he was in prison twice for extended periods just because there were &#42;apparently&#42; no BTK murders. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 1529-->
+<!--Post: 1624--><!--Time: 1102423572-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1624"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 07, 2004 - 4:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->DEAR TOM AND GROUP: <BR> <BR>Chrissy Shaw, maybe? <BR> <BR>She used to constantly post at Zodiackiller.com without having read anything else on the site. But then so did the feminazi, Sylvie.   <BR><!--/Text--></td></tr>
+<!--/Post: 1624-->
+<!--Post: 1629--><!--Time: 1102460570-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1629"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Juno<!--/name--></b></a><br>Username: <!--field:uname-->Juno<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 07, 2004 - 3:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I see the familiarity, George.  <!--/Text--></td></tr>
+<!--/Post: 1629-->
+<!--Post: 1640--><!--Time: 1102485822-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1640"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 07, 2004 - 10:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Juno, thanks. And I do appreciate the effort which <BR>Simonapro has put forth. <BR> <BR>Simonapro: I do appreciate your taking the time to think about things and post your thoughts. It&#39;s only that almost everything you touch on has been discussed at this site for a long time. I agree with you about crimelibrary being a little slow regarding BTK.  <BR> <BR>Mike Kelleher&#39;s profile is very impressive and the thread about it here is one of my favorites.  <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 1640-->
+<!--Post: 1649--><!--Time: 1102522349-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1649"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 08, 2004 - 8:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Simonapro, thanks for the post. It is just that you say so much that one doesn&#39;t know what to comment on first. You have given a lot to think about. Thanks again. <BR>-Deb <!--/Text--></td></tr>
+<!--/Post: 1649-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/181">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/181" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

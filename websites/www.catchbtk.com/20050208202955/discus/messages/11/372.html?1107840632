@@ -1,0 +1,338 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 372/WHAT ABOUT THAT BRICK!!!-->
+<!--Level 1: 372/WHAT ABOUT THAT BRICK!!!-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: WHAT ABOUT THAT BRICK!!!</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">WHAT ABOUT THAT BRICK!!!</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+WHAT ABOUT THAT BRICK!!!
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=372"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=372"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4921--><!--Time: 1106817191-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4921"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@yahoo.com" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 1:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Call me crazy, but maybe BTK is tired of the WPD not releasing information.  Maybe he placed that brick on top of the box from keeping it the wind from blowing away the package. But maybe it is a connection between the brick thrown through the back door of one of the Park City women.  Maybe BTK thought if he not only got KAKE there first for photos, they would surely take photos of the brick.  Or maybe im just grabbin to far. <BR> <BR>wichitan<!--/Text--></td></tr>
+<!--/Post: 4921-->
+<!--Post: 4925--><!--Time: 1106824437-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4925"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 3:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Actually, your theory is being expounded by others - so you are thinking along popular lines. <BR> <BR>There will be a press conference today at 10am on the Wichita TV channels.  I will let you know if they mention a link. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4925-->
+<!--Post: 4968--><!--Time: 1106842392-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4968"><font face="Verdana" size="1"><b><!--email--><a href="mailto:Iwillc@tchu.com" target="_blank"><!--/email--><!--name-->Catcher<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Catcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 8:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, I just watched that news conference.  It is frustrating that they won&#39;t say more than they do.  At least we know they might have found the seventh sign.  &#42;Sigh&#42;<!--/Text--></td></tr>
+<!--/Post: 4968-->
+<!--Post: 4976--><!--Time: 1106843425-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4976"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 8:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Until BTK provides intimate details that only the police know, he&#39;s murdered no one else, as far as I&#39;m concerned. I wouldn&#39;t place too much emphasis on a brick! BTK reads the papers and these boards, too. He knows there was a brick used in the area. <b>Until he provides the exacting, hidden details of any crime, don&#39;t give him credit. He&#39;s getting off on all this excitement over a brick.</b><!--/Text--></td></tr>
+<!--/Post: 4976-->
+<!--Post: 4978--><!--Time: 1106843548-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4978"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 8:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I thought the conference was a joke, too. <BR> <BR>Not a word about the relevance of the brick - or what was in the box.   <BR> <BR>They don&#39;t have a clue.  <BR> <BR>And they dont seem to want the public&#39;s help, now do they? <BR> <BR>After 30 years and the PD games still continue. <BR> <BR>BTK will never get caught until there is a major changing of the guard. <BR> <BR>Where the heck is Tom?<!--/Text--></td></tr>
+<!--/Post: 4978-->
+<!--Post: 4981--><!--Time: 1106843763-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4981"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 8:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George - good point.  Yet, somehow the PD claims they &#34;know&#34; the package was from BTK. <BR> <BR>And they have the missing one. <BR> <BR>It is their secrecy that bugs me.  There is no reason for it.  After this long - their methods are failures - will it take another 30 years before they see that? <BR> <BR>Landwehr looked gaunt - harried, does he call the shot?  Or is he just carrying out someone else&#39;s orders? <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4981-->
+<!--Post: 4988--><!--Time: 1106844882-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4988"><font face="Verdana" size="1"><b><!--email--><a href="mailto:Iwillc@tchu.com" target="_blank"><!--/email--><!--name-->Catcher<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Catcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 8:54 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tippy - 100% agreed. <BR> <BR>All they do anymore is tie the latest communication with BTK after FBI analysis, and then re-ask for the public&#39;s help.  Seriously, <BR>how do they expect us to be of any significant help when they hand us a book, but won&#39;t let us read it! <BR> <BR>If I have someone in mind to give WPD info about, it would be easier to do so with the confidence that it will be taken seriously and as valid info.  Sometimes, the secrecy of the police can feed into conspiracy theories of the public, and keep tippers from disclosing that &#34;one little piece of information&#34; that bags a SK. <BR> <BR>Can someone remind me after 31 years, why the secrecy is beneficial to WPD?  I understand why a few details must be retained to keep false confessions from happening, but they act like this is G14 CLASSIFIED!  RANT...<!--/Text--></td></tr>
+<!--/Post: 4988-->
+<!--Post: 4994--><!--Time: 1106846249-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4994"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bridgieb<!--/name--></b></a><br>Username: <!--field:uname-->Bridgieb<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 9:17 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tippy- <BR>you stated &#34;they have the missing one&#34;.Was that said in the press conferance?I was under the impression that #7 was still missing.<!--/Text--></td></tr>
+<!--/Post: 4994-->
+<!--Post: 4997--><!--Time: 1106846775-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4997"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 9:26 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;Ahem.  Excuse me.  Yes yes ... excuse me.  Now see this?  This is an ordinary box of CEREAL.  That&#39;s right.  A box of cereal.  It had a brick on it. <BR> <BR>Oh and we&#39;re not even going to tell you what the 7th one was or what it contained! <BR> <BR>Now.  If you remember any information, or have any tips to tell us.  Please contact the WPD.  Remember.  A box of CEREAL.  Think back.  Has your father or mother bought a box of this cereal?  If so we&#39;ll come by and swab them! :D&#34; <BR> <BR>Damn it, I&#39;ve been polite enough to agree this WHOLE time to keep information from the public for the benefit of the case, but when they  ask for help from the public and not even give a CLUE about what&#39;s going on ... now they&#39;re blundering the case. <BR> <BR>I no longer take the WPD seriously.  Tom Voigt does a better job of informing the public of some clues that might lead to tips, while at the same time understanding that some information is important to keep secret.<!--/Text--></td></tr>
+<!--/Post: 4997-->
+<!--Post: 4999--><!--Time: 1106847561-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4999"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 9:39 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Catcher, you live in the area and I respect your point of view, you obviously know whereof you speak. I like Tippy&#39;s post also. I understand what you&#39;re saying. I also would feel annoyed and, yes, even manipulated.  <BR> <BR>Tippy, I had the same idea. I can see BTK enclosing proof that the package was indeed dropped by he, and a little note warning the police that they&#39;d better only do such-and-such. Or did you mean WPD was following orders from the FBI? The latter scenario bothers me and I live nowhere near Wichita. I&#39;ve come to like the citizens of Wichita - and Kansas - over the months. You&#39;re square shooters and very decent people. I hope that the case is and always will be WPD&#39;s.<!--/Text--></td></tr>
+<!--/Post: 4999-->
+<!--Post: 5000--><!--Time: 1106847760-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5000"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 9:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I was writing my post and didn&#39;t see Verm_inve&#39;s words. Heck! Maybe you all are on to something. It certainly seems as though WPD has its hands tied for <i>some</i> reason. I wish I knew the reason.<!--/Text--></td></tr>
+<!--/Post: 5000-->
+<!--Post: 5017--><!--Time: 1106849985-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5017"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 10:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t think WPD are that bad anymore.  Many of us are complaining about the lack of any useful information at that meeting too soon.  They&#39;ve had the evidence for ... what?   a day? <BR> <BR>Let them process it.  The police have done an okay job releasing information when necessary.  I just got tied up with the emotions of the case, mainly because everyone else is. <BR> <BR>Maybe there should be an &#34;hour wait&#34; thing with each post, too make sure people&#39;s emotions are in check ...<!--/Text--></td></tr>
+<!--/Post: 5017-->
+<!--Post: 5018--><!--Time: 1106850111-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5018"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stealth<!--/name--></b></a><br>Username: <!--field:uname-->Stealth<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 10:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George - &#34;It certainly seems as though WPD has its hands tied for some reason.&#34; <BR> <BR>Very Freudian<!--/Text--></td></tr>
+<!--/Post: 5018-->
+<!--Post: 5019--><!--Time: 1106850269-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5019"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 10:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->As we don&#39;t know BTK&#39;s identity, emotion is all we have ;&#41;. Actually we have information, too, and sound thinkers. Every third person has a different idea so it&#39;ll be chaotic for a time.<!--/Text--></td></tr>
+<!--/Post: 5019-->
+<!--Post: 5027--><!--Time: 1106853076-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5027"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@yahoo.com" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 11:11 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->i watched the conference, and read the post @ <a href="http://www.kake.com" target=_top>www.kake.com</a> and they stated they had found both packages, and believe they came from BTK &#40;sure the name on the outside of the cereal box game tha one away&#41;, then turned them over to the FBI for authentication.  Around here there is a a saying to someone who is having a bad day &#34;who pissed in your post toasties.&#34;  Although I think the number 7 package was found directly inline with the fed ex letter and the number 8 package aka the ceral box.  I think the brick plays a sugnificant role in the number 8 packages for one reason.  BTK knows he can taunt the WPD, but now he is also taunting the public, due to there lack of information.  Clearly BTK wants WPD to share there finds, but it seem to me being a wichitan, that WPD dont dare want to gove him that satisfaction. <BR> <BR>wichitan<!--/Text--></td></tr>
+<!--/Post: 5027-->
+<!--Post: 5028--><!--Time: 1106853196-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5028"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@yahoo.com" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 11:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->and OMG forgive my illiteracy on that last post. <BR> <BR>wichitan<!--/Text--></td></tr>
+<!--/Post: 5028-->
+<!--Post: 5038--><!--Time: 1106855165-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5038"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 11:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;who pissed in your post toasties.&#34;  <BR> <BR>This would be the, er, number one package would it not? ;&#41;<!--/Text--></td></tr>
+<!--/Post: 5038-->
+<!--Post: 5077--><!--Time: 1106863556-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5077"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Devbost<!--/name--></b></a><br>Username: <!--field:uname-->Devbost<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 2:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><b><i>Landwehr looked gaunt - harried, does he call the shot? Or is he just carrying out someone else&#39;s orders?</i></b> <BR> <BR>I think any of us would look gaunt, too, if we had his job. <BR> <BR>Think what you do is stressful? Magnify it by a hundred. He&#39;s trying to identify someone who has killed at least eight people and who has eluded exposure for 31 years now. <BR> <BR>I, for one, can&#39;t even imagine what it must be like to be in his shoes.<!--/Text--></td></tr>
+<!--/Post: 5077-->
+<!--Post: 5224--><!--Time: 1106955119-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5224"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jackal<!--/name--></b></a><br>Username: <!--field:uname-->Jackal<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 28, 2005 - 3:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->And - forgive me for saying so - but has hundreds of thousands of people like me and you giving him our opinions of what is happening and what he should do about it.  I, for one, being the father of a police officer, do not envy what Landwehr has to face from the media and the public.<!--/Text--></td></tr>
+<!--/Post: 5224-->
+<!--Post: 5227--><!--Time: 1106956340-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5227"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 28, 2005 - 3:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This has gotten <i>way</i> off topic...<!--/Text--></td></tr>
+<!--/Post: 5227-->
+<!--Post: 5230--><!--Time: 1106959054-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5230"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Hbtcontrol<!--/name--></b></a><br>Username: <!--field:uname-->Hbtcontrol<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 28, 2005 - 4:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m guessing that the Post Toasties box is a clue that WPD completely understands - perhaps what BTK interrupted one of his victims eating.  If that happens to be one of the Park City women, then the brick is part of the clues he&#39;s left.   <BR> <BR>BTK is probably having more fun than ever watching WPD spin their wheels and the amateur sleuths going off the deep end.   <BR> <BR>I think WPD screwed up these cases big time over the years.  But they have help now, supposedly, so I&#39;m hopeful that will make the difference.   <BR> <BR>I think both the Post Toasties box and the brick are clues.  Eventually we will know.<!--/Text--></td></tr>
+<!--/Post: 5230-->
+<!--Post: 5231--><!--Time: 1106959277-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5231"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 28, 2005 - 4:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe, after reading many posts from people who are actually here to catch BTK and not use multiple names to further past agendas, that the meaning of the brick was threefold: utilitarian, as OK Mike has mentioned the area is windy; it&#39;s also vintage BTK as he knows Davis and Hedge are high on the &#39;possible&#39; list and a nearby crime has a thrown brick aspect. If I can understand this, so can BTK. <BR> <BR>Finally, BTK, when making drops, is possibly afraid to enter Wichita. Recently, he used a high-crime area at 2:00 AM. This time, Park City. MB&#39;s like this one remind BTK he&#39;s being sought. After all, if a cop&#39;s light starts flashing for a minor problem with BTK&#39;s car, BTK will probably think the entire jig is up; it&#39;s doubtful he&#39;d think, &#34;Oh, I guess my tail light must be out, I&#39;ll just pull over.&#34; Rather, I think he&#39;d see the lights and panic. He may pull over and be able to act casually, but it would be enough to scare him out of ever driving into Wichita again. Oddly, it may be safer for BTK in Wichita during the day than at night.<!--/Text--></td></tr>
+<!--/Post: 5231-->
+<!--Post: 5233--><!--Time: 1106960085-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5233"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dorothy<!--/name--></b></a><br>Username: <!--field:uname-->Dorothy<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 28, 2005 - 4:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->IMO, the brick has no significance.  I think BTK just used it to keep the cereal box from tipping over or blowing away. <BR> <BR>I also think the cereal box was a lame attempt at humor. <BR> <BR>I think he chose that out of the way spot, because he was chicken and feared that police might be monitoring or have cameras up in other locations. I don&#39;t believe it&#39;s related to any other victims. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 5233-->
+<!--Post: 5277--><!--Time: 1107020657-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5277"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@yahoo.com" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 29, 2005 - 9:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dorothy thank you forbring it back to the brick.  I would agree with you last statement, in that it was alot safer to drop it off out in the country, although I also feel it was necessary seeing how it was in Park City, and he put a brick on top of the box.  Lets say for a minute here, the WPD got the package, are they gonna examine it?  Are they gonna share ANY information?  I dont think I need to waste my typing skills to give you that answer.  BUT maybe BTK is thinkin along those same lines, maybe he decided that he was tired of WPD giving up his trophies to the FBI, without publication and to the average Joe Public.  Now the public &#40;AKA you and I&#41; and every other chatter out there is starved for new information, that we keep complaining were not getting enough of.  BTK thinks to himself, I have no problem sharing my trophies with the police and taunting them, why not give average joe an eye shot or 2 of some of them.  I will write a letter to KAKE, which means they will go out and snap off as many photots as possible, and then call the WPD.  The WPD will then decided what photos they can publish.  Just a thought and not trying to pick on anyone in here,  BUT THIS FORUM IS FOR WHAT ABOUT THE BRICK ONLY. <BR> <BR>wichitan<!--/Text--></td></tr>
+<!--/Post: 5277-->
+<!--Post: 5324--><!--Time: 1107049494-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5324"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 29, 2005 - 5:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If I didn&#39;t want a box to blow away in the wind I wouldn&#39;t put a brick on top of it. A sudden gust could blow the box outward away from the brick causing the brick to fall and leaving the box free to be blown away by the next gust of wind. If I wanted to assure that the box wasn&#39;t going to blow away I would put the brick inside the box. Now it is wiegthing down the bottom of the box from inside the box and it isn&#39;t going anywhere without the brick going too. <BR> <BR>He could have tied the box with rope or duct tape to the post to keep it from blowing away. After all &#39;Bind&#39; is his first name isn&#39;t it? <BR> <BR>The brick has some significance to it. <BR>A brick used to break glass for entry? <BR>A brick as used in WSU&#39;s Plaza of Heroines to imortalize names inscribed there like Tina and Petra and PJ Wyatt? <BR>A brick as an occupational clue. Worked as a mason? <BR>A brick on top of a box with the letter T on the box circled. Brick T. Prick Tease. Motive is women victims were percieved to be prick teasers. <BR>Just a few things to think about before we dismiss the brick as a mere paperweight.<!--/Text--></td></tr>
+<!--/Post: 5324-->
+<!--Post: 5330--><!--Time: 1107053642-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5330"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@yahoo.com" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 29, 2005 - 6:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Very nice johno, and whats more that is assuming the box had anything in it at all.  I feel it was a clue for the public, one they didnt have to wait for-&#40;FBI&#41;.  One we could all see from the get go.  For all the reasons johno stated. <BR> <BR>wichitan <BR><!--/Text--></td></tr>
+<!--/Post: 5330-->
+<!--Post: 5781--><!--Time: 1107368101-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5781"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@yahoo.com" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 10:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I would like to add a couple more things I have noticed about the brick.  First, for a dirt road, the brick appeared to be very clean.  Second, as Johno stated it would have been better to put the brick inside the box-&#40;AKA due to the wind&#41;.  Third he mailed the letter to KAKE-&#40;AKA they will get there first and snap off photos&#41;.  Fourth, I haven&#39;t ever heard of someone in wichita, or from any other of the surounding areas, try to portray themselves as BTK, thus would&#39;nt the BTK on the box give that away.  Fifth, the B looks like a thirteen, with that....what do you think about this.... <BR> <BR>B=13 <BR>K=how many killed <BR>T=and tortured <BR> <BR>now, I&#39;m just grabbin, but isnt that all we are really left with?  <BR> <BR>wichitan<!--/Text--></td></tr>
+<!--/Post: 5781-->
+<!--Post: 6330--><!--Time: 1107701831-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6330"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 06, 2005 - 6:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Does anyone have a link to a picture of the brick? <BR> <BR><a href="mailto:whoisbtk@yahoo.com">whoisbtk@yahoo.com</a><!--/Text--></td></tr>
+<!--/Post: 6330-->
+<!--Post: 6332--><!--Time: 1107702476-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6332"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 06, 2005 - 7:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Photos of the Post Toasties Communication #8: <BR><a href="http://ghostiesannex.myphotoalbum.com/view_photo.php?set_albumName=BTK&amp;id=cereal27pp" target=_top>http://ghostiesannex.myphotoalbum.com/view_photo.p hp?set_albumName=BTK&amp;id=cereal27pp</a> <BR> <BR>You can flip forward through the photos to see more shots of the cereal box.<!--/Text--></td></tr>
+<!--/Post: 6332-->
+<!--Post: 6486--><!--Time: 1107822368-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6486"><font face="Verdana" size="1"><b><!--email--><a href="mailto:blingbling1169@yahoo.com" target="_blank"><!--/email--><!--name-->Cawichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Cawichitan<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 4:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have said from the beginning of this whole brick thing that further analysis of the brick can bring more information than that box of cereal-not that I don&#39;t think it can possibly be linked to the killer, I just think he is a little smarter than leaving anything pertainent in a box of cereal. I think he saw the box and thought to himself &#34;well, I&#39;ll just use this-if he left it at all. He wants to be caught. WPD is just holding back his info. He wants us to be able to hear all the clues. Why enlist our help if they are just gonna keep everything to themselves anyway? Why waste John Walsh&#39; time if they aren&#39;t going to release the latest information? Why won&#39;t they just admit that they need our help? They still haven&#39;t found the man in Wichita that murdered my boyfriend in 97 and they say he was nothing more than a gang member-if they can&#39;t find him, how can they find BTK? We need the clues! BTK IS SMART, THEY BETTER LET US HELP THEM OUT! I think the box was a vessle, not the big clue. I think that the brick will say more. <!--/Text--></td></tr>
+<!--/Post: 6486-->
+<!--Post: 6494--><!--Time: 1107826843-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6494"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wade<!--/name--></b></a><br>Username: <!--field:uname-->Wade<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 5:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It&#39;s just a damn brick.  It doesn&#39;t talk or dance or anything special.  It&#39;s a damn brick!<!--/Text--></td></tr>
+<!--/Post: 6494-->
+<!--Post: 6509--><!--Time: 1107840632-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6509"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 9:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wade, you&#39;re probably right however the yellow brick road led to the Emerald City so maybe the brick on the side of the road leads to the pearl necklace.<!--/Text--></td></tr>
+<!--/Post: 6509-->
+<!--Post: 6543--><!--Time: 1107878939-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6543"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 8:08 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Audreyamw <BR> <BR>Thanks for the link. <BR> <BR>This brick is interesting for lots of reasons: <BR> <BR>1.	The area where the box was left is rural.  There is nothing nearby to get a brick from; there are no other loose bricks in the area.  BTK brought the brick with him. <BR>2.	The wooden post the box is leaning against is 4x4.  The brick is longer than the width of the post, and appears to be 6 inches long.  The height and depth look roughly equal, and are roughly 2/3 of the length.  The rough dimensions are: 6x4x4. <BR>3.	Number the sides of the brick this way: <BR>a.	Top is #1 <BR>b.	Bottom is #6 <BR>c.	Front long face is #2, then clockwise around the sides <BR>d.	Left short side is #3, <BR>e.	Back long side is #4, and  <BR>f.	Right short side is #5  <BR> <BR>Looking at this photo &#40;<a href="http://ghostiesannex.myphotoalbum.com/view_photo.php?set_albumName=BTK&amp;id=cereal90ln" target=_top>http://ghostiesannex.myphotoalbum.com/view_photo.p hp?set_albumName=BTK&amp;id=cereal90ln</a>} <BR>2 and 3 are visible along with part of 1.  2 and 3 are clean.  The weathering and staining seen on 1 are not seen on 2 or 3.   These sides &#40;2,3&#41; were protected from weather and wear while 1 was not.  There is no visible trace of mortar on 2 or 3, and there are no marks where mortar was chipped/scraped away. <BR> <BR>The brick is clearly not new.  1 is much darker than 2 or 3.  It has a bluish tint that is characteristic of ageing.  The left side edge of 1 is broken; the surface exposed by the break has aged the same way as the rest of 1, indicating that the break is old, and that the brick stayed in place after the damage.  This tends to support the notion that the brick was not used for cosmetic purposes. <BR> <BR>The brick is old.  The color and condition of 1 show age and its too thick for modern patio or sidewalk pavers. <BR> <BR>The marked difference in wear and damage between 1 and 2 or 3 indicates that the brick was set in a wall or paved surface with 1 as the exposed face; 2 and 3 are protected by whatever matrix was used to set the bricks. <BR> <BR>The brick was probably not part of a wall.  Mortar or its equivalent is used in a wall.  It has to adhere to the hidden surfaces of the bricks or gravity pulls the wall apart.  The lack of mortar adhering to the hidden/protected surfaces &#40;2 and 3&#41; probably rules out a wall. <BR> <BR>Surface paving is a different story.  Bricks can be dry-set on a bed of tamped gravel and sand brushed into the joints.  This would account for the clean appearance of 2 and 3. <BR> <BR>So, where does one get a brick like this?  From a Kansas streets paved from 1920 to 1940. <BR> <BR>Brick streets were made of a concrete base covered with sand and then bricks.  Some have lasted 70 years without significant repair.  James Garfield Brown who paved 4161/2 feet of road with 46,664 bricks in one day claimed the record for one man laying paving bricks September 12 1925 in Olathe Kansas. <a href="http://www.goodlandnet.com/history/brickstreets.htm" target=_top>http://www.goodlandnet.com/history/brickstreets.ht m</a> <BR> <BR> Most Kansas cities still have brick streets that were paved in the 20s and 30s with 6x4x4 paving bricks.  The intervening years have weathered them to a bluish purple brown and traffic has worn the surfaces.  Bricks are a low grade ceramic with wide variations in hardness.  Hard bricks stay rough, soft ones wear smooth.  This looks like one of the hard ones. <BR> <BR>Kansas brick makers, as advertising, commonly cast their name on the top of the brick along with the year it was made.  The name on the brick would tell who made it, and probably the town it came from.   <BR> <BR>Bricks like this are not hard to find.  As the streets were repaired, sewer lines dug etc. bricks were replaced with concrete or asphalt.  The old bricks were discarded or recycled into walls, garden borders in nearby homes, or similar non-government use.   <BR> <BR>BTK brought the brick with him; it’s not just something he picked up after he got there.  It was a conscious choice.  He could have taped it to the pole, but he chose to bring this brick. <BR> <BR>Two questions: why this brick and where did he get it? <BR> <BR>I’m stumped on “why”, but “where” has an answer. <BR> <BR>Unless BTK pulled it fresh from a street, the lack of dirt on the sides indicates storage in a protected environment.   <BR> <BR>Who stores old paving bricks indoors? <BR> <BR>Old bricks have value as collectables <a href="http://www.msinter.net/tweety/" target=_top>http://www.msinter.net/tweety/</a>. It’s not unusual for small town antique stores sell them.   <BR> <BR>Did I mention that Kechi bills itself as the “Antique Capital of Kansas”? <a href="http://www.kechiks.com/antiques.php" target=_top>http://www.kechiks.com/antiques.php</a>. <BR> <BR>I think I’ll do some shopping. <BR> <BR><a href="mailto:whoisbtk@yahoo.com">whoisbtk@yahoo.com</a> <BR> <BR> <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6543-->
+<!--Post: 6544--><!--Time: 1107879699-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6544"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wade<!--/name--></b></a><br>Username: <!--field:uname-->Wade<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 8:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->OMG....its a freaking brick.  So what if it&#39;s clean on one side.  I got all kinds stacked up in back.  The tops are clean on all of them and the sides are clean on all the ones not on the exterior.  I am a landscaper, trust me, there is nothing special about that particular brick. <BR>So what if he brought the brick with him.  What does that mean???? <BR> <BR>Johno-  The emerald city was make believe.....geeeeeshh....btk is laughing his ass off now. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6544-->
+<!--Post: 6557--><!--Time: 1107887352-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6557"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 10:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey. <BR> <BR>Thanks for clearing that up for me.  BTK probably drives a truck with a pile of bricks in the back. <BR> <BR>Or maybe he carries a brick around to put on his cereal box in case the wind tries to blow it off his picnic blanket. <BR> <BR>Don&#39;t know what I was thinking. <BR> <BR>Thanks again. <BR> <BR><a href="mailto:whoisbtk@yahoo.com">whoisbtk@yahoo.com</a><!--/Text--></td></tr>
+<!--/Post: 6557-->
+<!--Post: 6558--><!--Time: 1107888289-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6558"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nancydrew<!--/name--></b></a><br>Username: <!--field:uname-->Nancydrew<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 10:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Whoisbtk:  I sincerely mean this with the utmost respect...I think it&#39;s time to step back and put this in perspective.  It&#39;s a brick.  I have tons of respect for you and have enjoyed your posts ever since I found these boards.  Please don&#39;t take offense, but it might be time to step out for a little fresh air and enjoy a non-BTK related hobby for an hour or two.  <!--/Text--></td></tr>
+<!--/Post: 6558-->
+<!--Post: 6559--><!--Time: 1107889075-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6559"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 10:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have to agree with Nancy, but also say that Whoisbtk shouldn&#39;t feel singled out - this kind of thing happens to every single one of us who look too long and too hard at this in some manner. I&#39;ve caught myself writing out a very long and involved post about one thing or another only to realize what I&#39;m saying is a whole lotta nothing about something. It&#39;s really easy to do after a while, because there&#39;s actually not that much for the public to go on, and what is there is sometimes dubious. &#40;For instance, how many of us doubt the veracity of a majority of the things released on 11/30/04? BTK would never be above leading us down the primrose path just for his own amusement.&#41; <BR> <BR>Nancy&#39;s suggestion is a good one for all of us from time to time, not just whoisbtk.<!--/Text--></td></tr>
+<!--/Post: 6559-->
+<!--Post: 6560--><!--Time: 1107889326-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6560"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@yahoo.com" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 11:02 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->whoisbtk, thank you for your thoughts, I can see that you put alot of time in your theory, and appreciate it.  This is a theory thread, and your comment belongs here.  I am not closed minded to hearing your thoughts and ideas, and you stayed on topic....great job.  On  a side note the &#34;brick&#34; was found in Park City, I have been to Kechi Antiques Mall, and have never seen a brick for sale.  You think it is &#34;possible&#34; that during the Davis Killing, the brick was one of the things BTK might have taken with him?  Maybe this would explain the weathered/non-weathered look.  Or maybe that big chunk of the top brock and is what was left for police to determine that a &#34;brick&#34; had been used to break the back door.  I ask everyone to be somewhat open minded. <BR> <BR>wichitan<!--/Text--></td></tr>
+<!--/Post: 6560-->
+<!--Post: 6563--><!--Time: 1107891026-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6563"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nancydrew<!--/name--></b></a><br>Username: <!--field:uname-->Nancydrew<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 11:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I hear you, Steve.  I&#39;ve done the same thing.<!--/Text--></td></tr>
+<!--/Post: 6563-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/372">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/372" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

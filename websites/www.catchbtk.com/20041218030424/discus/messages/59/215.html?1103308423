@@ -1,0 +1,375 @@
+<html>
+<!--Topic: 59/Messages To/From BTK-->
+<!--Me: 215/Feedback on &#34;Messages to/from BTK&#34;-->
+<!--Level 1: 215/Feedback on &#34;Messages to/from BTK&#34;-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 59-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Feedback on &#34;Messages to/from BTK&#34;</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Feedback on &#34;Messages to/from BTK&#34;...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/59/59.html"><font color="#f7f7f7">Messages To/From BTK</font></a> &#187;
+Feedback on &#34;Messages to/from BTK&#34;
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=59&page=215"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=59&page=215"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 2057--><!--Time: 1103270217-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2057"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 11:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This is for any comments about the &#34;MESSAGES from BTK&#34; thread that don&#39;t fit in the neighbooring &#34;MESSAGES to BTK&#34; thread. De-coding of his messages, strategies for catching him, etc. <BR> <BR>Let&#39;s hear it! Victor<!--/Text--></td></tr>
+<!--/Post: 2057-->
+<!--Post: 2058--><!--Time: 1103271585-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2058"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 12:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Great idea, Victor.<!--/Text--></td></tr>
+<!--/Post: 2058-->
+<!--Post: 2059--><!--Time: 1103271745-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2059"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 12:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->About &#34;Christ On The Cross&#34;s&#39; &#40;BTK?&#41; post. He says: <BR> <BR>&#34;TO address the connection between myself and op. &#34;Barn door&#34;, I would say that this is false.&#34; <BR> <BR>Anyone know what the heck he&#39;s referring to??<!--/Text--></td></tr>
+<!--/Post: 2059-->
+<!--Post: 2060--><!--Time: 1103276047-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2060"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->C<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 1:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#62; The ZKC is KANSAS CITY &#40;ARTCC&#41;,KS. Which is in OLathe KS.  <BR>&#62; The K50 is COOK AIRFIELD INC. In Derby which is 2 minutes out of Wichita proper.  <BR>&#62; Are there photos stashed at these locations?  <BR> <BR>When I said stashed - I was thinking in terms of looking for a white plastic bag around or about these locations. Given the recent park find, if it turns out to be authentic, it seems plausible someone is trying point to more &#34;packages&#34;. <BR> <BR>Interesting that ARTCC stands for Air Route Traffic Control Center - wonder if he learned to speak that way as an air traffic controller or pilot? <BR> <BR>Mea Culpa for posting my decryption in an inappropriate thread... <BR> <BR>- C<!--/Text--></td></tr>
+<!--/Post: 2060-->
+<!--Post: 2061--><!--Time: 1103277018-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2061"><font face="Verdana" size="1"><b><!--email--><a href="mailto:thekingbeatsoff@histrailer.lots" target="_blank"><!--/email--><!--name-->Lightbringer<!--/name--></b></a>
+</a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 1:50 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have not been able to find satisfactory info on op. barn door either, victor. could it have been a secret operation, or perhaps something he coined himself?<!--/Text--></td></tr>
+<!--/Post: 2061-->
+<!--Post: 2062--><!--Time: 1103278357-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2062"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->man<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 2:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->no op barn door is a method police use to validate a search<!--/Text--></td></tr>
+<!--/Post: 2062-->
+<!--Post: 2065--><!--Time: 1103284912-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2065"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->PokingAround<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 4:01 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I took China&#39;s work to mean that the baby photo sent in April was presaged by the code on the letter in March.  The photo looks like a one year old.  50 means 1950, making BTK&#39;s birth year 1949 instead of 39.  And yes, KCK could refer to Kansas City, Kansas.  Sorry if this has already been mentioned.<!--/Text--></td></tr>
+<!--/Post: 2065-->
+<!--Post: 2066--><!--Time: 1103286128-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2066"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->PokingAround<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 4:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->P.S. A birth year of 1949 better matches the age in the witnesses&#39;s descriptions of BTK.   <BR> <BR>In answer to speculation on the other thread, I&#39;ve never heard that Otero worked at Cook.  Did he?  I thought he worked at Jabara or thereabouts.<!--/Text--></td></tr>
+<!--/Post: 2066-->
+<!--Post: 2068--><!--Time: 1103289716-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2068"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brazilian<!--/name--></b></a><br>Username: <!--field:uname-->Brazilian<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 5:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe in these places ZKC and K50 there´s a panel or a employees book &#40;i dont know how do you call it in the US&#41; with BTK´s picture.  <BR>I think he might worked in these places.<!--/Text--></td></tr>
+<!--/Post: 2068-->
+<!--Post: 2069--><!--Time: 1103291112-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2069"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->PokingAround<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 5:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Okay, just read the 1974 Eagle article again and Otero definitely worked at Cook, near Rose Hill.  Also said that he attained the rank of technical sergeant while in the service. <BR> <BR>  <BR><!--/Text--></td></tr>
+<!--/Post: 2069-->
+<!--Post: 2070--><!--Time: 1103291188-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2070"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->China<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 5:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Why did my ASCII post get deleted?  I&#39;m sorry it was in the wrong spot, but I was right, wasn&#39;t I??<!--/Text--></td></tr>
+<!--/Post: 2070-->
+<!--Post: 2072--><!--Time: 1103291827-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2072"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Electraqtkitty<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 5:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I somehow doubt that the people/person who was posting messages on the &#34;from BTK&#34; board was actually him. I agree with the profile on the website that he probably is web savvy, because it&#39;s yet another source of information to read about himself, and his impact on society. But why would he post? I&#39;m thinking he would know that his post could help trace him.  <BR> <BR>Or am I wrong in thinking that he could be traced? <!--/Text--></td></tr>
+<!--/Post: 2072-->
+<!--Post: 2075--><!--Time: 1103295310-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2075"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 6:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->CHINA wrote: &#34;Why did my ASCII post get deleted? I&#39;m sorry it was in the wrong spot, but I was right, wasn&#39;t I??&#34; <BR> <BR>I can&#39;t say for sure, but I also had a nice post in that same &#34;MESSAGES to BTK&#34; deleted. Tom said it was because it didn&#39;t fit that thread. THAT&#39;S WHY I STARTED THIS THREAD. <BR> <BR>I don&#39;t know ASCII code, but it looks like you may have been the 1st to crack the person claiming to be BTKs&#39; code &#40;on the &#34;MESAGES from BTK&#34; thread&#41; yesterday, Dec 16! GREAT WORK! Let&#39;s see what more comes of it.    Victor<!--/Text--></td></tr>
+<!--/Post: 2075-->
+<!--Post: 2076--><!--Time: 1103295396-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2076"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dee<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 6:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here&#39;s a thought...   If you hover on the &#34;Christ on the Cross&#34; moniker, you will see the mailto address as being <a href="mailto:beattheking@neverwill.ever">beattheking@neverwill.ever</a> on his/her message dated 12/09/04. The only other moniker that shows a similar mailto address is &#34;Lightbringer&#34;; showing a mailto address of <a href="mailto:kingbeaten@oneday.soon">kingbeaten@oneday.soon</a> on his/her message dated 12/15/04 and a mailto address of <a href="mailto:thekingbeatsoff@histrailor.lots">thekingbeatsoff@histrailor.lots</a> on his/her message dated 12/17/04.  Perhaps someone is just having some fun, but it is quite a coincidence as common sense tells us that neverwill.ever, oneday.soon, and histrailor.lots are NOT valid domain names.   <BR> <BR>Anyone? <BR><!--/Text--></td></tr>
+<!--/Post: 2076-->
+<!--Post: 2077--><!--Time: 1103295422-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2077"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->hta<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 6:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I posted the same decryption a day after it showed up in the &#34;Messages from BTK&#34; thread and it was deleted.  Seems now everyone is paying attention to it now that it&#39;s been brought up 5 or so times.  A bit discouraging to those of us who are participating without a userid on this board. <BR> <BR>This thread is a good idea... <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 2077-->
+<!--Post: 2078--><!--Time: 1103295633-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2078"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->China<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 7:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I figured someone should have got that sooner as ASCII is a pretty common thing among people that know about computers.  Good job, hta!<!--/Text--></td></tr>
+<!--/Post: 2078-->
+<!--Post: 2081--><!--Time: 1103302280-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2081"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->C<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 8:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->FWIW, yesterday when I associated ZKC K50 with the ICAO locations codes I searched to see if someone had already figured that out before my December 16, 2004 - 6:39 pm post in &#34;Messages to BTK, Part 2&#34; - there was no mention of it. <BR> <BR>Posting plain ASCII is so childishly obvious it did cross my mind that this is the work of a younger reader with a warped sense of humor. However, the K50 -&#62; cook airfield reference is too intriguing to be ignored. <BR> <BR>- C <BR> <BR>BTW, I am not the same poster as China<!--/Text--></td></tr>
+<!--/Post: 2081-->
+<!--Post: 2083--><!--Time: 1103303654-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2083"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Saddle Hack<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 9:14 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->5A4B43 4B3530 <BR> <BR>Is just a re-emphasis of a portion of the 5A4B434B353070686F746F42544B posted on 12/7.<!--/Text--></td></tr>
+<!--/Post: 2083-->
+<!--Post: 2084--><!--Time: 1103306372-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2084"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->hmmm<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 9:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just noticed that most of the BTK messages are around the same time. <BR>DEC 7 4:54 <BR>DEC 9 4:32 <BR>DEC 14 4:43 <BR>DEC 16 4:57 <BR>Also none were on weekends, all weekdays. <BR>Is he checking out the site after work? Maybe stopping by an intenet cafe before going home?<!--/Text--></td></tr>
+<!--/Post: 2084-->
+<!--Post: 2086--><!--Time: 1103308423-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2086"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Somerset<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 10:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I disagree, the person posting is saying that we should look at them in groups of 6, hence the ellipses. Which lead me to this: <BR> <BR><b>I believe these are colors for the following reasons :</b> <BR>All colors can be made up of the combination of 6 numbers and letters. These numbers are 0-9 but the letters are A-F only. The last post in the &#34;From:” forum was a clue and a direction, not a reiteration. <BR> <BR>I was thinking a high-school or a college color palette? I checked the high-schools and they seem to have only colors which are more saturated. So if in fact these are colors, if poses the question,  <BR>&#34;A corporate color palette or an educational one?&#34; <BR> <BR>All of the colors are very similar and I believe that is more than a random occurrence. The last color, however, makes no sense to me. <BR> <BR>So maybe they signify victim’s names, streets or something along those lines? Green Ave. Mr. Brown  or things like that.  <BR> <BR>I tried posting the table with the colors, but the filter stopped it and stripped out the attributes in the tags. <BR> <BR>I will be checking the board later, if there is someone way I can work around the filter to show the colors please leave a post and I will post the full colored table cell version. The &#34;Enable HTML button&#34; is checked, fyi. <BR> <BR>So for now, if you were to copy and paste the code into a .txt file then rename the extension to .htm, then drag it into your browser you would see what I&#39;m talking about. <BR> <BR> <BR>&#60;table&#62; <BR>  &#60;tr&#62; <BR>    &#60;td&#62;&#60;font face=&#34;Arial,&#34; color=&#34;#5A4B43&#34; size=&#34;2&#34;&#62;<b>5A4B43</b>&#60;/font&#62;&#60;/td&#62; <BR>    &#60;td&#62;&#60;font face=&#34;Arial,&#34; color=&#34;#4B3530&#34; size=&#34;2&#34;&#62;<b>4B3530</b>&#60;/font&#62;&#60;/td&#62; <BR>    &#60;td&#62;&#60;font face=&#34;Arial,&#34; color=&#34;#70686F&#34; size=&#34;2&#34;&#62;<b>70686F</b>&#60;/font&#62;&#60;/td&#62; <BR>    &#60;td&#62;&#60;font face=&#34;Arial,&#34; color=&#34;#746F42&#34; size=&#34;2&#34;&#62;<b>746F42</b>&#60;/font&#62;&#60;/td&#62; <BR>	&#60;td&#62;&#60;font face=&#34;Arial,&#34; color=&#34;#544B&#34; size=&#34;2&#34;&#62;<b>544B</b>??&#60;/font&#62;&#60;/td&#62; <BR>  &#60;/tr&#62; <BR>&#60;/table&#62;<!--/Text--></td></tr>
+<!--/Post: 2086-->
+<!--Post: 2088--><!--Time: 1103309108-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2088"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pondering<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 10:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Internet cafes, libraries, any business he may stop and do IT repair work in that day, even motels and hotels have accessible computers now.  Sending from a different IP each day &#40;even at the same time&#41; is not that hard once you think about it. <BR> <BR>Like Kelleher said, BTK is not only computer savvy, but electronics savvy.  Radio operations are right up his alley and may have been what connected him to Otero at Cook.  This last code seems to ask us to look harder at that.  And thinking about it, there had to have been something of an incendiary nature pass between them &#40;Otero and BTK&#41; at some point.  In one of his letters to the police BTK said &#34;You guess the motive!&#34; A taunt which would have any Sherlock worth his Holmes looking hard at Otero to find out what was going on in his life past and present. <BR> <BR>BTK&#39;s period of inactivity after mid-80&#39;s may have been due to a combination of factors, chief among them the accessibility of the proliferation of bizarre, grotesque sites on the internet where any fetish can be fulfilled and any fetishist with the right equipment can bring it all right into his own living space &#40;including simulated asphyxiations.&#41;  <BR> <BR>And don&#39;t forget the advent of Oprah and Jerry Springer, where every nature of being encased in flesh came into our living rooms to air their sicknesses and make what was once freakish and abnormal seem entirely mundane. <BR> <BR>I do believe BTK has a naughty secret.  Something that&#39;s shamed him from an early age.  Perhaps it&#39;s this that gnaws at him and provides impetus for the creation of these cryptic puzzles and games that draw attention away from anything but what his intelligence quotient might be.  He doesn&#39;t want us looking at anything else.   <BR><!--/Text--></td></tr>
+<!--/Post: 2088-->
+<!--Post: 2091--><!--Time: 1103309893-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2091"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->hmmm<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 10:58 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Otero was ,more than likely a personal grudge. He went out after the whole family. If he could have got them all, he probably would have. Something I find intresting is the fact that Otero&#39;s surviving son gets out of pison in December, and BTK resurfaces. He might have it out for this bloodline, like in Last of the Mohikans? Cant spell sorry. The question that still gets me is, was the Otero family really the first killings. <BR>Also I was a 31V in the Army and that is a communications job. Like alot of ex military, I work for a military contractor. Lots of travel, especially in comms. Maybe he is a &#34;hometown killer&#34; but maybe he doesn&#39;t live at home anymore. What yall think?<!--/Text--></td></tr>
+<!--/Post: 2091-->
+<!--Post: 2092--><!--Time: 1103310978-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2092"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Good Cop<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 11:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey hmmm, your right on the mark about time of day. Maybe he just sits down in the lobby of a building with his laptop and casually uses their wire-less connection. &#40;The courts have ruled that this is not illegal by the way. As long as you don&#39;t pretend to be with that company&#41; <BR> <BR>My 14 year old nephew and his friends ride around on their skateboards all the time. When they get tired and take a break, they sit outside a business, take their laptops out of their backpack and and go at it. He even uses it to place phone calls to my sister to let her know where he and his friends are at. He has this little head set thing that plugs into the laptop. Great kid, my sister never has to worry about him.<!--/Text--></td></tr>
+<!--/Post: 2092-->
+<!--Post: 2093--><!--Time: 1103311352-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2093"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->hmmm<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 11:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think that its strange that a 60 someodd year old man can go to public places and use the internet and not be some how strange. Maybe the authoities need to keep a look out for this. Like you said, Good cop, the laptop thing is an easy way to make contact. So if anyone sees a 60 someodd man with a laptop aound 5 pm, the flags should go up.<!--/Text--></td></tr>
+<!--/Post: 2093-->
+<!--Post: 2095--><!--Time: 1103311484-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2095"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Probablystretching<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 11:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Somerset, is one of the colors gold?  There&#39;s a Golden limo service near Lewis and Mosley.  Lewis street also intersects with Green street and Greenwood street, which is super close to Hydraulic, where one of BTK&#39;s victim&#39;s lived. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 2095-->
+<!--Post: 2096--><!--Time: 1103311527-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2096"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->hmmm<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 11:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Or if the authoities should check all public access computers for related webpages. He likes the libray and public places to make his statements. Thee is a way to find him if hes using public resorces.<!--/Text--></td></tr>
+<!--/Post: 2096-->
+<!--Post: 2097--><!--Time: 1103311748-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2097"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Somerset<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 11:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yes, the last color is gold.<!--/Text--></td></tr>
+<!--/Post: 2097-->
+<!--Post: 2098--><!--Time: 1103311928-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2098"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Somerset<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 11:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->And not only is the last color is gold, but it is green based on how your browser fills in the missing two colors. If its done in photoshop, its green.<!--/Text--></td></tr>
+<!--/Post: 2098-->
+<!--Post: 2100--><!--Time: 1103312101-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2100"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stretchingfurther<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 11:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Somerset, look at the beginning letters in the message from TedCammon.  Unscrambling some of the letters you can make &#39;boys gym&#39;.  Made me think of Truesdell Jr. High, in the &#34;South&#34; part of the city, school colors green and gold.  Not saying this means anything, but it&#39;s weird how you can suddenly start making things fit into something bizarre.<!--/Text--></td></tr>
+<!--/Post: 2100-->
+<!--Post: 2102--><!--Time: 1103313923-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2102"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Mills<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 12:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I know this may have nothing to do with anything but when I look at those colors, I noticed that they look like the colors you get from a polaroid. The colors that dark/ black skin develop as in polaroids. I&#39;ve had a lot of experience working with polaroids in the past and this was the first thing that stuck out when I saw those colors. <!--/Text--></td></tr>
+<!--/Post: 2102-->
+<!--Post: 2103--><!--Time: 1103314346-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2103"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pondering<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 12:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;The colors that dark/ black skin develop as in polaroids.&#34; <BR> <BR>Can you clarify?  You mean before the photo is processing, during, or after?<!--/Text--></td></tr>
+<!--/Post: 2103-->
+<!--Post: 2104--><!--Time: 1103314363-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2104"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Somerset<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 12:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->What if he is not white? And those are skin tones and blonde hair?  <BR> <BR>&#34;Someone who inherits hemoglobin S from one parent and normal hemoglobin &#40;A&#41; from the other parent will have sickle cell trait. Approximately 8% of African Americans have sickle cell trait.&#34; <BR> <BR>Would come close to matching that 6% as earlier stated.<!--/Text--></td></tr>
+<!--/Post: 2104-->
+<!--Post: 2105--><!--Time: 1103314922-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2105"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->hmmm<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 12:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I dont know. I think the &#34;code&#34; is a fake. Come on, its too impersonal. You cant forget, this guy is 60 plus. He may be computer saavy and all that, but the code is too much. Not his style. He&#39;s a copycat type of guy. Hes been at this fo years. He may possably be reading this and may be writing some of these posts. Hes a clever guy and a simple color code is just not him. He wont be giving us &#34;nomal&#34; folks any hints. Hes out to mess with the cops, and to scare us. A question to Tom, What posts do you think may really be his?<!--/Text--></td></tr>
+<!--/Post: 2105-->
+<!--Post: 2106--><!--Time: 1103315044-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2106"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pondering<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 12:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I may be wrong, but I believe the 6% has to do with his non-secretor status, Somerset.  There is one variation found in only 6% of Caucasians.<!--/Text--></td></tr>
+<!--/Post: 2106-->
+<!--Post: 2107--><!--Time: 1103316012-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2107"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->C<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 12:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Somerset, Sorry, but the statistical probability that the color hex values would work out to be ASCII characters that just happened to be ICAO locations for Cook Airfield, KS ARTCC, and the word &#34;photo&#34;, then signed &#34;BTK&#34;  is astronomical to say the least. I think you&#39;re way off on this. There is no color code.  It is clear: <BR> <BR>5A4B43 = ZKC <BR>4B3530 = K50 <BR>70686F 746F = photo <BR>42544B = BTK <BR> <BR>The only mystery here is whether this came from some poser clown - or the real btk... <BR> <BR>- C<!--/Text--></td></tr>
+<!--/Post: 2107-->
+<!--Post: 2108--><!--Time: 1103316454-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2108"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 12:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m with &#34;C&#34; above. <BR> <BR>Victor<!--/Text--></td></tr>
+<!--/Post: 2108-->
+<!--Post: 2112--><!--Time: 1103318104-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2112"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Somerset<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 1:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Astronomical like the fact that no one on Earth has yet to crack Zodiac&#39;s puzzle? <BR> <BR>Or astronomical in the way that serial killers don&#39;t lie dormant for a decade or two? <BR> <BR>Or the same type probability that the colors are all in the same family, only minor shade differences between them? <BR> <BR>Or did you mean that it was the same type of probability that the police have a fingerprint, DNA, semen, and correspondences yet still have no killer 30 years later? <BR> <BR>I&#39;m saying that given the subject matter here, nothing should be ruled out. I love the solution he posted this morning, but that doesn&#39;t mean we can&#39;t continue to look at other possibilities and meanings. Those are the same close-minded attitudes that have kept this case open for 30 years. <BR><!--/Text--></td></tr>
+<!--/Post: 2112-->
+<!--Post: 2113--><!--Time: 1103318183-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2113"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->wade<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 1:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yeah....its not color.  I have spent alot of time checking out the various ARTCC codes and there is no way it is&#39;nt about the airports. <BR>What are the chances??  Then the last two words are &#34;btk photo&#34;....that probability probably barely exist even in any hypothetical mathematical equation.  Along with C, it is either btk or some other loser posted it.<!--/Text--></td></tr>
+<!--/Post: 2113-->
+<!--Post: 2114--><!--Time: 1103319930-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2114"><font face="Verdana" size="1"><b><!--email--><a href="mailto:mrsdochash@cox.net" target="_blank"><!--/email--><!--name-->Chash<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Chash<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 1:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->are the pictures of pilots or group shots of pilots at the cook airport?<!--/Text--></td></tr>
+<!--/Post: 2114-->
+<!--Post: 2119--><!--Time: 1103323435-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2119"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 2:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If you search google.com for  4B3530...   you get this weired picture!: <BR> <BR><a href="http://www.google.dk/search?q=cache:ivTcQvOlWuEJ:rlc.hal-9000.net/messages/1/7/17002.html%2B4B3530%2B&amp;hl=en" target=_top>http://www.google.dk/search?q=cache:ivTcQvOlWuEJ:r lc.hal-9000.net/messages/1/7/17002.html&#43;4B3530&#43;&amp;hl =en</a> <BR> <BR>when you search 5A4B43 you get this site <BR> <BR><a href="http://www.google.dk/search?q=cache:2B9fIWIkomoJ:forum.tt-hardware.com/ultimatebb.cgi%3Fubb%3Dreply%26f%3D15%26t%3D005032%26replyto%3D000000%2B5A4B43&amp;hl=en" target=_top>http://www.google.dk/search?q=cache:2B9fIWIkomoJ:f orum.tt-hardware.com/ultimatebb.cgi%3Fubb%3Dreply% 26f%3D15%26t%3D005032%26replyto%3D000000&#43;5A4B43&amp;hl =en</a> <BR> <BR>Apparently they are both som kind of picture/color codes, but who knows if BTK has anything to do with it? <BR> <BR>Maybe we should note the NAME of the girl in the picture &#34;ASCII Rachael&#34; ??? <BR> <BR>hugs...skov<!--/Text--></td></tr>
+<!--/Post: 2119-->
+<!--Post: 2120--><!--Time: 1103323782-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2120"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Somerset<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 2:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Re: ASCII Rachael! - William 02:53:28 9/14/2001 &#40;0&#41; <BR> <BR>It&#39;s intersting that William is short for Bill.<!--/Text--></td></tr>
+<!--/Post: 2120-->
+<!--Post: 2126--><!--Time: 1103326379-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2126"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Devbost<!--/name--></b></a><br>Username: <!--field:uname-->Devbost<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 3:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Somerset was on to something when &#40;s&#41;he translated the 5A4B43 post into color codes, but to elaborate: the content of this post is a hexadecimal string. <BR> <BR>That&#39;s undoubtedly Greek to some of you. In a nutshell, hex is a base-16 numeric system mostly used in PC computing. You have the normal 0-9, and then A=10, B=11, C=12, etc. You can convert hex numbers into decimal using any of the many <a href="http://www.mrcalculator.com/hexdec.html">hexadecimal calculators</a> available on the web. <BR> <BR>Anyhoo... <BR> <BR>This post allegedly from BTK, translated into decimal, comes to 1.8313798029334936e&#43;33. Does that number or sequence of numbers mean anything significant to anyone? <BR> <BR>Taking them in chunks: <BR> <BR>5A4B43 = 5917507 <BR>4B3530 = 4928816 <BR>70686F = 7366767 <BR>746F42 = 7630658 <BR>544B = 21579 <BR> <BR>Any ideas?<!--/Text--></td></tr>
+<!--/Post: 2126-->
+<!--Post: 2133--><!--Time: 1103331107-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2133"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 4:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yes, I think it&#39;s the serial number from that box of suppositories I bought the other day. <BR> <BR>&#40;Just kidding, DEVBOST. I really have no clue. But I appreciate all the effort you put into this mystery puzzle.&#41;<!--/Text--></td></tr>
+<!--/Post: 2133-->
+<!--Post: 2141--><!--Time: 1103338089-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2141"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 6:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I forgot to post a link to the news article about this man Wally Foote <BR> <BR><a href="http://www.google.dk/search?q=cache:CSqPlLRC2tgJ:www.rockportpilot.com/articles/2004/11/17/people/people00.txt%2B%22Wally%2BFoote%22&amp;hl=en" target=_top>http://www.google.dk/search?q=cache:CSqPlLRC2tgJ:w ww.rockportpilot.com/articles/2004/11/17/people/pe ople00.txt&#43;%22Wally&#43;Foote%22&amp;hl=en</a> <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 2141-->
+<!--Post: 2143--><!--Time: 1103338531-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2143"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 6:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Skov, if you don&#39;t start reading my e-mail and following instructions I&#39;m going to ban your i.p. <BR> <BR>Enough is enough. I have better things to do than babysit you.<!--/Text--></td></tr>
+<!--/Post: 2143-->
+<!--Post: 2145--><!--Time: 1103338809-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2145"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 7:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, what about this direct challenge to you, following your request for info from BTK? <BR> <BR>The Faucet? <BR> <BR>Are the IPs all the same or same block and or provider? <BR> <BR>Where are those posts originating from?<!--/Text--></td></tr>
+<!--/Post: 2145-->
+<!--Post: 2147--><!--Time: 1103338881-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2147"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 7:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Q, I don&#39;t know what challenge you mean.<!--/Text--></td></tr>
+<!--/Post: 2147-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="59/215">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Post:</b>
+</font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Username:</b>
+</font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a public posting area.  Enter your username and password if you have an account. Otherwise, enter your full name as your username and leave the password blank.  Your e-mail address is optional.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Password:</b>
+</font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>E-mail:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><input type="text" name="email" value="" size=51></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Action:</b>
+</font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=59/215" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

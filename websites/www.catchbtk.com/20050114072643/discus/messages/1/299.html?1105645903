@@ -1,0 +1,304 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 299/&#34;TALKING TO TOM&#34;-->
+<!--Level 1: 299/&#34;TALKING TO TOM&#34;-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: &#34;TALKING TO TOM&#34;</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">&#34;TALKING TO TOM&#34;</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+&#34;TALKING TO TOM&#34;
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=299"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=299"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 3565--><!--Time: 1105030278-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3565"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 8:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This is a post for talking to, or communicating with, Tom Voigt. One of the coolest people on the planet. <BR> <BR>Let&#39;s see. It he responds.<!--/Text--></td></tr>
+<!--/Post: 3565-->
+<!--Post: 3572--><!--Time: 1105038183-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3572"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 11:03 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Cue the Billy Squire ...<!--/Text--></td></tr>
+<!--/Post: 3572-->
+<!--Post: 3576--><!--Time: 1105039852-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3576"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 11:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Victor&#39;s just trying to butter me up for some devious reason. However, I like the idea of one thread for people to ask questions of me, rather than posting them in the middle of another discussion.<!--/Text--></td></tr>
+<!--/Post: 3576-->
+<!--Post: 3583--><!--Time: 1105046321-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3583"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brazilian<!--/name--></b></a><br>Username: <!--field:uname-->Brazilian<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 1:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, is this puzzle &#34;Pet rat in a...&#34; something sent by BTK or it&#39;s a thing to mess with him? <BR> <BR>Keep the excelent job!<!--/Text--></td></tr>
+<!--/Post: 3583-->
+<!--Post: 3584--><!--Time: 1105046734-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3584"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 1:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The names &#34;Petra&#34; and &#34;Tina&#34; were apparently provided by BTK, but the puzzle was not.<!--/Text--></td></tr>
+<!--/Post: 3584-->
+<!--Post: 3587--><!--Time: 1105048297-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3587"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Devbost<!--/name--></b></a><br>Username: <!--field:uname-->Devbost<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 1:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A couple of questions, since Tom&#39;s feeling expansive... <IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0> <BR> <BR>First: I don&#39;t believe I&#39;ve seen any explanation from you for the picture of the &#34;Fancy Nancy&#34; doll you posted on the splash page a couple of weeks ago. Are you at liberty to talk about what that was all about? Is it just coincidence that your offer to BTK was removed from the site at about the same time? <BR> <BR>Second: Have you received any communications through the site or on the tip line that you think might actually be from BTK? If so, how have you responded?<!--/Text--></td></tr>
+<!--/Post: 3587-->
+<!--Post: 3596--><!--Time: 1105052387-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3596"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 2:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->1&#41; Until WPD release details, I prefer not to post specifics about the doll <BR> <BR>2&#41; The Fox license could be interpreted as a  response to my &#34;BKT CLU DMV FOX&#34; message. Nothing else has floated my boat<!--/Text--></td></tr>
+<!--/Post: 3596-->
+<!--Post: 3604--><!--Time: 1105055171-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3604"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brazilian<!--/name--></b></a><br>Username: <!--field:uname-->Brazilian<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 3:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, do you think BTK is waiting for somebody to solve any puzzle of him, so he will send another package? Do you think his drops make part of a game he is playing?<!--/Text--></td></tr>
+<!--/Post: 3604-->
+<!--Post: 3606--><!--Time: 1105056377-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3606"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 4:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->He seems to be making his drops on anniversary dates, so I doubt puzzles have anything to do with it.<!--/Text--></td></tr>
+<!--/Post: 3606-->
+<!--Post: 3608--><!--Time: 1105058583-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3608"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Researcher<!--/name--></b></a><br>Username: <!--field:uname-->Researcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 4:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, <BR> <BR>If for some reason BTK would mail a package/letter to you - because of the nature of the case/investigation - would you feel it necessary to keep it private between you and the authorities? Or would it makes it way to the web site &#40;even in redacted form&#41;?<!--/Text--></td></tr>
+<!--/Post: 3608-->
+<!--Post: 3609--><!--Time: 1105058633-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3609"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 4:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Do you think the puzzles are a smokescreen, of sorts? <BR> <BR>I sometimes wonder if a lot of what he has sent is obfuscation, meant to cloud investigators thinking about him, who he really is. Or it&#39;s a combination of trying to genuinely communicate and still obscure the picture. <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 3609-->
+<!--Post: 3611--><!--Time: 1105059129-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3611"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 4:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Researcher, I would publish the material right here unless otherwise instructed by the sender. <BR> <BR>Steve, the only puzzles I know of are simple word finds.<!--/Text--></td></tr>
+<!--/Post: 3611-->
+<!--Post: 3616--><!--Time: 1105064127-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3616"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bulldog87<!--/name--></b></a><br>Username: <!--field:uname-->Bulldog87<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 6:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, do you believe BTK stands for anything other than bind toreture kill? I think people are just getting carried away. Seems like people watch a lot of movies with too much symbolism and such. Also do you have suspect based on the info you have gathered?<!--/Text--></td></tr>
+<!--/Post: 3616-->
+<!--Post: 3631--><!--Time: 1105074248-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3631"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 9:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom,  <BR> <BR>As you are more familiar with this case than most others on the several boards, do YOU have anyone in particular that you like as BTK?  <BR>If you don&#39;t have a particular individual in mind then do you have any particular theory that you feel, based on your understanding of the case&#39;s history and evidence,  is more on track than the others? Or are we all, the authorities included, as  much &#40;or even perhaps more&#41; in the dark than we were at this time last year before we had heard from BTK again? <BR> <BR>I guess what I am asking is this; what is your honest opinion of where we are and where we are headed? Will we ever catchBTK?<!--/Text--></td></tr>
+<!--/Post: 3631-->
+<!--Post: 3638--><!--Time: 1105077260-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3638"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Angrywolf<!--/name--></b></a><br>Username: <!--field:uname-->Angrywolf<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 9:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Do you agree with the &#34;let&#39;s wait until he makes a mistake&#34; or see if he has made a past mistake that will identify him..or would you prefer a strategy that would draw him out...I prefer the latter although it does carry some risks... <BR>&#39;<!--/Text--></td></tr>
+<!--/Post: 3638-->
+<!--Post: 3677--><!--Time: 1105124702-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3677"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tbear<!--/name--></b></a><br>Username: <!--field:uname-->Tbear<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 07, 2005 - 11:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, is there anyway to gather the known evidence into one area. Maybe a link from the home page. I believe many readers are getting confused on what is known evidence, what is possibly evidence, and what some individuals are just throwing out there for giggles and grins. I am aware that the information is contained in this site, however, jumping from link to link can get confusing. Thank you! <!--/Text--></td></tr>
+<!--/Post: 3677-->
+<!--Post: 3679--><!--Time: 1105126570-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3679"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 07, 2005 - 11:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, this is a serious question about an opinion of yours, and not meant to be sniping toward the Eagle forum - do you think the ks.com BTK forum is even worth the trouble anymore? I&#39;d noticed your posting frequency there diminishing and wondered if you&#39;d finally had it with the crazy factor there. I&#39;d been thinking of being more active there, but even people who post reasonable questions or statements get flamed sometimes. I know this is not a directly BTK-related question, but I had to ask someone, and I noticed in the past you&#39;d given it a shot.<!--/Text--></td></tr>
+<!--/Post: 3679-->
+<!--Post: 3688--><!--Time: 1105137646-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3688"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 07, 2005 - 2:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bulldog: Yes, I believe BTK stands for bind, torture, kill.  <BR> <BR>Dpinva: I don&#39;t have a favorite suspect. However, I believe BTK will be identified and he&#39;ll turn out to be someone not overly bright. <BR> <BR>Angrywolf: BTK&#39;s done his own thing for 30 years and I doubt he can be manipulated. <BR> <BR>Tbear: The history page is factual and I&#39;ll be adding to it soon. <BR> <BR>Steve: Kansas.com is not a place I&#39;d consider attempting to have a coherent BTK discussion.<!--/Text--></td></tr>
+<!--/Post: 3688-->
+<!--Post: 3695--><!--Time: 1105140009-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3695"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 07, 2005 - 3:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><font color="#800000"><b><i>&#34;I don&#39;t have a favorite suspect. However, I believe BTK will be identified and he&#39;ll turn out to be someone not overly bright.&#34;</i></b></font> <BR> <BR><font color="#800000">Tom, I have to agree with you there. We have collectively built up quite a myth about BTK and quite a mythical beast of a monster to go with that myth. When BTK is finally caught, he will be a profound disappointment to law enforcement, psychologists wanting to study him, and to all of us who are simply interested in this case and in discovering if the reality lives up to the myth.  <BR> <BR>It won&#39;t come close.  <BR> <BR>I am not sure BTK will be stupid, as he has shown a remarkable ability to manipulate and aunt both the authorities and the population at large, but he will not be attending Mensa onventions either. He will probably be of average intelligence. Everything about him will be average. BTK will be a boring, quiet nerdy type that no one ever notices at all. That is one of the biggest reasons he has not been caught yet. He is so insignificant in his appearance and demeanor, so average in every aspect of his being, so blah a person that he fits right in. Wichitans might have met BTK, or sat next to him at a <i>Shockers </i>game, or shared a hymnal with him at church, or maybe even bought him a drink at the local pub. Perhaps you dated his daughter or sister.  <BR>Perhaps you dated <i>him.</i> His outward appearance of average quietness hides the monstrosity hidden underneath that he himself affirms is there. At the end of the day he will be a tremendous disappointment because the man will look <i>nothing </i>like the myth<i>. </i>BTK is essentially nothing more than a very  <BR>good psychopath and sociopath. That requires some intelligence, a lot of luck, and most importantly the ability to not value anyone or anything that does not service his desires and ego - no one&#39;s lives or families or futures or freedoms or children. The day he is identified and captured will be the day the myth of the monster dies, and the reality of the murdering average, plain, boring nerd is born.  <BR> <BR>BTK is just another person, albeit a profoundly flawed human being in tremendous pain and mental illness, but still<i>just another person, </i>but who has denied that same humanity to 8 people and caused immeasurable pain to countless  <BR>others.<i> </i>At least in his ability to destroy and demolish, he is above average. He is far above average in evil.<i> </i></font><!--/Text--></td></tr>
+<!--/Post: 3695-->
+<!--Post: 3703--><!--Time: 1105143718-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3703"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 07, 2005 - 4:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, thanks - you just confirmed what I was thinking. And I thank you for saying this, too: <BR> <BR><i>&#34;...he&#39;ll turn out to be someone not overly bright.&#34;</i> <BR> <BR> <BR> I like your boards better all the time. Dpinva, this;  <BR> <BR><i>&#34;At the end of the day he will be a tremendous disappointment because the man will look nothing like the myth. BTK is essentially nothing more than a very good psychopath and sociopath.&#34;</i> <BR> <BR>I simply could not have said it any better. Thank God there are more people out here posting to forums who think this way than I thought. You read certain forums long enough and you start to feel as if BTK is only drawing the nuts out of the shadows, and you long for the sensible folks. <BR> <BR>  <BR> <BR> <!--/Text--></td></tr>
+<!--/Post: 3703-->
+<!--Post: 3724--><!--Time: 1105160392-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3724"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dorothy<!--/name--></b></a><br>Username: <!--field:uname-->Dorothy<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 07, 2005 - 8:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->posted by Tom: <BR>&#34;1&#41; Until WPD release details, I prefer not to post specifics about the doll&#34; <BR> <BR>I am very intrigued by this.... <BR> <BR>So you have info from the police that the general public doesn&#39;t or where did you get the info? <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 3724-->
+<!--Post: 3741--><!--Time: 1105164988-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3741"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 07, 2005 - 10:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->TOM: Thanks for the compliment. I think. There&#39;s no &#34;devious reason&#34; for me starting this &#34;TALKING TO TOM&#34; thread here. And from the looks of it, it could be a very good thread. <BR> <BR>I just thought it would help you &amp; the public in general. However, if you are thinking of possible favors, well, let me give that some thought... &#40;Just joking!&#41; <BR> <BR>Victor <BR><!--/Text--></td></tr>
+<!--/Post: 3741-->
+<!--Post: 3857--><!--Time: 1105331483-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3857"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 09, 2005 - 8:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dorothy, I have some great sources and am quite appreciative of them.<!--/Text--></td></tr>
+<!--/Post: 3857-->
+<!--Post: 3885--><!--Time: 1105392231-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3885"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 10, 2005 - 1:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Tom <BR>Happy Birthday &#40;a little late sorry&#41; and take care in wichita! <BR> <BR>I wanted to ask if it is possible to make a thred where you can put all the posts that you consider misplaced/off topic, on the thred. <BR>I mean posts that, in som way, realy has a message, opinion or a reply to another posters thought, idea or info. <BR>The problem is that when one read a post that IS on topic but ALSO add som other ideas/info/thoughts one often wants to respond to that but then you always deleet those posts and they are gone for ever EVEN if they often contain very usefull info/thoughts. <BR>Like today, I read a post somone wrote, about that BTK was, among other thing, driven by hate to Wichita, and I REALY wanted to get in tuch with that poster, VERY IMPORTENT &#40;please help me out finding this poster???&#41; <BR>Now if ther was som kind of creative garbage-can thred that you could through all them off topic posts into, then we would be able to find all those posts that people have used time and brains to create. <BR>PLEASE! <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 3885-->
+<!--Post: 3912--><!--Time: 1105412739-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3912"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 10, 2005 - 7:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->TOM &amp; all who are going to Wichita: Hope the trip is shaping up great. Unfortunately I just got some horrible financial news &#40;IRS&#41; so I won&#39;t be going. <BR>    <BR>But I&#39;m really looking forward to hearing details about how it goes. I&#39;ll be with you in spirit, though. Find some good night life and... <BR> <BR>   &#34;CATCH BTK&#34;! <BR> <BR>   And Have a Great Time! <BR> <BR>   Victor<!--/Text--></td></tr>
+<!--/Post: 3912-->
+<!--Post: 3932--><!--Time: 1105420101-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3932"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 10, 2005 - 9:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->What Victor said and make the most of it!<!--/Text--></td></tr>
+<!--/Post: 3932-->
+<!--Post: 4074--><!--Time: 1105644294-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4074"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nugzter<!--/name--></b></a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 13, 2005 - 11:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, Do you have any information on the Railroad dective. I mean what did the WPD do to check this, if they even did.<!--/Text--></td></tr>
+<!--/Post: 4074-->
+<!--Post: 4075--><!--Time: 1105645903-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4075"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lanena<!--/name--></b></a><br>Username: <!--field:uname-->Lanena<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 13, 2005 - 11:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hello. Hope your trip goes well.  I have a question that I am hoping you can answer.  I have read that semen was found at the Nancy Fox murder scene.  Do you know for sure if semen was found at any of the other murder sites?  There seems to be some confusion with a lot of people that I have talked to about this and I am hoping you can clear it up. <BR>Thanks and have a nice time in Wichita.<!--/Text--></td></tr>
+<!--/Post: 4075-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/299">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/299" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,246 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 444/BTK Occupations-->
+<!--Level 1: 444/BTK Occupations-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK Occupations</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK Occupations</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+BTK Occupations
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=444"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=444"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 6489--><!--Time: 1107823318-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6489"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ciajoe<!--/name--></b></a><br>Username: <!--field:uname-->Ciajoe<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 4:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I see a lot of threads with speculation about what his occupation could be. He claims to have been a copy machine tech. Maybe this would be a good thread to speculate on occupations.<!--/Text--></td></tr>
+<!--/Post: 6489-->
+<!--Post: 6503--><!--Time: 1107835250-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6503"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tecno242<!--/name--></b></a><br>Username: <!--field:uname-->Tecno242<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 8:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good Thread. <BR> <BR>I&#39;ve done a signifigant amount of research on him and the case itself. <BR> <BR>I am convinced that he did and still works for the Kansas DMV.  I believe he used this profession to hand pick his victims by photo and also had access to thier addresses.  He would then proceed to stalk the victim for several weeks building himself into a frenzy over the fantasy of the terrible things he was planning to do and then acted on it. <BR> <BR>I think he most likely works in a simple job with little hope for advancement or social interaction, which i believe he fears.  Such as data entry.   <BR> <BR>He would be liked in the work place and seen as a dependable worker but lacking any desire to excel or interact with others.<!--/Text--></td></tr>
+<!--/Post: 6503-->
+<!--Post: 6605--><!--Time: 1107906617-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6605"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 3:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I wonder if BTK&#39;s reappearance might coincide with retirement?  Freedom 55?  I have a relative who was retired from a phone company job after 30 years, even though she was only 49 -- she started working there right out of high school, and the phone company recently adopted a policy of mandatory retirement for any employee who hit the 30-year mark.  Maybe BTK suddenly has a lot of extra time on his hands.  What&#39;s the mandatory retirement policy for the DMV?<!--/Text--></td></tr>
+<!--/Post: 6605-->
+<!--Post: 6607--><!--Time: 1107907159-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6607"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 3:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Further thoughts on BTK&#39;s occupation:  I think he&#39;s had a white collar job of some sort.  Maybe entrepreneur, or consultant.  Either of those situations would allow him to set his own hours and do his Tueday/Thursday excursions. <BR> <BR>I figure he&#39;s white collar, but targeting blue collar victims because he sees them as inferior to him.  A lot of serial killers target victims who they see as weak and inferior, like prostitutes, or street kids, or even just women in general, using that reason.  I think BTK had a blue collar background and attended WSU to improve his lot in life.  He&#39;s clearly literate, well-read, and computer-savvy.   <BR> <BR>Funny, a lot of serial killers who fit the organized SK and sadistic profile were also entrepreneurs, at least at some point of their life they were -- Wayne Williams, Paul Bernardo...  Another possibility, BTK could work at DMV and have a consulting business or something like that on the side.<!--/Text--></td></tr>
+<!--/Post: 6607-->
+<!--Post: 6627--><!--Time: 1107916653-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6627"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wichitaboy<!--/name--></b></a><br>Username: <!--field:uname-->Wichitaboy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 6:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->How about a door to door salesman?<!--/Text--></td></tr>
+<!--/Post: 6627-->
+<!--Post: 6662--><!--Time: 1107929913-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6662"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kansasgirl<!--/name--></b></a><br>Username: <!--field:uname-->Kansasgirl<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 10:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I noticed today on television that SBC &#40;Southwestern Bell Company&#41; has an infinity sign behind their logo. That is the major phone service provider in this area. I know others have speculated that the infinity sign is the symbol on the letters that BTK has sent to LE. I have no idea how long SBC has been around, but he could have definitely worked for the phone company. I am sure they carry some type of case or satchel around while doing their repairs. Just an idea.<!--/Text--></td></tr>
+<!--/Post: 6662-->
+<!--Post: 6704--><!--Time: 1107968443-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6704"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tbear<!--/name--></b></a><br>Username: <!--field:uname-->Tbear<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 9:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->FYI... the infinity logo has only been in use for a couple of years. only recently has SBC actually used &#39;SBC&#39; in marketing. most are familiar with the long time use of &#39;South Western Bell&#39;<!--/Text--></td></tr>
+<!--/Post: 6704-->
+<!--Post: 6748--><!--Time: 1107994175-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6748"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Woody<!--/name--></b></a><br>Username: <!--field:uname-->Woody<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 4:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I actually work for SBC &amp; we appreciate the plug &#40;just kidding&#41;.  I believe that one of the IDs that he sent in to the media and/or WPD was a fake Southwestern Bell badge. <BR> <BR>Posing as a telephone technician or lineman would have certainly given him the proper cover needed for sneaking around houses &amp; cutting telephone lines. <!--/Text--></td></tr>
+<!--/Post: 6748-->
+<!--Post: 6802--><!--Time: 1108011752-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6802"><font face="Verdana" size="1"><b><!--email--><a href="mailto:williammichael@direcway.com" target="_blank"><!--/email--><!--name-->Oklahoma_mike<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Oklahoma_mike<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 9:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have said for some time that lots of things add up if we speculate he was dressed as a utility worker, such as a phone or electric lineman.  He could walk down an alley pretending to plug in a circuit tester at every pole or phone line, then pretend to look at it for 5-10 minutes with nobody thinking about it or maybe even remembering.  If he did not really have that profession, easy to fake an outfit.<!--/Text--></td></tr>
+<!--/Post: 6802-->
+<!--Post: 6819--><!--Time: 1108019051-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6819"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@yahoo.com" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 11:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->How about a IT teacher, specializing in Industrial, and analog/digital? <BR> <BR>wichitan<!--/Text--></td></tr>
+<!--/Post: 6819-->
+<!--Post: 6824--><!--Time: 1108022068-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6824"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 11:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wichitan <BR>I think you are on the right track as far as the IT angle. Whether he teaches or works in the field? He would be more annonymous working, but that does not rule out teaching. There are a lot of universities and technical schools around Wichita. Plus teaching would keep him abreast of all the latest. He DOES seem to know computers.<!--/Text--></td></tr>
+<!--/Post: 6824-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/444">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/444" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

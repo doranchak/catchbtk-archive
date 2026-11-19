@@ -1,0 +1,326 @@
+<html>
+<!--Topic: 76/BTK Media-->
+<!--Me: 630/Yee Ha Let the Freak Show Begin!-->
+<!--Level 1: 630/Yee Ha Let the Freak Show Begin!-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 76-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Yee Ha Let the Freak Show Begin!</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Yee Ha Let the Freak Show Begin!</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/76/76.html"><font color="#f7f7f7">BTK Media</font></a> &#187;
+Yee Ha Let the Freak Show Begin!
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=76&page=630"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=76&page=630"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 9901--><!--Time: 1109698023-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9901"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 9:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I was just informed by my family, that they have opened up Jacksonville &amp; Independence! As I stated before there are No Tresspassing signs posted. For all of you curious George&#39;s what do you expect to see?<!--/Text--></td></tr>
+<!--/Post: 9901-->
+<!--Post: 9937--><!--Time: 1109709262-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9937"><font face="Verdana" size="1"><b><!--email--><a href="mailto:crazyhorse4440@hotmail.com" target="_blank"><!--/email--><!--name-->Lola<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Lola<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 12:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky~ Can you be more specific?  <BR> <BR>.....that they have opened up Jacksonville &amp; Independence! As I stated before there are No Tresspassing signs posted. For all of you curious George&#39;s what do you expect to see? <BR> <BR>What exactly are you talking about? <BR>Thanks in advance~<!--/Text--></td></tr>
+<!--/Post: 9937-->
+<!--Post: 9943--><!--Time: 1109711537-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9943"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 1:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t know Rocky, yu are basically on the front lines, you will have to keep us up to date, I did hear from someone that Rader had his victims belongings buried in the back yard. So sorry, I believe your neighborhood is going to be a circus for a while, Try not to let it keep you up at night, he&#39;s in jail. Hopefully they would be camping out there to long.   E<!--/Text--></td></tr>
+<!--/Post: 9943-->
+<!--Post: 9946--><!--Time: 1109712139-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9946"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 1:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky, my family lives in Wichita.  But it is so great to have you and them to keep us up to date on the news that we don&#39;t have extended access to...espically if it is &#34;breaking&#34;.  I&#39;m sorry your town is being so &#34;invaded&#34; right now.  Hang in there.  But please keep us posted on all the happenings....I - For One - really really appreciated them AND it helps with my long distance bill.<IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0> <BR>Hey....Chow for now <BR>ANY LITTLE THING YOU GOT! <BR>Bye Bye Denny the bad ass Dog Catcher <BR>T <BR><!--/Text--></td></tr>
+<!--/Post: 9946-->
+<!--Post: 9948--><!--Time: 1109712193-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9948"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 1:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->By the way, you curious George&#39;s need to make a contribution to the Marine Hedge Memorial Fund as your driving by! Seriously!<!--/Text--></td></tr>
+<!--/Post: 9948-->
+<!--Post: 9952--><!--Time: 1109712476-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9952"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 1:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Let me just re-phrase my last line... <BR> <BR>Bye Bye Denny &#34;thought&#34; yourself the bad ass Doggie Catcher <BR> <BR>I wonder if the a&#42;&#42;hole hurt poor little animals to.? <BR>ROcky - did you ever notice anything?  I saw on one of the threads here that at one of his garage sales he had a big box of dog collars and when someone inquired why he had so many he said they were from dogs he had put to sleep??? <BR>Maybe the BTK SUSPECT THREAD <BR>Dennis Rader <BR>I can&#39;t even stand to type his name!<!--/Text--></td></tr>
+<!--/Post: 9952-->
+<!--Post: 9954--><!--Time: 1109712632-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9954"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 1:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky - do you know of any &#34;mailing addresses&#34; for memorial funds? <BR>Especially for us out of towners,Wichita is my home town. <BR>Thanks. <BR>--Been watching the papers but haven&#39;t seen anything yet ...sure would help to ease a little of their pain... <BR>I don&#39;t care what they do with the money... <BR>Thanks  <BR>T<!--/Text--></td></tr>
+<!--/Post: 9954-->
+<!--Post: 9979--><!--Time: 1109716072-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9979"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 2:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Else, I wondered about Rader hurting animals too! I believe he told the neighbor that the collars were trophies! And yes, she thought it was creepy! As for Memorial Funds, I really don&#39;t but I&#39;m hoping that the Eagle will set something up! I&#39;m certain that the D.A&#39;s office has a victims restitution fund, most do now days. May be someone should check it out.<!--/Text--></td></tr>
+<!--/Post: 9979-->
+<!--Post: 10006--><!--Time: 1109723136-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10006"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ozdude<!--/name--></b></a><br>Username: <!--field:uname-->Ozdude<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 4:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky, I had to take a short trip up North today. I passed over 61st both directions at about 3:45 and 5:00pm. I looked East..best I could see at 70 MPH..for what it&#39;s worth I didn&#39;t see any gawkers lined up on the sidewalk like was shown on the news. I thought if I did I might exit at 77th come around and yell at them to get an f&#39;ing life. <!--/Text--></td></tr>
+<!--/Post: 10006-->
+<!--Post: 10017--><!--Time: 1109727135-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10017"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 5:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks Oz, I really do appreciate it! It seems they are driving down Jacksonville and turning on Independence to drive past Marine&#39;s house and then the monster&#39;s. <!--/Text--></td></tr>
+<!--/Post: 10017-->
+<!--Post: 10133--><!--Time: 1109781355-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10133"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 8:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you PCPD for putting those barricades back up! For the sake of public safety, just leave them up!<!--/Text--></td></tr>
+<!--/Post: 10133-->
+<!--Post: 10730--><!--Time: 1110163636-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10730"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 6:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.kansas.com/mld/kansas/news/special_packages/btk/11062648.htm" target=_top>http://www.kansas.com/mld/kansas/news/special_pack ages/btk/11062648.htm</a> <BR> <BR>What do they expect to see, other than what is seen on t.v?<!--/Text--></td></tr>
+<!--/Post: 10730-->
+<!--Post: 10735--><!--Time: 1110170320-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10735"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 8:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky said: &#34; What do they expect to see, other than what is seen on T.V.?&#34; <BR> <BR>Sorry to hear you are in the middle of the &#34;BLT rubber-neck circus&#34;. I think what makes people attracted to that area is the same thing that drives  &#34;collectors&#34; of memorabilia; You get to &#39;witness&#39; a piece of actual history, first-hand. Also, it is a BIG conversation piece, pretty much for the rest of your life. <BR> <BR>It helps to feed your ego &amp; sense of excitement because every time you bring it up in the future with someone who cares, you get to be the &#39;center of attention&#39;, at least for a little while. <BR> <BR>Try not to worry too much. Remember, what you are witnessing is literally a &#34;once in a lifetime&#34; thing for you. Try to get as much amusement, fascination &amp; humor from it as you can. And I guess it would be going too far to actually make a profit from it by selling T-shirts that make fun of &#34;Denny The Dog Catcher&#34;, but do your best.<!--/Text--></td></tr>
+<!--/Post: 10735-->
+<!--Post: 10756--><!--Time: 1110211557-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10756"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 8:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->V - My family and I are very reserved people. We don&#39;t like drawing attention to ourselves for any reason. That&#39;s also another reason we refused comment. Although my sister did end up in a couple of newspapers, I haven&#39;t told her about it yet! She&#39;ll be upset. If anything, we are really embarressed that a serial killer lived down the street and we never knew it. People look at us wierd too. You are right we are trying to find some humor in it, like the reporter that broke a land speed record on high heels. HA! It&#39;s just that, now my family want&#39;s to get rid of our home and it&#39;s tough thinking about that too! I feel as though DTDC is running us out of a neighborhood that we lived in long before he did, and now he&#39;s taken over it. It is offensive.<!--/Text--></td></tr>
+<!--/Post: 10756-->
+<!--Post: 10758--><!--Time: 1110213225-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10758"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 8:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The thing is Rader&#39;s sign says &#34;violators will be arrested&#34; if caught trespassing in his yard!  <BR>Hmmm - there is an irony here? Anybody? <BR><a href="http://www.kansas.com/mld/kansas/11068884.htm" target=_top>http://www.kansas.com/mld/kansas/11068884.htm</a><!--/Text--></td></tr>
+<!--/Post: 10758-->
+<!--Post: 10759--><!--Time: 1110215410-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10759"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 9:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think it&#39;s like the saying unless you&#39;ve walked in someone else&#39;s shoes you won&#39;t know what they are going through. Forgive all of us lookyloos driving by. Though I would find it hard to believe that everyone on your block has never stopped or slowed down to &#34;look&#34; at the scene of an accident etc. Like Vscantu posted people are witnessing history however sad the history may be. Try to lighten up a bit, you and your neighbors. <!--/Text--></td></tr>
+<!--/Post: 10759-->
+<!--Post: 10787--><!--Time: 1110229095-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10787"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 12:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey Lookyloo, what did you see that you couldn&#39;t see on T.V. or buy on EBay?<!--/Text--></td></tr>
+<!--/Post: 10787-->
+<!--Post: 10803--><!--Time: 1110232792-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10803"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 1:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Let me quess, Lorenap, you got an $82.00 ticket. Ya see, you&#39;d been better off waiting for the book to come out in a few months or buying a piece of history on ebay. Tell all your friends that&#39;s what it will cost them to go past those barricades an obtain a piece of history!<!--/Text--></td></tr>
+<!--/Post: 10803-->
+<!--Post: 10815--><!--Time: 1110239979-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10815"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 3:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Actually Rocky, I did drive by last week and I DID NOT go through the  barricades. But when I am able to, I am going to go back and take a picture of the house. I will park, get out and walk though. I will wear a &#34;Have mercy Rocky&#34; sign so you will know who I am and you can yell &#34;HEEEEEEEEEEyyyyyy you dad-gum lookyloo&#34;!!!!!!!! &#34;Get offin&#39; r&#39; proputty!!!! Feel the love Rocky. Take a deep breath count to ten. Peace out!!!!<!--/Text--></td></tr>
+<!--/Post: 10815-->
+<!--Post: 10817--><!--Time: 1110240812-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10817"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 4:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey Lookylou: Go ahead make sure you wear that T-Shirt! People in the hood are looking for a new place to put those lawnmowers, rulers, and such! Have some respect, don&#39;t be a lookyloo!<!--/Text--></td></tr>
+<!--/Post: 10817-->
+<!--Post: 10824--><!--Time: 1110244778-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10824"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Haytrader<!--/name--></b></a><br>Username: <!--field:uname-->Haytrader<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 5:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky, <BR>I can see where you are sensitive to the curious onlookers. But you have  got to realize that you nieghbors are victems too. Lots of people have lived in fear, and oh yes, some are curious, so expect your neighborhood to be a &#34;popular drive by&#34; for some time to come. It is natural, and the ones that just happened to live near Denny the Dog Catcher should expect a lot of extra traffic at least for a while.<!--/Text--></td></tr>
+<!--/Post: 10824-->
+<!--Post: 10839--><!--Time: 1110251519-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10839"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 7:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->My, you sound like such a nice group of folks over there on Independence Street. Rulers, to put someplace? You don&#39;t, you couldn&#39;t,.....no! Rocky you really should&#39;nt talk to a woman that way. They might mistake you for a serial killer. <!--/Text--></td></tr>
+<!--/Post: 10839-->
+<!--Post: 10842--><!--Time: 1110253513-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10842"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 7:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey ROCKY: Sorry about all your troubles due to living near &#34;The Dog Catcher from Hell&#34;. <BR> <BR>But I&#39;ve always believed in the saying, <BR> <BR>&#34;When life gives you lemons, make lemonade.&#34; In your case, literally! <BR> <BR>Why not sell some lemonade or other products &#40;satirical T-Shirts, etc.&#41; with the guarantee to the public that you will donate a good percentage to the Marine Hedge Memorial Fund?? <BR> <BR>That way you could actually Enjoy the &#34;circus&#34; while it lasts.<!--/Text--></td></tr>
+<!--/Post: 10842-->
+<!--Post: 10843--><!--Time: 1110253697-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10843"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 7:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oh, P.S. ROCKY: I forgot to ask you: Is there a local &#40;talk&#41; radio station which discusses the BTK case that we non-locals can listen to on our computers?? <BR> <BR>It would be fascinating for the rest of us to be able to actually hear a call-in radio show about this all. Thanks, <BR> <BR>Victor<!--/Text--></td></tr>
+<!--/Post: 10843-->
+<!--Post: 10844--><!--Time: 1110254043-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10844"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 7:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Eleven rancorous posts by the &#34;reserved&#34; OP, and how subtle the thread&#39;s title. Someone needs a time out.<!--/Text--></td></tr>
+<!--/Post: 10844-->
+<!--Post: 10853--><!--Time: 1110260369-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10853"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 9:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok George, I took my time out! You&#39;ll never convince me that if it was any one of you and your stopping grounds, you wouldn&#39;t swell up like a banny rooster too. Now I&#39;ll tell you what you curious George&#39;s didn&#39;t see! <BR> <BR>You fer sure didn&#39;t see a community of materialistic, over worked, over mortgaged, suburbanites that barely acknowledged each other when you walked out the front door. Therefore, you fer sure could have only seen a community that takes pride in what little they own or that what they do own is paid fer, and yes they waive at their neighbors, imagine that! <BR> <BR>And you fer sure never saw a more simple way of life or let alone good comprehend one looking down your curious George noses. <BR> <BR>I&#39;ll betcha you all didn&#39;t see that this community has always looked after its own, celebrated Park City day together, watched out for the lil ones playin in the street, fought a big commerical development, shared a storm cellar with other families when a tornada came close or that we all grieved together when one of our own passed on. Nope, sure don&#39;t expect you all to see that. <BR> <BR>Fer sure, ya&#39;ll couldn&#39;t see the neighbors come a runnin when one of us crashed on our bicycle, got a bloody nose, shot by a bb, or ran into a cactus in the middle of a serious kick ball game in the yerd. Ya&#39;ll wouldn&#39;t have seen it fer sure! <BR> <BR>I bet ya&#39;ll would be surprise to know that most of us graduated high sckoool, hell even some of us have college dergrees! And you know, we have valid drivers licenses, can balance our check books, hell even pay our own bills and have money left over to by bait to fish the Valley Center floodway. <BR> <BR>BTW - we would never expect your kind to see that when someone passed on in the community some kind soul would go through the neighboorhood to collect money to get a ham or flowers from Leekers for a grieving family. <BR> <BR>Nope, I reckon this would be too much for ya&#39;ll to see beyond your morbid curiosity seekin noses. But as your drivin by, remember these simply people trying to live a normal life like you and yours!<!--/Text--></td></tr>
+<!--/Post: 10853-->
+<!--Post: 10908--><!--Time: 1110291575-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10908"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sidewalker<!--/name--></b></a><br>Username: <!--field:uname-->Sidewalker<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 6:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Im sorry Rocky that you are getting all this attention in your neighborhood. I dont quite understand the need of some to do this. Hopefully, it will pass soon. If the lookylooers are looking to see something, I imagine they are disapointed. <BR>Its a frickin house!!!! <BR>As far as anyone looking at you and your neighbors funny......maybe your funny lookin?! &#40;kidding&#41; <BR>Obviously, if anyone had a clue about dtdc they would have busted him long ago. no one knew. <BR>And now, they do. <BR>anyway.....hope all the traffic dies down soon. And hopefully the local PD will ticket anyone doing something wrong.<!--/Text--></td></tr>
+<!--/Post: 10908-->
+<!--Post: 10914--><!--Time: 1110295085-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10914"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 7:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->V- I think KFDI &#40; if you like country&#41;is a good one. BTW - If I ever made lemonade out of lemon&#39;s my mother would come back and slap me where I could feel it. The way I was brought up, that would be disrespectful.<!--/Text--></td></tr>
+<!--/Post: 10914-->
+<!--Post: 10915--><!--Time: 1110296325-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10915"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 7:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Get yer T-Shirt here! <BR><a href="http://www.btktshirts.3h.com/?OVRAW=BTK%20and%20Dennis%20Rader&amp;OVKEY=dennis%20rader&amp;OVMTC=advanced" target=_top>http://www.btktshirts.3h.com/?OVRAW=BTK%20and%20De nnis%20Rader&amp;OVKEY=dennis%20rader&amp;OVMTC=advanced</a><!--/Text--></td></tr>
+<!--/Post: 10915-->
+<!--Post: 10916--><!--Time: 1110296734-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10916"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 7:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you, Sidewalker! Maybe, we are funny lookin! Gee, ya think those dog collars around our ankles and rope holdin our britches up might have somethin to do with it?<!--/Text--></td></tr>
+<!--/Post: 10916-->
+<!--Post: 10999--><!--Time: 1110339424-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10999"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sidewalker<!--/name--></b></a><br>Username: <!--field:uname-->Sidewalker<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 7:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, if they aint color co-ordinated.......OF COURSE! <BR>Serious now.....Its too bad that your neighborhood is going thru this. We had something similar locally when a man named Richard Allen Davis kidnapped and killed a young girl, and then again, when a drugged out father took out his whole family &#40;almost&#41;in several close by cities.&#40;one, a block away from my home&#41; <BR>It will pass. <BR>&#40;I hope! much more notorious person in your neighborhoods case&#41;<!--/Text--></td></tr>
+<!--/Post: 10999-->
+<!--Post: 11063--><!--Time: 1110404295-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11063"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 1:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->SW - Obviously I would go to the matte for these people, they do mean a lot to me! What hood are you from? I think I remember the Davis story - is that the lil Polly Clauss. Wow, I guess you just helped me to see something that I had blinded myself too, my neighborhood will never be the same again!<!--/Text--></td></tr>
+<!--/Post: 11063-->
+<!--Post: 11075--><!--Time: 1110413147-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11075"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lctrip<!--/name--></b></a><br>Username: <!--field:uname-->Lctrip<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 4:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky - you have no idea - it never will be the same.  Can you say 875 South Bundy?  To this day, 10&#43; years after the murders, I am still asked by business visitors from out of town where this is/how do you get there/can you see anything, etc.  Perhaps it will be better for you because Rader &#39;only&#39; lived there and didn&#39;t &#40;we think&#41; commit any of his atrocities there, but who knows. <BR> <BR>And for those who are interested, 875 South Bundy has been extensively remodeled and does not look the same as in 1994.  Most importantly the tile walkway where Ms. Simpson and Mr. Goldman were killed is gone.  And no, I&#39;ve never gone by to look &#40;then or now&#41;. <BR> <BR>And for those who might like to know, I also think OJ did it.....<!--/Text--></td></tr>
+<!--/Post: 11075-->
+<!--Post: 11080--><!--Time: 1110418694-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11080"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 5:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Unfortunately Lc, Marine Hedge lived just 6 doors down the street from DTDC. I guess maybe we&#39;ll just have to hope that the commercial developers that have been interested in the area for sometime now, will make their move. <BR> <BR>BTW - I thought OJ did it too!<!--/Text--></td></tr>
+<!--/Post: 11080-->
+<!--Post: 11093--><!--Time: 1110423828-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11093"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lctrip<!--/name--></b></a><br>Username: <!--field:uname-->Lctrip<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 7:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oh Rocky, I feel so stupid.  I had forgotten about your friend Ms. Hedge.  Guess all this time pouring over information about the original victims list has tunnel visioned my memory. <BR> <BR>Hate to say it, but Ms. Hedge&#39;s home and Rader&#39;s home both being on the same block is not good - doubles the sightseeing factor.  Perhaps interest will dissipate quickly since Wichita is smaller than LA and doesn&#39;t have as many visitors pass through.  Better yet maybe the developers will come through and all those &#40;figuratively&#41; poor folks living on the block can move to a new neighborhood and try and put this awful thing behind them.<!--/Text--></td></tr>
+<!--/Post: 11093-->
+<!--Post: 11094--><!--Time: 1110424176-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11094"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sidewalker<!--/name--></b></a><br>Username: <!--field:uname-->Sidewalker<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 7:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Your welcome Rocky. <BR>I live in the northern california area. Several miles north of Petaluma &#40;the city where Polly Klass was kidnapped and later killed.....yeah, the dumbarse dude who flipped off the father at the end of trial and verdict was read....made newspapers all over, Im told&#41; <BR>DTDC&#39;s horrific crimes, and later his taunting of police will probably be the subject of several movies, books etc...... <BR>Hopefully your neighborhood will calm down. <BR>Personally, I would just do my best to be &#42;normal&#42;. <BR> <BR>Ignore the lookylooers. Clam up like a 5 yr old with a mouth full of cookie he shouldnt have, and claim.......dunno. never saw nuttin. <BR>Pretty soon, they will get bored.&#40;with luck&#41; <BR> <BR>as an aside......I cant believe my head clicked on the addy Lctrip gave, just above&#40;where is that???. Couldnt connect it, til ya mentioned the Simpsons. <BR>btw.....I thought he did it &#40;oj&#41; but I&#39;ll be honest.....didnt think the procecution proved it. Thanks to Mr. Furman.....no one else did either. <BR>&#40;well, not enough of the jurors&#41; <BR><!--/Text--></td></tr>
+<!--/Post: 11094-->
+<!--Post: 11098--><!--Time: 1110425694-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11098"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 7:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lc &amp; Sw, Thanks you guys it helps to talk to others whom have had their neighborhoods turned upside down. I really appreciate it! <BR> <BR>Lc - it&#39;s just hard to fathom moving when it&#39;s been your childhood home, and your parents home for 40 years. <BR> <BR>SW - That Davis guy looked like a serial killer, and I remember seeing him flip her Dad off too! I think that enraged everyone with a soul. Thank God, they caught him when they did! <BR> <BR>Yeah the DNA - you know I&#39;m scared to death that they are going to hire Barry Sheck to rip apart the DNA evidence out here too! Damn he&#39;s good!<!--/Text--></td></tr>
+<!--/Post: 11098-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="76/630">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=76/630" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,315 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 414/BTK timeline-->
+<!--Level 1: 414/BTK timeline-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK timeline</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK timeline</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+BTK timeline
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=414"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=414"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 5916--><!--Time: 1107456113-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5916"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 10:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t recall seeing a thread regarding the timeline and it seemed like a useful topic, so here goes.....  Apologies if I&#39;m duplicating.<!--/Text--></td></tr>
+<!--/Post: 5916-->
+<!--Post: 5921--><!--Time: 1107457124-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5921"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 10:58 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->-1974 <BR>| - 1/15: Oteros mass murdered <BR>| <BR>| - 4/4: Brights attacked, Kathryn murdered <BR>| <BR>| <BR>| <BR>-1975 <BR>| <BR>| <BR>| <BR>| <BR>| <BR>| <BR>-1976 <BR>| <BR>| <BR>| <BR>| <BR>| <BR>| <BR>-1977 <BR>| <BR>| - 3/17: Vian murdered <BR>| <BR>| <BR>| <BR>| - 12/8: Fox murdered <BR>-1978 <BR>| <BR>| <BR>| <BR>| <BR>| <BR>| <BR>-1979 <BR>| <BR>| - 4/28: Williams aborted attack <BR>| <BR>| <BR>| <BR>| <BR>-1980 <BR>| <BR>| <BR>| <BR>| <BR>| <BR>| <BR>-1981 <BR>. <BR>. <BR>. <BR>{.... etc. etc. 1982 through 1985 ....} <BR>. <BR>. <BR>. <BR>-1986 <BR>| <BR>| <BR>| <BR>| - 9/16: Wegerle murdered <BR>| <BR>| <BR>-1987 <BR>| <BR>| <BR>| <BR>| <BR>| <BR>| <BR>-1988 <BR>| - 1/88: Fager murder &#40;??&#41; <BR>| <BR>| <BR>| <BR>| <BR>| <BR>-1989 <BR>. <BR>. <BR>. <BR>{.... etc. etc. to present ....}<!--/Text--></td></tr>
+<!--/Post: 5921-->
+<!--Post: 5929--><!--Time: 1107458039-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5929"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 11:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Okay, so, point being.... many people fixate on that &#34;gap&#34; between Williams and Wegerle &#40;79 to 86&#41;, but.... <BR> <BR>If we are talking about a true serial killer in the classic sense, what about the gap between the Brights and Vian &#40;74 to 77&#41; and between Fox and Williams &#40;about 15 months, 77 to 79&#41;?!??!  Most serial killers, if I understand correctly, tend to kill within some kind of timing pattern, which they don&#39;t seem to be able to deviate far from. <BR> <BR>This timeline has no pattern, it has fits and starts, and therefore, IMHO, either it cannot possibly be complete, or BTK is not a serial killer! I think either 1&#41; BTK &#42;evolved&#42; into a serial killer: Otero and Bright had some classic motive &#40;&#34;the Coleman Connection&#34;?!?&#41; and after them, over the period of a couple years, BTK got a taste for murder; finally in March of &#39;77, he couldn&#39;t deny his urges any longer and started a serial killing career; or 2&#41; we have only a few small clusters of BTK&#39;s true serial killing activity on the timeline; or 3&#41; &#34;The BTK Stangler&#34; is a fiction cooked up to cover up some deeper plot &#40;think Howard&#39;s Zodiac / Bruce Davis theory&#41;. <BR> <BR>Or perhaps some combination of these. <BR> <BR>Brainstorming anyone? <BR> <BR>I&#39;d be particularly interested in your thoughts, Mike Kelleher.<!--/Text--></td></tr>
+<!--/Post: 5929-->
+<!--Post: 5935--><!--Time: 1107458685-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5935"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 11:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->.... of course, another plausible explanation for the multiple gaps in the timeline is that BTK was &#34;unavailable&#34; during those time periods- prison or other institutionalization, living out of the area, etc.<!--/Text--></td></tr>
+<!--/Post: 5935-->
+<!--Post: 5941--><!--Time: 1107460291-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5941"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Doom<!--/name--></b></a><br>Username: <!--field:uname-->Doom<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 11:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey Armchairpi...I have been having and have been pushing around similar thoughts.  BTK has obviously studied many different serial killers.  His behavior almost seems like he is trying to mimick what he thinks a real serial killer would do. Nice post. <BR> <BR>Doom <!--/Text--></td></tr>
+<!--/Post: 5941-->
+<!--Post: 5942--><!--Time: 1107460632-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5942"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Doom<!--/name--></b></a><br>Username: <!--field:uname-->Doom<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 11:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I should add he may be mimicking for some deeper purpose other than sexual sadism.  He is obviously a sociopath but is he psychotic?  I am not so sure.   <BR> <BR>Doom<!--/Text--></td></tr>
+<!--/Post: 5942-->
+<!--Post: 5943--><!--Time: 1107461167-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5943"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 12:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Let&#39;s assume for a moment that BTK &#42;is&#42; a classical serial killer &#40;whether or not he was one during Otero/Bright, or evolved into one afterward&#41;.... <BR> <BR>I wonder &#40;Mike, thoughts?&#41; if it would be useful to use the &#34;official timeline&#34; as a template to fill in the <a href="http://www.catchbtk.com/discus/messages/8/8.html?1107453458">possible victims</a>, and then rule out victims that don&#39;t seem to fit &#40;for instance because the &#34;possible&#34; murder is too close to &#34;official&#34; murders&#41;? <BR> <BR>Then, using this extrapolated &#34;semi-official&#34; timeline, perhaps we could expand our theories based on a better picture of BTK, his crimes, motives, psychology, etc..<!--/Text--></td></tr>
+<!--/Post: 5943-->
+<!--Post: 5953--><!--Time: 1107464496-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5953"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lubbock<!--/name--></b></a><br>Username: <!--field:uname-->Lubbock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 1:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->By definition a psychotic has suffered a break with reality. He would not know right from wrong. A true psychotic experiences auditory and/or visual hallucinations and generally has delusions - persecution or grandure are most common. They are comonly fixated with themes of sex, obscinity and religion. It&#39;s been my experience that psychotics have little insight into their mental illness, and they could not fake normality. <BR> <BR>BTK is a sociopath. He knows what he is doing is wrong in the eyes of society and that if he were caught there would be consequences and reprocussions. He is cold, calculating, and absolutely egocentric. Lacking in any form of human empathy, he views his victims as having no more value than as objects for his amusement. This makes him infinitely more dangerous.<!--/Text--></td></tr>
+<!--/Post: 5953-->
+<!--Post: 5954--><!--Time: 1107464529-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5954"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dee<!--/name--></b></a><br>Username: <!--field:uname-->Dee<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 1:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Based on the timeline and the thoughts presented after, it seems to me that BTK is not, in fact, a serial killer at all.  He is a COPY CAT killer.  Big difference!<!--/Text--></td></tr>
+<!--/Post: 5954-->
+<!--Post: 5955--><!--Time: 1107464724-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5955"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lubbock<!--/name--></b></a><br>Username: <!--field:uname-->Lubbock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 1:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dee: <BR> <BR>I still believe that BTK has committed more murders than he&#39;s taken credit for thus far. This would fill in the gaps.<!--/Text--></td></tr>
+<!--/Post: 5955-->
+<!--Post: 5961--><!--Time: 1107467177-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5961"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Redhead<!--/name--></b></a><br>Username: <!--field:uname-->Redhead<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 1:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Perhaps there are more &#34;near misses&#34; during this time than we know about.<!--/Text--></td></tr>
+<!--/Post: 5961-->
+<!--Post: 5967--><!--Time: 1107470074-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5967"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 2:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t think &#34;near misses&#34; would satisfy him, if he&#39;s a serial killer.  I would expect a &#34;near miss&#34; to be followed up quite quickly with a &#34;successful&#34; murder.<!--/Text--></td></tr>
+<!--/Post: 5967-->
+<!--Post: 6052--><!--Time: 1107497187-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6052"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 10:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I like your idea, Armchair.  A nice timeline with the possibles dropped in &#40;say, in a different color&#41; would be very interesting.  I would trust a highly suspicious repeating pattern more than I would trust the words of a sociopath. <BR> <BR>Remember, we&#39;ve been too trusting of BTK.  Perhaps WPD has, as well.  If he really screwed up and left a big fat handprint at a crimescene &#40;say the Fager murders&#41;, I would absolutely predict that BTK would lie and say he didn&#39;t do it &#40;but admired whoever did&#41;.  Ditto for other murders where he may have been using a new MO that he didn&#39;t trust yet.  I think there is every reason to think that BTK only takes credit where he sees a personal gain of some kind - or is jealous &#40;which could be very strange in an SK&#41;.  The fact that he didn&#39;t show up for so many years could mean that he had a good MO going in another city.  Perhaps something where the bodies weren&#39;t found, or were found in a state that could/would not be linked to him &#40;decomposed, drug OD, etc.&#41;. <BR> <BR>Yeah, we don&#39;t want to link him to Jimmy Hoffa or JFK, but it&#39;s worth taking a look at other murders on a timeline just in case something jumps out.<!--/Text--></td></tr>
+<!--/Post: 6052-->
+<!--Post: 6054--><!--Time: 1107498142-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6054"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 10:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->When you look at the possible victims list that involved women in the 70&#39;s, 80&#39;s and 90&#39;s they are pretty evenly spaced apart with approximately six from each of those three decades. <BR>If they were linked to BTK it would show that he never was incarcerated or at least in prison for any extended time but instead was killing all along. <BR>If you included the known victims it would show about a dozen victims in the 70&#39;s, seven in the 80&#39;s and six in the 90&#39;s.<!--/Text--></td></tr>
+<!--/Post: 6054-->
+<!--Post: 6122--><!--Time: 1107539153-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6122"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lubbock<!--/name--></b></a><br>Username: <!--field:uname-->Lubbock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 9:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Armchairpi: <BR> <BR>Have you done a timeline including all of the possible victims listed on this site? <!--/Text--></td></tr>
+<!--/Post: 6122-->
+<!--Post: 6139--><!--Time: 1107549689-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6139"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dee<!--/name--></b></a><br>Username: <!--field:uname-->Dee<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 12:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t mean to step on toes, but I have expanded the timeline and I stuck with Armchair&#39;s format.  Please let me know of anything I missed or reported incorrectly. <BR> <BR>-1974  <BR>| - 01/15: Joseph Otero and Julie Otero, strangled; Josephine and Joseph Jr., strangled <BR>|  <BR>| - 04/4:  Kathryn Bright stabbed to death, Kevin Bright shot &#40;survived&#41;  <BR>|  <BR>| - 11/12:  Sherry Baker found stabbed to death; hands tied <BR>|   <BR>-1975  <BR>|  <BR>|  <BR>|  <BR>-1976  <BR>|  <BR>| 11/26:  Denise Rathbun last seen – found 2 weeks later; died of drowning and exposure <BR>|  <BR>-1977  <BR>|  <BR>| - 03/17: Shirley Vian, bound and strangled &#40;children survived&#41; <BR>|  <BR>| - 12/08: Nancy Fox bound and strangled <BR>| <BR>-1978  <BR>|  <BR>|  <BR>|  <BR>-1979  <BR>|  <BR>| - 04/28: Anna Williams aborted attack  <BR>|  <BR>|  <BR>-1980  <BR>|  <BR>| 10/25:  Barbara Smith found beaten  <BR>|  <BR>-1981  <BR>|  <BR>| <BR>|{.... etc. etc. 1982 through 1984 ....}  <BR>| <BR>| <BR>- 1985 <BR>| <BR>| 04/27:  Marine Hedge abducted, found 8 days later strangled <BR>|  <BR>| 06/29:  Linda Casey; bound, beaten, s.a., stabbed <BR>|  <BR>-1986  <BR>|  <BR>|  <BR>| 9/16: Vicki Wegerle, strangled <BR>|  <BR>|  <BR>-1987  <BR>|  <BR>| 06/06:  Hattie Smith bound, beaten, strangled, drowned in bathtub <BR>|  <BR>| 10/31:  Shannon Olson, found dead following day, hands bound <BR>|  <BR>| 01/31:  Phillip Fager, shot;  Kelli Fager, nude and strangled: Sherri Fager, strangled, bound <BR>|  <BR>-1988  <BR>| <BR>|   <BR>-1989  <BR>|  <BR>| 10/02:  Krista Martin beaten to death; blunt object to the back of the head <BR>|   <BR>- 1990 <BR>| <BR>-1991 <BR>| <BR>| 01/19:  Delores “Dee” Davis abducted, found 13 days later strangled, bound <BR>| <BR>| <BR>-1992 <BR>| <BR>| <BR>| <BR>-1993 <BR>| <BR>| <BR>| 08/16:  Kristi Hatfield found dead; blow to the back of the head <BR>| <BR>-1994 <BR>| <BR>| <BR>-1995 <BR>| <BR>| <BR>-1996 <BR>| <BR>| 09/12:  Cherie Fox shot to death <BR>| 10/30:  Avanthea Williams found dead <BR>| <BR>-1997 <BR>| <BR>| <BR>| 05/11:  Deanna Law found nude, strangled, s.a. <BR>| <BR>-1998 – 2001 <BR>| <BR>| <BR>-2002 <BR>| <BR>| 06/02:  Dorothy Slaughter beaten, died two weeks later <BR>| <BR>-2003 to present… <BR>| <BR>|  <BR><!--/Text--></td></tr>
+<!--/Post: 6139-->
+<!--Post: 6223--><!--Time: 1107600853-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6223"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 2:54 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Okay, rather than repeat this over and over and anger Tom with all the wasted vertical inches, why don&#39;t we do this <a href="http://www.geocities.com/armchairpi/btk.htm">here, at my BTK Case File page</a>. <BR> <BR>Lot&#39;s more to do, but it&#39;s a start....<!--/Text--></td></tr>
+<!--/Post: 6223-->
+<!--Post: 6462--><!--Time: 1107807305-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6462"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 12:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.geocities.com/armchairpi/btk.htm">BTK Timeline</a> updated.<!--/Text--></td></tr>
+<!--/Post: 6462-->
+<!--Post: 6571--><!--Time: 1107897740-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6571"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 1:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.geocities.com/armchairpi/btk.htm">BTK Timeline</a> updated.  I believe it is current as of now- please <a href="mailto:armchairpi@yahoo.com">email</a> with thoughts, corrections, updates, additional unsolveds, etc..<!--/Text--></td></tr>
+<!--/Post: 6571-->
+<!--Post: 6577--><!--Time: 1107898950-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6577"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 1:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTW, I&#39;m especially interested in news media or other objective/reliable sources that provide details currently missing from the timeline about the crime scene- eg. whether the telephone line was cut, or the bodies hooded, the car moved, etc..  Please <a href="mailto:armchairpi@yahoo.com">send me</a> links to this kind of information if you come across it.<!--/Text--></td></tr>
+<!--/Post: 6577-->
+<!--Post: 6601--><!--Time: 1107905327-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6601"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Suspiria_2<!--/name--></b></a><br>Username: <!--field:uname-->Suspiria_2<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 3:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->it would also be nice to add in the date of known communications, perhaps in another color? <BR><!--/Text--></td></tr>
+<!--/Post: 6601-->
+<!--Post: 6639--><!--Time: 1107923523-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6639"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 8:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->suspiria_2: the same thought crossed my mind too.  i will tackle it soon!<!--/Text--></td></tr>
+<!--/Post: 6639-->
+<!--Post: 6673--><!--Time: 1107951548-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6673"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 4:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->okay, <a href="http://www.geocities.com/armchairpi/btk.htm">timeline</a> is now updated to include all BTK communications<!--/Text--></td></tr>
+<!--/Post: 6673-->
+<!--Post: 6713--><!--Time: 1107977984-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6713"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 11:39 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t quite see how the timeline is any different than the &#34;History&#34; page at catchBTK.com...<!--/Text--></td></tr>
+<!--/Post: 6713-->
+<!--Post: 6716--><!--Time: 1107979584-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6716"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 12:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->no offense Tom i think he is trying to show a clearer view  but your right no different than yours<!--/Text--></td></tr>
+<!--/Post: 6716-->
+<!--Post: 6722--><!--Time: 1107982705-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6722"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 12:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, the goal for the timeline is to collect together info. about the official crimes, BTK communications, and the unsolveds crimes, and present them in an integrated, very terse, and somewhat graphical manner. <BR> <BR>Hopefully it might be a tool to recoginize patterns in the crimes &#40;timing, m.o., etc.&#41;, ex/include crimes from the BTK profile, develop a sense for the BTK&#39;s rhythm, etc.. <BR> <BR>I don&#39;t think the timeline, for instance, would be a good introduction and overview of BTK for the unitiated reader, whereas your History is very good for this. <BR> <BR>Actually, as I keyed in all those cold cases, the patterns really started to jump out; there really seems to be some pretty distinctive groupings: the BTK-like crimes &#40;home invasions, telco cut, car taken, strangulation, etc.&#41;; murders of women with the bodies left in tubs; someone abducting women, raping and murdering them, then dumping the bodies; home invasion murders coupled with arson; etc.. <BR> <BR>Right now, as a result of this timeline exercise, my gut is saying that a lot of the unsovleds sort out into these other patterns, leaving only a few behind that are possibly BTK&#39;s: The Slaughters, Davis, Hedge, and Berardi.<!--/Text--></td></tr>
+<!--/Post: 6722-->
+<!--Post: 6733--><!--Time: 1107989354-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6733"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Maxgravis<!--/name--></b></a><br>Username: <!--field:uname-->Maxgravis<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 2:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Can someone show me a link or give more info on the Mike Williams shooting? Thanks<!--/Text--></td></tr>
+<!--/Post: 6733-->
+<!--Post: 6747--><!--Time: 1107994045-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6747"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 4:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.geocities.com/armchairpi/btk.htm">timeline</a> updated again with corrections, and more details and unsolveds<!--/Text--></td></tr>
+<!--/Post: 6747-->
+<!--Post: 8265--><!--Time: 1109024105-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8265"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 2:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.geocities.com/armchairpi/btk.htm">timeline</a> updated with new maps, design, etc.<!--/Text--></td></tr>
+<!--/Post: 8265-->
+<!--Post: 8268--><!--Time: 1109024775-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8268"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 2:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Armchair-  <BR> <BR>Great Job! The next time you update the timeline, could you add Bruce Douglas as a possible BTK victim? I think if you look at the facts  <BR>&#40;especially the discussion on the Kansas.com board&#41; you will see his death is just as likely, if not more, to be related.  <BR> <BR>Thanks,  <BR>iq<!--/Text--></td></tr>
+<!--/Post: 8268-->
+<!--Post: 9939--><!--Time: 1109710028-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9939"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lizzie<!--/name--></b></a><br>Username: <!--field:uname-->Lizzie<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 12:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->how about updating the timeline with the births of Dennis&#39; children? Maybe it should be separate since he is still a &#34;suspect&#34;. His children were born in years no crimes are confirmed BTK, 1975 and 1978. I would like to take a look at Rader&#39;s timeline vs. BTK timeline... anyone else?<!--/Text--></td></tr>
+<!--/Post: 9939-->
+<!--Post: 9995--><!--Time: 1109719920-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9995"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 3:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lizzie, I have some of that information posted on the &#39;Suspects&#39; discussion page under the thread &#39;Dennis Rader&#39; posted on Feb. 28 at 10:41 pm.<!--/Text--></td></tr>
+<!--/Post: 9995-->
+<!--Post: 10722--><!--Time: 1110151029-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10722"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 3:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey you crazy people lol how about posting this stuff under victims in the Rader Travel Time line we are all working on so we don&#39;t have to keep coming in here to see what you posted  pleeeesssseee Thanks E.<!--/Text--></td></tr>
+<!--/Post: 10722-->
+<!--Post: 10485--><!--Time: 1109970970-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10485"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 1:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Mike, here is what we have been working on, for Raders background and Possible Vics. I know it&#39;s long sorry , but can you help us fill in any of the blanks Thanks Sheila <BR>2005&#42;  <BR>1/27: WPD recovers BTK&#39;s Post Toasties cereal box communique as a result of letter sent to KAKE tv; the letter indicates yet another communique that WPD has overlooked and quickly locates; both drops are left in rural areas far afield of BTK&#39;s previously understood boundaries; contents not revealed <BR>|- 1/31: Melissa Scott &#40;Valley Center, KS&#41;; c.o.d. unspecified &#40;autopsy results not complete/released; police tight lipped&#41;, children unharmed [more] &#60;<a href="http://www.arkvalleynews.com/web/isite.dll?1107462969820" target=_top>http://www.arkvalleynews.com/web/isite.dll?1107462 969820</a>&#62; <BR>|- 2/3: KAKE tv receives postcard from BTK, it expresses condolensces for the colds 2 news casters suffer, though the rest of the content is not revealed <BR>|- 2/3: KSAS tv receives manilla envelope with undisclosed message and objects. KSAS is a FOX affiliate. [more] &#60;<a href="http://www.kansas.com/mld/kansas/10916990.htm" target=_top>http://www.kansas.com/mld/kansas/10916990.htm</a>&#62; <BR>|- 2/25 - 2/26: WPD arrests Dennis Rader off tip from daughter Kerri, hold press conference declaring they have a DNA match for Rader as BTK <BR>2004&#42;  <BR>3/19: BTK letter received by The Wichita Eagle containing photocopy of photos of the Wegerle crime scene and of Vicki&#39;s driver&#39;s license <BR>|- 4/7: KSN tv receives anonymous letter containing unidentified baby photo &#40;view at catchbtk.com &#60;<a href="http://www.catchbtk.com/16.html" target=_top>http://www.catchbtk.com/16.html</a>&#62;&#41;; presumed to be from BTK <BR>|- 5/5: KAKE tv receives &#34;The BTK Story&#34;, a rambling autobiography patterned after Crime Library&#39;s BTK feature &#60;<a href="http://www.crimelibrary.com/serial_killers/unsolved/btk/index_1.html" target=_top>http://www.crimelibrary.com/serial_killers/unsolve d/btk/index_1.html</a>&#62;, included are two phoney photo ID&#39;s <BR>|- 6/17: WPD receives letter from BTK concerning Otero murders; a second letter is discovered the same day at the Wichita Public Library, contents not revealed <BR>|- 8/17: Jacob Allen; bound to rail road tracks <BR>|- 9/26: Carol Mould; c.o.d. unspecified, arson, items possibly missing from scene <BR>|- 11/30: WPD releases laundry list of clues &#40;view at catchbtk.com &#60;<a href="http://www.catchbtk.com/113004.pdf" target=_top>http://www.catchbtk.com/113004.pdf</a>&#62;&#41; as to BTK&#39;s background and identity, asking for help from the public <BR>|- 12/8: unknown man, presumably BTK, calls quick mart alerting them to package left in Murdock Park; WPD searches park but finds nothing <BR>|- 12/14: citizen finds BTK package in Murdock Park containing Fox&#39;s drivers licence, as well as other unrevealed contents <BR>2002&#42;  <BR>6/4: Dorothy Slaughter beaten, died two weeks later, Mr. Slaughter &#40;survived&#41; beaten, telco cut, car keys stolen, home invasion <BR>2/20: body of Agnes Hayes found near bridge in Harvey County, KS; strangled, police believe crime originated in Wichita or Sedgwick County, known prostitute, body dumped [more] &#60;<a href="http://www.thekansan.com/stories/012805/localnews_0128050047.shtml" target=_top>http://www.thekansan.com/stories/012805/localnews_ 0128050047.shtml</a>&#62; <BR>|- 10/17: Melvin D. Childress; c.o.d. unspecified, body dumped in field, car found abandoned <BR>2001&#42;  <BR>2/20: body of Agnes Hayes found near bridge in Harvey County, KS; strangled, police believe crime originated in Wichita or Sedgwick County, known prostitute, body dumped [more] &#60;<a href="http://www.thekansan.com/stories/012805/localnews_0128050047.shtml" target=_top>http://www.thekansan.com/stories/012805/localnews_ 0128050047.shtml</a>&#62; <BR>|- 10/17: Melvin D. Childress; c.o.d. unspecified, body dumped in field, car found abandoned <BR>1999&#42; <BR>11/12: Tina Frederick; shot in home, blocks from Vians&#39; 8/2004: man incarcerated for another murder charged with Frederick crime <BR>|- 12/15: Opal J. Trumpp; murdered in basement with unspecified weapon, perp. fled on foot <BR>--2000-- <BR>1998&#42; <BR>2/10: Monte E. Dixon; shot in home <BR>|- 2/??: Thomas McCorgary &#40;Harvey County, KS&#41;; convicted murderer was poisoned with Zoloft &amp; morphine, while away from prison in hospital dieing from emphysyma [more] &#60;<a href="http://www.thekansan.com/stories/012805/localnews_0128050047.shtml" target=_top>http://www.thekansan.com/stories/012805/localnews_ 0128050047.shtml</a> <BR>1997&#42; <BR>5/11: Deanna Law found nude in bath tub, strangled, sexual assault, neighbor charged with the crime, but charges dropped despite his confession <BR>|- 6/6: Hattie Smith; strangled/drown <BR>1996&#42; <BR>6/??: Avanthea Williams; c.o.d. unknown, body dumped in abandoned building, known prostitute <BR>|- 9/12: Cherie Fox shot to death, home invasion <BR>| <BR>|- 12/26: JonBenet Ramsey &#40;Boulder, CO&#41;; strangled with garrote in basement, raped, bound, strange &#34;ransom note&#34; letter left in home <BR>Sedgwick County Animal Control advisory board, <BR>1994&#42; <BR>10/29: John Doe &#40;Sedgwick County, KS&#41;; body dumped, c.o.d. unspecified [more] &#60;<a href="http://www.sedgwickcounty.org/sheriff/operations/cold_cases/unknown.html" target=_top>http://www.sedgwickcounty.org/sheriff/operations/c old_cases/unknown.html</a>&#62; <BR>1993&#42; <BR>8/16: Kristi Hatfield found dead; blow to the back of the head, body dumped in field <BR>1991&#42; <BR>1/19: Delores &#34;Dee&#34; Davis abducted from home after dining as same restaurant as Marine Hedge &#40;see 1985&#41;, strangled, dumped body found 13 days later under bridge, bound, telco cut, items missing from home, car wiped down, but apparently not moved &#40;2/26/2005: WPD reclasified Davis as official BTK victim.&#41; <BR>1989&#42; <BR>10/02: Krista Martin beaten to death; blunt object to the back of the head, home invasion <BR>D. Rader worked for US census Bureau, as a field Operations Supervisor <BR>1988&#42; <BR>1/??: Mrs. Phillip &#40;Mary&#41; Fager receives letter from BTK which admires the Fager mass-murder, but denies responsibility <BR>- 9/14: Michael J. Fowler &#40;Sedgwick County, KS&#41;; c.o.d. unspecified, body dumped in rural area <BR>1987&#42; <BR>6/6: Hattie Smith bound, beaten, strangled, drowned in bathtub, home invasion, items missing <BR> 10/31: Shannon Olson, found stabbed following day, hands bound, body dumped in sand pit <BR> approx. 12/30: Phillip Fager, shot; Kelli Fager, nude and strangled: Sherri Fager, strangled, bound; Kelli and Sherri killed in basement hot tub; Bill Butterworth later tried for murders and acquitted <BR>1986&#42; <BR>9/16: Vicki Wegerle &#40;Wichita, KS&#41;, strangled, Wegerle car moved/abandoned, driver&#39;s license missing &#40;photocopy later included in 3/19/2004 BTK communique&#41; <BR>1985&#42; <BR>4/27: Marine Hedge abducted from home after returning from same restaurant as Delores Davis &#40;see 1991&#41;, found 8 days later strangled, body dumped in ditch, telco cut, Hedge car moved/abandoned, ID stolen &#40;2/26/2005: WPD reclassifies Hedge as official BTK victim.&#41; <BR>|- 6/29: Linda Shawn Casey; bound, beaten with &amp; sexual assault with wine bottle, stabbed, home invasion, telco cut, <BR>1984&#42; <BR>Attended reunion of his 8th grade class at RiverSide School <BR>1982&#42; <BR>6/25: Lupe Leo Ornelas; c.o.d. unspecified, body dumped in ditch, car found abandoned <BR>1980&#42; <BR>10/25: Barbara Smith; blow to head, attempted strangulation, arson <BR>1979&#42; <BR>|- 04/28: Anna Williams &#40;Wichita, KS&#41; aborted attack, perp. hid in home awaiting victims, but apparently got bored and left before they returned, telco cut <BR>|- 5/1: Jerry Hunter &#40;Valley Center, KS&#41;; c.o.d. unspecified, car found abandoned <BR>|- 8/15: WPD releases the BTK Nancy Fox phone call to the media and it is heard by the public for the first time <BR>Graduated from Wichita State University Degree in Criminal Justice <BR>1978&#42; <BR>|- 1/31: A &#34;Curley Locks&#34; style poem which refers to the Vian murder, stamped with lettering blocks on an index card, is received by The Wichita Eagle-Beacon, but is initially ignored <BR>|- 2/10: Another letter from BTK is received by KAKE tv; it contains a poem based on &#34;Oh, Death&#34;, demands more media coverage and takes credit for an extra, unattributed, victim &#40;now assumed to be Kathryn Bright&#41; <BR>|- 5/10: Karen, Scott &amp; Mark Pretty &#40;Houston, TX&#41;; strangled/drown, bound with telephone cord, bodies found in bathtubs, car abandoned at nearby apartment complex, home invasion, children murdered ~[more] &#60;&#60;<a href="http://members.tripod.com/bailey_t/index-3.html" target=_top>http://members.tripod.com/bailey_t/index-3.html</a>&#62;&#62; <BR>His daughter is born June 13, 1978. <BR>1977&#42; <BR>03/17: Shirley Vian &#40;Wichita, KS&#41;, bound and strangled with garrote, hooded with plastic bag, children left unharmed, home invasion- perp. knocked &amp; was invited in by children; neighbor boy apparently witnessed BTK knock on door of Vian neighbor &#34;Cheryl&#34;, and saw him proceed on to Vian&#39;s after he got no answer at first home. <BR>|- 6/23: Nina Berardi; shot, telco cut, children unharmed, home invasion <BR>|- 7/11: Sandra K. Talbott &#40;Wichita/El Dorado, KS&#41;; c.o.d. unspecified, body dumped near &#34;Twin Bridges&#34; <BR>|- 11/26: Denise Rathbun last seen; found 2 weeks later; died of drowning and exposure, body dumped in creek under bridge <BR>|- 12/08: Nancy Fox &#40;Wichita, KS&#41; bound and strangled, driver&#39;s license stolen &#40;later contained in BTK 2004 Murdock Park message drop&#41;, home invasion <BR>|- 12/08: BTK calls emergency hotline from payphone to report the Fox murder, a recording &#40;almost certainly edited&#41; of the call &#40;listen at catchbtk.com &#60;<a href="http://www.catchbtk.com/btk.wav" target=_top>http://www.catchbtk.com/btk.wav</a>&#62;&#41; is later released by WPD <BR>1975&#42; <BR>|- 6/9: Carol Marsteller &#40;Sedgwick County/Wichita, KS&#41;; stabbed, body dumped... UPDATE 2/23/05: David Packard convicted &#60;<a href="http://www.dc.state.ks.us/kasper2/offender.asp?id=15497" target=_top>http://www.dc.state.ks.us/kasper2/offender.asp?id= 15497</a>&#62; of Marstellar murder in 3/1987, paroled 3/2004 [more at KAKE tv] &#60;<a href="http://www.kake.com/news/headlines/515277.html" target=_top>http://www.kake.com/news/headlines/515277.html</a>&#62; [more at catchbtk.com] &#60;&#60;<a href="http://www.catchbtk.com/discus/messages/8/85.html?1109184392" target=_top>http://www.catchbtk.com/discus/messages/8/85.html? 1109184392</a>&#62;&#62; <BR>His son is born on July 27, 1975.  <BR>1974&#42; <BR>01/15: Joseph, Julie, Josephine, &amp; Joseph Jr. &#40;Wichita, KS&#41; strangled, telco cut, some bodies hooded, Otero car moved/abandoned, items taken, home invasion, children murdered <BR>|- 1/21: Bruce Douglas &#40;Wichita, KS&#41; body found; asphyxiated and enclosed in trunk of car in rural area N.E. of Wichita, WSU student, car abandoned, car left running, LE ruled &#34;accidental suicide&#34; [more] &#60;<a href="http://forums.prospero.com/n/mb/message.asp?webtag=kr-kansas_news&amp;msg=5105.1" target=_top>http://forums.prospero.com/n/mb/message.asp?webtag =kr-kansas_news&amp;msg=5105.1</a>&#62; <BR>|- 4/4: Kathryn Bright &#40;Wichita, KS&#41; strangled &amp; stabbed to death, Kevin Bright &#40;survived&#41; shot &amp; strangled, home invasion- perp. hid in home awaiting victims&#39; return <BR>|- 10/??: BTK&#39;s first known letter is received- a phone call to The Wichita Eagle-Beacon instructs them to search the Wichita State Univ. Library for a communique, it is found in an engineering book; it takes responsibility for the Otero mass-murder, provides insider-details, and coins the pseudonym &#34;B.T.K.&#34; <BR>|- 11/12: Sherry Baker found stabbed to death, hands tied, home invasion <BR>1973&#42; <BR>11/??: Bruce Douglas &#40;Wichita, KS&#41; went missing; body found 1/21/74 &#40;see 1974&#41; <BR>Worked at Colemans from 6/19/1972- 7/6/1973 <BR>1972&#42; <BR>began working at Colemans on assembly line 6/19/1972 -7/6/1973 <BR>1971&#42; <BR>1/12: Rosy Spencer; strangled, beaten <BR>Rader worked in meat Department At Leekers IGA <BR>1969&#42; <BR>End of four year Stint in US Air Force <BR>1968&#42; <BR>Air Force 1965-69 <BR>1967&#42;-? <BR>10/15: James &amp; Louise Henderson; shot; children left unharmed <BR>1963 D. Rader graduated from Heights High School in Wichita <BR>1940&#39;s lived in Pittsburg Family attended Zion Luthern Church <BR>1965-69 Air Force <BR><!--/Text--></td></tr>
+<!--/Post: 10485-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/414">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/414" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

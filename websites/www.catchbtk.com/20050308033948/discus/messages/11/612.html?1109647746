@@ -1,0 +1,240 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 612/My Hits AND Misses - the Huff Profile-->
+<!--Level 1: 612/My Hits AND Misses - the Huff Profile-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: My Hits AND Misses - the Huff Profile</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">My Hits AND Misses - the Huff Profile</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+My Hits AND Misses - the Huff Profile
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=612"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=612"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 9462--><!--Time: 1109535722-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9462"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 12:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Please forgive me, but you may see as this post progresses that it&#39;s not as egotistical as the title would suggest. <BR> <BR>I did a profile of BTK that I published in my <a href="http://www.planethuff.com/darkside/archives/true_crime_serials_btk/index.html#000433">&#34;Dark Side&#34; blog</a> in Dec. of 2004. For corroboration, you can also find a re-post I did in a <a href="http://groups-beta.google.com/group/BTK-Murders/msg/182b2db9a50c768d">little-used Google group.</a> To my knowledge, one cannot edit a Usenet post once it&#39;s up. Just coverin&#39; the bases. <BR> <BR>So, what did I hit, and what did I miss? <i>&#40;And I honestly encourage everyone who did something similar to follow suit. It&#39;s honest and enlightening.&#41;</i> <BR> <BR>Below I&#39;ve posted what I originally wrote. In bold are the things that, based on what I&#39;ve just read today about Denny the Deadly Dog Catcher®, I seem to have nailed. Italics are my duds, my bombs. This can&#39;t be complete because we just don&#39;t know everything yet - but I was beginning to get creeped out, so I figured I&#39;d go ahead. I&#39;ll update with later posts if this thread gets much response. I&#39;ve re-formatted the list of stuff below for this post and added new comments in italicized parentheses on my stupid self. <BR> <BR>================================================== ========================================= <BR> <BR>What follows is, for lack of a better word, a profile. <i>It is most likely completely and utterly wrong.</i> But if it isn&#39;t, you damn sure better come back here and give me my props if they find the dude. I haven&#39;t organized these bullet points, they are written down here as they occur to me - no particular order: <BR> <BR>    &#42; <b>BTK is younger than the age given in the most recently-released info about him. Possibly by a decade or so.</b> <i>&#40;almost-bingo. He was 5 years younger.&#41;</i> <BR> <BR>    &#42; <i>He&#39;s single, and may have been most of his life.</i> &#40;<u>Just dead wrong</u>.&#41; <BR> <BR>    &#42; <b>Resembles the &#39;dark-haired&#39; suspect drawing of him&#40;...&#41;but is not hispanic or italian - he may be balding at this point, but if the mustache was accurate in the drawing, he will still be wearing one. If he&#39;s balding he probably wore a <u>combover</u> <i>&#40;hey, dead-on there. Combovers is evil, yo&#41;</i> until it got too thin,</b> but I suspect his hair will still seem a bit longer than is fashionable for a man his age - no ponytail or anything, but definitely not clippered close to the scalp. <i>&#40;sort of, there.&#41;</i> I know that might disappoint those of you who like the image of some skinhead-looking serial out there with beady eyes in the dark. <BR> <BR>    &#42; <i>I think he no longer kills - the murders may have been inextricably woven into the very fabric of his sexuality, and some factor&#40;s&#41; in his life have weakened the drives that compelled him to murder.</i> I do think that while he no longer kills, he is still perfectly capable of doing so out of self-preservation, or even just for kicks if an opportunity presents itself. The thing is, any murders he may have committed in the last 5 years or so will not seem to be sexual in nature. <i>&#40;basically missed that one, but at this point I&#39;m just guessing. If Hedge and Davis were the only others, I was close here.&#41;</i> <BR> <BR>    &#42; May have been a Mama&#39;s boy. <b>He has a cleanliness fetish, maybe to the point of ocd</b> <i>&#40;read <a href="http://www.kansas.com/mld/kansas/11004728.htm">this article in the Eagle</a>, the quotes from one Cindy Plant&#41;</i> - it is tied somehow to his upbringing. <BR> <BR>    &#42; Is definitely into trains like the recent profile suggests. I suspect that if he were a ham operator in the 50&#39;s - &#40;actually the sixties, if he is younger as I surmised.&#41; he dropped the hobby. But he will likely own model railroads, and if he&#39;s utilized the internet at all, he&#39;s been doing it for years, and in connection with his railroading hobby, beginning back when there were only message boards for various groups - &#40;alt.comedy, alt.drugs...pick a search term sometime in google and click &#34;groups&#34; instead of &#34;web&#34;. Results can go back into the 80&#39;s.&#41;<i>&#40;I did get Usenet hits for messages from a Dennis Rader, but there&#39;s no way to know if it was him yet, and they weren&#39;t train-related. I <u>think</u> I missed this one.&#41;</i> <BR> <BR>    &#42; <i>I think that in the last year and a half a number of life changes have hammered away at him. Personal, maybe physical - weight gain, diabetes, heart problems - financial. He could have started a business that failed, a loved one could have died. These stresses were the major factors in his re-emergence.</i> Life changes of a certain kind can put one into such a state of anxiety, so undermine one&#39;s confidence that one will act out in ways that are difficult to control, seeking attention, affirmation. With BTK it&#39;s a sort of power being actively sought again, the kind I guess only a serial killer who still presents a dark and foreboding mystery to the people of Wichita, Kansas, or any major city, might enjoy. <BR> <BR>    &#42; <i>I don&#39;t think he has children, but may appear to like them.</i> While I don&#39;t think he&#39;s a pedophile, in spite of his apparent extra focus on one of the two children he killed, &#40;he killed 6 adults we know about, 2 children&#41;, his primary inclination has been toward adult women. I don&#39;t think, by the way, that the race of his victims was significant; I think their personalities and social lives were, though. <BR> <BR>    &#42; <i>He may use his railroading hobby still to ingratiate himself with children. If he has nieces and nephews they may view him as a benign and possibly even sweet old uncle. The railroading hobby may be a big part of his cover, and has been for years - people will view it as unthreatening, even eccentric and charming.</i><u>WRONG</u>. <BR> <BR>    &#42; I believe he will openly tell others photography is a hobby, and if it is, he has his photos extremely well-organized, possibly even labelled and dated. His albums containing photographs of his crimes, taken before he left the scene, will be organized exactly the same as his &#39;normal&#39; albums, but may be in either a safe-deposit box or extremely well-hidden in his home. <i>&#40;Don&#39;t know about a lot of this one yet, but it does look like he hid his trophies at home, and fairly well.&#41;</i> <BR> <BR>    &#42; <b>Co-workers and family alike will have viewed him as helpful, cooperative, the kind of guy who always pitches in. They do not know that his motivation is not altruistic, but aimed at ingratiating himself. Publicly, he wears a mask</b>, and I think he views himself this way too. He viewed BTK&#39;s crimes as his &#34;taking off the mask&#34;, but not in a negative sense, in his mind. More like his unveiling of some great secret. It&#39;s the closest he gets to being mystic. <i>&#40;I get the feeling the first part of this bullet point is spot-on, but his NEIGHBORS in Park City hated him. Church folk loved him.&#41;</i> <BR> <BR>    &#42; A &#34;professional&#34; profile I read said he would be a very lonely individual, seemingly melancholy. I agree with this, but amend it to say that he most likely goes through melancholy &#39;phases&#39;. His family and co-workers may even say to themselves, &#39;oh, he&#39;s in one of his moods.&#39; <i>&#40;not sure on this one yet, but he appears to have been known to be moody, and many neighbors said he was just weird.&#41;</i> <BR> <BR>    &#42; A very, very few who know him well may have seen his temper, as he will have lost it on at least a few occasions. This might be a memory for those friends and family that sticks because it may have seemed very out of character, and perhaps even frightening. I&#39;d bet it also came about as a result of something that seemed trivial to others. <i>&#40;I&#39;m not bolding this point yet, but it appears that Denny got real bent about little stuff...measuring people&#39;s grass with a RULER??&#41;</i> <BR> <BR>    &#42; <i>I also believe the recent info about him moving back in with his Mom in Wichita after a stint in the military. I think this wasn&#39;t a big deal to him, and he may have simply stayed with his mom all the way up to her death. He may be living in her old house right now, or did at least for a time after her passing. If he&#39;s moved, he&#39;s moved to be near family, perhaps even moved in with them. This factor would be one of the things restricting his behavior, keeping him from communicating with police and press more often.</i> <u>Essentially wrong there, Steve-o.</u> <BR> <BR>    &#42; Those around him might have noticed an obvious change in his behavior after the arrest on December 2. I do not think he is a very talkative man, but those around him would have noticed an increased volubility, maybe a spring in his step. One article I read in literature about psychopaths calls this euphoria on the part of con men and killers alike a &#39;duping high.&#39; A charge the subject gets from pulling a con, from evading capture, from getting away with murder. <i>&#40;Don&#39;t know yet on this one.&#41;</i> <BR> <BR>    &#42; <b>Couple of odd thoughts to end this with; I think he still attends church. I think he helps out at church, probably just went to an advent service or a hanging of the greens in the last week or two</b> <i>&#40;wrote this in December, remember...&#41;</i>. I have a very strong feeling he spotted, or even became acquainted with at least one of his victims through some mutual church affiliation. The last thought is about his clothing. The same profile that postulated BTK seeming melancholy, if I recall correctly, also posed the idea that he tends to wear dark clothing by choice. <b>I agree with that, and I also say he keeps his clothes very neat, may be a compulsive ironer - irons his socks and t-shirts too. I say too that he will wear large dark framed glasses, and if they are metal framed they will still be large</b> <i>&#40;ibid on the article linked in the Eagle above, y&#39;all. I smacked this one outta the park, if I say so mah damn self&#41;</i>, and possibly tinted. <i>&#40;In one of his photos and the video at KSN of Denny, it does appear he&#39;s wearing prescription tinted specs, but I&#39;m not sure enough on this to brag about it.&#41;</i> <BR> <BR>================================================== ======================================= <BR> <BR>I do not know why I was clear on his appearance, but I was. I had a POI who shall forever remain unnamed, whom I was obviously wrong about, but a relatively recent photo of my POI closely resembled the majority of the photos I&#39;ve seen of Dennis Rader. I mean, VERY closely - similar build, same large wire-frame glasses, same hairline, almost the same age. <BR> <BR>I was always clear on his ancestry, too - someone at the Eagle forum had long ago posted the assertion that BTK would be of German extraction, and I totally agreed. Rader&#39;s a pretty germanic-sounding name. <BR> <BR>I thought of some other things that seem to be on the mark, put them in various entries at the blog... <BR> <BR>I always thought he was Air Force. He was. I wrote, again in December, the following: <BR> <BR>&#34;<b>...Down south maybe, to the Wichita most folks don&#39;t think of first, Wichita Falls in Texas, where the Air Force has it&#39;s premiere tech school?</b>&#34; <BR> <BR>I considered Navy, but I kept coming back to Air Force. The Tech School connection, the Wichita connection, as tenuous as that seems. <BR> <BR>So that&#39;s it, for now...no work of genius. I know there&#39;s an <u>amateur</u> profile out there somewhere that nailed it, or came mighty close. Love to see it.<!--/Text--></td></tr>
+<!--/Post: 9462-->
+<!--Post: 9479--><!--Time: 1109537680-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9479"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 12:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->STEVE - AKA STUD: <BR> <BR>GREAT JOB!   <BR> <BR>KEEP UP THE GOOD WORK!<!--/Text--></td></tr>
+<!--/Post: 9479-->
+<!--Post: 9488--><!--Time: 1109538640-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9488"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ozdude<!--/name--></b></a><br>Username: <!--field:uname-->Ozdude<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 1:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ref your point on his temper...for what it&#39;s worth one of the articles in today&#39;s Eagle, all of section A which is the front page section contained all BTK stories, had comments from a co-worker from ADT stating he cursed him out and was seen pounding on the hood of a work vehicle during a rant, because he was so mad..LaMunyon said his letters went from very angry in the 70&#39;s to nicer this last year...who knows<!--/Text--></td></tr>
+<!--/Post: 9488-->
+<!--Post: 9499--><!--Time: 1109539388-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9499"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 1:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Okay...I&#39;m dropping the dime on my silly ass self, but one of my nicks at Ks.com was Lrry_Andrsn, or Larry Anderson.  <BR> <BR>I liked being Larry. He was, as one fellow poster there suggested, a sort of Tom Bodette, Motel 6 sort of fella. But for some reason, as Larry, I channelled some good profiling, and I swear to God I didn&#39;t even remember it till today. Here&#39;s <a href="http://forums.prospero.com/kr-kansas_news/messages?msg=4975.30">the link to one entry I made on Jan. 3</a>, and the best quote from it. I was communing with the freakin&#39; spirits or something. Writing as Larry I said, in the post linked <b>&#40;what I seem to have nailed is in bold&#41;</b>: <BR> <BR>&#34;...Hey, la-la-la-la Lola, Larry Anderson responding; <BR> <BR><b>In daily life I&#39;d suspect BTK to be very unassuming, in the opinions of those around him. However, I think a close examination of his social sphere, even his family, would show a history of people &#39;getting bad vibes&#39;, or feeling that he could be inappropriate. Not in the sense of taking liberties...I&#39;ve said before, this doesn&#39;t seem like a guy who would ever get in trouble for something as alpha male as say groping a woman...he&#39;d be more likely to say off-color things. He&#39;d be the guy who takes a lewd, or sick joke too far. He will probably have a history of &#39;pushing it&#39; with those whom he is comfortable with. He is the kind of person who I think may make people around him uncomfortable in a way they can&#39;t ever pin down, and I bet a lot of them feel guilty for feeling that way. Because I also feel he may seem altruistic to those whom he&#39;s worked with and socialized with, say, at church...&#34;</b> <i>&#40;comment: based on stuff I read today, and late last night, most of this is describing Dennis Rader fairly well. Don&#39;t know about him being &#34;off-color&#34; yet, though.&#41;</i>  <BR> <BR>Later in the post, I wrote: <BR> <BR>&#34;...<b>I think there&#39;s even a chance that he&#39;s the kind of man who people rarely speak ill of, yet they can&#39;t find a reason to speak too highly of him either, and they may admit privately they are always kind of glad when he leaves.</b> I feel he does a lot of smirking. His own exploits amuse him endlessly, and provide him with something interesting to get through the day...&#34; <i>&#40;don&#39;t know about the last part, but I&#39;m betting it&#39;s true.&#41;</i> <BR> <BR>More... <BR> <BR>&#34;...<b>I believe a couple of interesting things about his appearance; he does have a mustache, and has probably worn one for years, and he wears glasses. The frames will be larger than actually necessary for his face, and heavy. They will make him appear almost jowly, even if his weight is normal. He will be known, too, by some, like women whom he has worked with, as a starer. Always polite, perhaps, accomodating, but very watchful, intent...</b>&#34; <BR> <BR>I read an article today I&#39;m going to have to go back and find where someone is quoted as saying Rader tended to &#34;stare.&#34; <BR> <BR>I emphasize, <b>I got plenty of crap wrong, too.</b> <BR> <BR>But I&#39;ll admit, some of the stuff I got right gives me the willies. My picture of the man in my head was incredibly vivid, and it was when I finally saw Rader&#39;s mug shot that I said, that&#39;s basically the kind of guy I was seeing in my mind&#39;s eye. Not saying any psychic crap was going on, more something instinctive.  <BR> <BR>It may have helped that I have a 60-something, heavyset, former Air Force Chief Master Sergeant Father who retired from being a Nashville Electrical <b>Codes</b> Inspector about 5 years ago. My Dad&#39;s actually a sweetheart, but I felt I should note the commonalities, tenuous though they may be.<!--/Text--></td></tr>
+<!--/Post: 9499-->
+<!--Post: 9500--><!--Time: 1109539501-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9500"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 1:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks OzDude - I read that and totally didn&#39;t put it together. Appreciate you pointing it out.  <BR> <BR>I don&#39;t think I&#39;m ready to change professions, though. Just writing in the blog about this stuff gets inside you and makes you feel gross sometimes. Being a profiler would not be good for one as prone to the blues as yours truly.<!--/Text--></td></tr>
+<!--/Post: 9500-->
+<!--Post: 9514--><!--Time: 1109542966-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9514"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sidewalker<!--/name--></b></a><br>Username: <!--field:uname-->Sidewalker<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 2:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I will say, that I never posted or talked about what I thought this guy would look like. <BR>But in my minds eye......I somehow thought he would look just as he did. A bit overweight &#40;not certain of this, but he seems broad in the chest&#41; and bald, or getting a really large forehead so to speak&#41; I did expect him to wear glasses tho. <BR> <BR> <BR>I did think he was still employed. It does not surprise me, in the least his profession. Out there but not really seen. Not a policeman, but worked semi close with them. It figures he is a neat freak. It just figures.<!--/Text--></td></tr>
+<!--/Post: 9514-->
+<!--Post: 9539--><!--Time: 1109548842-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9539"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 4:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A preliminary assessment of my psychological portrait of the BTK Strangler suggests a few hits and misses. The comparison between appearance and reality can be found below: <BR> <BR>Age <BR> <BR>I did not believe the BTK Strangler was 65 years of age. He would never disclose his age. Disposing of the cereal box in a rural locale confirmed in my mind he was younger than a pensioner. Between 50 and 56 years of age was a possibility. It was close but did not yield a cigar. <BR> <BR>Race <BR> <BR>The BTK Strangler&#39;s strong desire to convince the Wichita Police Department, the media and public he was hispanic suggested he was most probably caucasian. I relied heavily on the witness account of the woman who supposedly saw the BTK Strangler deliver a correspondence in the early hours in June 1979. <BR> <BR>Residence <BR> <BR>The locale of the crimes in the city of Wichita suggested the BTK Strangler was a local. His knowledge of local enterprises and his confidence to report the murder of Nancy Fox supported the hypothesis. <BR> <BR>Education <BR> <BR>I strongly believed the BTK Strangler graduated from Wichita State University. This belief was based on his references to instructors at the university and placing a correspondence in the library. If, the suspect mentioned he graduated with a PhD from Wichita State University in his correspondences, I would have doubted the authenticity of the claim. Majoring in the physical sciences or engineering was incorrect. This claim was based on the mathematical ability demonstrated by the suspect in correspondences. <BR> <BR>Church <BR> <BR>I believed he attended church from early childhood. Attending church would create a facade of respectability among the community. His communications in the past year with the themes of omnipotence and omnipresence suggested a belief he was godlike. <BR> <BR>Family <BR> <BR>I do not have sufficient information at the moment on his family to compare it with my portrait. <BR> <BR>Intelligence <BR> <BR>Its too early to assess his intelligence. He may have an Intelligence Quotient of 130. It seems his Intelligence Quotient could be closer to 120. <BR> <BR>Military <BR> <BR>He did serve in the miliary. I do not know, if the suspect served in combat at this moment. <BR> <BR>Photography <BR> <BR>The suspect is an avid photographer. It allowed him to indulge in voyeurism. It also allowed him to film his neighbors. <BR> <BR>Marriage <BR> <BR>I believed the suspect was married. Married life allowed him to project a facade of respectability. During the 1970s when the FBI Behavioral Science Unit began utilizing forensic psychology, most of the profiles suggested sadistic serial murderers were single men. It could have allowed the suspect to avoid being considered a person of interest. Two adult children was correct. <BR> <BR>Victims <BR> <BR>The oedipal complex seems to be the motive for murdering women who were mothers. It seems he wanted to resolve his hatred for his mother by murdering them. I believed he did not stop murdering after admitting to the murder of Vicki Wegerle. I suspect more unsolved murders will be connected to the suspect. <BR> <BR>No previous Criminal Record <BR> <BR>The suspect&#39;s confidence in resuming communication with the Wichita Police Department and the media suggested he did not have a criminal record. <BR> <BR>Employment <BR> <BR>I did not include this in my psychological portrait of the BTK Strangler. I have mentioned in previous messages the suspect could have been employed by Wichita State Univeristy as a tutor. It proved incorrect. I found it difficult to reach a decision on his current position in the portrait. <BR> <BR>I did not believe the BTK Strangler would be captured. It proved to be an incorrect assertion. <BR> <BR>I suppose studying economics and econometrics at the big H and HBS does not prepare an individual for the world of forensic science and forensic psychology. At 28, I have a few more years to refine my technique and look forward to Beattie&#39;s book.<!--/Text--></td></tr>
+<!--/Post: 9539-->
+<!--Post: 9540--><!--Time: 1109549871-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9540"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 4:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m still waiting to hear more biographic info on DR, there&#39;s still a lot of unanswered questions.  For example the Hispanic issue -- the original DNA that LE was working with must&#39;ve indicated some Hispanic lineage, otherwise WPD wouldn&#39;t have gone after Mr. V. in December.  So what&#39;s the Hispanic connection in DR&#39;s background? <BR> <BR>I&#39;m also waiting for more details to come out about DR&#39;s employment history, and especially his military history.   <BR> <BR>But for what it&#39;s worth, here are the new facts that have surprised me:   <BR> <BR>- Overtly bullying so many people around him -- I  assumed he&#39;d have been more smooth in his relations with other people, instead of cultivating so many enemies, but maybe he just got crotchety as he got older and it was the only way he could get cheap thrills, by aggravating every other person in the neighbourhood <BR> <BR>- Chose victims that lived in close proximity to him, like, really close proximity: the victim who lived practically right across the street from him. Reminds me of how many child killers know their victims and take them right out of their homes. <BR> <BR>- Dog catcher:  I still can&#39;t get over this one.  I was picturing an engineer, a computer programmer, or something else more technical, due to his obsession with coded messages, etc.  At least the dogs of Wichita can sleep in peace now. <BR> <BR>- Married for 30 years, with two grown kids:  I never would&#39;ve guessed that he could have had kids.  I thought he would&#39;ve been too sexually dysfunctional.  Makes me think his murders were motivated more by sadism at the core, and perhaps certain specific things that he included in his b-t-k routine were what gave him a sexual thrill on top of it. <BR> <BR>- Church council president -- but I guess if you&#39;re going to be a wolf in sheep&#39;s clothing, why not go the whole nine yards. <BR> <BR>- Some profilers had guessed that during the early to mid 1970s he may have been into the music/poetry scene around WSU, which I thought sounded pretty plausible because of his poetry, but he was a square all the way.  BTW, have you seen his Air Force photo?  Creepy. <BR> <BR>- He actually has military experience.  I thought he was fantasizing about that one and was just a wannabe. <BR> <BR>I want to see what was included in all of his communications with LE.  Should be plenty of enlightening tidbits in there.  Or maybe just more murky detritus from a warped mind. <BR><!--/Text--></td></tr>
+<!--/Post: 9540-->
+<!--Post: 9588--><!--Time: 1109560830-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9588"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lubbock<!--/name--></b></a><br>Username: <!--field:uname-->Lubbock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 7:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Who: <BR>Anger clouds judgement. One would think that you would at least try to be fair. <BR> <BR>- Gravelly quality creeping into his voice with age? I haven&#39;t heard him speak recently. This would also be subjective in the ear of the beholder. <BR> <BR>- No he didn&#39;t serve in Nam, he did a tour in Korea while in the Air Force. Working on aircraft? In the rear with the gear? <BR> <BR>- Small to medium build? Strong? Unremarkable facial features? These are also subjective. People tend to thicken as they age &#40;in your case it happened between the ears&#41;. <BR> <BR>- Went to college on the G.I. bill? Changed majors? May not have graduated &#40;you&#39;ll notice that I qualified that opinion with &#34;may&#34;&#41;. You ought to share his college transcripts, surely you have them. <BR> <BR>- I stand by my assertion that he knew people on a superficial level. Maybe you and he were tight, I don&#39;t know. It does seem that none of his close friends were aware of a rather significant facet of his psyche. <BR> <BR>- Learning disabled? You have his early school records too I assume. By the way, people can overcome learning disabilities. <BR> <BR>- He has changed jobs a few times before ending up a glorified dog catcher with a degree in justice administration. <BR> <BR>- No-nonsense and humorless, but can affect a disarming charm &#40;or words to that effect&#41;. That seems fairly accurate, depending on who you listen to. <BR> <BR>- I still believe he has felt that his true genius has gone under-recognized. <BR> <BR>- He becomes defensive when questioned? I guess that too would depend on who you talked to. <BR> <BR>- He frequents parks &#40;the crux of my assertion&#41; would seem to be true, even if it was within the context of his job. He may have fished the local ponds, walked, etc. - but you and his other close friends would be in a better position to know. <BR> <BR>- He doesn&#39;t drink? Again, I defer to your infinite and intimate knowlege of him. <BR> <BR>- Prostate cancer? You have his medical records too? <BR> <BR>Granted, I missed some totally. <BR> <BR>I am not rude, I merely reflect back. <BR> <BR>I admit to being a poor typist, and have some spelling issues too, but if it were important I&#39;d take the time to check and proof-read. As for my creativity, acumen at developing a plot and characters with depth, and ability to spin a compelling narrative, I guess that&#39;s for the readers to decide. <BR> <BR>By the way, the threats you e-mailed me are bordering on harassment. <BR> <BR>Peace, out.<!--/Text--></td></tr>
+<!--/Post: 9588-->
+<!--Post: 9807--><!--Time: 1109647746-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9807"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Hbtcontrol<!--/name--></b></a><br>Username: <!--field:uname-->Hbtcontrol<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 7:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m going to keep my day job - not sure I&#39;m ready for the move to profiler. But then, to be fair to all of us, we sure didn&#39;t have the same information to work with that WPD had.   <BR> <BR>There are several of you that I truly believe could have caught this guy if you&#39;d have had access to the same info that WPD had, so kudos to you all. <BR> <BR>One more thing that might be dead wrong but... <BR> <BR>I think this group, as well as others, perhaps, spun BTK out of control and ultimately led to his capture.  So if anyone can take credit, I think all the amateur sleuths who obviously annoyed the hell out of WPD can take their bows for a job well done.<!--/Text--></td></tr>
+<!--/Post: 9807-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/612">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/612" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

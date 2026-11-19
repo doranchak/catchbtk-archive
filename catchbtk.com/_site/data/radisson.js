@@ -1,0 +1,1 @@
+window.CBTK={"page":"radisson.html","title":"Radisson Hotel","archive":"../index.html","versions":[{"t":"20050305210858","e":"20050305210858","n":1,"f":"history/radisson~20050305210858.html","a":0,"d":0,"sa":[],"sd":[]}]};

@@ -1,0 +1,1 @@
+window.CBTK={"page":"113004.html","title":"catch BTK .com -- NEWS","archive":"../index.html","versions":[{"t":"20041204180822","e":"20041204180822","n":1,"f":"history/113004~20041204180822.html","a":0,"d":0,"sa":[],"sd":[]}]};

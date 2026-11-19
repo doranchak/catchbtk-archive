@@ -1,0 +1,268 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 345/Why does BTK stay &#40;or return&#41; to Wichita?-->
+<!--Level 1: 345/Why does BTK stay &#40;or return&#41; to Wichita?-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Why does BTK stay &#40;or return&#41; to Wichita?</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Why does BTK stay &#40;or return&#41; to Wich...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Why does BTK stay &#40;or return&#41; to Wichita?
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=345"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=345"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4439--><!--Time: 1106362161-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4439"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 6:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Only three things come to my mind: <BR> <BR>Blood Relative&#40;s&#41; <BR>Perhaps he has family here, or perhaps even a family member passed away recently and willed property to him &#40;so he came back either to live in the property or sell it&#41;. <BR> <BR>A “Signifcant Other” that is his “cover” and possibly his only life line for continued survival <BR>Perhaps he lives with someone who he relies on heavily for his “cover”.  This person may have provided LONG-TERM windowdressing for BTK by maintaining a very normal lifestyle.  BTK could just simply be living “behind” this person. <BR> <BR>Long-Term Permanent Job <BR>Perhaps he has a job in Wichita &#40;or based in Wichita&#41; that he invested his life into.  A job that he could never easily acquire anywhere else in the US &#40;given his current age, his skills or lack of skills, or his citizenship or lack thereof&#41;. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4439-->
+<!--Post: 4466--><!--Time: 1106393950-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4466"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nugzter<!--/name--></b></a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 3:39 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think something bad happened to him in Wichita that also had something to do with WPD. Had to have happened when he was very young. As he got older and being very intellegent he is paying those back who done him wrong.<!--/Text--></td></tr>
+<!--/Post: 4466-->
+<!--Post: 4475--><!--Time: 1106401511-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4475"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 5:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->While the idea of BTK being a cop isn&#39;t top on my BTK job/profession list, it&#39;s one of only a few theories, occupation-wise, which I think has a kernel of considerable plausibility to it; but it&#39;s easy to fall into that trap; if BTK was a cop, it explains almost all questions. He may have tried to become a cop, but failed. He is attracted to order and discipline. He could be a security guard or a wannabe cop, too. Nugzter, I know you&#39;re saying other than what I just wrote. When you mentioned WPD this idea took hold of me a minute ago.<!--/Text--></td></tr>
+<!--/Post: 4475-->
+<!--Post: 4480--><!--Time: 1106409189-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4480"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 7:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->When I hunt pheasants I go to Norton Ks.  I don&#39;t live there, it&#39;s just where I hunt. <BR> <BR><a href="mailto:whoisbtk@yahoo.com">whoisbtk@yahoo.com</a><!--/Text--></td></tr>
+<!--/Post: 4480-->
+<!--Post: 4485--><!--Time: 1106417263-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4485"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 10:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Whoisbtk--- <BR> <BR>Yes, but there is plenty of &#34;inventory&#34; for BTK to kill somewhere else -- he doesn&#39;t NEED to stay in Wichita to continue killing -- whereas you may only find pheasants in one general area. <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4485-->
+<!--Post: 4487--><!--Time: 1106418043-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4487"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stealth<!--/name--></b></a><br>Username: <!--field:uname-->Stealth<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 10:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Probably the same reason&#40;s&#41; a lot of people don&#39;t move away from their hometown...But mostly because the game is with the WPD and media...<!--/Text--></td></tr>
+<!--/Post: 4487-->
+<!--Post: 4501--><!--Time: 1106441074-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4501"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Metalhead<!--/name--></b></a><br>Username: <!--field:uname-->Metalhead<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 4:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->lets face it, a serial killer that enjoys killing, likes to taunt police and loves the publicity of his deeds doesnt just stop for 30 years and then reappear.i believe he has been in prison for other crimes and was recently released.i believe the wpd should do a search of all individuals fitting btk&#39;s profile that have been paroled from prison during the past year in the 4 state area.<!--/Text--></td></tr>
+<!--/Post: 4501-->
+<!--Post: 4510--><!--Time: 1106452555-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4510"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 7:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Metalhead, <BR> <BR>If he were put away for 30 years, then where would he keep his momentos for so long?  In a safety deposit box?   <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4510-->
+<!--Post: 4526--><!--Time: 1106484696-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4526"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 4:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK I believe would never leave Wichita for any length of time simply because of the value it has to him in his view of the world. I think BTK thinks of this as his career. He feels he is superior to the rest of humanity. This feeling is bolstered by his proximity to his old &#34;haunts&#34; as Tom calls them. He could never be away from them for any period of time. They help him level out during stressful event in his life. When he feels out of control in his everyday life or less superior he would drive by these places. Gary Ridgeway the Green River Killer described this same type of behavior after his arrest. He also never moved away for the area of his murders even after he had become a suspect. <!--/Text--></td></tr>
+<!--/Post: 4526-->
+<!--Post: 4529--><!--Time: 1106488125-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4529"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 5:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Scbenson2001, <BR> <BR>I guess his haunts are also sort of like his momentos? <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4529-->
+<!--Post: 4534--><!--Time: 1106499962-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4534"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stealth<!--/name--></b></a><br>Username: <!--field:uname-->Stealth<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 9:06 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;i believe he has been in prison for other crimes and was recently released&#34; <BR> <BR>There is fingerprint and DNA evidence.  If he was in prison, they could match up his fingerprints.  So prison is very unlikely. <BR>Also, a few years back, most states started taking DNA samples of inmates.   <BR> <BR>If he was doing the same thing other places, they would be able to tie it to BTK through DNA &#40;semen, hair, epithelial&#41;, fingerprint, or MO/signature. <BR> <BR>I think the violence regression is what makes BTK somewhat unique.  <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4534-->
+<!--Post: 4538--><!--Time: 1106506080-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4538"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Metalhead<!--/name--></b></a><br>Username: <!--field:uname-->Metalhead<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 10:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->have they checked all prisoners dna???i never have heard of that; especially if he was locked up in the 80&#39;s.as far as fingerprints, it is my understanding that they dont have any useable prints??i still believe btk has been locked up for 25 years. someone who enjoys killing and the publicity associated with it as much as btk couldnt just stop.he is way to complusive to do that!!!<!--/Text--></td></tr>
+<!--/Post: 4538-->
+<!--Post: 4539--><!--Time: 1106507160-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4539"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 11:06 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Metalhead &amp; Stealth: <BR> <BR>There was another thread I started about fingerprints and the military. <BR> <BR>We thought perhaps BTK was in the miltary and therefore some comparisons could be made to the fingerprint &#40;?or partial fingerprint?&#41; that was supposedly left on a chair &#40;?at the Oteros?&#41;. <BR> <BR>That is a good point about someone who enjoys killing -- why should he stop for 25 years and then all of the sudden start taunting the police again with old momentos? <BR> <BR>Perhaps he was on some kind of medication &#40;available through his employer&#39;s health insurance&#41; that stabilized him sufficiently through those quiet years.  Now, that he is older and retired he may no longer be able to afford or be entitled to this medication. <BR> <BR>Also, now that he is older, he doesn&#39;t have enough of that &#34;sexual whatever&#34; urging him to kill for this pleasure. <BR> <BR>He may only have just has enough strength to taunt &#40;and live through&#41; his old conquests.<!--/Text--></td></tr>
+<!--/Post: 4539-->
+<!--Post: 4542--><!--Time: 1106511524-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4542"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 12:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Or Ice, he simply never stopped and either went elsewhere or changed his signature and MO. This maniac is smart enough for anything to be a possibility.<!--/Text--></td></tr>
+<!--/Post: 4542-->
+<!--Post: 4547--><!--Time: 1106516157-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4547"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stealth<!--/name--></b></a><br>Username: <!--field:uname-->Stealth<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 1:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Fingerprint evidence that seems to be a fact: The previously mentioned chair, one of the bags, and one of the letters. Possible: Otero&#39;s car. Until the police tell us for sure, it&#39;s all speculation. The police have stated several times they have &#34;fingerprint&#34; evidence. <BR> <BR>It is always possible none of the fingerprints are BTK&#39;s.  It is also possible his fingerprints are on file somewhere but aren&#39;t in the IAFIS for whatever reason &#40;age?&#41;.  In one of the 1974 articles I read on this case, the WPD announced they were going to start fingerprinting everyone arrested. They didn&#39;t before??? <BR> <BR>Most likely he has never been arrested for a major crime or ever been in the military - IceIceBaby said&#40;I was in the military and one of the first things they do is finger print you&#41;. <BR> <BR>The DNA collection of prisoners is very new and most likely of no help even if he ever had been in prison. <BR> <BR>The police and BTK have so far attributed only the ones we know.  Given what we know, it appears he has stayed in the area and has been dormant.  Speculation is often much more exciting than the reality. <BR><!--/Text--></td></tr>
+<!--/Post: 4547-->
+<!--Post: 4561--><!--Time: 1106531066-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4561"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Metalhead<!--/name--></b></a><br>Username: <!--field:uname-->Metalhead<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 5:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->sounds like btk needs to go to canada and get some of those cheap drugs!!maybe viagre started him up again, no pun intended.i heave heard the fingerprints both ways.i also heard if they did have a good fingerprint he would have been caught by now &#40;not sure how&#41;.i have been wrong before but i still cant seem to make the mental leap that he went dorment for 25 years of his own free will.<!--/Text--></td></tr>
+<!--/Post: 4561-->
+<!--Post: 4564--><!--Time: 1106531835-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4564"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 5:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Metalhead, <BR> <BR>You&#39;re probably right, he just didn&#39;t &#34;go dormant&#34; of his own free will.  <BR> <BR>Something must have stopped him somehow. <BR> <BR> <!--/Text--></td></tr>
+<!--/Post: 4564-->
+<!--Post: 6717--><!--Time: 1107980217-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6717"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 12:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I wonder if he worked in wichita, he could have recently retired, I am pretty sure his communications started in March of 2004<!--/Text--></td></tr>
+<!--/Post: 6717-->
+<!--Post: 6812--><!--Time: 1108016931-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6812"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 10:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think you are right. I think a lot of clues are being &#39;over-thought&#39; and become part of the factual collective thinking through repetition. When I first started following this board I took it for granted that BTK had mentioned, somewhere, that he was dying. It took me a lot of reading to question the premise. <BR><!--/Text--></td></tr>
+<!--/Post: 6812-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/345">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/345" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

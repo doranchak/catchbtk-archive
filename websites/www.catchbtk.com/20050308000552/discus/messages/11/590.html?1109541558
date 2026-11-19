@@ -1,0 +1,265 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 590/Administration of Justice...-->
+<!--Level 1: 590/Administration of Justice...-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Administration of Justice...</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Administration of Justice...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+Administration of Justice...
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=590"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=590"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 9125--><!--Time: 1109399398-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9125"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 10:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It is worth pointing out at this juncture that Mr. Rader&#39;s degree appears to have been related to law enforcement, yet I can&#39;t find anything that indicates he was ever a cop...Ed Kemper, Ted Bundy, Kenneth Bianchi, several other serials have either been fans of law enforcement or wanted to be officers of the law, but only Gerard Schaefer - another strangler - comes to mind as having been a cop when he did his deeds.  <BR> <BR>So, if Denny the Dog Catcher had a degree in the Administration of Justice: <BR> <BR>-Was he ever a cop? <BR>-Where, if he was? <BR>-If he didn&#39;t make it, didn&#39;t cut the mustard, why? Did the WPD have psych evals back in the 70&#39;s? <BR> <BR>Who says there isn&#39;t still tons more to discuss about this case? I&#39;ll be chewing on it for a while, myself.<!--/Text--></td></tr>
+<!--/Post: 9125-->
+<!--Post: 9127--><!--Time: 1109400059-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9127"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 10:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve: <BR>I really enjoy reading your posts. <BR> <BR>&#34;Denny the Dog Catcher&#34;....... good movie title!<!--/Text--></td></tr>
+<!--/Post: 9127-->
+<!--Post: 9137--><!--Time: 1109401348-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9137"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 11:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wow, thanks! Same to ya, actually.  <BR> <BR>I like Denny the Dog Catcher - kinda removes the mystique, you know?  <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 9137-->
+<!--Post: 9164--><!--Time: 1109405472-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9164"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 12:11 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I haven&#39;t read much about the case, and what I did read was scant and long ago but I believe Peter Sutcliffe, &#34;The Yorkshire Ripper,&#34; was a cop, but I don&#39;t recall if this was his profession when he was murdering. Obviously, this series of murders took place in England and that may exclude Sutcliffe for reasons of comparisons. I don&#39;t know. <BR> <BR>Another thing, Schaefer was not only a strangler, as was BTK, but also a sexual sadist, as was BTK. <BR> <BR>There have been several police officers who were serial rapists but without checking I can think of no other serial murderers who were active police officers when committing their crimes. Yet I sense I&#39;m forgetting a name. The names of serial murderers you mention are all from the 1970s. Profiling doesn&#39;t exist in a vacuum, although it often appears as such. It&#39;d be nice to have a list of Twenty-First Century serial murderers for a change. &#40;This is a general statement.&#41; <BR> <BR>The theory is that serial murderers often fail as law enforcement officers because their sociopathic <BR>nature does not allow them to take orders from superiors and comply with internal, police department requirements. That&#39;s part of it anyway. <BR> <BR>Even if WPD didn&#39;t have psych evals in the 1970s, they should have all names of applicants. I wonder if they even have this much. <BR> <BR>This is the reason BTK has a greater statistical average of having been a wannabe instead of the real thing. But even for a serial offender, BTK is an odd bird. It may not be my number one suspected profession but BTK as having been a cop is, I think, perfectly plausible.<!--/Text--></td></tr>
+<!--/Post: 9164-->
+<!--Post: 9169--><!--Time: 1109406346-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9169"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 12:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George; <BR> <BR>Sutcliffe was a gravedigger, ironically. <BR> <BR>I&#39;d say most stranglers have been shown to be sexually sadistic psychopaths - I just forgot to include that detail this time.  <BR> <BR>I&#39;d say cop wannabe, since he majored in the subject in college, but he settled for security and codes work. <BR> <BR>As to the provenance of the killers I mentioned, you are of course correct, but consider that at this point the fundamental basics of profiling were still laid when researching these men. I think your implied call for 21st century killers being researched is a very, very good idea. <BR> <BR>Think about this, though...in a way, BTK is more the contemporary of Bundy, Kemper, Bianchi. The 70&#39;s were his heyday, when he flaunted himself. He certainly must have killed more, but something dampened the drive - perhaps just the vicissitudes of parenting did it. But if he truly was able to set his urges aside, with the exceptions of Wegerle, and perhaps Hedge and Davis and a few more, he in a way remained a product of the spate of &#34;name&#34; serials from that strange, strange era. <BR> <BR>You always make me think, George. Thank you. <!--/Text--></td></tr>
+<!--/Post: 9169-->
+<!--Post: 9180--><!--Time: 1109410332-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9180"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 1:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve, I only found out at perhaps 4:11 AM EST that BTK was &#34;a DNA match&#34; &#40;no link provided for the DNA match&#41;. I did read part of the KAKE page, and a source from the police apparently has said &#34;we&#39;ve got our man.&#34; The same page mentions that at the 10:00 AM conference, the head of KBI and other brass would be on hand, as will family members of the victims. This last point cinched it for me, BTK is caught.  <BR> <BR>Setting up Mr. V. may have been the fatal mistake. <BR>I guess we&#39;ll find out. My own hope is that his own ego did him in. Still, if he&#39;s caught, he&#39;s caught and that&#39;s the bottom line. <BR> <BR>If this conference says anything short of &#34;BTK has been apprehended&#34; I can only imagine the ensuing furor.  <BR> <BR>But I&#39;m ecstatic to hear the news! WPD, WAY TO GO! <BR> <BR>Wichitans, WAY TO GO! I predict that the Internet played a significant role in BTK&#39;s - excuse me, Rader&#39;s capture.<!--/Text--></td></tr>
+<!--/Post: 9180-->
+<!--Post: 9184--><!--Time: 1109412356-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9184"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 2:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George, <BR> <BR>I believe your prediction about the internet fatale is a fact. The intelligent discourse exemplified by posters like you and Steve had to have mesmerized, confounded and frightened Denny to no end. As much effort as he put into getting LE and websleuths to spin their wheels, he had to be scrambling too. <BR> <BR>I’d bet money that he felt he could not afford to miss your posts. <BR> <BR>In his cold sweats, he imagined that Skov had a thousand monkeys sitting at a thousand keyboards and damned if one of those hairy little bastards wasn’t going to trip over something. <BR> <BR>Whether or not he got caught posting, well – we might find that out later this morning. <BR> <BR>I don’t know if this is a thread or a celebration, but I’ll raise a glass to you and Steve and all the others like you who dogged this model citizen right into the interrogation room. <BR> <BR>Cheers, <BR> <BR>CV <BR><!--/Text--></td></tr>
+<!--/Post: 9184-->
+<!--Post: 9194--><!--Time: 1109422572-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9194"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 4:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This &#34;model citizen&#34; is BTK. You really shouldn&#39;t project so much, asswipe. Put a few jiggers of prussic acid in that glass you raise and then drink heartily. <BR> <BR>Oh, but mock the victims first; it pains me to see you so crestfalllen now that your hero has been apprehended. <!--/Text--></td></tr>
+<!--/Post: 9194-->
+<!--Post: 9210--><!--Time: 1109432462-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9210"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sean<!--/name--></b></a><br>Username: <!--field:uname-->Sean<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 7:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->For what it&#39;s worth, Sutcliffe was actually a Lorry Driver during his crimes. He may have been a gravedigger at one time, that sounds familiar, but I don&#39;t think he was ever a cop. He may have had an interest at one time though!<!--/Text--></td></tr>
+<!--/Post: 9210-->
+<!--Post: 9237--><!--Time: 1109441566-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9237"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 10:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lily, Victor; I&#39;m fine now. Carefully read Lostdog&#39;s post above. Notice lines such as; <BR> <BR>&#34;I’d bet money that he felt he could not afford to miss your posts.&#34; And, <BR> <BR>&#34; In his cold sweats, he imagined that Skov had a thousand monkeys sitting at a thousand keyboards and damned if one of those hairy little bastards wasn’t going to trip over something&#34; <BR> <BR>That&#39;s mockery and I reacted. Big deal, it&#39;s gone. <BR>And Lily, you live in a glass house. <BR><!--/Text--></td></tr>
+<!--/Post: 9237-->
+<!--Post: 9240--><!--Time: 1109442315-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9240"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 10:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George, <BR> <BR>In my posts I have only tried to mock, shock and provoke one individual, the BTK. <BR> <BR>You of all people should appreciate my cynicism in referring to Rader as a “model citizen”.  You and I George, we are model cynics! <BR> <BR> <BR>My admiration for Tom and the dedicated team he managed to assemble is sincere. Additionally, I never voiced an unkind word toward law enforcement. There are many here today who wish they could retract a post or two. Not me. <BR>  <BR> <BR>My only feelings for the BTK? Hatred and fear. Yes, I’ll admit to an obsession – but I contend it was fueled by my faith in the concept and mission of this site. <BR> <BR> <BR>My posts, while admittedly peculiar, were designed to help draw out BTK through the use of mediocre poetry, prose, puns, puzzles and black humor. I tried to speak his language in an effort to rattle him. <BR> <BR> <BR>Don’t we all wish that just one of our posts hit close enough to home that BTK felt he had to check the board frequently to see if a thread was starting to wind around him? Could that preoccupation have caused BTK to act rashly and lead to his big mistake? <BR> <BR>  <BR>As for the victims and their survivors, I have grieved for strangers. The goodness that radiates from Vicki’s face, the unmistakable look of hope and ambition in Nancy Fox’s portrait, the living Hell their loved ones were sentenced to…  long after Rader’s notoriety rightly dissolves into a banal footnote, I will think of the victims and pray for them. <BR> <BR> <BR>If anyone interpreted my remarks as disrespectful, I apologize. <BR> <BR> <BR>George, I never had an unkind word for a fellow poster. I have never posted on any other board. Never. I marveled at the jealous rants that Tom and his team were subjected to on other boards. <BR> <BR> <BR>I doubt you’ll indulge me in one more theory, but here it goes: <BR> <BR> <BR>I believe someone hijacked my stupidly simple password after I logged out of a perfectly civil exchange you and I had regarding BTKs language and JTR communications. Later that evening, when I returned, I found that both you and I had at least one post deleted. <BR> <BR> <BR>It isn’t too far fetched to think that someone was after you or me or both of us. <BR> <BR> <BR>I apologize to you George for any remarks I made that were inappropriate. I am sorry. I truly admire the investment that you and others made to put this rat in a cage. <BR> <BR> <BR>For now, I am done. I have dumped my files, the preposterous and the possible alike, into the very forum that inspired them. There here to be criticized, considered and very likely deleted by someone other than myself. With my files I hope I have dumped my obsession. I’ll spend more time sleeping and enjoying my family. <BR> <BR> <BR>Lastly, I will turn the other cheek. Smash it if you must -- but it will not remove my smile or take away from my rejoicing. <BR> <BR> <BR>Note to Skov -- please take my reference to your inexhaustable diligence and unending creativity in the good humor in which it was intended. <BR> <BR>I hope it made you laugh on this happy day. <BR>I wish I could hug you right now. <BR> <BR>After all, we Danes gotta stick together.  <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 9240-->
+<!--Post: 9241--><!--Time: 1109443230-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9241"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 10:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lostdog, Cool. Your post can be read more than one way. I didn&#39;t know you were Danish! That explains it. One example; <i>The intelligent discourse exemplified by posters like you and Steve had to have mesmerized, confounded and frightened Denny to no end.</i> If you were native to the US, which I thought you were, this quote comes off as sarcasm. If I knew you were Danish, it wouldn&#39;t have bothered me. <BR> <BR>Re: Jack The Ripper. At one time there were at least two JTR threads here. On either thread, there was data repeated by many posters. Posts and threads like this get deleted or pulled all the time.<!--/Text--></td></tr>
+<!--/Post: 9241-->
+<!--Post: 9242--><!--Time: 1109443486-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9242"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Angrywolf<!--/name--></b></a><br>Username: <!--field:uname-->Angrywolf<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 10:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->ooooo..a lot of viciousness here..as BTK has been caught..and none of us were ever his &#34;fans&#34;...he was a vicious killer...imagine if he had been in your city..killing your relatives..so I feel a duty to defend the people who have come here and speculated about BTK and say I believe we all wanted him caught and there are no regrets he has been caught...<!--/Text--></td></tr>
+<!--/Post: 9242-->
+<!--Post: 9243--><!--Time: 1109443643-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9243"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 10:47 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->One of those British guys was a cop. I don&#39;t recall the name I guess. I do remember a photo of a policeman&#39;s book, and the inscription read something like &#34;If you intend to steal this, read page [whatever it was].&#34; The page mentioned concerned the punishment for theft. This was also the guy who buried bodies underneath the floor of his flat. I wish I could remember the name.<!--/Text--></td></tr>
+<!--/Post: 9243-->
+<!--Post: 9369--><!--Time: 1109485220-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9369"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 10:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dennis Nilsen, the &#34;British Jeffrey Dahmer&#34; was a former constable.<!--/Text--></td></tr>
+<!--/Post: 9369-->
+<!--Post: 9425--><!--Time: 1109519460-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9425"><font face="Verdana" size="1"><b><!--email--><a href="mailto:linnieskid@earthlink.net" target="_blank"><!--/email--><!--name-->Linnieskid<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Linnieskid<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 7:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Gives a whole new meaning to Dennis the Menace.<!--/Text--></td></tr>
+<!--/Post: 9425-->
+<!--Post: 9443--><!--Time: 1109528326-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9443"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 10:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->LMAO kid! BTK is DTM.<!--/Text--></td></tr>
+<!--/Post: 9443-->
+<!--Post: 9508--><!--Time: 1109541558-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9508"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 1:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks Steve, that was it. Dennis Nilsen.<!--/Text--></td></tr>
+<!--/Post: 9508-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/590">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/590" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

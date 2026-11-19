@@ -1,0 +1,218 @@
+<html>
+<!--Topic: 10/BTK Letters-->
+<!--Me: 10/BTK Letters-->
+<!--Properties: -->
+<!--Param: SublistCreate-->
+<!--Parent: 10-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK Letters</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+if ((1097780425 - server_gmt_offset) > compare_time) {
+document.img17.src = img_new.src;
+}
+if ((1102668109 - server_gmt_offset) > compare_time) {
+document.img33.src = img_new.src;
+}
+if ((1102997499 - server_gmt_offset) > compare_time) {
+document.img146.src = img_new.src;
+}
+if ((1101243019 - server_gmt_offset) > compare_time) {
+document.img168.src = img_new.src;
+}
+if ((1099690530 - server_gmt_offset) > compare_time) {
+document.img166.src = img_new.src;
+}
+if ((1102947360 - server_gmt_offset) > compare_time) {
+document.img198.src = img_new.src;
+}
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK Letters</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+BTK Letters
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&nbsp;
+</b></font></td>
+</tr></table>
+<p>
+<table border=0 cellspacing=0 cellpadding=1 width="100%" bgcolor="#000000"><tr><td>
+<table border=0 cellpadding=4 cellspacing=1 width="100%">
+<tr bgcolor="#999999">
+<td><font size=1>&nbsp;</font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Thread</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Last Poster</b></font></td>
+<td align=center><font size=1 face="Verdana" color="#f7f7f7"><b>Posts</b></font></td>
+<td align=center><font size=1 face="Verdana" color="#f7f7f7"><b>Pages</b></font></td>
+<td align=center><font size=1 face="Verdana" color="#f7f7f7"><b>Last Post</b></font></td>
+</tr>
+<!--Top: 17-->
+<tr>
+<td nowrap valign=top bgcolor="#ffffff"><img name="img17" height=11 width=28 border=0 src="http://www.catchbtk.com/discus/icons/tree_j.gif" alt=""><img src="http://www.catchbtk.com/discus/icons/tree_r.gif" height=16 width=20></td><td width=80% valign=top bgcolor="#f7f7f7"><font face="Verdana" size="1"><a href="http://www.catchbtk.com/discus/messages/10/17.html?1097780425">Anyone got a lead on the ciphers?</a></font></td><td nowrap valign=top bgcolor="#cccccc"><font face="Verdana" size="1">Nostone</font></td><td valign=top bgcolor="#f7f7f7" align=right><font face="Verdana" size="1">19&nbsp;</font></td><td valign=top bgcolor="#cccccc" align=right><font face="Verdana" size="1">1&nbsp;</font></td><td nowrap valign=top bgcolor="#f7f7f7" align=right><font face="Verdana" size="1">10-14-04&nbsp;&nbsp;12:00&nbsp;pm</font></td></tr>
+<!--/Top-->
+<!--Top: 33-->
+<tr>
+<td nowrap valign=top bgcolor="#ffffff"><img name="img33" height=11 width=28 border=0 src="http://www.catchbtk.com/discus/icons/tree_j.gif" alt=""><img src="http://www.catchbtk.com/discus/icons/tree_r.gif" height=16 width=20></td><td width=80% valign=top bgcolor="#f7f7f7"><font face="Verdana" size="1"><a href="http://www.catchbtk.com/discus/messages/10/33.html?1102668109">Errors in Letters</a></font></td><td nowrap valign=top bgcolor="#cccccc"><font face="Verdana" size="1">Johno</font></td><td valign=top bgcolor="#f7f7f7" align=right><font face="Verdana" size="1">9&nbsp;</font></td><td valign=top bgcolor="#cccccc" align=right><font face="Verdana" size="1">1&nbsp;</font></td><td nowrap valign=top bgcolor="#f7f7f7" align=right><font face="Verdana" size="1">12-10-04&nbsp;&nbsp;12:41&nbsp;am</font></td></tr>
+<!--/Top-->
+<!--Top: 146-->
+<tr>
+<td nowrap valign=top bgcolor="#ffffff"><img name="img146" height=11 width=28 border=0 src="http://www.catchbtk.com/discus/icons/tree_j.gif" alt=""><img src="http://www.catchbtk.com/discus/icons/tree_r.gif" height=16 width=20></td><td width=80% valign=top bgcolor="#f7f7f7"><font face="Verdana" size="1"><a href="http://www.catchbtk.com/discus/messages/10/146.html?1102997499">BTK&#39;s Poetry</a></font></td><td nowrap valign=top bgcolor="#cccccc"><font face="Verdana" size="1">Johno</font></td><td valign=top bgcolor="#f7f7f7" align=right><font face="Verdana" size="1">46&nbsp;</font></td><td valign=top bgcolor="#cccccc" align=right><font face="Verdana" size="1">1&nbsp;</font></td><td nowrap valign=top bgcolor="#f7f7f7" align=right><font face="Verdana" size="1">12-13-04&nbsp;&nbsp;8:11&nbsp;pm</font></td></tr>
+<!--/Top-->
+<!--Top: 168-->
+<tr>
+<td nowrap valign=top bgcolor="#ffffff"><img name="img168" height=11 width=28 border=0 src="http://www.catchbtk.com/discus/icons/tree_j.gif" alt=""><img src="http://www.catchbtk.com/discus/icons/tree_r.gif" height=16 width=20></td><td width=80% valign=top bgcolor="#f7f7f7"><font face="Verdana" size="1"><a href="http://www.catchbtk.com/discus/messages/10/168.html?1101243019">New BTK Letter Oct. 26</a></font></td><td nowrap valign=top bgcolor="#cccccc"><font face="Verdana" size="1">Lisa</font></td><td valign=top bgcolor="#f7f7f7" align=right><font face="Verdana" size="1">7&nbsp;</font></td><td valign=top bgcolor="#cccccc" align=right><font face="Verdana" size="1">1&nbsp;</font></td><td nowrap valign=top bgcolor="#f7f7f7" align=right><font face="Verdana" size="1">11-23-04&nbsp;&nbsp;12:50&nbsp;pm</font></td></tr>
+<!--/Top-->
+<!--Top: 166-->
+<tr>
+<td nowrap valign=top bgcolor="#ffffff"><img name="img166" height=11 width=28 border=0 src="http://www.catchbtk.com/discus/icons/tree_j.gif" alt=""><img src="http://www.catchbtk.com/discus/icons/tree_r.gif" height=16 width=20></td><td width=80% valign=top bgcolor="#f7f7f7"><font face="Verdana" size="1"><a href="http://www.catchbtk.com/discus/messages/10/166.html?1099690530">THE POSTED LETTER GRID</a></font></td><td nowrap valign=top bgcolor="#cccccc"><font face="Verdana" size="1">Juno</font></td><td valign=top bgcolor="#f7f7f7" align=right><font face="Verdana" size="1">28&nbsp;</font></td><td valign=top bgcolor="#cccccc" align=right><font face="Verdana" size="1">1&nbsp;</font></td><td nowrap valign=top bgcolor="#f7f7f7" align=right><font face="Verdana" size="1">11-05-04&nbsp;&nbsp;1:35&nbsp;pm</font></td></tr>
+<!--/Top-->
+<!--Top: 198-->
+<tr>
+<td nowrap valign=top bgcolor="#ffffff"><img name="img198" height=11 width=28 border=0 src="http://www.catchbtk.com/discus/icons/tree_j.gif" alt=""><img src="http://www.catchbtk.com/discus/icons/tree_r.gif" height=16 width=20></td><td width=80% valign=top bgcolor="#f7f7f7"><font face="Verdana" size="1"><a href="http://www.catchbtk.com/discus/messages/10/198.html?1102947360">The Killman Letter Anagram</a></font></td><td nowrap valign=top bgcolor="#cccccc"><font face="Verdana" size="1">Skov</font></td><td valign=top bgcolor="#f7f7f7" align=right><font face="Verdana" size="1">7&nbsp;</font></td><td valign=top bgcolor="#cccccc" align=right><font face="Verdana" size="1">1&nbsp;</font></td><td nowrap valign=top bgcolor="#f7f7f7" align=right><font face="Verdana" size="1">12-13-04&nbsp;&nbsp;6:16&nbsp;am</font></td></tr>
+<!--/Top-->
+<tr bgcolor=#999999>
+<td><font size=1>&nbsp;</font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><a href="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi?HTTP_REFERER=/10/10.html&action=form"><font color="#f7f7f7">Start New Thread</font></a></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7">&nbsp;</font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7">&nbsp;</font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7">&nbsp;</font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7">&nbsp;</font></td>
+</tr>
+</table></td></tr></table>
+</p>
+<a name="MB"></a>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/10" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

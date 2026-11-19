@@ -1,0 +1,262 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 325/No More Drops from BTK - FINIS-->
+<!--Level 1: 325/No More Drops from BTK - FINIS-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: No More Drops from BTK - FINIS</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">No More Drops from BTK - FINIS</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+No More Drops from BTK - FINIS
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=325"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=325"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4176--><!--Time: 1105824734-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4176"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Researcher<!--/name--></b></a><br>Username: <!--field:uname-->Researcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 15, 2005 - 1:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->My opinion is - there will not be a drop on the 15th, 16th, or ever again. BTK will sink back into the shadows and not bring any more attention to himself. A years worth of clues - the details of which are kept from us except for a few dribs and drabs - have done little to bring him and the authorities any closer together for capture. <BR> <BR>The WPD blew it big time right from the beginning. The Nancy Fox audio released to the public for &#34;help&#34; years after it was recorded. Same thing with the &#34;Oh Anna&#34; poem. <BR>Communications from letters in library books, post office drops, packages to KAKE etc... All nada. So what are we left with? Really very little. Even the puzzle/cryptograms so many of us have been working on comes from a poor screen capture from television. <BR> <BR>However - from an informational view we were VERY lucky in December. Do we know how lucky we were? Had the person who found the package in Murdock Park called the WPD instead of the media we would be sitting in the the dark about it&#39;s contents. As it is now all that we know is that it contained the driver&#39;s license of Nancy Fox. The other material/items it contained have not been commented on. <BR> <BR>It seems to me that the tight cloak of secrecy LE uses to protect the case and the investigation is overkill. So much could have been released - even in redacted form - like photos of the communications - something/anything that might trigger a memory. Of course, along with that, comes the hundreds of tips that further complicate and extend the time-line of the investigation. But that is the nature of the beast. You go public when you hit the brick wall. You request assistance when you are spinning your wheels and getting nowhere. <BR> <BR>The info &#40;if true&#41; re: 1939, Petra,. trains,. ham radio, fiddle playing grandfather etc... how old was that information? Was it contained in a communication from 2004? <BR> <BR>The Nancy Fox necklace - was that in a communication from this year, or old information released by the police as a result of the Murdock Park drop? <BR> <BR>From an amateur sleuth perspective we want to know all the information. It satisfies our curiosity, may reduce endless speculation, but more importantly with the brain power here and elswhere, and the investigative skills held by some, it just might be that one, or two may pick up on a very significant clue that could connect another dot. <BR> <BR>I am not saying that an Internet community will catch the BTK killer, but that the right information - if released - to the public could go a long way in tightening the rope on BTK. Apparently the WPD &#40;and also on the advice of the feds&#41; are doing what they believe is sufficient as far as public information access. I say are, and have been wrong. But then again, they are the pros. <BR> <BR>The feds have stepped into the action, and federal funds have been made available to assist the WPD. I don&#39;t think it is a task-force, or a large block of manpower that will catch BTK, nor can his capture be bought by throwing federal funding into the investigation. <BR> <BR>My final thought is that, although most are pleased that the WPD has released a few clues here and there, what they have done in that regard is much too little and way too late. Now we are grasping at straws in the wind. <BR> <BR>As for BTK, he will probably end out his retirement days by observing from afar the circus of the investigation that - with his once again self imposed silence - will, after a period of time, once again wind down. All that will be left are a few books, lots of theories and speculations, Internet chat rooms. All of the important evidence will still be locked away so as not to jeopardize a case that will never be prosecuted, and a new group of LE people will replace the old guard. <BR> <BR>BTK will go down in history like his friend the Zodiac. He will become a cottage industry - and will forever remain unknown. <BR> <BR>Would you believe it? I am by nature an optimistic guy<!--/Text--></td></tr>
+<!--/Post: 4176-->
+<!--Post: 4183--><!--Time: 1105842850-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4183"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 15, 2005 - 6:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m still giving BTK some time. Unless he&#39;s very seriously ill -- the December park drop suggests BTK may not be dying or even sick, but that&#39;s not conclusive -- I think he&#39;ll be heard from again. That said, I agree almost word for word what you&#39;ve posted. <BR> <BR>One thing. The opening part of the strange, patchwork &#34;list of information&#34; released 11/30. <BR><i>&#34;Since last March, BTK has sent numerous communications to the media and to the police. In these letters he has provided certain background information about himself which <b>he claims</b> is accurate. Based upon a review of that information, the following <b>facts</b> about BTK are being made available to the public in hopes of identifying BTK.&#34;</i> &#40;emphasis supplied.&#41; In reading this carefully, it seems WPD is taking BTK&#39;s word as fact. What BTK &#34;claims&#34; turns into &#34;facts&#34; twelve words later. I wonder if BTK demanded that this be released? It wouldn&#39;t surprise me if he had.  I give BTK some time but it looks bleak at the moment. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4183-->
+<!--Post: 4199--><!--Time: 1105848947-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4199"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Boffa994<!--/name--></b></a><br>Username: <!--field:uname-->Boffa994<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 15, 2005 - 8:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->hey george give it time. most of the drop offs were found about at least 2 to 3 days after the anniversary. someone probably just hasnt walk on to were its at and found the package he left in a park or somewhere to take to the media or police dpt.<!--/Text--></td></tr>
+<!--/Post: 4199-->
+<!--Post: 4207--><!--Time: 1105854964-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4207"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Gigi<!--/name--></b></a><br>Username: <!--field:uname-->Gigi<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 15, 2005 - 9:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->He will leave a drop, but as Boffa posted, it will take a few days.<!--/Text--></td></tr>
+<!--/Post: 4207-->
+<!--Post: 4233--><!--Time: 1105933756-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4233"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 16, 2005 - 7:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I am giving it time, Boffa. I was responding to the post above mine.<!--/Text--></td></tr>
+<!--/Post: 4233-->
+<!--Post: 4254--><!--Time: 1105978967-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4254"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tbear<!--/name--></b></a><br>Username: <!--field:uname-->Tbear<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 17, 2005 - 8:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe that he is making the drops backwards. first Vicki, then Nancy. Next time we hear from BTK in a drop is going to be Shirley Vian on 3/17/05.<!--/Text--></td></tr>
+<!--/Post: 4254-->
+<!--Post: 4261--><!--Time: 1105987206-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4261"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jujuree<!--/name--></b></a><br>Username: <!--field:uname-->Jujuree<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 17, 2005 - 10:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That&#39;s an interesting perspective, Tbear.  I wonder if that is what he&#39;s doing, working backwards? <BR> <BR>It would make sense and the concept is so simple, I&#39;m surprised it hasn&#39;t been mentioned before.<!--/Text--></td></tr>
+<!--/Post: 4261-->
+<!--Post: 4271--><!--Time: 1105998875-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4271"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wade<!--/name--></b></a><br>Username: <!--field:uname-->Wade<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 17, 2005 - 1:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tbear- <BR>I think he already made his &#39;drop&#39; regarding Shirley....as the post mark date for his letter last year was dated on the anniversary.  I don&#39;t think he is doing anything in order.  He&#39;s just doing it however he wants to. <BR>IMO, the next communication will involve the Otero&#39;s.  That doesn&#39;t mean it will be exactly on the date just passed, or it could have been and it just hasn&#39;t been found or released yet by authorities.<!--/Text--></td></tr>
+<!--/Post: 4271-->
+<!--Post: 4272--><!--Time: 1106002385-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4272"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tbear<!--/name--></b></a><br>Username: <!--field:uname-->Tbear<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 17, 2005 - 2:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->No disrespect intended, Wade. You are correct on 3/19 a letter was recv&#39;d, however it included info related to Vicki. Maybe he got confused? I disagree that the next &#39;drop&#39; or communique will have to do with the Otero&#39;s. I think that will be his last, and it really would not surprise me if an ederly/ill BTK walked into the police station to deliver this final package himself. Sort of a last opportunity to say, &#34;GOTCHA! and by the time you get around to prosecuting me, I&#39;ll be dead.&#34; Of course, I&#39;m neither an investigator, psycologist, nor a psychic. <!--/Text--></td></tr>
+<!--/Post: 4272-->
+<!--Post: 4281--><!--Time: 1106021133-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4281"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wade<!--/name--></b></a><br>Username: <!--field:uname-->Wade<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 17, 2005 - 8:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tbear- <BR>You may be more pyschic than you think! <BR>My other thought, as opposed to dropping otero linked things, was for him to turn himself in with the information just as you have explained in your post! <BR>doo doo doo doo doo.....<!--/Text--></td></tr>
+<!--/Post: 4281-->
+<!--Post: 4288--><!--Time: 1106042540-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4288"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 18, 2005 - 2:02 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I predict that BTK will never turn himself in. I&#39;d love to see it, though.<!--/Text--></td></tr>
+<!--/Post: 4288-->
+<!--Post: 4803--><!--Time: 1106757242-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4803"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 8:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->RESEARCHER: Sorry to see your reason for starting this thread go &#34;up in smoke&#34;. I also would have liked to see BLT leave us forever. But the new &#34;Post Toasties&#34; drop yesterday makes &#34;toast&#34; of that hope!<!--/Text--></td></tr>
+<!--/Post: 4803-->
+<!--Post: 4807--><!--Time: 1106759373-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4807"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Researcher<!--/name--></b></a><br>Username: <!--field:uname-->Researcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 9:09 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yes V - I was dead wrong. And am glad I was too. I shall never apply for a mindreading job, or prophetic office.  Ha!<!--/Text--></td></tr>
+<!--/Post: 4807-->
+<!--Post: 4809--><!--Time: 1106760966-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4809"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stealth<!--/name--></b></a><br>Username: <!--field:uname-->Stealth<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 9:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Don&#39;t feel bad...A lot of us will have to end up being wrong on this deal...<!--/Text--></td></tr>
+<!--/Post: 4809-->
+<!--Post: 4883--><!--Time: 1106791825-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4883"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 6:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Every good theory rests on the ashes of numerous good, disproven hypotheses and predictions.  I was afraid you were right, but glad we were wrong. <BR> <BR>The core of your hypothesis remains - will he dump all his trophies and go incommunicado at some point, perhaps when only his DNA is left to incriminate him?  Or will he taunt until he drops?  This is still a valid question. <BR> <BR>Even worse - if he somehow managed to wriggle past the DNA evidence &#40;by luck or cunning&#41;, he could return to freedom &#40;barring overwhelming cirsumstantial evidence or a more thorough DNA test&#41; by merely dropping his &#34;precious&#34; trophies, freeing himself of the evidence.  My guess would be that, if so, he would milk them for maximum taunt, much as we see.  Then, you would be correct - no more drops, no more BTK. <BR> <BR>If LE knows that BTK&#39;s bag of goodies is getting small, they had best do a data drop, in my opinion.  Otherwise, he could be gone for good.  He would join the Ripper and Zodiac in legend - presumably his intention all along.<!--/Text--></td></tr>
+<!--/Post: 4883-->
+<!--Post: 4889--><!--Time: 1106795624-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4889"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 7:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Pax, I agree. It could be argued that BTK is deliberately withholding powerful proof &#40;ie. definitive evidence of at least one more victim, perhaps Hedge, Baker or Davis&#41; until folks believe he&#39;s turned in all his material, upon which time BTK drops another bomb similar to Vicki Wegerle. I don&#39;t think this will to be the case. <BR> <BR>I think all of BTK&#39;s victims are known, we know them all right now, but BTK still has enough material to play around with, at least a few more &#34;drops&#34; worth of information. I must also wonder if BTK is in the least bit ill. He may not be and I&#39;ve seen no evidence that he is terminal. Some fairly sweet offers have been made to him, I wish he&#39;d seriously consider one or two of them while he has the chance.<!--/Text--></td></tr>
+<!--/Post: 4889-->
+<!--Post: 5153--><!--Time: 1106928943-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5153"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tucker<!--/name--></b></a><br>Username: <!--field:uname-->Tucker<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 28, 2005 - 8:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good call Researcher.  <!--/Text--></td></tr>
+<!--/Post: 5153-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/325">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/325" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,237 @@
+<html>
+<!--Topic: 10/BTK Communications-->
+<!--Me: 746/If all the information was released earlier...-->
+<!--Level 1: 746/If all the information was released earlier...-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: If all the information was released earlier...</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">If all the information was released e...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Communications</font></a> &#187;
+If all the information was released earlier...
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=746"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=746"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 12053--><!--Time: 1111536930-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12053"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Screamer<!--/name--></b></a><br>Username: <!--field:uname-->Screamer<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 22, 2005 - 4:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There were threads early on when CatchBTK.com started up about how police should release more information to the public.  <BR> <BR>Now that a lot more information has been released, is there anyone here that really would have connected it to Dennis Rader? Just wondering...<!--/Text--></td></tr>
+<!--/Post: 12053-->
+<!--Post: 12092--><!--Time: 1111560900-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12092"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 22, 2005 - 10:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I doubt that anyone who didn&#39;t know Denny to begin with would have been able to pull his name out of thin air, however, several of the profiles on this site are as close if not closer than the &#34;pros&#34;. I&#39;m not sure of everyone&#39;s background, but just from reading them, it seems those who were closest were well read in psychology an/or the psychology of serial killers specifically. &#40;I don&#39;t mean to take away fromm their accomplishment by not mentioning names, but I don&#39;t want to go back and look them all up. Besides there is the risk of omitting someone and the question of which order to list them in. Then there is the question of who was closest and what to base it on. I mean some aspects should count more than others. How can you resolve that. And beside that, I wasn&#39;t even in the ballpark with mine and I&#39;m still bitter...very bitter&#41;. <BR> <BR>But, if there had been more information to base their profiles on they would have zeroed in on his basic makeup&#40;dogcatcher WAS mentioned, by the way&#41;. Since they were closing in on the correct profile, and since Denny &#40;despite his super powers&#41; can only have one profile, it stands to reason that they would have homed in on a specific one &#40;say, a dogcatcher in a small city in the Wichita Metro area, with a sometimes a&#42;&#42;h&#42;&#42;&#42; attitude who was likely a lutheran and drove a white truck and measured grass. Possibly living north of the city proper where his latest activity had seemed to gravitate&#41;. The profile would, of course, become public knowlege and THEN, POSSIBLY someone in Park City would have become suspicious. <BR> <BR>As it was all that was known of BTK was that he was a police wannabe who would be controlling and obsessed with detail possibly a veteran with radio experience who possibly had worked at Coleman and Attended WSU, graduating around 1979 and probably spent a lot of time at night in a shed that he forbid anyone from entering and would occasionally dissapear at night, being stressed out and return relaxed and covered with blood splatter. With such an ambiguous profile and the fact that he attended church, it is no wonder he could remain at large for thirty years.<!--/Text--></td></tr>
+<!--/Post: 12092-->
+<!--Post: 12105--><!--Time: 1111585303-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12105"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 23, 2005 - 5:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Somebody who knew him would have obviously seen the letters dradre and 6220 and lost dog in his letter grid. <!--/Text--></td></tr>
+<!--/Post: 12105-->
+<!--Post: 12135--><!--Time: 1111628753-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12135"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 23, 2005 - 5:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Absolutely I would have you guys! I can assure you that someone from Park City especially in the 6200 block would have recognized that. As I have always asserted, I always knew that BTK murdered Marine Hedge. There was never any doubt in my mind of it. I would have been looking and did look at all of the POI&#39;s that were agitated women haters, bullies, harassing freaks, but never would have guessed the monster was bold enough to live 6 houses away! If I had known of the 6220!<!--/Text--></td></tr>
+<!--/Post: 12135-->
+<!--Post: 12136--><!--Time: 1111629321-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12136"><font face="Verdana" size="1"><b><!--email--><a href="mailto:williammichael@direcway.com" target="_blank"><!--/email--><!--name-->Oklahoma_mike<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Oklahoma_mike<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 23, 2005 - 5:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->We may never know if anyone would have recognized dck&#39;s writing, grammer, artwork, etc, as we may never know just what information LE had and when they had it.  We still do not have the full texts of all the messages, let alone a photo of the actual printing or writing.  Nor do we have any of the sketches.  We in fact do not know how many sketches in total there are, what the photos of Ms. Wegerle look like nor even how many other photos were sent by dck.  And LE has been so determined to &#39;protect the sensibilities&#39; of all the citizens, I doubt they will ever tell everything they have.  If dck pleads guilty, we will likely never see any of the details.   <BR>So, who knows what somebody who lived, worked, went to church or scouts might have noticed.  He might have been identified in 1975, but if so, I bet nobody in the public ever knows about it.<!--/Text--></td></tr>
+<!--/Post: 12136-->
+<!--Post: 12137--><!--Time: 1111636063-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12137"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 23, 2005 - 7:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think it could have been solved with the information that was released and possibly as early as 1978. <BR>You have to go back to the 1974 Kathryn Bright murder which they first suspected may have been a BTK murder in 1978. Instead of trying to solve this in 1978 let&#39;s fast forward to 2004 when BTK resurfaced and try to solve it from there. <BR>It&#39;s now long been suspected that BTK had a connection to WSU and likely may have been a student there. It is also suspected that this was someone who was at one time in law enforcement or never actually was on a police force but was a wanna-be cop. <BR>When the murderer of Kathryn Bright first confronted her and her brother in the house he said he was wanted in California and was on his way to New York to gain their cooperation in what they would have thought was a robbery and car theft crime not knowing they would be killed. He asked survivor Kevin Bright if he hadn&#39;t seen him at the university. The California-New York story is a probable lie but the university story is a volunteered personal statement and likely the truth that the killer is associated with WSU because Kevin would never repeat this to anyone because he would be dead. <BR>So now let&#39;s see the list of who was enrolled in the WSU Administration of Justice program during the Spring of 1974 or possibly the Winter semester of 1973. <BR> Eliminate all the women students. Eliminate all the black students.  <BR>Make up a list of all the White, Hispanic, Asian and Native American men. Based on various witnesses and the phone calls to TIPS and 911 look closer at the white males. Maybe even eliminate those who were well over 6 feet tall, based on all the witness descpritions chances are a 6&#39;5&#34; tall guy is not your man.  <BR>Eliminate any who had died while known BTK killings were still going on or when communications were being sent. Eliminate any who were no where near Wichita when known BTK killings were going on or when communications were being sent. <BR>Now study who you have left. If it&#39;s 2004 then swab all those left on the list that still live in the Wichita area. <BR>At the latest this could have been solved by April or May 2004.<!--/Text--></td></tr>
+<!--/Post: 12137-->
+<!--Post: 12139--><!--Time: 1111642712-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12139"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 23, 2005 - 9:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good theory, Johno. It would be nice if things worked that way. But one major flaw in your logic: The list of potential suspects definitely could NOT have been whittled down to &#39;just&#39; students who were majoring in Administration of Justice at Wichita State. They had no idea what the suspects&#39; major was, or even if he was a WSU student &amp; not a teacher, janitor, groundskeeper, University cop, etc. For that matter it would be WAY irresposible to keep the list down to &#39;just&#39; anyone associated with WSU. To do so would be foolhardy &amp; open them up to letting BTK slip thru their fingers. <BR> <BR>I too, wish the &#34;art of deduction&#34; &#40;to quote Sherlock Holmes&#41; was that easy. We all do. Unfortunately, the list of suspects was necessarily too general. But what what COULD have caught this slime-bucket alot sooner was if the police had released more of BTKs&#39; actual communications, writings and drawings that he sent. <BR> <BR>QUESTION: Do the Wichita police get the award for the longest it took police ever in U.S. history to solve a serial-killer case? &#40;That is, of those that were actually solved.&#41;?<!--/Text--></td></tr>
+<!--/Post: 12139-->
+<!--Post: 12145--><!--Time: 1111646285-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12145"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 23, 2005 - 10:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I know it sounds simplistic in hindsight but this is based purely on the premise that because it was a potential cop or wannabe cop and there is a WSU connection we are looking at what those who would want to be in law enforcement would do at WSU and that is take Administration of Justice classes.  <BR>We have no way of knowing if they switched majors or even graduated just looking at those who were taking classes in Administrative justice during the time of the Bright killing simply on the hunch that this is a WSU student who wanted to be a cop from what we would learn of the murders and communications.  <BR>We are not looking at the janitor or groundskeeper. We would in this study include any university cop employed at the time of the 1974 murder however and any teacher who was on the Administrative justice staff during the Fall-Spring 1974 semesters and eliminate from their ranks under the same criteria as above. There are no other etc&#39;s. Remember this is an isolated simple study. The other aspects of the investigation are still continuing looking into other areas. We are taking a couple factors WSU crime student or teacher and April of 1974 and whittling it down to a handfull of possible suspects. Nothing impossible at all and no reason anyone outside of the couple of dectectives and an assistant or two would ever know.  <BR>We are not looking at thousands of suspects. Only a couple hundred at the most that would be quickly reduced through elimation to a couple dozen and in those couple dozen would have been Dennis Rader.<!--/Text--></td></tr>
+<!--/Post: 12145-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/746">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/746" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

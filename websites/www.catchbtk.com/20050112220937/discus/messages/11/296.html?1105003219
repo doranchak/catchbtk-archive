@@ -1,0 +1,244 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 296/Thomas Kilman Instrument-->
+<!--Level 1: 296/Thomas Kilman Instrument-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Thomas Kilman Instrument</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Thomas Kilman Instrument</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+Thomas Kilman Instrument
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=296"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=296"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 3508--><!--Time: 1104971703-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3508"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 4:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->So I was googling on variations of &#34;bill thomas killman&#34; and noticed that google suggested the spelling &#34;kilman&#34; instead of &#34;killman&#34;.  Knowing BTK&#39;s penchant for word games I took a look at the results.  Low and behold there is something known as the &#34;Thomas-Kilmanm Instrument&#34; &#40;sometimes mistakenly referred to as &#34;Thomas Kilman Instrument&#34;&#41; in the world of psychology. <BR> <BR>It is something akin to a Meyers-Briggs personality test, but indexes &#34;conflict resolution&#34; styles, rather than personality types. <BR> <BR>And guess what.  It is not only used at WSU, but there is a whole &#34;Self Help Network&#34; there &#40;complete with website&#41; that utilizes it! <BR> <BR>Take a look: <a href="http://www.selfhelpnetwork.wichita.edu/" target=_top>http://www.selfhelpnetwork.wichita.edu/</a> <BR> <BR>and in particular: <a href="http://www.selfhelpnetwork.wichita.edu/One%20Kansas%20documents/Conflict%20Resolutuion/conflict_behavior_survey.pdf" target=_top>http://www.selfhelpnetwork.wichita.edu/One%20Kansa s%20documents/Conflict%20Resolutuion/conflict_beha vior_survey.pdf</a> <BR> <BR>Notice in this doc at WSU that the &#34;Thomas&#34; and &#34;Kilman&#34; in &#34;TKI&#34; refer to two different individuals, &#34;Kenneth W. Thomas&#34; and &#34;Ralph H. Kilman&#34;.  Could that be &#34;W&#34; for &#34;William&#34;? <BR> <BR>Upon further research, I found that it is actually &#34;Kilmann&#34;.  He has his own website too &#40;be sure to check out the &#34;about&#34; page&#41;.  <a href="http://www.kilmann.com/" target=_top>http://www.kilmann.com/</a> .  Dropping the second &#34;n&#34; in &#34;Kilmann&#34; seems to be a common mistake, I gather from my google results. <BR> <BR>Could BTK have been involved, either as a student, or as someone who came in for counseling, with WSU&#39;s psychology department, and in particular the &#34;Self Help Network&#34;?<!--/Text--></td></tr>
+<!--/Post: 3508-->
+<!--Post: 3509--><!--Time: 1104972020-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3509"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 4:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here is some info. on Kenneth W. Thomas: <BR> <BR><a href="http://research.nps.navy.mil/cgi-bin/vita.cgi?p=display_vita&amp;id=1023567855" target=_top>http://research.nps.navy.mil/cgi-bin/vita.cgi?p=di splay_vita&amp;id=1023567855</a><!--/Text--></td></tr>
+<!--/Post: 3509-->
+<!--Post: 3512--><!--Time: 1104972563-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3512"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 4:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Pittsburgh...again <BR> <BR>Kodak <BR> <BR>Xerox <BR> <BR>Things keep coming up Pittsburgh... Hmmm <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 3512-->
+<!--Post: 3514--><!--Time: 1104972780-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3514"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 4:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->i personally don&#39;t believe in the &#34;connection&#34;, but wasn&#39;t the &#34;suspect&#34; who was related to pittsburgh, &#42;also&#42; related to psychology in a major way?  indeed, to both psychology and to &#34;conflict resolution&#34;? <BR> <BR>not sure what you mean by the xerox reference....<!--/Text--></td></tr>
+<!--/Post: 3514-->
+<!--Post: 3518--><!--Time: 1104973642-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3518"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 5:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->oh! hhmmmm.... kilmann consulted for xerox.... btk is theorized to be in the copier repair biz.... hhhmmmm.  a stretch me thinks, but as they say over at tom&#39;s other site, an interesting &#34;zynchronicity&#34;.<!--/Text--></td></tr>
+<!--/Post: 3518-->
+<!--Post: 3527--><!--Time: 1104976313-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3527"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 5:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A reminder, not a grinder: Please don&#39;t allow this to become a slander-fest against the individuals named above...<!--/Text--></td></tr>
+<!--/Post: 3527-->
+<!--Post: 3533--><!--Time: 1104981758-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3533"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 7:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Armchairpi, how about Kill Thomas &#40;the&#41; Billman?<!--/Text--></td></tr>
+<!--/Post: 3533-->
+<!--Post: 3547--><!--Time: 1104993839-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3547"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 10:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Part of BTK&#39;s extreme self-interest necessarily involves psychology.  This was even evidenced in his earliest, spelling-and-grammatical-error-filled &#34;self-diagnosis&#34;.  I think we can presume that he is somewhat expert in psychology &#40;for a layman&#41;.  Therefore, it makes loads of sense that he is at least vaguely familiar with this Thomas-Kilmann Instrument.  I would imagine that almost anything with BT or TK &#40;or even BK - wink&#41; jumps out at him and sticks in his mind.  I think this is a nice find.  His repeated use of names related to these authors&#39; names helps to pin down a timeframe for his psychological readings, IMO, and is one more piece in the jigsaw puzzle of BTK.<!--/Text--></td></tr>
+<!--/Post: 3547-->
+<!--Post: 3552--><!--Time: 1105000360-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3552"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 12:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Okay, apparently this is old news to Crime Library. <BR><i>Kenneth Thomas and Ralph Kilmann &#40;with one &#34;l&#34; and two &#34;n&#34;s&#41; devised a tool, known as the Thomas-Kilmann Conflict Mode Instrument, which is used to help people handle conflict. The instrument is sometimes used by police departments to help officers deal with people who are aggressive or scared, which they often encounter in their line of work. When the killer used the name Bill Thomas Killman in his previous letters, could he have been indirectly referring to this conflict instrument and using it as a tool to mock the police?</i> <BR>This is in Chapter 14 &#40;Name Games&#41; of their &#34;BTK Story&#34;: <a href="http://www.crimelibrary.com/serial_killers/unsolved/btk/14.html?sect=4" target=_top>http://www.crimelibrary.com/serial_killers/unsolve d/btk/14.html?sect=4</a> <BR> <BR>Which, in a way, makes the connection even &#42;more&#42; interesting....  Does BTK know a fair amount about &#42;both&#42; psychology &#42;and&#42; nitty-gritty police work?  &#40;This is the first reference I&#39;ve seen to the TKI being used in police work; though I bet it&#39;s out there for those that have the time to read and google, read and google, all day long&#41;.<!--/Text--></td></tr>
+<!--/Post: 3552-->
+<!--Post: 3554--><!--Time: 1105001974-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3554"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 12:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://wichita.bizjournals.com/albany/stories/2002/09/30/focus7.html" target="_blank">This article</a> referencing the TKI was published in late 2002 and contains this interesting notion: <BR><i>This strategic management of construction death and safety formed a cost-benefit relationship. Program costs, including expense for safety items themselves, could be compared to a resulting benefit in the reduction of deaths, lost work time, and recruiting time for lost workers, etc. Essentially, a price was determined for saving a life.</i> <BR> <BR>Strangely, the url contains both &#34;wichita&#34; and &#34;albany&#34;.  This article appeared in the Albany, NY edition &#40;ie. &#34;The Business Review&#34;&#41;.  However, if you go to the root web address, <a href="http://wichita.businessjournals.com/" target=_top>http://wichita.businessjournals.com/</a> , it becomes &#34;The Wichita Business Journal&#34;.  A search at this version of the site for &#34;Thomas-Kilmann&#34; does not turn up the story, though. <BR> <BR>Any Wichitans out there who might know if this story appeared in the Wichita print edition, and if the Wichita Business Journal is printed locally &#40;perhaps BTK works for the printer?&#41;?<!--/Text--></td></tr>
+<!--/Post: 3554-->
+<!--Post: 3555--><!--Time: 1105003219-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3555"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 1:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Does anyone have access to this book: Ancona, D., Kochan, T.A., Scully, M., Van Maanen, J. and Westney, D.E. &#40;2005&#41;.  Managing for the future: Organisational behavior and processes.  3rd Ed.  Cincinatti Ohio, South-Western Publishing Company.? <BR> <BR>It is used as the primary textbook in a course who&#39;s syllabus is here: <a href="http://www.student.mbs.edu/downloads/ss/2004/term3/304organisations.doc" target=_top>http://www.student.mbs.edu/downloads/ss/2004/term3 /304organisations.doc</a> <BR> <BR>In the syllabus, &#34;Module 8&#34; from the textbook has homework questions as follows: <BR><i>1.Where would you place the Witchita change initiative on the four dimensions of change initiatives? &#40;see Text Figure 8.2 on p. M8-16&#41;  <BR>2.What were the main problems at the Wichita facility that Jimenez’s change initiative addressed? Why was the initiative successful at Wichita? <BR>3.GP What are the problems at Lubbock? Why is the change initiative not as successful? &#40;Syndicate 6&#41; <BR>4.GP What actions should Jimenez take immediately? If you were brought in to advise Jimenez, what actions would you recommend to her to move the change initiative forward at Lubbock? Within the company as a whole? &#40;Syndicate 6&#41;</i> <BR> <BR>Having been taking college courses recently, I can attest that many textbook publishers put out the same book year after year with little more than spelling corrections and whatnot, and a new date and &#34;edition&#34; slapped on it, so probably with the date &#34;2005&#34; and a &#34;3rd Edition&#34; label, this book has been in circulation since 2002 or prior.  Since it is published in Ohio, I am assuming the &#34;Wichita&#34; referred to in it is Wichita, Kansas, not some other Wichita in Australia &#40;where this course is being taught&#41;. <BR> <BR>Uuuhhhmmmm... would it be a longshot to think this textbook might even be in the WSU library?  Used in WSU courses?  Anyone out there with connections to the department, or other resources to track that down?<!--/Text--></td></tr>
+<!--/Post: 3555-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/296">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/296" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

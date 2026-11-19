@@ -1,0 +1,342 @@
+<html>
+<!--Topic: 8/Possible BTK Victims-->
+<!--Me: 687/Murder Victims and Odd Dates-->
+<!--Level 1: 687/Murder Victims and Odd Dates-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 8-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Murder Victims and Odd Dates</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Murder Victims and Odd Dates</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/8/8.html"><font color="#f7f7f7">Possible BTK Victims</font></a> &#187;
+Murder Victims and Odd Dates
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=8&page=687"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=8&page=687"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 10872--><!--Time: 1110263576-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10872"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 10:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok Rader was working for ADT and going to night school at WSU in 1977 check out the strange dates <BR> <BR>2/11/77 Gail Sorenson    Friday <BR> <BR>3/17/77 Shirley Vain     Thursday <BR> <BR>6/12/77 Sandra Talbolt   Sunday <BR> <BR>6/23/77 Nina Berardi     Thursday <BR> <BR>12/8/77 Nancy Fox        Thursday <BR> <BR>12/11/77 Denise Rathburn Sunday<!--/Text--></td></tr>
+<!--/Post: 10872-->
+<!--Post: 10879--><!--Time: 1110264717-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10879"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 10:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ember-  Which murders were done when he was not in wichita for most of the time?  &#40;being in the military for one&#41; And where was he stationed at that time? <BR> <BR>Where is your time line located?<!--/Text--></td></tr>
+<!--/Post: 10879-->
+<!--Post: 10880--><!--Time: 1110264911-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10880"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 10:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rader Travel timeline in here between vics  <BR>he got out of AF in 1969 came home to Wichita<!--/Text--></td></tr>
+<!--/Post: 10880-->
+<!--Post: 10881--><!--Time: 1110265087-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10881"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 10:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->1985 Rader working For ADT  <BR>3/23/85 June Bidleman  Saturday <BR>4/27/85 Marine Hedge Saturday <BR>6/29/85  Linda Shawn Casey Saturday <BR>I discovered these by accident where Rocky ask me what day Feb. 11 was, so the victims where here, I just overlooked the days of the week until now <BR><!--/Text--></td></tr>
+<!--/Post: 10881-->
+<!--Post: 10884--><!--Time: 1110265696-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10884"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 11:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.catchbtk.com/discus/messages/8/603.html?1110224741" target=_top>http://www.catchbtk.com/discus/messages/8/603.html ?1110224741</a><!--/Text--></td></tr>
+<!--/Post: 10884-->
+<!--Post: 10911--><!--Time: 1110292769-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10911"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 6:39 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->wonder if Criminal justice classes were taught on Tuesday and Thursday night? Or maybe Saturday night.<!--/Text--></td></tr>
+<!--/Post: 10911-->
+<!--Post: 10927--><!--Time: 1110308565-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10927"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Thinker<!--/name--></b></a><br>Username: <!--field:uname-->Thinker<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 11:02 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I can&#39;t imagine a Saturday night class.  However, maybe that was his time to &#34;study.&#34;<!--/Text--></td></tr>
+<!--/Post: 10927-->
+<!--Post: 10935--><!--Time: 1110311797-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10935"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 11:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Could have been just his day off, and some crazy people like me did take Saturday classes. Like ride alongs with LE or offsite projects. Can anyone find the 1977 Schedule in archives for Admin. of Justice.<!--/Text--></td></tr>
+<!--/Post: 10935-->
+<!--Post: 10958--><!--Time: 1110317842-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10958"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 1:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dennis Rader is an &#34;at home&#34; killer ... that much is evident.  He isn&#39;t one who travels the road and kills along the way.  He is familiar with the community he lives in and murders there.  So the police will probably be concerned with four time zones of unsolved cases. <BR> <BR>1.  1945-1966  Though he was not killing in his baby years there is no telling what happened during his highschool years.  Any murders in the area at this time will be looked into.  However if the family went on vacation then there should be a look into those areas, but I don&#39;t believe DR kills outside his nest.  The Hendersons is a prime example of a case during this era. <BR> <BR>2. 1966-1970 Not only do we have to worry about when he comes home for a short time, but these Japanese areas need to be looked into as well as any military deaths.  These places becomes home for a soldier. <BR> <BR>3. 1970-1991 All murders in the area need to be looked at, and I doubt these murders would be part of any plea agreement.  If BTK is fingered for the crime then it just means another life sentence.  There would be no point to hold out on this information, and DR wants people to know what he has done.  Vacationing at the time does not need to be looked at as closely, though it should still be considered anyway. <BR> <BR>4. 1991-2005 Any murders here are important, and DR knows it.  DR cares for his family, and his life.  This is a man with two personalities.  One of them I&#39;m sure does not want to die.  I can see DR holding out on information in this time period. Vacationing during this time period needs to be looked at a bit closer.  Though i doubt he would murder while on vacation, his kids are now living far from him and he may be comfortable enough in their hometowns to commit murder.<!--/Text--></td></tr>
+<!--/Post: 10958-->
+<!--Post: 10970--><!--Time: 1110322683-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10970"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 2:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Verm great setup thanks for the hard work E.<!--/Text--></td></tr>
+<!--/Post: 10970-->
+<!--Post: 10980--><!--Time: 1110328785-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10980"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 4:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Correction Denise Rathburn died on 11/26/77 found on 12/11. which btw 11/26 is a Saturday<!--/Text--></td></tr>
+<!--/Post: 10980-->
+<!--Post: 10981--><!--Time: 1110329666-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10981"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 4:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dana Hupfer 6/18/99 <BR>Barbara Smith 1980 <BR>Kristi Hatfield 8/16/93 <BR>blunt force trama<!--/Text--></td></tr>
+<!--/Post: 10981-->
+<!--Post: 10982--><!--Time: 1110330141-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10982"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 5:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->krista martin 10/2/1989 blunt force trauma<!--/Text--></td></tr>
+<!--/Post: 10982-->
+<!--Post: 10983--><!--Time: 1110330366-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10983"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 5:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Denise Rathburn body found few miles from Dee Davis between Hydraulic and Hillside, Shannon Olson found floating near old sand pile at 33Rd and Hillside.<!--/Text--></td></tr>
+<!--/Post: 10983-->
+<!--Post: 10985--><!--Time: 1110331707-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10985"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 5:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A fire started in these homes, that burnt itself out. <BR>10/25/80 Barbara Smith <BR>4/25/91 Donna Baker <BR>9/22/04 Carol Mould<!--/Text--></td></tr>
+<!--/Post: 10985-->
+<!--Post: 10989--><!--Time: 1110333763-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10989"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 6:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I found a link to what I believe is a story of a serial killer on okinawa during the time Dennis Rader would have been on the island.  Apparently there was a &#34;mixed race&#34; individual who would go into homes of young 20 year old housewifes and kill them.  I think strangulation was involved.  However I DO NOT KNOW if this is true ... and I need a knowledgable Japanese speaker. <BR> <BR>Any volunteers?  I&#39;ll send you a link to the strange page &#40;google does a bad translation&#41;<!--/Text--></td></tr>
+<!--/Post: 10989-->
+<!--Post: 10995--><!--Time: 1110337129-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10995"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 6:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Verm - send it to <a href="mailto:pax56@hotmail.com">pax56@hotmail.com</a> - I found a native speaker who I got curious enough to help us.<!--/Text--></td></tr>
+<!--/Post: 10995-->
+<!--Post: 10996--><!--Time: 1110337720-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10996"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 7:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sent from Mommie to E. <BR> <BR>Some of the cases below were solved but you never know. <BR>Jan.24,1965 <BR>A 28-year-old woman working at a bar for foreigners was murdered at her <BR>house in Kin Village.  A U.S. serviceman was examined as a suspect by U.S. <BR>Army detective organization. <BR> <BR>Jan.24,1967 <BR>A 32-year-old woman employee was strangled to death in her diner in <BR>Shinkaichi, Kin Village.  A 19-year-old U.S.  Marine was arrested by the <BR>U.S. Army and was sentenced to 35 years&#39; heavy labor servitude by <BR>court-martial. <BR>  <BR> <BR>Jan.30,1968 <BR>A 35-five-year-old maid was killed in a barrack of U.S. Army.  A joint <BR>investigation meeting of military and civilian police was held on April 1. <BR> <BR>Jun.20,1968 <BR>A 23-year-old woman employee of diner was raped and heavily injured on <BR>the beach of Ginoza Village by a MP on duty. <BR>  <BR>These were the posts I was interested in, but they seem to have solved them. Seems like there were alot of problems with crimes from the Military. <BR>Here&#39;s the link to the site <BR>MAIN CRIMES AND INCIDENTS COMMITTED BY U.S. MILITARY PERSONNEL <!--/Text--></td></tr>
+<!--/Post: 10996-->
+<!--Post: 11000--><!--Time: 1110341846-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11000"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 08, 2005 - 8:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sorry Mommel  64 lol<!--/Text--></td></tr>
+<!--/Post: 11000-->
+<!--Post: 11055--><!--Time: 1110396897-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11055"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 11:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->note on vic. Office Mike Smith now has this case, on the unidentified woman, he can share certain info that he is allowed to share, the case is still open, at the time of the incident btk not looked at, so he could use our help  Thanks E.<!--/Text--></td></tr>
+<!--/Post: 11055-->
+<!--Post: 11060--><!--Time: 1110398387-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11060"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 11:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Emb, Im sure Donna Baker was solved<!--/Text--></td></tr>
+<!--/Post: 11060-->
+<!--Post: 11071--><!--Time: 1110411804-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11071"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 09, 2005 - 3:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->itty can you find out for sure and and find out who it was please Thanks E.<!--/Text--></td></tr>
+<!--/Post: 11071-->
+<!--Post: 11214--><!--Time: 1110505277-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11214"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 5:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.deathndementia.com/category/crime.html" target=_top>http://www.deathndementia.com/category/crime.html</a> <BR>This is a strange site, but on it are links to Missing persons, unsolved cases and some great links to help you with these victims<!--/Text--></td></tr>
+<!--/Post: 11214-->
+<!--Post: 11236--><!--Time: 1110520606-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11236"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 9:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->My 135 idea <BR> <BR>Sherry Baker 11/12/74 603 New York Street <BR> <BR>Murdock Park <BR> <BR>Linda Shawn Casey 6/29/85  356 N. Spruce <BR> <BR>Shannon Olson 10/31/87  1100 blk of S. Hydraulic found floating in sand pile, 33rd and Hillside <BR> <BR>Shirley Vain 1311 S. Hydraulic <BR> <BR>Denise Rathburn 11/26/77 left her home, 5332 E. Pine, laundry at Central and Edgemoor, body found few miles north of where Dee Davis was found east between Hydraulic and Hillside  <BR> <BR>Nina Berardi 6/23/77   5300 w. 37th street<!--/Text--></td></tr>
+<!--/Post: 11236-->
+<!--Post: 11241--><!--Time: 1110522079-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11241"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 10:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->oh did I forget to mention, park city right off of 135 hmmmmmmmmmmmmm <BR> <BR>BTK&#39;s Haunts<!--/Text--></td></tr>
+<!--/Post: 11241-->
+<!--Post: 11263--><!--Time: 1110547389-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11263"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 5:23 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Emb, Donna Jabara Baker was the landlord, here are acouple of article snippits <BR> <BR>Source: Nickie Flynn, The Wichita Eagle <BR>The wife of a man convicted this week of murdering a Wichita woman was found guilty of forgery in Sedgwick County District Court on Thursday.Sherri Olin Kingsley, 25, was charged, pleaded guilty and was sentenced to 1 to 5 years in prison. Sherri Kingsley, who testified against her husband, Alan Kingsley, 23, admitted that she endorsed a $500 check that her husband had stolen from their landlady, Donna Jabara Baker, who was murdered in her Eastborough home on April 22.A jury this week  <BR> <BR>Published on August 30, 1991, Page 1D, Wichita Eagle, The &#40;KS&#41;  <BR> <BR>  <BR>Article 5 of 25; 640 words <BR> <BR> <BR>JURY FINDS KINGSLEY GUILTY OF MURDER <BR> <BR>Source: Nickie Flynn, The Wichita Eagle <BR>Alan Kingsley cried for himself Tuesday when a jury found him guilty of killing a Wichita woman, and then recommended a 40-year, no-parole sentence.The six-man, six-woman jury deliberated three hours before returning guilty verdicts on all five counts associated with the death of Donna Jabara Baker on April 22. Jurors took even less time, 39 minutes, to decide to recommend the &#34;hard-40&#34; sentence for Kingsley.Wichita businesswoman Helen Galloway, who has shed many tears over  <BR> <BR>Published on August 28, 1991, Page 1D, Wichita Eagle, The &#40;KS&#41;  <BR> <BR>this link is my search of kansas.com archives result page, may or may not work <BR><a href="http://nl.newsbank.com/nl-search/we/Archives?s_site=kansas&amp;p_multi=WE" target=_top>http://nl.newsbank.com/nl-search/we/Archives?s_sit e=kansas&amp;p_multi=WE</a>|&amp;p_product=WE&amp;p_theme=realcities&amp;p_action=search&amp; p_maxdocs=200&amp;p_text_search-0=donna%20AND%20jabara %20AND%20baker&amp;s_dispstring=donna%20jabara%20baker %20AND%20date&#40;01/04/1991%20to%2002/04/1992&#41;&amp;p_fiel d_date-0=YMD_date&amp;p_params_date-0=date:B,E&amp;p_text_ date-0=01/04/1991%20to%2002/04/1992&amp;p_perpage=10&amp;p _sort=YMD_date:D&amp;xcal_useweights=no<!--/Text--></td></tr>
+<!--/Post: 11263-->
+<!--Post: 11268--><!--Time: 1110548721-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11268"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 5:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->thank you so much Itty I was going to ask about him, I needed his info because the way Donna was killed fits the profile of a few other victims in that area so if we can link them to Kingsley it would make sense. I will post what I come up with so we can sort out Rader&#39;s victims from the rest Thanks E.<!--/Text--></td></tr>
+<!--/Post: 11268-->
+<!--Post: 11281--><!--Time: 1110555158-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11281"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 7:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Emb, <BR>I think this was kinglseys only victim. She was his landlord, he moved to wichita from somewhere else not too long before the murder. <BR>Do a search on kingsley for more info, I really dont think he was a serial.<!--/Text--></td></tr>
+<!--/Post: 11281-->
+<!--Post: 11330--><!--Time: 1110590650-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11330"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 5:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you Itty, I just wanted to make sure of the dates, etc. I believe Rader copied everyone in the news during that time, or someone did because some of the other Vics have the same MO as this one. Good Work Thanks E.<!--/Text--></td></tr>
+<!--/Post: 11330-->
+<!--Post: 11332--><!--Time: 1110591146-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11332"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 5:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Message for anyone reading the Victims Threads,I am currently building a site, just for these victims, on catchbtk.com, so that we will all have access to all the information needed to help the police identify and make sure the families of the victims get closure. Even if they do not charge Rader with more than the 10. Anything you can find on these vics. please let me know. Thanks E. Hey Tom, thank you for making this possible.<!--/Text--></td></tr>
+<!--/Post: 11332-->
+<!--Post: 11341--><!--Time: 1110594254-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11341"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 6:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Emb, good thought about copying other crimes, we all feel he copied out of books and such, and that one &#34;in cold blood&#34;, did you know there was an original movie from way long ago, starring robert blake as one of the killers? he was only about 25 or 30, so that tells you how old the movie was.<!--/Text--></td></tr>
+<!--/Post: 11341-->
+<!--Post: 11361--><!--Time: 1110608267-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11361"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 10:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->yes I did, and I believe he was currently copying someone who didn&#39;t like it, seemed to be having a little disagreement, before Rader&#39;s arrest, With that said time to get a Proxy , Maybe I can be from Japan <!--/Text--></td></tr>
+<!--/Post: 11361-->
+<!--Post: 11563--><!--Time: 1110911044-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11563"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 15, 2005 - 10:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Itty - I remember that movie too. Didn&#39;t that involve the Clutter family in Kansas?<!--/Text--></td></tr>
+<!--/Post: 11563-->
+<!--Post: 11564--><!--Time: 1110913124-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11564"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Haytrader<!--/name--></b></a><br>Username: <!--field:uname-->Haytrader<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 15, 2005 - 10:58 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You got it Rock. <BR>Clutter family of Holcomb, Ks. just outside Garden City, Ks. <BR>The desperados had heard from a prison mate that Mr. Clutter kept a lot of cash in his house. He didn&#39;t. Truman Capote did the book.<!--/Text--></td></tr>
+<!--/Post: 11564-->
+<!--Post: 11571--><!--Time: 1110916931-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11571"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 15, 2005 - 12:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yep, that was the notorious crime in Kansas that upstaged Wyatt Earp. &#40;The infamous Peace Maker, the Kansas Law Dog&#41; I wished he would have been around this last 30 years.<!--/Text--></td></tr>
+<!--/Post: 11571-->
+<!--Post: 11731--><!--Time: 1111087922-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11731"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 17, 2005 - 11:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I kept thinking that the bathtub MO couldn&#39;t be him, till I started thinking about church and baptizing before death, somehow if you take the first victims we are aware of The Otero&#39;s and begin north &#40;which by the way was Neon Bright&#41; unscrambled in messages to BTK, there is a detailed pattern of these murder vics. I haven&#39;t yet determined if Rader was following a water line, a flight pattern, railway line or road network, but from the Otero&#39;s we go north, If we think like Rader and map the victims out like an ADT electronic wiring system and have Known Victims in RED lines, Possible victims on the Green lines and one&#39;s that got away on the Blue &#40;neg&#41; line then super imposed a copy of Zodiac&#39;s victims over top of it, i am sure there would be a pattern.<!--/Text--></td></tr>
+<!--/Post: 11731-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="8/687">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=8/687" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,285 @@
+<html>
+<!--Topic: 9/BTK Suspects-->
+<!--Me: 15/Bill Butterworth-->
+<!--Level 1: 15/Bill Butterworth-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 9-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Bill Butterworth</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Bill Butterworth</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/9/9.html"><font color="#f7f7f7">BTK Suspects</font></a> &#187;
+Bill Butterworth
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=9&page=15"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=9&page=15"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 17--><!--Time: 1085102631-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST17"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 20, 2004 - 6:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Since he&#39;s the odds-on favorite among suspects &#40;not that I think he&#39;s BTK&#41;, we may as well give Mr. Butterworth his own thread.<!--/Text--></td></tr>
+<!--/Post: 17-->
+<!--Post: 15--><!--Time: 1085100228-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST15"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rosalita<!--/name--></b></a><br>Username: <!--field:uname-->Rosalita<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 20, 2004 - 5:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Does anyone know what happened to Bill Butterworth?  Is he still alive?  Seems like I remember reading somewhere that he had died in a car crash but I can&#39;t remember the source.<!--/Text--></td></tr>
+<!--/Post: 15-->
+<!--Post: 20--><!--Time: 1085152064-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST20"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Prairie_chicken<!--/name--></b></a><br>Username: <!--field:uname-->Prairie_chicken<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 21, 2004 - 8:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->After the trial, he moved to Nebraska with his wife and children.  Their marriage did not last and wife and kids came back to Wichita, and I hear that they changed their surname to her maiden name.  She has remarried and no one seems to know of his whereabouts.  Maybe he did die in an accident.  Evidently it hasn&#39;t been confirmed.<!--/Text--></td></tr>
+<!--/Post: 20-->
+<!--Post: 24--><!--Time: 1085161927-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST24"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Laoise<!--/name--></b></a><br>Username: <!--field:uname-->Laoise<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 21, 2004 - 10:52 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There&#39;s an english professor who is writing a book about the butterworth case and has a yahoo group relating to the matter. I forget his last name but his first name is Paul. Anyway, someone recently asked the same question as to BB&#39;s whereabouts and he replied that he was almost certain he knew where bill was but wouldnt say... i took that to mean that bill is still alive somewhere and paul didnt feel it appropriate to release info as to where he was.  <BR>As to whether or not bill is btk... i personally dont think he is. if anything, he became a bit of a scapegoat for btk...<!--/Text--></td></tr>
+<!--/Post: 24-->
+<!--Post: 25--><!--Time: 1085163675-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST25"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sirfritz<!--/name--></b></a><br>Username: <!--field:uname-->Sirfritz<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 21, 2004 - 11:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Do you know where Paul teaches?<!--/Text--></td></tr>
+<!--/Post: 25-->
+<!--Post: 30--><!--Time: 1085181586-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST30"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lisa<!--/name--></b></a><br>Username: <!--field:uname-->Lisa<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 21, 2004 - 4:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A friend of mine says that Bill Butterworth is his cousin and that he is afraid of him.  I remember everything they said about Bill Butterworth and when he mentioned that his cousin Bill was getting interrogated by the police, I asked him is it Bill Butterworth and he&#39;s like yeah.  I couldn&#39;t believe it, after all these people discussing him, this guy is my friend&#39;s cousin.  I don&#39;t know the whole situation of what happened there, if you would like I could find out where he is and if he is even a suspect anymore.<!--/Text--></td></tr>
+<!--/Post: 30-->
+<!--Post: 52--><!--Time: 1085275771-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST52"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Laoise<!--/name--></b></a><br>Username: <!--field:uname-->Laoise<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 22, 2004 - 6:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->His name is Paul Fecteau and he&#39;s a professor at Washburn University in Topeka. <BR><a href="http://www.washburn.edu/faculty/pfecteau/" target=_top>http://www.washburn.edu/faculty/pfecteau/</a><!--/Text--></td></tr>
+<!--/Post: 52-->
+<!--Post: 55--><!--Time: 1085301395-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST55"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ohenry<!--/name--></b></a><br>Username: <!--field:uname-->Ohenry<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 23, 2004 - 1:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Whether B.T.B. is BTK or not, I don&#39;t know. But there are some eerie coincidences that are rather hard to simply dismiss... <BR> <BR>Mr. Butterworth moved to Wichita in 1975 from California, but had visited several times since late 1973, early 1974. He then left Wichita in 1987 following his aquittal on three counts of first degree murder in the Fager case &#40;&#42;&#42;interesting time frame, no?&#42;&#42;&#41;. He was immediately employed by a company whose name I don&#39;t recall, but they made venetian blinds &#40;&#42;&#42;you might remember the role venetian blind cords played in this case&#42;&#42;&#41;. One of Wichita&#39;s most shocking trial outcomes EVER &#40;his aquittal&#41;, did not diminish the fact that was overwhelming evidence indicating guilt and undeniable similarities in BTK&#39;s m.o. and many areas of the Fager crime scene &#40;&#42;&#42;the use of heavy tape wrapped around the hands and feet of one of the girls &#60;&#60;bind&#62;&#62;; indications that the killer began drowning one of the victims, only to bring her back &#60;&#60;torture&#62;&#62;; and the brutal slaying of three people &#60;&#60;kill&#62;&#62;&#42;&#42;&#41; <BR> <BR>I never could confirm that he died in a car crash, and I find that unlikely. Has he returned to Wichita? Seventeen years have passed since he left; one can probably safely assume that his appearance has changed enough for him to feel safe.  <BR> <BR>Purplegrrl, where art thou? She is THE best source on Butterworth information. Hopefully she will comment on this thread. <BR> <BR>Again, I&#39;m not implying that this man is BTK, just that similarities should be noted. I AM implying that I strongly believe he got away with triple murder. Have a great one, -O&#39;Henry<!--/Text--></td></tr>
+<!--/Post: 55-->
+<!--Post: 66--><!--Time: 1085365755-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST66"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lisa<!--/name--></b></a><br>Username: <!--field:uname-->Lisa<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 23, 2004 - 7:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Butterworth isn&#39;t dead, I know that for a fact from my friend, if anyone wants any information on him, I insist asking me and I will ask my friend who is this guys cousin, I&#39;m sure he wouldn&#39;t mind telling me about this guy.  He says Butterworth is insane and thinks he did it as well. <BR> <BR>Lisa<!--/Text--></td></tr>
+<!--/Post: 66-->
+<!--Post: 68--><!--Time: 1085367923-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST68"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Marie<!--/name--></b></a><br>Username: <!--field:uname-->Marie<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 23, 2004 - 8:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Does anyone remember when the Butterworth trial was going on, in the Eagle it stated that Fager owned a couple of the properties that BTK victims lived at?  However, it did not give names of victims.  Also Fager was being investigated by SRS for sexual abuse of the older girl &#40;Kelli??&#41;.   <!--/Text--></td></tr>
+<!--/Post: 68-->
+<!--Post: 120--><!--Time: 1085786769-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST120"><font face="Verdana" size="1"><b><!--email--><a href="mailto:deltadawn194531@yahoo.com" target="_blank"><!--/email--><!--name-->Sandy<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 28, 2004 - 4:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ohenry,Can you tell us where in Calif. B.B. lived? Any pictures of him in the news papers at the time of his arrest ? I would like to draw a age progression picture of what he may look like today, and post it here.<!--/Text--></td></tr>
+<!--/Post: 120-->
+<!--Post: 247--><!--Time: 1086904541-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST247"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jenkins<!--/name--></b></a><br>Username: <!--field:uname-->Jenkins<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, June 10, 2004 - 2:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->i didnt know BB lived in CA. <BR> <BR>BB IS BTK AND THE ZODIAC! LOL! jk!<!--/Text--></td></tr>
+<!--/Post: 247-->
+<!--Post: 273--><!--Time: 1087142401-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST273"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, June 13, 2004 - 9:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yes Jenkins Butterworth did live in Calif.  BTK told one of his &#34;victims&#34; that he came from Calif. What is so funny about that fact? If you know for sure who the Zodiac is, please tell us !LOL!<!--/Text--></td></tr>
+<!--/Post: 273-->
+<!--Post: 290--><!--Time: 1087239983-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST290"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jenkins<!--/name--></b></a><br>Username: <!--field:uname-->Jenkins<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, June 14, 2004 - 12:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t know jack sandy! lol! <BR> <BR> <BR>But that would be WILD if BB was BTK and the Z! <BR> <BR>Not that i believe that that is at all likely, I&#39;m just sayin that would be WILD!<!--/Text--></td></tr>
+<!--/Post: 290-->
+<!--Post: 294--><!--Time: 1087282761-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST294"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Louise<!--/name--></b></a><br>Username: <!--field:uname-->Louise<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, June 14, 2004 - 11:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lisa,  I read with interest your entries that a friend of yours&#39; cousin is Bill Butterworth. Do you mean Paul Fecteau, the professor, is this friend and that his cousin is Bill Butterworth? If so, perhaps that is why he is writing the book about him. Or is your friend someone else? Would appreciate if you could clear up this question; also any other information you could get would certainly be helpful. <!--/Text--></td></tr>
+<!--/Post: 294-->
+<!--Post: 299--><!--Time: 1087444004-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST299"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, June 16, 2004 - 8:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Paul Fecteau was kind enough to send me some information about Bill Butterworth. I needed to know for sure, if B.B.spent any time in Calif. I was told B.B. was born in Philadelphia in 1954,but grew up in &#34;Calif.&#34;and went into the military. When he got out he went to Flordia,then around 1978 he moved to Wichita. I didn&#39;t ask him where B.B. was liveing now,but read on another site that B.B. is liveing very close to Wichita.<!--/Text--></td></tr>
+<!--/Post: 299-->
+<!--Post: 314--><!--Time: 1087889888-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST314"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Louise<!--/name--></b></a><br>Username: <!--field:uname-->Louise<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, June 22, 2004 - 12:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Paul Fecteau, English professor at Washburn University, who coincidentally is writing a book about Bill Butterworth, believes that he knows where he is as he has sent letters to him, unanswered nevertheless! I researched Mr. Fecteau&#39;s other writings and found, oddly enough, a rather creepy story called Midnight Drive, about a man who lived in a remote area and had killed a woman. I couldn&#39;t seem to write the web site down right, but it&#39;s the 5th item under Paul Fecteau/Washburn University in Google. Hmmmh!<!--/Text--></td></tr>
+<!--/Post: 314-->
+<!--Post: 325--><!--Time: 1088055912-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST325"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Louise<!--/name--></b></a><br>Username: <!--field:uname-->Louise<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, June 23, 2004 - 10:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wonder what happened to Lisa. She said she could get information from Bill Butterworth&#39;s cousin who also thinks he is guilty, and crazy as well. Still don&#39;t know if this cousin is Professor Paul Fecteau or not; his web site has been dead lately. I read that the police have interviewed Paul a number of times as they&#39;ve never seen anyone with such detailed, accurate information about the case. Hmmmh!? Plus he writes some pretty gory murder material &#40;Midnight Ride&#41;. After reading that I couldn&#39;t bring myself to read any more...it runs with blood and gore; and wouldn&#39;t it just be curious if some of the story details happen to match the true facts of the case?! Hmmmh again! How does he know so much?!! They say that blood is thicker than water.<!--/Text--></td></tr>
+<!--/Post: 325-->
+<!--Post: 347--><!--Time: 1088287222-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST347"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Matt<!--/name--></b></a><br>Username: <!--field:uname-->Matt<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, June 26, 2004 - 3:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bill Butterworth was also a suspect in another murder, previous to the Fager killings.  A sixteen year old female was killed at Crystal Lake, Northwest Wichita in the 80&#39;s; she was bound and strangled.  She belonged to a group of teens who thought they were a &#34;coven.&#34; Butterworth actually associated with this group a few times. After this girl was killed, two of the teens moved to Florida.  When Butterworth was arrested in Florida, he was within two miles of where these teens from Wichita lived.  This was not allowed to be introduced at the trial. Perhaps he was trying to tie up some &#34;loose&#34; ends.<!--/Text--></td></tr>
+<!--/Post: 347-->
+<!--Post: 352--><!--Time: 1088311396-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST352"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Louise<!--/name--></b></a><br>Username: <!--field:uname-->Louise<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, June 26, 2004 - 9:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Interesting information about Bill Butterworth being a suspect prior to the Fagers, Matt. <BR> <BR>I still think there may be some clues in the writings of Paul Fecteau which are posted on the Internet. It is a given fact that the police have said he has extremely detailed and accurate information about the killings; therefore would it not follow that Professor Fecteau may possibly have posted some clues in his gruesome stories which he also posted on the Internet? If he indeed is a cousin of Butterworth he may be privy to much inside information. The stories were too creepy for me to read but one; however, there were more listed and other demonic stuff on his web site. I now have a totally different impression of what this BTK is truly like. Anyone read this stuff yet? <BR> <BR>And the final oddity is that Prof. Fecteau is writing a book with a number of chapters on this Bill Butterworth...hmmh! didn&#39;t someone else send in information about a book and its chapters?!<!--/Text--></td></tr>
+<!--/Post: 352-->
+<!--Post: 826--><!--Time: 1092984914-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST826"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dbragel<!--/name--></b></a><br>Username: <!--field:uname-->Dbragel<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, August 19, 2004 - 11:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->To: Matt <BR>Reply to: <BR>&#34;A sixteen year old female was killed at Crystal Lake, Northwest Wichita in the 80&#39;s; she was bound and strangled.&#34; <BR> <BR>Matt...I thought according to newspaper articles, it stated that Shannon Olson was &#34;bound and stabbed&#34;. <BR> <BR>Was she bound, strangled, AND stabbed? <BR>Also...if she was all three, do you know if she was strangled, but not to the point of death? <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 826-->
+<!--Post: 827--><!--Time: 1092986808-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST827"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dbragel<!--/name--></b></a><br>Username: <!--field:uname-->Dbragel<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, August 20, 2004 - 12:26 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->To: Sandy <BR> <BR><a href="http://www.beahoops.com/index.html" target=_top>http://www.beahoops.com/index.html</a> <BR> <BR>[Not sure if same person, but scroll down the page]<!--/Text--></td></tr>
+<!--/Post: 827-->
+<!--Post: 1220--><!--Time: 1097786629-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1220"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nostone<!--/name--></b></a><br>Username: <!--field:uname-->Nostone<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, October 14, 2004 - 1:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t think anyone dumb enough to leave the scene of a murder and drive the stolen family car and remain with that vehicle could be clever enough to do the stuff BTK has done.  Don&#39;t get me wrong, I&#39;m not a BTK fan or anything.  I just don&#39;t think he&#39;s a moron either.  Which BB seems to be.<!--/Text--></td></tr>
+<!--/Post: 1220-->
+<!--Post: 1431--><!--Time: 1101071358-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1431"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Oliver<!--/name--></b></a><br>Username: <!--field:uname-->Oliver<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, November 21, 2004 - 1:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I wonder if the authorities have ever requested a sample of Butterworth&#39;s DNA?<!--/Text--></td></tr>
+<!--/Post: 1431-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="9/15">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=9/15" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

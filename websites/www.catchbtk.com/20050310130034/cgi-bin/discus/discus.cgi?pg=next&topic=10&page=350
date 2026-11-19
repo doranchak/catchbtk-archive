@@ -1,0 +1,288 @@
+<html>
+<!--Topic: 10/BTK Communications-->
+<!--Me: 360/New Letter-->
+<!--Level 1: 360/New Letter-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: New Letter</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">New Letter</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Communications</font></a> &#187;
+New Letter
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=360"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=360"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4722--><!--Time: 1106692628-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4722"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Birdieict<!--/name--></b></a><br>Username: <!--field:uname-->Birdieict<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 2:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->KAKE is now reporting a new postcard sent to their station with directions to a package, possibly from BTK. Stay tuned.<!--/Text--></td></tr>
+<!--/Post: 4722-->
+<!--Post: 4756--><!--Time: 1106714689-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4756"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 8:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Notice the postcards&#39; sender, &#34;S Killett&#34; is a play on the word &#34;skillet&#34;?? I wonder why? <BR>Victor<!--/Text--></td></tr>
+<!--/Post: 4756-->
+<!--Post: 4757--><!--Time: 1106716657-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4757"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Freya<!--/name--></b></a><br>Username: <!--field:uname-->Freya<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 9:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe &#39;cause his ass is gonna fry?  Maybe he&#39;s a short-order cook? Either way, these names are cute, but a bit ridiculous. He went to so much trouble getting his chosen name out, why would he even bother to use a fake one? <BR> <BR>I bet we&#39;ll see a press conference tomorrow with Munyon &#40;sp?&#41;, or at least a reference on the next AMW.<!--/Text--></td></tr>
+<!--/Post: 4757-->
+<!--Post: 4760--><!--Time: 1106718139-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4760"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Essevi<!--/name--></b></a><br>Username: <!--field:uname-->Essevi<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 9:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Could be S &#40;Serial&#41; Killett &#40;Killer&#41;, who knows?<!--/Text--></td></tr>
+<!--/Post: 4760-->
+<!--Post: 4773--><!--Time: 1106738245-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4773"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Birdieict<!--/name--></b></a><br>Username: <!--field:uname-->Birdieict<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 3:17 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I can&#39;t remember which BTK &#34;expert&#34; made the comment about the cereal box referencing BTK catching the Oteros during breakfast, but could &#39;skillett&#39; back that up?<!--/Text--></td></tr>
+<!--/Post: 4773-->
+<!--Post: 4777--><!--Time: 1106748662-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4777"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Beck<!--/name--></b></a><br>Username: <!--field:uname-->Beck<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 6:11 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I was shocked to see this on the news here in Florida! They showed the cereal box, where it was found. They showed the number &#34;13&#34; written above the circled &#34;T&#34; in the name of the cereal. I don&#39;t think it was a &#34;13&#34; as much as I think it&#39;s supposed to be a &#34;B&#34;. Or maybe I&#39;m wrong, and it&#39;s a &#34;13&#34; and it&#39;s apart of his chapter list of his life, &#40;Crimelibrary&#39;s 13 is &#34;More clues revealed&#34;&#41;  <BR> <BR>Other than the drawings he&#39;s sent in, does anyone know if this is the first piece of handwriting from BTK?<!--/Text--></td></tr>
+<!--/Post: 4777-->
+<!--Post: 4778--><!--Time: 1106748985-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4778"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Murco<!--/name--></b></a><br>Username: <!--field:uname-->Murco<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 6:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->post card, <BR>sign post, <BR>post toasties. <BR> <BR>message post &#40;internet&#41;? <BR>military post? <BR>any thoughts on this theme?<!--/Text--></td></tr>
+<!--/Post: 4778-->
+<!--Post: 4779--><!--Time: 1106749093-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4779"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 6:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Murco <BR>Username: Murco <BR> <BR>Registered: 12-2004 <BR> Posted on Wednesday, January 26, 2005 - 6:16 am:      <BR> <BR>-------------------------------------------------- ------------------------------ <BR>post card,  <BR>sign post,  <BR>post toasties.  <BR> <BR>message post &#40;internet&#41;?  <BR>military post?  <BR>any thoughts on this theme?  <BR> <BR>All of the above, or perhaps, POSTman? <!--/Text--></td></tr>
+<!--/Post: 4779-->
+<!--Post: 4781--><!--Time: 1106749284-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4781"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Murco<!--/name--></b></a><br>Username: <!--field:uname-->Murco<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 6:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->the &#34;13&#34; and &#34;t&#34; look a stencil. <!--/Text--></td></tr>
+<!--/Post: 4781-->
+<!--Post: 4783--><!--Time: 1106749923-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4783"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Murco<!--/name--></b></a><br>Username: <!--field:uname-->Murco<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 6:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->postmortem.<!--/Text--></td></tr>
+<!--/Post: 4783-->
+<!--Post: 4793--><!--Time: 1106753820-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4793"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 7:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A serial killer in a cereal box. At least he is eating well and taking care of himself.<!--/Text--></td></tr>
+<!--/Post: 4793-->
+<!--Post: 4797--><!--Time: 1106755941-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4797"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nancydrew<!--/name--></b></a><br>Username: <!--field:uname-->Nancydrew<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 8:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Can anyone provide a link to see a picture of this box?  I can&#39;t seem to find it.<!--/Text--></td></tr>
+<!--/Post: 4797-->
+<!--Post: 4798--><!--Time: 1106756047-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4798"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 8:14 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The 13 is really a B written in what looks like ink above the T and K is also written below the T.    <!--/Text--></td></tr>
+<!--/Post: 4798-->
+<!--Post: 4802--><!--Time: 1106757238-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4802"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 8:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Nancydrew you can see a video of the story broadcast on KSNW news here in Wichita. They do not have the actual box but a copy of it. I&#39;m not computer savvy enough to provide a link but the address is http.//<a href="http://www.ksn.com" target=_top>www.ksn.com</a>    <!--/Text--></td></tr>
+<!--/Post: 4802-->
+<!--Post: 4805--><!--Time: 1106757434-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4805"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 8:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well I guess I DID provide a link. I just learned something. ha ha! <!--/Text--></td></tr>
+<!--/Post: 4805-->
+<!--Post: 4854--><!--Time: 1106776040-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4854"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lctrip<!--/name--></b></a><br>Username: <!--field:uname-->Lctrip<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 1:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The return name works on so many levels..... <BR> <BR>&#39;S&#39;erial &#39;K&#39;iller <BR>The aforementioned Skillet &#40;leaves an extra t&#41; <BR> <BR>Letters can be rearranged to make: <BR> <BR>Sell Kit &#40;leaves an extra t, but is he parting with his kit?&#41; <BR> <BR>Ill Skit &#40;doesn&#39;t make a lot of sense, but maybe saying I&#39;m skittering out of here? - I&#39;ll skit.  Still an extra t&#41; <BR> <BR>Slit tek &#40;But knives weren&#39;t/aren&#39;t his big thing, tech not normally abbreviated this way - now an extra l&#41; <BR> <BR>The K and the S in caps is interesting to me.  Yes, they represent the initials of the &#39;sender&#39;, but they are also the letters used when abbreviating Kansas.  So..... <BR> <BR>I tell KS &#40;leaves an extra t though&#41; <BR> <BR>It tell KS &#40;accounts for the t - possibly saying it - the items in the drop - tell KS something more about BTK or an unsolved murder?&#41; - This one is my favorite. <BR> <BR>KS Title &#40;maybe the title to someone&#39;s car in the drop? - extra l though&#41; <BR> <BR>KS Little or Little KS &#40;perhaps a reference to the rural area - not the &#39;big&#39; KS Wichita represents?&#41; <BR> <BR>I&#39;m sure there is some intended message BTK wants us to get; however there are too many options.  He probably had one specific thing in mind when he used that return name, all the other things we come up with while searching for it are just butter on his toast - amusing him, frustrating us, and prolonging the chase. <BR> <BR>Oh well, enough for now.  Lunch break over and I need to get back to work. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4854-->
+<!--Post: 4870--><!--Time: 1106785960-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4870"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Oklahoma_mike<!--/name--></b></a><br>Username: <!--field:uname-->Oklahoma_mike<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 4:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lctrip:  regarding the anagrams, KS Little, or Little KS, there is a small town in NE Oklahoma named Kansas.  The mailing address would be Kansas, Oklahoma.  It is known throughout the area by the nickname, &#34;Little Kansas&#34;.  As in, &#34;Our football team will be playing Little Kansas next game&#34;. <BR>No known connection, but your anagram really jumped out at me.<!--/Text--></td></tr>
+<!--/Post: 4870-->
+<!--Post: 5021--><!--Time: 1106850704-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5021"><font face="Verdana" size="1"><b><!--email--><a href="mailto:Iwillc@tchu.com" target="_blank"><!--/email--><!--name-->Catcher<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Catcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 10:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This is a long shot, but hey might as well throw it out there:  <BR> <BR>Post Toasties = Post toas ties = &#40;bed&#41;post toes ties.  <BR> <BR>From the complete Otero letters &#34;Joe:  <BR>Position: Southwest bedroom, feet tie to the bed.&#34;  <BR> <BR>So it could be relative.  <BR> <BR>Also, phonetically it sounds like:  <BR> <BR>Pose toes east. I&#39;m really good at that game MAD GAB. Hehehe. Maybe BTK is likewise!<!--/Text--></td></tr>
+<!--/Post: 5021-->
+<!--Post: 5062--><!--Time: 1106859232-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5062"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Absinthe1023<!--/name--></b></a><br>Username: <!--field:uname-->Absinthe1023<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 12:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Using Occam&#39;s Razor, I would say that the only reason for the Post Toasties box lies in labeling convenience.....it&#39;s one of the only cereal boxes with a large &#34;T&#34; surrounded by enough empty space for the &#34;B&#34; and the &#34;K&#34;<!--/Text--></td></tr>
+<!--/Post: 5062-->
+<!--Post: 5074--><!--Time: 1106863253-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5074"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Freya<!--/name--></b></a><br>Username: <!--field:uname-->Freya<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 2:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Absinthe, <BR>Unfortunately, Occam&#39;s Razor is not a concept well-appreciated by some on this website. Normally I would agree with you that it&#39;s a simpler explanation, but in BTL&#39;s case, I think he actually thinks this stuff through. Like the puzzles, anagrams, etc. I hate to think that Catcher would be right &#40;no offense, Catch&#41;, but I think BTL would actually examine the various possible meanings behind the name of a cereal. And that&#39;s sad :-&#40;<!--/Text--></td></tr>
+<!--/Post: 5074-->
+<!--Post: 5091--><!--Time: 1106868406-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5091"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 3:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe BTK is into rap music. Eminem refers to Post toasties in his song &#39;Murder, Murder.&#39; <BR>Or a Lyle Lovett fan. Lovett references Post Toasties in his song &#39;Here I am.&#39; <BR>Or maybe a John Prine fan. Prine has Post Toasties with beer in his song &#39;Stick A Needele In My Eye.&#39; <BR>All creepy titles for songs.<!--/Text--></td></tr>
+<!--/Post: 5091-->
+<!--Post: 5104--><!--Time: 1106872701-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5104"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Absinthe1023<!--/name--></b></a><br>Username: <!--field:uname-->Absinthe1023<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 4:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->And that&#39;s precisely what&#39;s fascinating, Freya.  I can&#39;t help but see echoes of Eco&#39;s &#34;Foucalt&#39;s Pendulum&#34; in some of the more esoteric theorizing, but it keeps me interested nonetheless.  By the way, where did you get &#34;BTL&#34;?? The best I can come up with is &#34;Bilateral Tubal Ligation&#34;....<!--/Text--></td></tr>
+<!--/Post: 5104-->
+<!--Post: 5126--><!--Time: 1106886605-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5126"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Freya<!--/name--></b></a><br>Username: <!--field:uname-->Freya<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 8:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Big Time Loser. Occam&#39;s Razor strikes again! <!--/Text--></td></tr>
+<!--/Post: 5126-->
+<!--Post: 5132--><!--Time: 1106892295-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5132"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Clairevoient<!--/name--></b></a><br>Username: <!--field:uname-->Clairevoient<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 10:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Why did  B_ _T_ _ _K® choose a Post Toasties® box? <BR> <BR>Check out pleasedeleteme’s post in Messages to BTK part 3 from Wed. 1/26 @ 8:46am <BR> <BR>Post Toasties® <BR> <BR>Anagrams into: <BR> <BR>sPiTs at ote®os <BR> <BR>“There are several other funny word games to play with these letters &#40;even some nasty ones&#41;!” <BR> <BR>Just play with these leftovers for a minute to see for yourself  --  S P I T S A T  <BR> <BR>Imagine B_ _T_ _ _K®’s glee when he discovered this wordplay. <BR> <BR>Catchers solutions are far more clever and probably made someone very jealous! <BR> <BR>What a buzzkill for B_ _T_ _ _K®. <BR> <BR>Way to go Catcher. <BR> <BR>Now Zodiac – there was a puzzlemaster. He could eat a bowl of Alpha-Bits® and excrete a better cryptogram than B_ _T_ _ _K®!   <BR> <!--/Text--></td></tr>
+<!--/Post: 5132-->
+<!--Post: 6051--><!--Time: 1107496546-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6051"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 9:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Concerning the name S Killett on the postcard, could this be a play on words on a country musician from the 1950&#39;s Slim Willett? <BR>Slim Willett was a DJ at KRBC in Abilene, Texas and was also a country music songwriter and performer. His biggest song was &#34;Dont Let the Stars Get in Your Eyes&#34; that was a crossover hit for Perry Como, Ray Price and Red Foley in the early 50&#39;s. A lot of people recorded his songs and as a DJ is in the Country Music Disc Jockey Hall of Fame in Nashville. He became a west Texas concert promoter booking Elvis for one of Elvis&#39; first concerts in 1954. He also launced the careers of the Gatlin Brothers when they were just kids. <BR>If BTK did have a grandfather who played the fiddle as he claims and since he likes the old traditional folksong &#34;O&#39; Death&#34; so much that he used it for his poem to Nancy Fox then maybe he is familiar with Slim Willett. Maybe he grew up near Abilene, Texas in the 50&#39;s listening to Slim. Maybe his family had his records. Maybe he was remembering Slim Willett and thought yeah, S Killett I&#39;ll use that for name. That&#39;ll get them them thinking. <BR>Just thinking.<!--/Text--></td></tr>
+<!--/Post: 6051-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/360">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/360" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

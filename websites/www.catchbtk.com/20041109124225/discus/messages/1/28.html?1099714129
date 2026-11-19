@@ -1,0 +1,266 @@
+<html>
+<!--Topic: 1/General BTK discussion-->
+<!--Me: 28/BTK and Zodiak-->
+<!--Level 1: 28/BTK and Zodiak-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK and Zodiak</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK and Zodiak</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK discussion</font></a> &#187;
+BTK and Zodiak
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=28"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=28"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 88--><!--Time: 1085539547-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST88"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Clarice<!--/name--></b></a><br>Username: <!--field:uname-->Clarice<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, May 25, 2004 - 7:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, since you&#39;ve had the Zodiak site for a while, and since some folks theorize that BTK and Zodiak are the same &#34;dude&#34;; I am wondering if you think they are the same person.<!--/Text--></td></tr>
+<!--/Post: 88-->
+<!--Post: 106--><!--Time: 1085685801-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST106"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 27, 2004 - 12:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Clarice, I believe BTK was highly influenced by the Zodiac, but that they are separate individuals. I see no evidence to indicate BTK and the Zodiac are one and the same.<!--/Text--></td></tr>
+<!--/Post: 106-->
+<!--Post: 116--><!--Time: 1085778395-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST116"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Mike_r<!--/name--></b></a><br>Username: <!--field:uname-->Mike_r<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 28, 2004 - 2:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi- <BR> <BR>I think that it is pretty clear that Zodiac and BTK are not one and the same person.  After all, by 1969 Zodiac had perfected the art of getting all of the attention he wanted.  In the late 1970s, BTK was so pathetic that he had to whine about not being able to get the attention that he so desired. <BR> <BR>Mike<!--/Text--></td></tr>
+<!--/Post: 116-->
+<!--Post: 126--><!--Time: 1085792060-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST126"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ed_neil<!--/name--></b></a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 28, 2004 - 5:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In addition to the newspaper accounts and magazine articles, there were at least two books BTK could have had access to in order to copycat the Zodiac killer to some extent: &#34;The California Crime Book&#34; by Robert Colby &#40;September 1971&#41; and &#34;Great Crimes of San Francisco,&#34; edited by Dean W. Dickensheet &#40;1974&#41;. <BR><!--/Text--></td></tr>
+<!--/Post: 126-->
+<!--Post: 155--><!--Time: 1086100385-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST155"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Warren_b<!--/name--></b></a><br>Username: <!--field:uname-->Warren_b<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, June 01, 2004 - 7:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Would be interesting to know if WSU or city library carried those books back then.<!--/Text--></td></tr>
+<!--/Post: 155-->
+<!--Post: 157--><!--Time: 1086112549-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST157"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ed_neil<!--/name--></b></a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, June 01, 2004 - 10:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If not, they might have been available at any decent bookstore.  These days, you pretty much have to get lucky to get ahold of those; I managed to find two copies &#40;in the same bookstore!&#41; of &#34;Great Crimes of San Francisco,&#34; and was able to order &#34;The California Crime Book&#34; through Amazon.com&#39;s z shops &#40;somewhat fittingly&#41;.<!--/Text--></td></tr>
+<!--/Post: 157-->
+<!--Post: 158--><!--Time: 1086115646-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST158"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, June 01, 2004 - 11:47 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK wouldn&#39;t have even needed a book; it was all covered in his local newspaper. Take a look at the Zodiac historical newspaper archive I put together for a sample of how widespread the coverage was.<!--/Text--></td></tr>
+<!--/Post: 158-->
+<!--Post: 166--><!--Time: 1086273762-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST166"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, June 03, 2004 - 7:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe the attention the Z craved, could never be enough for his appetite. So &#34;if&#34; he was in Kansas as the &#34;BTK&#34;, haveing the attention in Calif. as Z, still wouldn&#39;t be enough for him. Why wouldn&#39;t he wonder why he was able to get so much attention in Calif., and not as much in Kansas? After all he was more horrifying in Kansas, than in Calif.or so he thought anyway.<!--/Text--></td></tr>
+<!--/Post: 166-->
+<!--Post: 169--><!--Time: 1086297999-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST169"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, June 03, 2004 - 2:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK is scarier to me since it seems he&#39;s still around.<!--/Text--></td></tr>
+<!--/Post: 169-->
+<!--Post: 174--><!--Time: 1086312626-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST174"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Muskogee<!--/name--></b></a><br>Username: <!--field:uname-->Muskogee<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, June 03, 2004 - 6:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think Z was too prideful to suddenly go by another moniker.  And imagine the shock value he&#39;d have if ZODIAC suddenly showed up in Kansas.  I think he&#39;d go for that in a heartbeat over creating a new identity.  <BR> <BR>I do think BTK was an avid &#34;fan&#34; of Zodiac, though.<!--/Text--></td></tr>
+<!--/Post: 174-->
+<!--Post: 180--><!--Time: 1086335036-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST180"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->John_prisk<!--/name--></b></a><br>Username: <!--field:uname-->John_prisk<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, June 04, 2004 - 12:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree with the &#34;avid fan&#34; theory - - The phone call&#40;s&#41; are very much like Zodiac&#39;s calls to Vallejo and Napa PD&#39;s. And I agree with what Sandy said re: attention - - BTK wanted attention but Zodiac NEEDED it.<!--/Text--></td></tr>
+<!--/Post: 180-->
+<!--Post: 307--><!--Time: 1087867163-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST307"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, June 21, 2004 - 6:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lets say I was the Zodiac,and things were starting to quiet down in the mid 70&#39;s I was no longer on the front page. I still want the attention,but the police have been to my home asking me questions about the z crimes.They don&#39;t have enough to arrest me,but if I continue with the same game,I could be caught! I could go to some other town like Santa Rosa and stir it up there, but I won&#39;t be able to send letters or they would know its me again. I will kill a few there and see if those crimes make the front page. That turned out to be not as much fun as I had killing, and sending notes to all the media as well as the police. The only thing I can do is go to some other state,change my m.o. so they won&#39;t catch on to who it is,and I can continue haveing a fun time. All I have to do is give myself a new name,darn I would love to use &#34;Zodiac&#34; again but,then the Calif.police would soon find out I am not liveing at my old address,they would put two and two together.I will just be forced to change my name, along with my way of collecting slaves, and go far away....&#40;I Sandy, see this as a possibity&#41;<!--/Text--></td></tr>
+<!--/Post: 307-->
+<!--Post: 309--><!--Time: 1087873637-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST309"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rachel<!--/name--></b></a><br>Username: <!--field:uname-->Rachel<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, June 21, 2004 - 8:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Sandy~ <BR>Have you found anything out that lends credence to Kane being in the Wichita area during the mid to late 70s? For some reason, I lean toward Kane as having more to do with the Z crimes than he&#39;s given credit for. Call it a gut feeling, I guess. <BR>Also, I saw your posts on C&amp;J. Anything new with the &#34;scarred&#34; perp? Thanks &amp; have a great night! <BR>Rachel<!--/Text--></td></tr>
+<!--/Post: 309-->
+<!--Post: 322--><!--Time: 1087969943-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST322"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, June 22, 2004 - 10:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks Rachel, I know he has the money to travel,and I do know some of the places he has gone.Some time in 74 he was told to get out of LasVegas by his boss Allen Dorphman,and I was told or read, that Dorphman was killed in Kansas not long after.Sure anyone could have killed him,but Kane would have the motive and opportunity! I would love to know where in Kansas Dorphman was killed,and the date.As far as the scarred perp,she told me it was on his cheek. My suspect has one on his cheek, and along his jaw line.Short, stocky ,dark brown hair, space between his front teeth, mustache, odd voice,sure are a lot of similaritys !<!--/Text--></td></tr>
+<!--/Post: 322-->
+<!--Post: 348--><!--Time: 1088287855-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST348"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Matt<!--/name--></b></a><br>Username: <!--field:uname-->Matt<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, June 26, 2004 - 3:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Interesting observation; I was a freshman in high school in Fairfield, Solano County California when Zodiac started his attacks.  The next few years kept the entire community on edge, since three of his attacks were in Solano County &#40;Benecia, Vallejo, Lake Berryessa&#41;Although I left California in 1972, I kept up with the Zodiac updates. I moved to Wichita in 1985 to continue my  Law Enforcement career.  I was amazed to learn the similarities between the two killers. It seems that Tom Voight probably did solve the Zodiac killings and attacks. Perhaps he can &#34;dig in&#34; here.<!--/Text--></td></tr>
+<!--/Post: 348-->
+<!--Post: 1382--><!--Time: 1099713588-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1382"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, November 05, 2004 - 7:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Matt, <BR> <BR>If you see this post I find your post a facinating story. To have been in the Vallejo area during the Zodiac activities and then to have moved to Wichita only to run into another case that has Zodiac similarities.  .  .   <BR> <BR>In your opinion does the area of the BTK killings remind you of the Northern Calif areas where the Zodiac killed in their topography, rural qualities, or any other similarities ???<!--/Text--></td></tr>
+<!--/Post: 1382-->
+<!--Post: 1383--><!--Time: 1099714129-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1383"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, November 05, 2004 - 8:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sandy, <BR> <BR>If I am not mistaken, Allen Dorfman was a lawyer for the teamsters and he was the mob&#39;s man in Vegas re: the skim oh so many years ago. <BR> <BR>Again if I have the right man, Dorfman was &#34;hit&#34; or executed by the mob. He knew too much and his usefullness was beginning to wane as the days of skimming the casinos was coming under direct attack from the government.  .  .   <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 1383-->
+<!--Post: 1395--><!--Time: 1099942980-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1395"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, November 08, 2004 - 11:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Matt is on a sweet vacation and sends his regards! <BR>-Deb <BR> <BR>&#34;Tac, Thanks for the note.  Wichita, Fairfield and Vallejo share some urban similarities except for the small hills in the Bay Area.  In regards to rural similarities, there are no hills outside Wichita.  However, the site of the Lake Herman Rd. killings  is very similar to rural  areas in Kansas.  The major difference in all this is that BTK&#39;s crimes have all occured in urban sites.&#34; <BR><!--/Text--></td></tr>
+<!--/Post: 1395-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/28">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/28" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

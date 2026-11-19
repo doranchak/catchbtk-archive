@@ -1,0 +1,232 @@
+<html>
+<!--Topic: 8/Possible BTK Victims-->
+<!--Me: 67/Barbara A. Smith-->
+<!--Level 1: 67/Barbara A. Smith-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 8-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Barbara A. Smith</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Barbara A. Smith</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/8/8.html"><font color="#f7f7f7">Possible BTK Victims</font></a> &#187;
+Barbara A. Smith
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=8&page=67"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=8&page=67"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 383--><!--Time: 1088952959-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST383"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, July 04, 2004 - 7:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It&#39;s only my opinion, but Barbara could have been a victim of BTK. Look at her initials BAS. <BR> <BR>The Kansas Aviation Museum website says in reference to the Lindbergh TAT mural:  <BR>&#34;crowned by unique bas-relief mural&#34; <BR><a href="http://www.kansasaviationmuseum.org/aerodrome/building.html" target=_top>http://www.kansasaviationmuseum.org/aerodrome/buil ding.html</a> <BR> <BR>This could be related to the Vicki Wegerly info I posted on the same mural. The Spanish Influenza of 1918/1919 helped keep the Vicks company in business. Kansas had the earliest outbreak start at one of it&#39;s bases. This website shows the wedge-shaped spike in deaths. <BR><a href="http://www.stanford.edu/group/virus/uda/flustat.html" target=_top>http://www.stanford.edu/group/virus/uda/flustat.ht ml</a> <BR> <BR>Vicks Company info: <BR>“the Spanish influenza of 1918/1919, that greatly boosted demand for the company&#39;s products” <BR><a href="http://www.srf.org/history_news/history_1.htm" target=_top>http://www.srf.org/history_news/history_1.htm</a> <BR> <BR>The first part of  Barbara&#39;s address 1151 is the date of the Otero murders. The Otero’s name sounds Spanish. <BR> <BR>Maybe BTK is trying to tell a story by his murders, that has to be put together like a  picture puzzle. <BR><!--/Text--></td></tr>
+<!--/Post: 383-->
+<!--Post: 385--><!--Time: 1089045932-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST385"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, July 05, 2004 - 9:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Compare: <BR>&#34;bas-relief&#34; and &#34;Society can be thankful that there are ways for people like me to &#34;relieve&#34; myself at time by day dreams of some victims being torture and being mine.&#34;&#40;kansas.com &#34;BTK made first contact through newspaper in &#39;74&#41;<!--/Text--></td></tr>
+<!--/Post: 385-->
+<!--Post: 386--><!--Time: 1089066382-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST386"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Matt<!--/name--></b></a><br>Username: <!--field:uname-->Matt<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, July 05, 2004 - 3:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->okay.  I&#39;m not getting the connection between &#34;Barbara&#34; and Susan A. Smith.  How long has the Aviation Museum been open to the public?  After this murder?  It&#39;s only been open about 10 years, so who would have had the opportunity to view the bas-relief mural?<!--/Text--></td></tr>
+<!--/Post: 386-->
+<!--Post: 761--><!--Time: 1092538340-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST761"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 14, 2004 - 7:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The Murder of Barbara Smith &#40;1980&#41; <BR> <BR>On October 25, 1980 the body of Barbara Smith, a 37-year old white female, was discovered by her husband and daughter at their home at 1151 S. Waverly. Barbara had been murdered by severe blunt force trauma to her head. The killer had also tried to burn down the house but was unsuccessful. Her family last saw Barbara alive on October 24, 1980. Police reports indicate that there were no signs of forced entry to Barbara’s home. The type and amount of force used make police suspect the killer was someone who may have known Barbara. <BR> <BR><a href="http://www.wichitasedgwickcountycrimestoppers.com/unsolved_murders/" target=_top>http://www.wichitasedgwickcountycrimestoppers.com/ unsolved_murders/</a><!--/Text--></td></tr>
+<!--/Post: 761-->
+<!--Post: 765--><!--Time: 1092551612-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST765"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 14, 2004 - 11:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Coincidence? <BR>On August 10, 1969, Leno and Rosemany LaBianca were murdered in their Los Angeles area home by members of the Manson family. The <BR>house was located on <b>Waverly</b> Dr. <BR> <BR>Barbara Smith resided at S. Waverly. <BR> <BR>The LaBianca murders, while more savage, had obvious elements of BTK&#39;s Otero and Bright attacks <BR>at least. <BR> <BR>I think this is a coincidence but important enough to mention. <BR> <BR>Was Manson one of the names in the BTK letter which mentioned Jack The Ripper, H.H. Holmes &#40;Birth Name: Herman Mudget&#41; and many other killers? <BR> <BR>Finally, just an opinion of course, but: It has only been in the last few months, primarily due to BTK, that I&#39;ve come to accept and appreciate how sharply MO can change. BTK has killed with rope, knife, gun. His victims do not resemble each other and include one child. He has driven a car from at least two victim&#39;s residences but not all of them. It is unknown if he <i>always</i> cuts <BR>the phone line. It is not definite that he left signs of breaking into a victim&#39;s house <u>every time.</u> Also remember that he is a true crime buff, he knows about MO. I&#39;d bet he has deliberately changed MO. And so on.<!--/Text--></td></tr>
+<!--/Post: 765-->
+<!--Post: 768--><!--Time: 1092585877-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST768"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, August 15, 2004 - 9:04 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Matt, <BR>Look at the first link. I&#39;m pretty sure the mural is on the outside of the building, at the top. <BR> <BR>Barbara&#39;s address begins with the date of the Otero murders 1/15/1974.  <BR> <BR>Possible Zodiac victims Domigos and Edwards of June 4, 1963 had the fire MO. St. Barbara is the patron of fire prevention. <BR><a href="http://www.zodiackiller.com/DomingosEdwards.html" target=_top>http://www.zodiackiller.com/DomingosEdwards.html</a> <BR><a href="http://www.catholic-forum.com/saints/saintb01.htm" target=_top>http://www.catholic-forum.com/saints/saintb01.htm</a> <BR> <BR>There was the June 4, 2002 murder of Dorothy Slaughter &#40;86&#41; and the beating of her husband. They could have been chosen for the date and their last name. <BR> <BR>I agree George, if BTK is a planner and knows about investigative techniques, he could change his MO.<!--/Text--></td></tr>
+<!--/Post: 768-->
+<!--Post: 769--><!--Time: 1092588467-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST769"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, August 15, 2004 - 9:47 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Correction: in my previous post, it should read &#34;two children,&#34; of course, and not &#34;one child.&#34; Sorry.<!--/Text--></td></tr>
+<!--/Post: 769-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="8/67">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=8/67" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

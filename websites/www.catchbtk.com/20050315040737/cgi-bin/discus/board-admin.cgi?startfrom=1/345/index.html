@@ -1,0 +1,46 @@
+<html><head><title>Administration Login</title>
+<script language="JavaScript">
+<!--
+function floader () {
+if ("" == "") {
+document.adm.username.focus();
+} else {
+document.adm.password.focus()
+}
+}
+// -->
+</script>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000FF" vlink="#0000FF" onLoad="floader()">
+<font face="verdana,arial,helvetica" size="2"><font size=3><center><b>Administration</b></center></font>
+<hr>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-admin.cgi" method="post" name="adm">
+<table bgcolor=#e3e3e3 border=1 width=100%><tr><td>
+<table>
+<tr><td><font face="verdana,arial,helvetica" size="2"> Username:</font></td><td><input type=text name="username" value="" size=13></td></tr>
+<tr><td><font face="verdana,arial,helvetica" size="2"> Password:</font></td><td><input type=password name="password" value="" size=13></td></tr>
+</table>
+<font face="verdana,arial,helvetica" size="2"><p>
+<input type=submit value="Log In">
+</font>
+</td></tr></table>
+<input type=hidden name=action value="menu">
+<input type=hidden name=startfrom value="1/345">
+<input type=hidden name=timetoken value="1110859444">
+</form>
+<hr>
+<noscript>
+<font color=#ff0000>
+<h4>WARNING!</h4>
+You do not have javascript enabled on your browser.  The administration program
+requires JavaScript.
+</font>
+</noscript>
+<font size=1>
+The administration program will store internal information in a COOKIE.  For this to work,
+you must have cookies enabled on your browser!  Also, be sure to exit the browser when you
+are done so that the information in the cookie will be reset.
+</font></font></body></html>
+<!--HTTP Cookie:  -->
+<!--Setting Cookies:
+  -->

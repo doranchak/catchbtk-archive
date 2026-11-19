@@ -1,0 +1,263 @@
+<html>
+<!--Topic: 76/BTK Media-->
+<!--Me: 645/Y&#39;all Don&#39;t Hate Now...A Newspaper Article...-->
+<!--Level 1: 645/Y&#39;all Don&#39;t Hate Now...A Newspaper Article...-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 76-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Y&#39;all Don&#39;t Hate Now...A Newspaper Article...</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Y&#39;all Don&#39;t Hate Now...A Newspaper Ar...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/76/76.html"><font color="#f7f7f7">BTK Media</font></a> &#187;
+Y&#39;all Don&#39;t Hate Now...A Newspaper Article...
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=76&page=645"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=76&page=645"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 10093--><!--Time: 1109751381-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10093"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 12:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.kansas.com/mld/kansas/news/state/11027898.htm"><b>Lookie where mah name done showed up!!!</b></a> <BR> <BR>Quote from the Wichita Eagle/Kansas.com article linked above: <BR> <BR><i>&#34;...Steve Huff, an operatic tenor from Atlanta who maintains a BTK page on his Web log, or blog, speculated in December that the killer would be a balding, stocky, mustachioed neat freak who wore glasses with heavy frames...</i><!--/Text--></td></tr>
+<!--/Post: 10093-->
+<!--Post: 10099--><!--Time: 1109754317-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10099"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 1:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve, <BR> <BR>Congratulations. I have visited your website a few times during the last week and have been impressed by it. I was surprised to discover you are a tenor. I thought you may be a writer or journalist. Your mastery of the English language led to that conclusion. <!--/Text--></td></tr>
+<!--/Post: 10099-->
+<!--Post: 10102--><!--Time: 1109756783-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10102"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 1:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->From <u>you</u>, my friend, this is <b>high praise</b>, and I am grateful.  <BR> <BR>My first love is the word, and through a rather convoluted series of events in my life, that love for language led to singing. I&#39;m a lirico-spinto tenor if defined by the Italian school - a lyric voice with dramatic power. I&#39;m about to make my debut with a small opera company one state over in a leading role - two, actually - Turiddu in <i>Cavalleria Rusticana</i> and Canio in <i>I Pagliacci</i>. I just made my &#34;second&#34; professional debut with the Atlanta Opera in a small role in <i>La Boheme</i>. <i>&#40;I made my first professional debut in 1994 and then, for a multitude of reasons, went into semi-retirement, singing-wise. That&#39;s over.&#41;</i> It&#39;s a truly bizarre profession for a redheaded redneck from South Nashville, but I work with it. I just drink Budweiser at Opera Board Galas instead of a fine merlot, or a &#34;nice chianti&#34;. <BR> <BR>Tell you the truth, if somebody wanted to pay me to write about this, though, I&#39;d do it. Writing is a passion all it&#39;s own, I guess. <!--/Text--></td></tr>
+<!--/Post: 10102-->
+<!--Post: 10139--><!--Time: 1109782592-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10139"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 8:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve, <BR> <BR>Just caught you on the AP wire! <BR> <BR>Nixon in China, Harvey Milk, The Death of Klinghoffer. Do you see where I’m headed with this? <BR> <BR>Yes, straight into the land of poor taste, but can you say Sweeny Todd? <BR> <BR>Love your posts, love your blogs, love the opera. <BR> <BR>LostDog <BR>President Steve Huff Fan Club <BR>Opera Pacific season ticket holder <BR>Funky Drummer/Latin Percussionista/ Groovemaker <BR>Currently raising a 5th grade honor band trumpeter and 2013 Thelonius Monk Institute Finalist  <BR> <BR> <BR>Hey Prisoner #27876593, <BR> <BR>Look who’s in the newspaper now. <BR> <BR> <BR>PS OperaMan, <BR> <BR>Stick with the Bud, there&#39;s no such thing as a fine merlot! Do they serve Train Wrecks at those galas? <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10139-->
+<!--Post: 10143--><!--Time: 1109784856-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10143"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 9:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks, Lost - <BR> <BR>I wasn&#39;t sure how to take you at first, I can admit that, but I appreciate you greatly now. You&#39;re damn funny, you know that, don&#39;t you? <BR> <BR>And Sweeney Todd? Well - it&#39;s probably because of the Demon Barber of Fleet Street that I sing opera today - I had that musical memorized by the time I was 12. I am being quite literal - I bought the original broadway cast album, with Angela Lansbury <i>&#40;there is no other Missus Lovett, sorry, Patti Lupone&#41;</i>, and Len Cariou as Todd - whom George Hearn far outclasses - and had it memorized by the end of the summer.  <BR> <BR><i>&#34;Swing Your Razor wide, Sweeney, <BR>Hold it to the skies, <BR>Freely flows  <BR>the blood of those <BR>Who <b>moralize</b>...&#34;</i> <BR> <BR>Those lyrics are somewhat appropriate to registered republican and devout Lutheran Dennis Rader, you ask me. <BR> <BR>My favorite role I&#39;ve played so far, BTW, is the evil ghost of Peter Quint in Benjamin Britten&#39;s operatic rendering of Henry James&#39;s <i>&#34;Turn of the Screw.&#34;</i> Playing a character like Quint may explain how I could even conceive of getting inside a killer&#39;s head. <BR> <BR>Even though I have Todd memorized, I&#39;ve never actually done the show.  <BR> <BR>Next board gala I attend, I&#39;m heading straight for the cash bar and hunting down the barkeep who knows how to make a Train Wreck - in honor of ole Lost Dog. <!--/Text--></td></tr>
+<!--/Post: 10143-->
+<!--Post: 10154--><!--Time: 1109786750-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10154"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nancydrew<!--/name--></b></a><br>Username: <!--field:uname-->Nancydrew<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 10:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Off topic &#40;if there is one&#41;.... <BR>Have a performing arts degree myself, and am an Atl girl, and Sweeney Todd was an early favorite.  <BR>&#34;He shaved the faces of gentlemen <BR>Who never thereafter were heard from again....&#34; <BR>Just saying hello.  Congrats on the free press. <BR><!--/Text--></td></tr>
+<!--/Post: 10154-->
+<!--Post: 10163--><!--Time: 1109791024-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10163"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 11:17 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, dang, Nancy - do I know you, then? You can e-mail me if you don&#39;t want to say. <BR> <BR><a href="mailto:steve.huff@gmail.com">steve.huff@gmail.com</a><!--/Text--></td></tr>
+<!--/Post: 10163-->
+<!--Post: 10168--><!--Time: 1109792926-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10168"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 11:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Y&#39;all - I&#39;m a tool. <i>&#40;no need for response to <b>that</b>&#41;.</i>  <BR> <BR>I totally forgot to point out that catchbtk was mentioned too... <BR> <BR>article link - <a href="http://seattlepi.nwsource.com/business/aptech_story.asp?category=1700&amp;slug=BTK%20Internet%20Sleuths">Seattle Post-Intelligencer</a> <BR> <BR>Quote: <BR> <BR><i>&#34;...There was someone who signed in as &#39;Dogcatcher,&#39;&#34; said Angela Avey, one of the site administrators for the California-based Web site catchbtk.com. &#34;That&#39;s kind of an odd thing to sign in as. Now we&#39;re kicking ourselves for not finding out more.&#34;</i> <BR> <BR>Apologies to Tom, Angela, and Ed for my tunnelvision!<!--/Text--></td></tr>
+<!--/Post: 10168-->
+<!--Post: 10180--><!--Time: 1109798228-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10180"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nancydrew<!--/name--></b></a><br>Username: <!--field:uname-->Nancydrew<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 1:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Steve...We don&#39;t know each other....unless.... <BR> <BR>Grow up in the &#39;burbs, by any chance?  <BR> <BR>Patti Lupone kicks Angela Lansbury&#39;s behind, by the way.   <BR> <BR>Hasn&#39;t &#34;Dogcatcher&#34; been here since the arrest?<!--/Text--></td></tr>
+<!--/Post: 10180-->
+<!--Post: 10182--><!--Time: 1109798691-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10182"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nancydrew<!--/name--></b></a><br>Username: <!--field:uname-->Nancydrew<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 1:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->sorry, it was &#34;lostdog&#34;<!--/Text--></td></tr>
+<!--/Post: 10182-->
+<!--Post: 10183--><!--Time: 1109799436-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10183"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 1:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve, <BR> <BR>This thread IS all about you babe. <BR> <BR>I wasn&#39;t sure about me at first either! <BR> <BR>Researching this case, I got into a really dark space -- first tme I ever posted anywhere. Check out my last post to BTK &#40;Feb 26&#41;. Clairvoient wrote that &#40;her version of the BTK story&#41;the first week of February, just after she got booted off CBTK! <BR> <BR>I just couldn&#39;t bring myself to post anywhere else. This site had mojo and order. <BR> <BR>&#42;Yes Tom, she was an annoying know-it-all... wait...just like Denny! <BR> <BR>As Clairevoient I was only speaking to BTK -- trying my darnest to get into his head. I dressed up as a woman &#40;again, strangely aroused&#41; because I believed criticisms and spookiness from a female would rattle his cage some... maybe get him to communicate. <BR> <BR>I still think you&#39;re a stud, but in a purely heterosexual man-love kind of way. My wife thinks I&#39;m about 13% gay. You know, likes to cook, decorate, thrilled with the art direction in the film version of West Side Story... never watched a whole football game all the way through...Sex with a man? I don&#39;t know how you gals out there do it.. they&#39;re so hairy and smelly... <BR> <BR>Wow suddenly it&#39;s all about ME! Sorry, that happens a lot.<!--/Text--></td></tr>
+<!--/Post: 10183-->
+<!--Post: 10192--><!--Time: 1109804478-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10192"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 3:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I can&#39;t resist this one: <BR> <BR>STEVE:  See? You ARE a STUD!  Maybe you can sing for us at the next &#34;official&#34; party? U DA MAN! 4 kids.......a busy man, too! <BR> <BR>LOSTDOG: Let me remind you its your fault we all feel like crap. Thanks for the leg cramps from dancing all night on that table. You were MAHVOULOUS!! <BR>Hairy and somewhat smelly.........YOU&#39;RE THE KING! YOU&#39;RE THE KING!<!--/Text--></td></tr>
+<!--/Post: 10192-->
+<!--Post: 10199--><!--Time: 1109808961-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10199"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 4:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve:  I&#39;m always going to wonder ... how exactly you managed to &#34;channel&#34; that mental sketch of The Suspect.<!--/Text--></td></tr>
+<!--/Post: 10199-->
+<!--Post: 10247--><!--Time: 1109839257-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10247"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 12:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Audrey, that makes two of us. After the initial kind of awed feeling I had on seeing the guy I had an insecurity bout and went back and double-checked everything I&#39;d written...then I saw how close I really was - though it should be said that knowing what he must look like and catching him are two vastly different things - and it just creeped me out.  <BR> <BR>Steve Brisendine, the AP reporter who interviewed me, asked me the following before he told me how impressed he&#39;d been by my figuring out BTK&#39;s possible appearance - &#34;Have you ever <i>been</i> to Wichita?&#34; - and I haven&#39;t. So somehow that made my accuracy on his appearance and a couple of key personal traits all the creepier. <BR> <BR>The funniest thing that&#39;s happened was tonight at church I told the choir about the article - after the congratulations my director said, &#39;I can see why you figured that out - you kind of look like him...&#39; <BR> <BR>Erg - I don&#39;t, OKAY? I&#39;m 6&#39;0&#34; with thinning <b>red</b> hair and a redder beard - I wear fashionable frames that are just the right size on my face and am NOT neat. Well-groomed, but NOT neat.  <!--/Text--></td></tr>
+<!--/Post: 10247-->
+<!--Post: 10251--><!--Time: 1109850565-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10251"><font face="Verdana" size="1"><b><!--email--><a href="mailto:topsailgrl@yahoo.com" target="_blank"><!--/email--><!--name-->Topsailgrl<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 3:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve-Can I have your autograph??? Congrats on the article! I havent seen the sketch, where is it posted?  <BR> <BR>By the way, my daughter <b>Stevie</b> is also a singer. She is just a kid in high school right now but has been singing in choirs all over the state since 3rd grade. <!--/Text--></td></tr>
+<!--/Post: 10251-->
+<!--Post: 10334--><!--Time: 1109898751-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10334"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 5:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Anyone else get this weird email? <BR>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <BR> <BR>From: <a href="mailto:SirDennisMcKenzie@YAHOO.UK">SirDennisMcKenzie@YAHOO.UK</a>   <BR>Sent: Wednesday, March 02, 2005 10:15 AM <BR>To: <a href="mailto:LostDog@theBTKstory.com">LostDog@theBTKstory.com</a> <BR> <BR>Subject: Your psychic friend <BR> <BR>Good day Mr. &#60;dog&#62;, <BR> <BR>English Psychic/Sketch Artist/Outcall Massage/Balloon Animals <BR> <BR>Available for Weddings, Bar Mitzvahs, Proms &amp; Retirement Parties <BR> <BR>Will predict for food <BR> <BR>Mediocreshire on Wrongington <BR>Ring 01737 732027 <BR> <BR>&#60;end&#62; <BR> <BR>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <BR> <BR> <BR>McKenzie… makes a living acting as a medium… <BR>he typically sees 15 to 20 clients a day. <BR>He said he thinks most people who claim psychic abilities are faking it.  <BR>WE 9/29/04 <BR> <BR><a href="http://ghostiesannex.myphotoalbum.com/view_photo.php?set_albumName=BTK&amp;id=Btkdm03" target=_top>http://ghostiesannex.myphotoalbum.com/view_photo.p hp?set_albumName=BTK&amp;id=Btkdm03</a> <BR> <BR> <BR> <BR>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ _ __ _ _ _ _ _ _ _ <BR> <BR>LMAOROTF till I wet myself -- ClaireVoient <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10334-->
+<!--Post: 10338--><!--Time: 1109902038-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10338"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 6:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->doo doo   doo doo   doo doo    doo doo    doo doo <!--/Text--></td></tr>
+<!--/Post: 10338-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="76/645">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=76/645" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

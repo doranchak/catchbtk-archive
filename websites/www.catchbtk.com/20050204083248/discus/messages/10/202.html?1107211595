@@ -1,0 +1,286 @@
+<html>
+<!--Topic: 10/BTK Communications-->
+<!--Me: 202/Dec. 14 &#34;The Plastic Bag Letter&#34;-->
+<!--Level 1: 202/Dec. 14 &#34;The Plastic Bag Letter&#34;-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Dec. 14 &#34;The Plastic Bag Letter&#34;</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Dec. 14 &#34;The Plastic Bag Letter&#34;</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Communications</font></a> &#187;
+Dec. 14 &#34;The Plastic Bag Letter&#34;
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=202"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=202"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 1879--><!--Time: 1103071611-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1879"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 14, 2004 - 4:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.kake.com/news/headlines/1145052.html" target=_top>http://www.kake.com/news/headlines/1145052.html</a> <BR> <BR>&#34;The package was left at Murdock park, found early Tuesday monirng.  <BR> <BR>KAKE news has been asked not to disclose certain items in the package. What we can tell you, is it was a white plastic bag, with an object wrapped in plastic inside, and a driver&#39;s license with the name Nancy Fox.&#34; <BR> <BR>Another clear confirmation of his role in the Fox murder.  There may be information of another murder, or to an already known victim to further clarify who did it.  The &#34;object wrapped in plastic&#34; could be a number of things.  Anyone want to hazard a guess?  I&#39;m not sure what all was revealed missing from the Fox murder scene. <BR> <BR>&#34;Also included in the latest package is the list of chapters from a sheet the killer himself calls the BTK story. This first surfaced in the killer&#39;s letter to KAKE back in May. But this latest package was a little different. Chapters one and two and eight were left blank. &#34; <BR> <BR>Intersting that 1,2,8 is missing.  Especially since Fox died on the 8th of december . . . 12/8  <BR> <BR>Any other reasons that he would omit them?  Doing that to represent the date seems the most obvious.  Also, since this bag was left in the park BTK could have easily dropped it the 8th, only to have it found several days later.  &#40;unless he wrote &#34;from BTK&#34; in large letters&#41;<!--/Text--></td></tr>
+<!--/Post: 1879-->
+<!--Post: 1911--><!--Time: 1103116966-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1911"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Juno<!--/name--></b></a><br>Username: <!--field:uname-->Juno<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 15, 2004 - 5:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It&#39;s interesting that he did not give up photocpies this time, but the actual license etc. <BR> <BR>If Vicki Wegerle WAS his favorite &#40;as posted on Messages From BTK&#41; then perhaps he is less likely to give up his trophies from that crime, hence photocopies rather than the real items.<!--/Text--></td></tr>
+<!--/Post: 1911-->
+<!--Post: 1915--><!--Time: 1103120490-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1915"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 15, 2004 - 6:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I wonder if he watched from afar to make sure that someone did not drop it in a trash receptacle. Maybe someone from this group can find one and pass the info to Tom. At least, the public could be informed. I do think that when all facts of these cases are revealed, there will be public outrage over the glossing of BTK by public officials.<!--/Text--></td></tr>
+<!--/Post: 1915-->
+<!--Post: 1926--><!--Time: 1103132358-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1926"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 15, 2004 - 9:39 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->TEARDROP: I agree; the public will be outraged if and when we learn this BLT case could have been solved DECADES AGO if the police hadn&#39;t kept so many things secret. <BR> <BR>VERME_INVE: I have heard it before &amp; I really doubt that BLT deleted his Chapters 1, 2 &amp; 8 just to remind everyone that he killed Nancy Fox on Dec. 8, &#40;1978?&#41;. If he wanted to give us the date, then he completely omitted the YEAR. And IF he was really that desparate to give us the date, why not just WRITE THE DATE??? <BR> <BR>Sorry to sound so belligerant, but why would BLT omit 3 extremely important chapters from this rare communique just so us &#34;wannabee Sherlock Holmes&#34; characters &#40;me included&#41; could come to the brilliant conclusion that he killed her on a date that everyone already knows? He already included Nancy Foxs&#39; drivers&#39; license, for gosh sakes, so the date he killed her is already extremely obvious to all. <BR> <BR>No, I think we still need to do some more figuring as to why the BLT did this.<!--/Text--></td></tr>
+<!--/Post: 1926-->
+<!--Post: 1940--><!--Time: 1103152925-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1940"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bodycheck<!--/name--></b></a><br>Username: <!--field:uname-->Bodycheck<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 15, 2004 - 3:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i>&#34;object wrapped in plastic&#34; could be a number of things. Anyone want to hazard a guess? </i> <BR> <BR>From the photos on C&amp;j...looked like rolled up panty hose and a long sorta shiny deal that to my eyes could have been either a barette or the plastic binding of a folder... <BR> <BR>B<!--/Text--></td></tr>
+<!--/Post: 1940-->
+<!--Post: 1945--><!--Time: 1103156748-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1945"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megan<!--/name--></b></a><br>Username: <!--field:uname-->Megan<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 15, 2004 - 4:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->To me, the object looked like pantyhose. <!--/Text--></td></tr>
+<!--/Post: 1945-->
+<!--Post: 2015--><!--Time: 1103250164-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2015"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Faithful_reader<!--/name--></b></a><br>Username: <!--field:uname-->Faithful_reader<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 6:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think the whole story of how the guy came to be in possession of the package stinks to high heaven.  What would ever possess someone to bring home a plastic bag wrapped in rubber bands that was found in a park in the dark???  Not only that, why call KAKE tv, and not the police?  There is something extremely shady about that part of the story.<!--/Text--></td></tr>
+<!--/Post: 2015-->
+<!--Post: 2017--><!--Time: 1103250641-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2017"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 6:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe BTK is dead and has been for years and someone cleaning out an old storage facility or locker or attic came across a box or two containing BTK&#39;s diaries and crime scene souvenieers and began perpetuating the myth that BTK lives from what they learned from BTK&#39;s belongings. Instead of turning this stuff into the police to solve this thing once and for all they decided to have some sick fun of their own by scaring the community. It could be done or has the current handwriting on these recent communications been conclusively linked to the known handwriting of the original BTK communications. Just a thought since this whole thing is so bizarre.<!--/Text--></td></tr>
+<!--/Post: 2017-->
+<!--Post: 2099--><!--Time: 1103312065-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2099"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Devbost<!--/name--></b></a><br>Username: <!--field:uname-->Devbost<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 11:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Faithful_reader said: <BR> <BR><i>&#34;What would ever possess someone to bring home a plastic bag wrapped in rubber bands that was found in a park in the dark???&#34;</i> <BR> <BR>I&#39;m glad to see that I&#39;m not the only one bothered by this. Perhaps I&#39;m assuming too much here, but imagining my own possible reaction to seeing a bundle tied up in a plastic bag, wrapped with rubber bands sitting under a tree in a public park, picking it up and taking it home with me probably isn&#39;t my first course of action. <BR> <BR>On the other hand, it&#39;s entirely possible that the guy thought it might have been dropped accidentally by passersby, and took it home to see if he could find out who it belonged to. The package was discovered in the early morning hours, when it would have been dark enough to make looking at the bag&#39;s contents more difficult, correct?<!--/Text--></td></tr>
+<!--/Post: 2099-->
+<!--Post: 2125--><!--Time: 1103326147-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2125"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Puzzler<!--/name--></b></a><br>Username: <!--field:uname-->Puzzler<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 3:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I live in Wichita right in the heart of BTK activity.  I am 3 blocks east of Pinecrest, 5 blocks east of Nancy Fox crime scene, 8 blocks south of the Otero crime scene, 5 blocks south of the location of the disappearance of Denise Rathbun and 1/2 mile south of the Fager residence.  In fact, the only BTK victims that are a mile or more from me are Shirley Vian and Vicki Wegerle.  I said all of that to bring up a question.  All of the known BTK victims were on the east side of town except for Vicki Wegerle who lived on the far west side of town.  Wichita is the largest city in Kansas, so from the far east side of the city to the far west side of the city is quite a distance.  Why would BTK go to the west side of the city only one time? <BR> <BR>I don&#39;t know if you know that the latest BTK drop at Murdock Park is directly across the street from the Segdwick County Health Department, the Sedgwick County Forensics and County Coroner offices and the Kansas University School of Medicine.  Above all of this is I-35 which is the main interstate through the state of Kansas. <BR> <BR>Given the location of Murdock Park, I am not surprised at the fact that someone would pick up a package and take it home with them.  What does surprise me is that the person called KAKE-TV before the police were called. <BR> <BR>Also, another connection you may be unaware of is that in the 80&#39;s the anchor woman for KAKE-TV was Rose Stanley.  At some point BTK sent a personal comment to her in one of his communications.  Shortly after that, Rose Stanley resigned.   <BR> <BR>Love this site.  Thanks for doing it, Tom.<!--/Text--></td></tr>
+<!--/Post: 2125-->
+<!--Post: 2167--><!--Time: 1103346268-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2167"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 17, 2004 - 9:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Puzzler, the letter you refer to concerning Rose Stanley was sent to KAKE in either 1978 or 1979 she never specifically stated the exact date but it was during those two years. <BR> According to interviews she had given recently BTK never specified her by name either. He wrote &#34;I am going to get that newslady.&#34; She was the only female news anchor at the time so it was naturally assumed he ment Stanley. She didn&#39;t disclose the context of that reference as to why he wrote it or what about her coverage of the murders or her comments about them would cause BTK to be so irratated with her.  <BR>She didn&#39;t resign shortly after that. She was on the air for many years after and even did an interview with President Reagan in 1984 when she was employed by KAKE-TV. I am not sure when she left KAKE but it was many years after that letter. When she did leave the station she stayed in Wichita and remains there today working in the finacial field. She has expressed in published interviews since the resurfacing of BTK that she is being &#34;cautious.&#34; <BR>It is curious though that a serial killer who targets women wouldn&#39;t refer to her by name especially as she was the only female news anchor at the time. I wonder if she unknowingly spoke with him on the phone and if he called her not as BTK but under the guise of a viewer calling about a story she did that had nothing to do with the BTK case. Just an ordinary viewer calling about an ordinary topic so he could make personal contact with the person delivering the news and be undetected.  <BR>I am not from Wichita but the first female anchor at KAKE was Chris Martin who was there in the early 70&#39;s and now works in public relations in California. Was Martin there in 1974 when the first murders linked to BTK happened? I wonder if she had any contact from BTK? Maybe from a pre-1974 BTK as a merely bothersome viewer who called the station frequently. I would think that in a time of mostly male newscasters that these two women would have sparked some interest from BTK. <!--/Text--></td></tr>
+<!--/Post: 2167-->
+<!--Post: 2236--><!--Time: 1103437215-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2236"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Alobster7<!--/name--></b></a><br>Username: <!--field:uname-->Alobster7<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 18, 2004 - 10:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I was glad to read a few comments about the &#34;unidentified man&#34; finding a plastic bag in a park and taking it home.  How strange this is to me.   <BR> <BR>True, I know I don&#39;t live in Wichita where people may be on the lookout for communications from BTK.  But, I would never pick up a trash bag in a park in the first place &#40;germs&#41;, I believe this was even at dark, and then put the bag in my car and transport it home.  This is weird behavior at best. <BR> <BR>In addition, the killer or someone posing as the killer, gave up a very valuable piece of evidence - Nancy Fox&#39;s d.l.  Usually, in my understanding, he ALWAYS gave photocopies of evidence.  Why change?  Now?  Maybe only God and the killer are cognizant of this information now.   <BR> <BR>But one thing I do know for sure is that God does know.  BTK may have slipped away from everyone else but he has never slipped away from the view of the Almighty.  The Lord knows FULL WELL who he is, why he has done these things and if he will ever change or be caught. <BR> <BR>I just recently found out about this case &#40;AMW, I think&#41; so my prayers and praying with others has just begun.  The Bible says &#34;And ye shall know the truth, and the truth shall make you free.&#34;  John 8:32. <BR> <BR> <BR>P.S.  Please excuse if this is not posted in the right spot.<!--/Text--></td></tr>
+<!--/Post: 2236-->
+<!--Post: 2247--><!--Time: 1103445711-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2247"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 19, 2004 - 12:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;I was glad to read a few comments about the &#34;unidentified man&#34; finding a plastic bag in a park and taking it home. How strange this is to me.&#34; <BR> <BR>He was an African-American man in his mid-30&#39;s. His DNA was tested to exclude any of his skin cells that might be found on the evidence. He is not a suspect, nor does he have anything to do with the case other than being the lucky guy who decided to see if someone left some money behind or something. All this per Greta Van Susteren&#39;s interview with KAKE&#39;s Larry Hatteberg on last Wednesday&#39;s edition of her show on Fox News. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 2247-->
+<!--Post: 2293--><!--Time: 1103501233-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2293"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 19, 2004 - 4:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;April 27, 1985  Marine Hedge  6200 block of Independance, Park City, age 53. Abducted from her          home between 1:00 am &amp; 7:00 am after dinner at a restaurant and bingo with her boyfriend. She was found 8 days later along a dirt road, and the autopsy showed she was strangled by hand. <b>She was not bound when found, but a pair of knotted pantyhose was found nearby.</b>  Her phone line was cut, her front door was left open, and her Monte Carlo was found the following Thursday in Wichita in a shopping center near 1st &amp; Woodlawn, with a blanket &amp; bedspread in the trunk. It had apparently been wiped down for fingerprints. It was determined that nothing was stolen from the home itself. Ms. Hedge was not sexually assaulted, but small blood spots were found in the home. She was nude when found, covered with tall grass and an evergreen tree in a ditch on 53rd North, about 3/4 of a mile west of Greenwich Rd. Her purse was found the next day in a ditch near 143rd St. East &amp;  37th St.  North by a woman who did not turn it in to police until the following Friday.  <b>Ms.Hedge&#39;s ID was gone,</b> police identified the purse by papers found inside it. Police found evergreen needles in the car, and noted that there were no evergreens near the body other than the one covering her, indicating that it may have been transported to the site.&#34; <BR> <BR>taken from: <a href="http://members.fortunecity.com/ghostiesannex/wicoca.html" target=_top>http://members.fortunecity.com/ghostiesannex/wicoc a.html</a> <BR> <BR>Because of the strong BTK resembalance, and the mention of pantyhose, I thought I should bring this up.  If there are unknown victims of the BTK, I certainly think Ms. Hedge is one of them. <BR> <BR>The panty hose connection is just another clue.<!--/Text--></td></tr>
+<!--/Post: 2293-->
+<!--Post: 2335--><!--Time: 1103555119-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2335"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rubiconx<!--/name--></b></a><br>Username: <!--field:uname-->Rubiconx<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 20, 2004 - 7:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sorry if this has been answered already but I can&#39;t seem to find it. <BR> <BR>I have read that BTK called a business after placing the package but nobody took it seriously. Is this true? If so does anyone know what business he called and how far it is away from the drop location. Thanks.<!--/Text--></td></tr>
+<!--/Post: 2335-->
+<!--Post: 2342--><!--Time: 1103563309-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2342"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jeffnem<!--/name--></b></a><br>Username: <!--field:uname-->Jeffnem<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 20, 2004 - 9:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have heard conflicting stories on this subject. I had heard that he had placed a call to the WPD, not 911, from QT near the scene the bag was recovered. I also heard that he may have called a QT from an unknown location, but it was dismissed as crank until the bag was &#34;found&#34;. I haven&#39;t found a reliable source yet.<!--/Text--></td></tr>
+<!--/Post: 2342-->
+<!--Post: 2461--><!--Time: 1103702983-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2461"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Alobster7<!--/name--></b></a><br>Username: <!--field:uname-->Alobster7<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 22, 2004 - 12:09 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have also read that BTK phoned a QT store and reported the plastic bag in the park.  People considered it a joke.  It was a week earlier. <BR> <BR>However, the man who found the bag most likely knew it was what the police had been looking for.  This is the reason he took the bag home and examined it.  The residents claim that the police had been in the park days earlier looking for something.  Therefore, when the &#34;unidentified man&#34; walked through the park at 1 a.m., saw a strange bag, he was concerned where given other circumstances he probably would have just left it there. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 2461-->
+<!--Post: 2491--><!--Time: 1103741530-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2491"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jeffnem<!--/name--></b></a><br>Username: <!--field:uname-->Jeffnem<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 22, 2004 - 10:52 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I must have missed it, but in the &#34;History&#34; section on this site, it says, &#34;Reports indicate that am unknown man called a QuickTrip convinence store nearly a week earlier to draw attention to the package. However, the call was not taken seriously.&#34; <BR>Now, it doesn&#39;t say what store, or where he could&#39;ve called from, or even what was said. One would wonder why the police where supposedly checking the park for it, but yet &#34;didn&#39;t take it seriously.&#34; Also, one would wonder why it wasn&#39;t found by police, and when the original drop was. It makes me think that the guy that found it, found it before he is claiming, and kept it at home until he realized what it was. Then, probably for publicity reasons, he called KAKE instead of the police first. It might be important to know what the date of the actual drop-off was. Maybe that&#39;s significant.<!--/Text--></td></tr>
+<!--/Post: 2491-->
+<!--Post: 2492--><!--Time: 1103741915-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2492"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jeffnem<!--/name--></b></a><br>Username: <!--field:uname-->Jeffnem<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 22, 2004 - 10:58 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sorry to double-post, but one earlier point was that there are many QT&#39;s in this city, and I&#39;ve not heard it mentioned which one he called. This may as mentioned, also be significant information. <BR> <BR>Also, is this where the &#34;Barbie doll&#34; came from. I&#39;m not sure I understand this link. <!--/Text--></td></tr>
+<!--/Post: 2492-->
+<!--Post: 2614--><!--Time: 1103842513-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2614"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ryddik<!--/name--></b></a><br>Username: <!--field:uname-->Ryddik<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 2:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m new to the site. I had a thougt on the pictures of the package I have seen it appers that on the the licence just above her pic is what appers to be an empty or blurred box I don&#39;t know of the DMV normaly not leaving boxes on licences blank normally don&#39;t they put at least a N/A in them?<!--/Text--></td></tr>
+<!--/Post: 2614-->
+<!--Post: 2654--><!--Time: 1103873981-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2654"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 11:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The QT that was called was at the intersection of Harry and Hillside. It was on the local news.   <BR>-Deb<!--/Text--></td></tr>
+<!--/Post: 2654-->
+<!--Post: 4036--><!--Time: 1105555774-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4036"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Freya<!--/name--></b></a><br>Username: <!--field:uname-->Freya<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 12, 2005 - 10:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Calling a convenience store sounds really weird to me, too. Would this be a &#34;safer&#34; way to effectively bring attention to the package? Looks like it didn&#39;t work. No offense to convenience store clerks, but--from my observations--they don&#39;t get many business-related phone calls, and seem more attentive to the people who walk in. Why would BLT think the clerk WOULD take it seriously? I would have called a local church or a crisis hotline. No tracing or recording, and I think the other person on the line would have believed him.<!--/Text--></td></tr>
+<!--/Post: 4036-->
+<!--Post: 4202--><!--Time: 1105849871-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4202"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bluepete<!--/name--></b></a><br>Username: <!--field:uname-->Bluepete<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 15, 2005 - 8:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->He would not give up originals unless he was seriously worried of being caught....meaning he had been felt out or questioned by WPD.. <BR> <BR>OR <BR> <BR>He has a time table... a plan...  a sequence of events to lay out before he goes &#40; either by capture or surrender &#41;...or suicide etc.... <BR> <BR>OR <BR> <BR>He had these items and he is  afraid of making copies because he is worried that technology might be progressed to a level beyond him and he doesnt want to press his luck as he has done in the past.....maybe he came very close to  revealing himself in an earlier drop...... <BR> <BR>So  he thought the safest thing to do was to drop the original. <BR> <BR>Either way i think it reveals paranoid behavior . <BR> <BR>Which means he is vulnerable. <BR> <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4202-->
+<!--Post: 4215--><!--Time: 1105893765-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4215"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 16, 2005 - 8:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just had this thought: <BR> <BR>Maybe BTK is communicating to somone through his chapter sheets? <BR>What if he in som way has som kind of deal with somone about writing his story, and the last sheet missing chapter 1,2 and 8 means that he finished writing them? <BR> <BR>just a thought! <BR> <BR>Anyone has a book-deal with BTK? <BR> <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 4215-->
+<!--Post: 5591--><!--Time: 1107211595-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5591"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 31, 2005 - 2:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The seventh victim was not named in the letter to KAKE, and LaMunyon said Friday that he wasn&#39;t sure of that victim&#39;s identity. <BR> <BR>In the KAKE letter, the killer taunted, &#34;You guess the motive and the victims. <BR> <BR><a href="http://www.kansas.com/mld/kansas/news/special_packages/btk/8313855.htm" target=_top>http://www.kansas.com/mld/kansas/news/special_pack ages/btk/8313855.htm</a> <BR>-------------------------------------------------- <BR>Surely have to believe that BTK has not named all of his victims.  If there is one of whom we have no knowledge, I feel like there might be more that we don&#39;t know about.  But..maybe not. <BR> <BR>If he chose to only reveal some of his victims, why would he select the ones he did to provide truth about, and then ask cops to find the others?   <BR> <BR>&#39;You guess the motive and the victims&#39;?  Right....been playing it his way for a long time.   <BR> <BR>BTK thinks he can fool someone by asking them to guess something and then keeping it to himself so he can regard those who try ignorant?  ha.   <BR> <BR>Sounds like a fellow who never learned control of himself completely or who never was exposed to situations where he had to learn how to even begin to please other people by providing them with at least some kind of decent way of saying something. JMO. <BR><!--/Text--></td></tr>
+<!--/Post: 5591-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/202">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/202" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

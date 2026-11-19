@@ -1,0 +1,275 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 740/FROM LAW ENFORCEMENT to this Board:-->
+<!--Level 1: 740/FROM LAW ENFORCEMENT to this Board:-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: FROM LAW ENFORCEMENT to this Board:</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">FROM LAW ENFORCEMENT to this Board:</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+FROM LAW ENFORCEMENT to this Board:
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=740"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=740"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 11966--><!--Time: 1111456302-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11966"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 21, 2005 - 5:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This is for Questions we may have of Law Enforcement and their Answers to members of this CATCHBTK board. <BR> <BR>Could be for the D.A., police, sherriffs, F.B.I., etc. <BR> <BR>Don&#39;t know if we&#39;ll get any takers, but it sure would be nice &amp; may even help prosecution of the case. It should definitely help bring peace of mind to those involved or interested in the BTK case. <BR> <BR>Please be respectful of each other. <BR> <BR>Victor<!--/Text--></td></tr>
+<!--/Post: 11966-->
+<!--Post: 12070--><!--Time: 1111549053-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12070"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 22, 2005 - 7:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It&#39;s a great idea.  I&#39;ll go first if others are shy. <BR> <BR>First off, congratulations and thanks to LE.  You guys put a classic finish on this chess game.  I will never look at a floppy disk without thinking of Rader&#39;s apprehension.  Also, thanks for treating the web sleuths as respectfully as you did.  When I heard that you gave one of our bunch an hour of your time to hear their theory, I was quite frankly awed by your professionalism. <BR> <BR>I&#39;ll try to keep this question at a high level so you can &#40;hopefully&#41; answer it.  It has to do with the role of circumstantial evidence.  Do you see a need for circumstantial evidence in this case?  We are all aware of the preponderance of DNA evidence in this case, making it seem somewhat unnecessary to go into great detail in placing Rader at the scene of the crimes.  Nevertheless, I think the public is rightfully curious about this, as I imagine a jury would also be.  Any comments that any members of LE &#40;our own members or otherwise&#41; would have on the role of circumstantial evidence in this case - without compromising the case itself - would be of interest.  Thanks!  -pax<!--/Text--></td></tr>
+<!--/Post: 12070-->
+<!--Post: 12134--><!--Time: 1111626665-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12134"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brown_tornado<!--/name--></b></a><br>Username: <!--field:uname-->Brown_tornado<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 23, 2005 - 5:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->this thread is titled, &#34;FROM&#34; l.e., not &#34;FOR&#34; l.e., which is it?<!--/Text--></td></tr>
+<!--/Post: 12134-->
+<!--Post: 12141--><!--Time: 1111643276-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12141"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 23, 2005 - 9:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->CLARIFICATION: <BR> <BR>Tho&#39; this thread is titled &#34;FROM LAW ENFORCEMENT to this Board&#34;, it was meant as a forum for both questions FOR law enforcement &#40;from us&#41;, as well as their answers FROM law enforcement. <BR> <BR>Sorry for the confusion, but I wanted to catch the eye of law enforcement personel, and make this stand out to them, since there are already a jillion threads on this board.<!--/Text--></td></tr>
+<!--/Post: 12141-->
+<!--Post: 12179--><!--Time: 1111715021-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12179"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 24, 2005 - 5:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have a question, Since all of the recent murders, sex offenses, crime, I here the the government is talking about putting the letter Y on Driver&#39;s License of sex offender&#39;s etc. I have a better idea. Tell me what you think. What if we take those microchips that were created to keep track of our pets, and now our children and instead, implant them into known criminals. Then we would know where THEY were all the time. Forget the ankle bracelets, this would be cheaper.<!--/Text--></td></tr>
+<!--/Post: 12179-->
+<!--Post: 12202--><!--Time: 1111763937-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12202"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 25, 2005 - 7:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Emb- THAT is a FABULOUS idea!..... <BR>THEY need to be chipped...to hell with their rights...our children and other citizens have rights to...to be protected from these insane individuals...<!--/Text--></td></tr>
+<!--/Post: 12202-->
+<!--Post: 12203--><!--Time: 1111764006-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12203"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 25, 2005 - 7:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I said the thing about the &#34;rights&#34; because I figure that will be the &#34;argument&#34; that it is unconstitutional to know their whereabouts &#34;at alllll times&#34; <BR><!--/Text--></td></tr>
+<!--/Post: 12203-->
+<!--Post: 12228--><!--Time: 1111788741-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12228"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 25, 2005 - 2:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If they remove the chip from the skin to run it should be a mandatory 30 yr sentence <!--/Text--></td></tr>
+<!--/Post: 12228-->
+<!--Post: 12229--><!--Time: 1111788796-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12229"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 25, 2005 - 2:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Definitely...<!--/Text--></td></tr>
+<!--/Post: 12229-->
+<!--Post: 12321--><!--Time: 1111982796-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12321"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 27, 2005 - 8:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The chip and the Bic C - castration. The one time fix for the second offense. If there ever was a place for Zero Tolerance, it is with sex offenders. No amount of therapy or drugs or anything else will ever change them. They are serial killers with a twist, but predators none the less. That&#39;s all: just my opinion.<!--/Text--></td></tr>
+<!--/Post: 12321-->
+<!--Post: 12333--><!--Time: 1111998005-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12333"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 28, 2005 - 12:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->T, <BR> <BR>I second the motion: rehab does not work for these sick people. <BR> <BR>We must study them and unlock the area of the brain causing this behavior. Until that happens this will remain the highest repeat offense on the planet.  .  .  and to the most helpless victims.<!--/Text--></td></tr>
+<!--/Post: 12333-->
+<!--Post: 12334--><!--Time: 1111998725-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12334"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 28, 2005 - 12:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->These people can not be rehabed back into society.  .  .  <BR> <BR>IMO the key in the next generation of ideas for &#34;corrections&#34; will be the use of virtual reality tools and or robotics.  .  .   <BR> <BR>Until we isolate the part of the brain that creates pleasure through child molestation and killing, we can only use &#34;substitutes&#34; for the offender&#39;s targets. <BR> <BR>Simply put instead of trying to retrain these sick people we replace live children with virtual reality software/hardware which allows them to fullfil their &#34;needs&#34; upon equipment.  <BR> <BR>Consequently the medical community can study these deviants further. The key idea is that this equipment be made available before a deviant offends. One time offense needs to be life without parol depending upon the circumstances.  .  .  just my opinion.<!--/Text--></td></tr>
+<!--/Post: 12334-->
+<!--Post: 12360--><!--Time: 1112076931-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12360"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 28, 2005 - 10:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lust is the craving of salt water by a man dying of thirst. Just watching will not quench their thirst for sex or killing. They want the real thing. &#40; I believe in the old fashioned lobotomy in these cases.&#41; Watching will just inflame them, like feeding oxygen to an already raging inferno. Gacy&#39;s brain was analyzed and reported to be &#39;normal&#39;. This is a condition of the human heart, along with childhood experiences, and probably some physiology. And the individual parts identified will often not fully account for the whole person. <BR> <BR>I can understand why Lucas was a killer. Yet Wesley Dodd stated that he had a good home life and parents, and they were not responsible for his actions. He declined the reprieve given him and went to the gallows. He probably knew that he would continue to kill and forced the State&#39;s hand. I do not know if any analysis was done on him in terms of physiology, autopsy, etc. Perversion is a deeply ingrained evil. Sadly, where would one start? No one will thoroughly unravel the workings of BTK either. Everyone seems to agree that he was an a&#42;&#42;hole and egomaniac, but how does that translate into brutal predator, killer, loving son/husband/father, and Boy Scout leader? <!--/Text--></td></tr>
+<!--/Post: 12360-->
+<!--Post: 12363--><!--Time: 1112091780-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12363"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tallulabay<!--/name--></b></a><br>Username: <!--field:uname-->Tallulabay<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 29, 2005 - 2:23 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Statistical handbook for  diagnosing these disorders is what we use. However, brain and behaviour by Carlson gives a more defined view of behaviours as conditioning. Like a rat at birth who learns food comes from being electrocuted, its brains seeks pain to gain pleasure if that is the only way. It gets a neurochemical charge called salient &#39;wanting&#39;. Now some will say that is text book stuff and it is, unless you have experience inside this culture from close quarters hence victims, working partners and those predators themselves give the best insight. <BR> <BR> <BR>Great work has been done on the condition of abandonment rage versus humiliation in homicides. This rage can be found to have stimulated manic depressive violence on minute rejection or stigma, as simple as looking away, or down at someone, getting a parking space, being the loved one this one will never be as socially a misfit. These people blend in to be so NORMAL,as Bundy did and Rader, but what they desire, lust after, yearn for is celebritism as medal winners, hero and powerful overt personality. They fail, as Zodiac failed as comic book characters as the fictionalised Jack the Ripper did in the 19th century. They became myths and become myths.  <BR> <BR> <BR>They fall at the next sensationalist serial killer and fall when great humanitarians rise and are in focus, fame is gone. So they make it. <BR> <BR>Look at any story today and look who is in the news and his or her vocation, then ask why they  come to the forefront. Money, fame, and prospects. They are not Nobel Prize winners or a decorated hero. Nor are they free from their own ghosts of past humiliations in failure,so hey grasp this money train or fame train whilst the cameras are rolling. For someone  is paying attention to them. That is why covert has to overt action in predators as they need attention like the rat in the trap waiting for the hatch to open, and the footplate spring. <!--/Text--></td></tr>
+<!--/Post: 12363-->
+<!--Post: 12369--><!--Time: 1112111090-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12369"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 29, 2005 - 7:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Your talking about Povlov&#39;s theory of operational conditioning, right? &#40;If I recall correctly his experiment involved pigeons and a dog&#41;. Please explain to us, how a human being conditions himself/herself to repeatedly bind, torture and kill.<!--/Text--></td></tr>
+<!--/Post: 12369-->
+<!--Post: 12370--><!--Time: 1112119653-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12370"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 29, 2005 - 10:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky - perhaps the posters here just somehow feel a need for an explanation on the insanity of Rader&#39;s absolutely senseless killings along with his behaviour and functioning in society...  I think some people just don&#39;t grasp the sensitivity of alot of the posters to this case.  TO us it is not just a case of another serial killer...this man invaded our home town...took lives for no apparant reason...in your case a dear dear friend... in my case - no one I knew - but I still feared for the lives of my beautiful and loving sisters that reside there...SO - I guess some people just need to find a way to get into his mind and figure it all out...when in acutality there will never be any answers...so we can all only ponder and so many good people here just want to figure it all out...compare and anaylize you know?.  Some would like to see the hole he has dug for himself become ever so much deeper is all...so the sleuthing still goes on. <BR>- Still thinking of you and your family Rocky <BR>Take care <BR>sorry about misspellings - I am at work and had to hurry.<!--/Text--></td></tr>
+<!--/Post: 12370-->
+<!--Post: 12379--><!--Time: 1112136618-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12379"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 29, 2005 - 2:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Child molesters and pedifiles do NOT want fame or acknowledgement through notariety. They wish to stay isolated and hidden in plain sight.  .  .  that was my point. Replace the human target with something else.  .  .   <BR> <BR>As far as Rader, Lucas or all the others none compare with the Zodiac.  .  .  Only the Ripper &amp; the Zodiac remain uncatchable and scott free.  .  .  <!--/Text--></td></tr>
+<!--/Post: 12379-->
+<!--Post: 12381--><!--Time: 1112140463-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12381"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 29, 2005 - 3:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have read the rejection theory related to serial killers. If anyone on this board has never experienced rejection, they have truly led a charmed life. We have all had similar experiences. I do give credence to individual differences, reactions, and interpretations of events. However, I will not allow any theorist to provide an excuse for intolerable behaviors. Hitler was a terribly abused child: sorry, no excuse for his actions. Yes, we all would like to know why this fool did the things that he did. But his own words condemn him: he stated that he knew he needed help but was afraid to tell mental health professionals what he had done. He LIKES killing. He LOVES the control and power trip. He was GOD when he was killing. And now he is a pathetic, overweight, bald excuse for a slug who has disgraced all who had to call him &#39;family&#39;, friend, and fellow church member. He has had 2 killing careers: one as BTK and a new one as Dennis Rader. <BR> <BR>I know full well that some broken hearts never mend. The human heart is so small and yet the entire world cannot provide it satisfaction. Nor would I ever treat as insignificant someone&#39;s hurt and pain, particularly that of a child. No theory or amount of research will ever explain these kinds of persons. The more complicated a theory, the less likely it can be disproved.  <BR> <BR>Well, I certainly feel better now. I just love this board. If anyone is in the Houston area, we should all meet for coffee at some Starbucks. And if you are not there when I arrive, don&#39;t feel badly. Unlike BTK, I thrive on rejection. Later..... <!--/Text--></td></tr>
+<!--/Post: 12381-->
+<!--Post: 12410--><!--Time: 1112198172-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12410"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 30, 2005 - 7:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Teardrop...I love this board and I really love your posts...always very enlightening and thoughtful...good perspective. <BR>Wish I was in Houston..I would love to me you at Starbucks...and if no else showed..we could enjoy our rejection together!  <!--/Text--></td></tr>
+<!--/Post: 12410-->
+<!--Post: 12432--><!--Time: 1112217911-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12432"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tallulabay<!--/name--></b></a><br>Username: <!--field:uname-->Tallulabay<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 30, 2005 - 1:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In  reply, the experiment on classical conditioning can best be explained by the vietnam vets who resumed addiction on return to neighbour hoods and neural cues. No, I met and worked with a very mild man, a cook in the military that wacked his daughter with an axe and stove her head in, why no one knows why. Me I have had that meat cleaver at my neck in an early experience so fear can be nothing from that. There is no excuse except that not theory, but actually case histories as precendent show that a trigger is the perception of abandonment by the female figure in early childhood. It is no excuse except to the mind that cannot achieve for he is born bad or she is one would say. To reply in Pavlov, there is also negative as well as positive conditioning and that is why Hitler convinced many of his regime, why it is substantiated by acts far away from society. It is not text book till you feel real fear and then come to study the  effects of fear and rationalise. Psychiatrists cannot help victims  to come to terms, and so the abuse cycle goes on. What is the key is the familiarity of what they do, so  take Shipman, he killed many hundreds in the way his doctor licence let him, by lethal injection, he stole the jeweller for trophies and gain and the inheritance last of all. His downfall as the family was in law practice. So it is that each deluded mind uses tools it knows as usuall and dismissable, be it he or she. Bundy used his intellect and social standing, that is not so much different than Jack the Ripper, who some try to emulate as fictional. He was at his level of artisan, he could be in the presence of law and order and his carriage escape, it is called having friends in the right places. So the rat in the cage need not have to press the leaver, it is done for him by others.<!--/Text--></td></tr>
+<!--/Post: 12432-->
+<!--Post: 12444--><!--Time: 1112234476-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12444"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 30, 2005 - 6:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This all good Tall, but how is it that DTDC conditioned his behavior to act out so violently? What did he do repetetively to alter his behavior? Was he preping himself by reading all of the books on serial killers they found in his shed? Are you suggesting that society &#40;it is done for him by others&#41; helped condition his behavior?<!--/Text--></td></tr>
+<!--/Post: 12444-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/740">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/740" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

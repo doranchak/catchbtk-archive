@@ -1,0 +1,219 @@
+<html>
+<!--Topic: 9/BTK Suspects-->
+<!--Me: 29/~~John Edward Robinson Sr.~~-->
+<!--Level 1: 29/~~John Edward Robinson Sr.~~-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 9-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: ~~John Edward Robinson Sr.~~</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">~~John Edward Robinson Sr.~~</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/9/9.html"><font color="#f7f7f7">BTK Suspects</font></a> &#187;
+~~John Edward Robinson Sr.~~
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=9&page=29"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=9&page=29"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 101--><!--Time: 1085682802-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST101"><font face="Verdana" size="1"><b><!--email--><a href="mailto:ducky54@usachoice.net" target="_blank"><!--/email--><!--name-->Profiler<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Profiler<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 27, 2004 - 11:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hello, I&#39;m new here and I&#39;ve also posted at the newspaper site as profiler2, and the other day I posted things about ~~John Edward Robinson Sr.~~ <BR> <BR>On a balmy morning in early June 2000, Johnson County detective Harold Hughes made a gruesome discovery when he pried open two 55-gallon barrels sitting out in the open on rural property near La Cygne, Kan. to find the decomposing bodies of two women stuffed inside.  <BR> <BR>Two days later, investigators converged on a storage locker just across the state line in Raymore, Mo., and found barrels containing the remains of three more women.  <BR> <BR>Authorities say that John Edward Robinson, Sr., 58, who owned the land and leased the locker, killed a total of six women and sexually assaulted two others in Kansas and Missouri over a period of 15 years. Using the online name of &#34;Slavemaster,&#34; he allegedly lured at least some of them through Internet chat rooms with promises of money and jobs and requests for sadomasochistic sex. <BR> <BR>Nothing publicly known about Robinson&#39;s boyhood suggested he might become America&#39;s first cyber-sex serial killer. The middle child of five in a blue-collar Cicero, Ill., family, his father, Henry Robinson, was a machinist for Western Electric though also, according to court documents, a binge drinker. His homemaking mother, Alberta, was the disciplinarian.  <BR> <BR>The most high point of his childhood was his 1957 trip to London, where as a 13-year-old Eagle Scout, he sang for the Queen of England and received a kiss from actress Judy Garland backstage. He also told British actress Gracie Fields that he planned to study for the priesthood when he finished Quigley Preparatory Seminary in Chicago.  <BR> <BR>Though Robinson attended Quigley, he never got any closer to entering the priesthood, enrolling instead at the Morton Junior College in Cicero in 1961 and training as a medical X-ray technician. He next surfaced in Kansas City in 1964, when at the age of 20 he married Nancy Jo Lynch and started a family. <!--/Text--></td></tr>
+<!--/Post: 101-->
+<!--Post: 102--><!--Time: 1085682831-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST102"><font face="Verdana" size="1"><b><!--email--><a href="mailto:ducky54@usachoice.net" target="_blank"><!--/email--><!--name-->Profiler<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Profiler<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 27, 2004 - 11:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;He didn&#39;t talk a great deal, but when he did talk, it was to produce an effect that he wanted,&#34; Richard Shotke told the Kansas City Star. &#34;He was shrewd. He was aspiring to more than he was capable of, quite frankly.&#34; <BR> <BR>Robinson dropped out of sight for a few years, leaving the Catholic prep seminary in favor of a trade school, where he planned to learn the radiology profession. Robinson never finished his training, but that didn&#39;t keep him from getting a job as an X-ray technician outside Kansas City, Missouri. It was 1965 and was the first time Robinson was known to have perpetrated a fraud. <BR> <BR>Dr. Wallace Graham was a busy physician with a thriving practice when he offered Robinson a job as an X-ray technician in 1966. <BR> <BR>Between 1969 and 1991, he was convicted four times for embezzlement or theft, and was barred for life by the Securities and Exchange Commission from engaging in any kind of investment business. Some of his thefts were small -- he lost his job with Mobil Corporation for stealing $300 in stamps -- while others were more significant. <BR> <BR>&#34;He had no real employment, unless you consider figuring out ways of scamming people out of their money to be real employment,&#34;  <BR> <BR>The feds sent a female agent undercover to meet with &#34;JR&#34; as he was known in the sex business and he promised the agent that she could easily make more than $1,000 a night by entertaining his clients if she could tolerate pain. <BR> <BR>In the corrections system, Robinson continued to lie and use his skills to hoodwink prison officials and ingratiate himself with a future victim, a prison librarian.  <BR> <BR>You can see there are so many similarities between this man and BTK that it&#39;s almost a match.  He killed before he did the internet cyber &#34;Slavemaster&#34; thing.  He was 21 at the time of the BTK killings.  He worked as an X ray tech.  He was so into himself that it wasn&#39;t even funny, and he also had a way with the ladies, that even included a librarian.  It&#39;s just strange and so I thought I&#39;d toss it out.  I also have a website with missing and murdered people on it, as well as john and jane doe&#39;s from all over the country. <BR> <BR>If your into helping people, please come there and see if you recognize anyone or anything that could bring the missing home. <BR> <BR><a href="http://mysticsnowangel.proboards27.com/" target=_top>http://mysticsnowangel.proboards27.com/</a><!--/Text--></td></tr>
+<!--/Post: 102-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="9/29">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=9/29" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

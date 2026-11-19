@@ -1,0 +1,290 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 773/Rethinking the U.S. penal system [making it work]-->
+<!--Level 1: 773/Rethinking the U.S. penal system [making it work]-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Rethinking the U.S. penal system [making it work]</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Rethinking the U.S. penal system [mak...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Rethinking the U.S. penal system [making it work]
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=773"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=773"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 12868--><!--Time: 1113464963-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12868"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 14, 2005 - 12:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Posted on Thursday, April 14, 2005 - 12:20 am:      <BR> <BR>-------------------------------------------------- ------------------------------ <BR>Seeing as there are weeks if not months if not years before the actual trial starts and some new facts come to light&#40;don&#39;t miss the arraignment this next Tuesday&#41;, and I find myself starting to blither &#40;as in blithering idiot&#41;, I&#39;m fixing to start a new string dealing with an idea I have been working on to revamp the penal system. This has been in the back of my brain for years and I feel that with the proper spin, I can tie it in to the BTK case &#40;if only tenaciously&#41;.  <BR> <BR>The basic concept will be:  <BR> <BR>One of the basic ways to judge the quality a civilization is by its penal system &#40;paraphrased from quote by some famous person [who probably spent a lot of time in jail]&#41;.  <BR> <BR>The federal government would take over the long term incarceration and administration of repeat offenders. A self-sustaining system of prisons would be built, each housing only one type of prisoner &#40;burglars,armed robbers,murderers, rapists, etc.&#41;so as to eliminate the cross-training and hardening of prisoners that takes place in general population.  <BR> <BR>Each prison would also have external research and teaching facilities to allow psychologists to study and treat the prison population.  <BR> <BR>In this penal utopia I can also envision communities where it would be possible to actually keep pedophiles &#40;permanently&#41;in a restricted,yet humane environment &#40;void of children&#41; and each prison would become the worldwide hub of expertise for each particular type of crime, thus making it possible to sentence criminals to &#34;grades of penalties&#34; based on their degree of severity and possibility of the redemption of the offender.  <BR> <BR>The whole idea is a potential political hot potato because of state jurisdiction versus federal, but seeing that most states are being bankrupt by their prisons, most would be happy to have the Fed pick up the tab.  <BR> <BR>Feel free to critique. I would love to see the concept debated to death.   <BR> <BR>   <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12868-->
+<!--Post: 12873--><!--Time: 1113488613-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12873"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bluepup<!--/name--></b></a><br>Username: <!--field:uname-->Bluepup<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 14, 2005 - 7:23 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->well Bmod,  <BR>ya know I don&#39;t agree with alot of your posts LOL but I gotta give credit to a good idea. This is a good one. It might be a little bit too much &#34;across the board&#34; as far as burglars and armed robberies, but even if it could be put in place for just murderers, rapists, and pedophiles/sexual predators that would be a good start. Then if that worked, maybe they would put it in place for other crimes also. You should send your idea to DOJ or Federal Dept. of Corrections &#40;?&#41; or whichever appropriate agencies and/or legislative bodies make policies and changes to the penal system.<!--/Text--></td></tr>
+<!--/Post: 12873-->
+<!--Post: 12874--><!--Time: 1113498743-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12874"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lizzie<!--/name--></b></a><br>Username: <!--field:uname-->Lizzie<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 14, 2005 - 10:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->just remember that sometimes child molesters are arrested for other things like burglary sometimes, and in that sense it could be tricky to be sure you have the right person going to the right facility. I have noticed that many times in the past when a person is finally connected to something like child abduction, rape, or murder that their past record of convictions are for different types of crimes than these, like domestic violence or burglary.  <BR>But i definitely agree that sentencing in the prisons needs to be looked at again. I would also like to see increased sentences for child molesters and rapists becauise many of these offenders get out quicker than people arrested for drugs. I also think that when people such as sex offenders are released, if they do not register, their information should be available to everyone across the country &#40;like local info is available through Megan&#39;s Law&#41; because they may have moved into your neighborhood and they should not be entitled to privacy if they don&#39;t register.<!--/Text--></td></tr>
+<!--/Post: 12874-->
+<!--Post: 12875--><!--Time: 1113499158-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12875"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 14, 2005 - 10:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Before sending it anywhere I want to detail some aspects such as required infrastructure and administration and so forth. I&#39;m hoping to get some feedback in regards to the breakdown of who is compatable with whom, from some of the more psychologically inclined posters. <BR> <BR>Since visitation rights will be an issue, I&#39;m thinking of tying in a modern passenger and fright rail system to accomodate familys and supplys. <BR> <BR>Afew other odds and ends like university/health care tie-ins and of course funding &#40;which will not be as astronomical as you might think&#41;. Since it would be Federal tax money spent to create jobs about 25% would return as new tax money directly, the rest would pump the economy to create more jobs and some would return as tax revenue. Probably close to the equal of the rest is being spend directly or indirectly on inefficient prisons &#40;or their residents&#41;now. <BR> <BR>I figure if done properly. the prison population now will be the all-time peak. The way things are done now: a petty thief goes to jail for a few years and is released as a hardened cross-trained criminal with more criminal connections than he had going in. Society is screwing it&#39;s self with this approach. <BR> <BR>A comprehensive overhaul of the penal system would not only lower the crime rate and prison population, it might win the U.S. back some of it&#39;s &#34;enlightened&#34; standing in the global community &#40;spreading democracy and regime change just ain&#39;t getting it <!--/Text--></td></tr>
+<!--/Post: 12875-->
+<!--Post: 12876--><!--Time: 1113500040-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12876"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 14, 2005 - 10:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think the main idea would be to keep the less violent and ardened from becoming worse. When I mentioned the child molester thing I was thinking more in terms of an actual city that would house repeat offenders who were either unfit to return to society or chose to live there for their own good. They of course would not come and go as they pleased, but might be allowed to take supervised or unsupervised trips according to their status. It would essentually be to keep them from society, but would operate as a town or city, where they would have jobs and homes.<!--/Text--></td></tr>
+<!--/Post: 12876-->
+<!--Post: 12882--><!--Time: 1113550828-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12882"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 15, 2005 - 12:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bmodule: I commend you for starting to create new ideas for improving our U.S. prison quagmire. We need fresh new thinking in this area. <BR> <BR>One major problem I can forsee in your idea to have a seperate prison for &#34;only one type of prisoner &#40;burglars,armed robbers,murderers, rapists, etc.&#34;: <BR> <BR>You would be giving each type of criminal a huge &#34;team&#34; of experts in his area of crime to live &amp; get strategies from day in &amp; day out. This would create a super-college for burglars, rapists, etc. to perfect their craft! So a burglar who was imprisoned in your &#34;burglars-only&#34; &#39;retreat&#39; &#40;lol&#41; for say 5 years, would come out a far superior burglar than what he could ever hope to acheive in todays &#34;mixed&#34; jails. He would be infinitely more skilled in breaking &amp; entering; exactly how &amp; where to best sell his stolen goods &amp; how to avoid detection , etc. In short he would come out after 5 years a &#34;super-burglar&#34; &#40;or &#34;super-rapist&#34;, etc.&#41;! Can&#39;t have that. <BR> <BR>But let&#39;s keep pounding away at this thread with other good, new ideas.<!--/Text--></td></tr>
+<!--/Post: 12882-->
+<!--Post: 12885--><!--Time: 1113571591-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12885"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 15, 2005 - 6:26 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sexual predators/pedophiles/rapists should be in solitary, isolated from each other, etc. Those persons can never be rehabilitated to the point that they can be returned to society. And society does not want them back. I think that some of your points are great. Punishment is effective when it is swift and sure. Unfortunately, with all the &#39;rights&#39; of the perps, they get many more chances than they gave their victims. It is time that victims&#39; rights preceded those of the criminals. During Vlad the Impalers reign, he eliminated crime within his country. No bodied screwed with him: swift and sure. <BR> <BR>Your idea of separate cities dates back to Bible times, when God created such cities for those accused of murder. They were safe in their cities, but on their own if they left. Perhaps prisons like those of the Tombstone jail would prevent offenses.<!--/Text--></td></tr>
+<!--/Post: 12885-->
+<!--Post: 12886--><!--Time: 1113574109-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12886"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Phoenix<!--/name--></b></a><br>Username: <!--field:uname-->Phoenix<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 15, 2005 - 7:08 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bmodule: <BR> <BR>1.	Legalize all drugs.  Decriminalize all drug offenses, pardon/parole everyone convicted for drug offenses.  Restrict access the same way we do alcohol, and deal with drug abuse the same way.  Use the savings in the penal system to fund local non-prison treatment centers.  You’ve now lowered the prison population by 40%. <BR>2.	Allow everyone awaiting trial to be released on electronic monitoring unless confinement is necessary for his or her protection. Maybe another 10% <BR>3.	Decriminalize small property offenses &#40;shoplifting etc.&#41; so that there is NO jail time.  That lets you get rid of lawyers and shift to neighborhood courts that can only impose community service and fines. <BR> <BR>Once we’ve cut prison populations by half, use the money to provide more treatment and therapy for the remaining inmates. <BR> <BR>Use the savings to provide assistance for the families of inmates.  Help with visitation so the parent/child/spousal bond is maintained. <BR> <BR>Give meaningful job training and skills to inmates so that they CAN earn a living after they are released.  Use the @#$ tax code to give tax credits to employers who hire inmates after release. <BR> <BR>For violent offenders, go back to a system of longer sentences &#40;Indeterminate vs. Guidelines for legal types&#41; BUT have each inmate undergo a THOROUGH medical and psychological exam. <BR>1.	Identify organic brain damage, epilepsy, ADHD, etc and TREAT them. <BR>2.	Identify treatable psychological issues and provide the treatment. <BR>3.	Base early release on measurable progress in therapy instead of Parole Boards staffed with people who understand they will be fired if too many people are paroled. <BR> <BR>Get rid of the %^&amp;&#42;&#42;&#40;&#41;@#$ death penalty.  Its barbaric, it turns us into a nation of serial killers, and it drains enormous financial resources from every aspect of the judicial system.  Recognize that there are some people who can never be effectively treated and lock them up forever.  Many states are using psych evaluations to identify sexual predators and are using civil commitment proceedings to place them in secure treatment facilities until/unless cured.  There is no reason the same process can’t be used on violent offenders.   <BR> <BR>Change our attitude that just locking violent people up REALLY protects society.  Realize those prisons are just pipelines: once they’re full, one gets out when one goes in.  Every day we lock someone up for our protection, we are turning that person loose on society in ten/whatever years.  The day that person gets locked away, another person finishes their sentence and is released; a problem that was deferred ten/whatever years ago is in our laps now.   <BR> <BR>Change the way we stigmatize people with criminal records so that they can get employment and medical care; support their families. <BR> <BR>Our penal philosophy comes from an era when there was no treatment for antisocial behavior.  Quarantine was the only option.  To continue this philosophy when treatment is available is wrong. <BR> <BR>Phoenix  <BR><!--/Text--></td></tr>
+<!--/Post: 12886-->
+<!--Post: 12888--><!--Time: 1113576543-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12888"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 15, 2005 - 7:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Phoenix for President! <BR> <BR>Come on 2008! <BR> <BR> <BR>LameDog <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12888-->
+<!--Post: 12915--><!--Time: 1113714101-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12915"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, April 16, 2005 - 10:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Phoenix: I agree in part with your statement and disagree in part as well. Do you really believe that legalizing crack, coke, acid, and herion will preserve public order. After all our penal system was established to maintain public order. <BR> <BR>If anything those drugs are all known to create violence. What do we do with the crack heads that kill, rob and mame to obtain their drug of choice?<!--/Text--></td></tr>
+<!--/Post: 12915-->
+<!--Post: 12918--><!--Time: 1113743813-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12918"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dlee<!--/name--></b></a><br>Username: <!--field:uname-->Dlee<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, April 17, 2005 - 6:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Interesting thread.You have some good Ideas Bmodule.As a state correctional officer I can tell you that many of the Psychological screening and counciling programs you envision are already in place as well as training programs and schooling. <BR>At the institution Im employed at there are also theraputic groups dealing with everthing from substance abuse to sexual offenders to anger management. <BR>Many Dept.s are expanding Theraputic community programs as well. <BR>But like with anything else,these tools are only useful to someone who wants to change and is resolved to do it. <BR>You cant force resocialization or rehabiltation on people. <BR> Also,I can also tell you from experience that however Un-PC you may find it, some people are just flat out Evil in every sense of the word and enjoy hurting other people and will not stop unless forced to. <BR>Sex offenders are a problem to deal with because generally they may exibit no other anti social behavior on the outside other then their sex crimes.Perfect chameleons. <BR>They behave the same way inside and are generally model inmates.They program and school diligently ussually recieve few diciplinary write ups and generally qualify for parole at the earliest possible date. <BR>Then generally re-offend first chance they get. <BR>Judges have alot to do with this as well.  <BR>Its frustrating to watch a predatory sex offender top out a flat ten year sentence and reeenter society then see a drunk 22 year old have to flatten a fifteen year sentence for stealing a motor cycle  <BR>engine or something. <BR>Happens all the time though.<!--/Text--></td></tr>
+<!--/Post: 12918-->
+<!--Post: 12921--><!--Time: 1113758813-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12921"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Phoenix<!--/name--></b></a><br>Username: <!--field:uname-->Phoenix<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, April 17, 2005 - 10:26 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->They commit crime as a means to get drugs.  A crack-head wants crack not car stereos.  The idea would be to criminalize abuse not use.   <BR> <BR>In the early 1900s cocaine was an ingredient in CocaCola, about 60mg/serving.  There weren&#39;t epidemics of crazed soda pop users killing and robbing to get their fix. <BR> <BR>Phoenix<!--/Text--></td></tr>
+<!--/Post: 12921-->
+<!--Post: 12928--><!--Time: 1113782448-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12928"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Phoenix<!--/name--></b></a><br>Username: <!--field:uname-->Phoenix<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, April 17, 2005 - 5:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky: <BR> <BR>I re-read my post, I didn&#39;t mean it to sound sarcastic.  Sorry. <BR> <BR>IMO, the only effect current drug policy has is to push the cost of cocaine so high that people turn to crime to support a habit.  If the police and prosecutors do their job, the user goes to prison where we spent 30 to 40 thousand a year to keep them.  &#40;That doesn&#39;t count the cost of public assistance for their families.&#41; <BR> <BR>Meanwhile the $ that get spent on drugs go to foreign cartels and the amounts are so massive that some governments have been controlled by drug money. &#40;Panama? Noriega?&#41; <BR> <BR>I mean, really, what are the results of our &#34;War on Cocaine&#34; other than incarcerating thousands of people and sending billions of $ south? <BR> <BR>Legalize it, build the cost of regulation and treatment into a sales tax, and the criminal part of this goes away. <BR> <BR>Phoenix <BR><!--/Text--></td></tr>
+<!--/Post: 12928-->
+<!--Post: 12945--><!--Time: 1113813680-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12945"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dlee<!--/name--></b></a><br>Username: <!--field:uname-->Dlee<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 18, 2005 - 1:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I would agree the &#39;War On Drugs&#39; is a complete failure.Right now our courts and jails and correctional facilities in the northwest are being clogged with people convicted of manufacturing and using methamphetamines. <BR>Plus the fall out of people turning to crime to support their habits. <BR>Its ravaging the rural parts of the country. <BR>I dont know what the answer is. <BR>Many of these people have no criminal record and find themselves doing 30 to life for manufacturing.  <BR>On the other hand ive always thought it was absurd to have marijuana illegal but you can buy Jack Daniels over the counter. <BR>I&#39;ll bet if the tally for the various costs to the court and penal systems and drain on the various social services is from alcohol abuse,it would put many of the illegal drugs in deep shade. <BR><!--/Text--></td></tr>
+<!--/Post: 12945-->
+<!--Post: 12950--><!--Time: 1113833547-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12950"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Phoenix<!--/name--></b></a><br>Username: <!--field:uname-->Phoenix<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 18, 2005 - 7:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dlee: <BR> <BR>It&#39;s the same in the midwest with meth.   <BR> <BR>One particularly nasty side-effect of the incredibly long sentences: people are afraid to ask for help treating a meth addiction; family/friends are reluctant to go to the authorities for help because they fear prosecution. <BR> <BR>IMO drug use/abuse should be a public health/medical issue. <BR> <BR>Phoenix<!--/Text--></td></tr>
+<!--/Post: 12950-->
+<!--Post: 12953--><!--Time: 1113839306-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12953"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 18, 2005 - 8:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Phoenix, I didn&#39;t take it as sarcastic, but thank you for your consideration. When we had my mothers funeral last summer in Park City, I seen people that I grew up with whose lives had been destroyed by meth. So even in Park City the meth labs have begun to take it&#39;s toll within the Penal System.  <BR> <BR>I agree with you that the petty drug offenses should be directed away from the major drug offenses and maybe even legalize marijuana. On the other hand, doesn&#39;t marijuana <BR>lead to bigger and better drugs of choice? <BR> <BR>I do agree with your ideas of rehabilitation after a person has done time for a crime. I&#39;ve seen first hand how difficult it is for someone to become a productive individual in society after serving time on a marijuana charge. It seems incredibily unfair. But at the same time, would you want someone that&#39;s been released on a drug charge flying down the road at 75 mph in a big rig, after they failed another UA? <BR> <BR>Your right, our penal system does come from an era when there was no treatment for anti-social behaviour. I hear from educators, LE, and others that times have changed. However, I agree with Dlee - you can&#39;t force resocialization or rehabiltation on people.<!--/Text--></td></tr>
+<!--/Post: 12953-->
+<!--Post: 12961--><!--Time: 1113880085-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12961"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 18, 2005 - 8:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Legalize it! <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12961-->
+<!--Post: 12963--><!--Time: 1113882382-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12963"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 18, 2005 - 8:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->LD - you sure? Again, the thought of Rader runnin around on meth could raise the hair on your back! On the other hand, a lil mj may have straightened out the mis-firings in his brain. <BR> <BR>Hey, shouldn&#39;t we be raising our teenagers to say &#34;no&#34; to drugs?<!--/Text--></td></tr>
+<!--/Post: 12963-->
+<!--Post: 12971--><!--Time: 1113889290-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12971"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 18, 2005 - 10:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Coca Cola never had 60 milligrams of cocaine per serving in the early 1900&#39;s or at anytime. <BR>When John Pemberton was first selling his concoction in 1886 at an Atlanta soda fountain in a drug store it contained cocaine but no where near that ammount. He was selling on an average nine glasses a day when it was introduced.  <BR>When Asa Griggs Candler bought all the rights to Pembertons formula and formed the Coca Company in 1888 the company grew and by 1895 he was selling the equvilent of 5 million glasses per day. His recipe contained 8 and a half millegrams of cocaine per serving. 3 glasses would equal about a line of cocaine. <BR>In 1901 the company began using a decocanized coca leaf, this was spent leaf with the cocaine removed as opposed to the fresh leaf. This resulted in a trace of cocaine so that by 1902 Coca Cola contained 1/400 of a grain of cocaine.  <BR>There was no epidemic of crazed soda pop drinkers in the early 1900&#39;s because they got higher off the caffine and sugar than they did the negligible ammout of cocaine residue found in their Coca Colas.  <!--/Text--></td></tr>
+<!--/Post: 12971-->
+<!--Post: 12982--><!--Time: 1113915240-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12982"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Phoenix<!--/name--></b></a><br>Username: <!--field:uname-->Phoenix<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 19, 2005 - 5:54 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Johno <BR> <BR>1/400 of a grain equals 64.798611111 mg <a href="http://www.admiralmetals.com/metric_conv.htm" target=_top>http://www.admiralmetals.com/metric_conv.htm</a> <BR> <BR>Phoenix <BR><!--/Text--></td></tr>
+<!--/Post: 12982-->
+<!--Post: 13004--><!--Time: 1113943703-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13004"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 19, 2005 - 1:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wrong. <BR> One grain = 64.8 milligrams. <BR>1/400 grain = 2/30 milligram. <BR><!--/Text--></td></tr>
+<!--/Post: 13004-->
+<!--Post: 13009--><!--Time: 1113960854-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13009"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Phoenix<!--/name--></b></a><br>Username: <!--field:uname-->Phoenix<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 19, 2005 - 6:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Johno <BR>I think you&#39;re right. The metric converter at the website I was using gives a different answer than any other.  However: <BR> <BR>In 1885, John Styth Pemberton registered French Wine Cola in the US The popular product, which contained &#42;60 mg of cocaine&#42; per 8-ounce serving, was later renamed Coca-Cola.  Source: <a href="http://www.emedicine.com/emerg/topic102.htm" target=_top>http://www.emedicine.com/emerg/topic102.htm</a> <BR> <BR>My research agrees with your statement as of the 1902 date.  I can&#39;t find anything that contradicts the initial cocaine load in coca-cola.  Would you mind sharing the source that coca-cola never had 60 mg per serving at any time? <BR> <BR>Phoenix   <BR><!--/Text--></td></tr>
+<!--/Post: 13009-->
+<!--Post: 13010--><!--Time: 1113962780-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13010"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 19, 2005 - 7:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I read where a chief chemist of Candler&#39;s in the 1890&#39;s wrote in his notes where the recipe called for what would be the equivilant of 8 and 1/2 milligrams of cocaine per serving. I never found how much was in Pemberton&#39;s original coca wine or his later coca soda that would go on to become Coca Cola under Candler. <BR>I just engine surfed as many Coca Cola and cocaine stories as I could find. One story cited that 60 milligram figure as an urban myth so apparently it&#39;s been around for a while. <BR>Since I could not find what Pemberton used in his french wine and soda in the 1880&#39;s it may very well have been that high in content. Also the sugar contents in both accelerated the cocaine effects. Candler had at one time stated that he would never completley remove it from his Coca Cola recipe. <!--/Text--></td></tr>
+<!--/Post: 13010-->
+<!--Post: 13017--><!--Time: 1113969306-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13017"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Phoenix<!--/name--></b></a><br>Username: <!--field:uname-->Phoenix<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 19, 2005 - 8:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Johno <BR> <BR>I was intrested to learn how many products contained cocaine.  The sense I get from my limited research is that the main problems with cocaine were medical not criminal. <BR> <BR>Phoenix<!--/Text--></td></tr>
+<!--/Post: 13017-->
+<!--Post: 13025--><!--Time: 1113975713-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13025"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 19, 2005 - 10:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lots of products had it and it&#39;s problems were medical its abuse, criminal in its abuse and association and racist in its perception. <BR>Two things happened at almost the seame time, in 1860 a technique was devised for isolating cocaine from the coca leaf and creating a powder and in 1863 a tonic drink called the Vin Mariani was introduced from blended coca leaves in a bordeaux wine. <BR>The Vin Mariani was a cure-all tonic and the powder was put in other pharmacutical products and cocaine was used as an all purpose stimulant, cure for depression, hayfever, asthma, indegestion, malnutrition, opium addiction and alcoholism and as a local anesthetic. <BR>In these moderated forms there was no medical, criminal or addictive problems associated with it. <BR>Physcians and druggists themselves began injecting it and causing among themselves nerve tissue damage, hallucinations, delusions, emaciation, addiction and in extreme toxicity, death. <BR>As a stimulant it worked its way into the white underworld and its use became associated with a criminal element that was already established. Also many opiate users and alcoholics using it to get off opium, herion and alcohol continued using those as well resulting in additional deaths. The underworld criminal element also began injecting toxic doses resulting in death and addiction. <BR>In the south black slaves used to chew on coca leaves to ease the burden and drudgery of their work. Many plantations had coca leaves on stock to provide them to their slaves. This continued in the post Civil War freed slave era in the south. Powdered cocaine found its way into some of the black southern population as it had in some of the white northern population and a racist fear was established in newspapers in the late 19th century and early 20th century of blacks under the influence of cocaine as a threat to the white population. <BR><!--/Text--></td></tr>
+<!--/Post: 13025-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/773">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/773" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

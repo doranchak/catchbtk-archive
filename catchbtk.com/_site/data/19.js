@@ -1,0 +1,1 @@
+window.CBTK={"page":"19.html","title":"catch BTK .com -- P.J. WYATT","archive":"../index.html","versions":[{"t":"20041208215408","e":"20041208215408","n":1,"f":"history/19~20041208215408.html","a":0,"d":0,"sa":[],"sd":[]}]};

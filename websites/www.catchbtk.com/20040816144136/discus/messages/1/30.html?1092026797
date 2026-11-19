@@ -1,0 +1,242 @@
+<html>
+<!--Topic: 1/General BTK discussion-->
+<!--Me: 30/Crime Links-->
+<!--Level 1: 30/Crime Links-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Crime Links</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Crime Links</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK discussion</font></a> &#187;
+Crime Links
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=30"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=30"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 105--><!--Time: 1085685595-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST105"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 27, 2004 - 12:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If anyone has any links, let&#39;s put &#39;em here.  <BR> <BR>&#40;Since many sites deal with more than one case, the link doesn&#39;t necessarily have to be specifically about BTK.&#41;<!--/Text--></td></tr>
+<!--/Post: 105-->
+<!--Post: 103--><!--Time: 1085683214-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST103"><font face="Verdana" size="1"><b><!--email--><a href="mailto:ducky54@usachoice.net" target="_blank"><!--/email--><!--name-->Profiler<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Profiler<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 27, 2004 - 11:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here is my site on missing, abducted, murdered, john and jane doe&#39;s and many more issues.  Please don&#39;t hesitate to visit and post any thoughts or helpful things to find the missing. <BR> <BR>I montor the site, and don&#39;t allow anything negative directed at others, if that happens you will be banned.  Thanks  Profiler  aka:  Mystic <BR> <BR><a href="http://mysticsnowangel.proboards27.com/" target=_top>http://mysticsnowangel.proboards27.com/</a><!--/Text--></td></tr>
+<!--/Post: 103-->
+<!--Post: 107--><!--Time: 1085687637-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST107"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Laoise<!--/name--></b></a><br>Username: <!--field:uname-->Laoise<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 27, 2004 - 12:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.francesfarmersrevenge.com/stuff/serialkillers/" target=_top>http://www.francesfarmersrevenge.com/stuff/serialk illers/</a> <BR> <BR>This is probably one of the most thorough serial killer sites ive seen. They do have a page on BTK...nothing we dont already know tho... But if you are into learning about SK&#39;s...this is the site to be at.... <BR> <BR>besides i LOVE the link asking if you&#39;re a serial killer and want to share you story...click here...lol!<!--/Text--></td></tr>
+<!--/Post: 107-->
+<!--Post: 139--><!--Time: 1085949031-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST139"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Weeza<!--/name--></b></a><br>Username: <!--field:uname-->Weeza<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 30, 2004 - 1:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->‘All that is necessary for the triumph of evil is that good men do nothing’  <BR>— Edmund Burke <BR><a href="http://www.wm3.org" target=_top>www.wm3.org</a> <BR>  <BR>Join me at - Cold Cases Discussion Group <BR><a href="http://groups.yahoo.com/group/coldcases/" target=_top>http://groups.yahoo.com/group/coldcases/</a> <BR> <BR>Cold cases is a volunteer run investigation group. Most of their cases are gathering dust on police departments shelves, so I volunteer my time along with hundreds of others in an attempt to give the missing and unidentified back their names. You do have to apply to join though. <BR>Their sister site is <BR><a href="http://www.doenetwork.us" target=_top>www.doenetwork.us</a> <BR> <BR>The WM3 case is one I feel strongly about, so please visit their site to learn more.DNA tests are pending in the case.<!--/Text--></td></tr>
+<!--/Post: 139-->
+<!--Post: 140--><!--Time: 1085953532-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST140"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ryan_olesin<!--/name--></b></a><br>Username: <!--field:uname-->Ryan_olesin<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 30, 2004 - 2:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I put a site up about the Alphabet Killer. There&#39;s not much there but then again there&#39;s not much out there on it. <BR> <BR><a href="http://www.olesin.50megs.com/alphabetkiller" target=_top>http://www.olesin.50megs.com/alphabetkiller</a><!--/Text--></td></tr>
+<!--/Post: 140-->
+<!--Post: 141--><!--Time: 1085956586-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST141"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 30, 2004 - 3:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Interesting Ryan, This killer must find a town first,then looks for a victim who has the same first letter in their name? I will be checking your site for up dates. Will you have links to your Zodiac site? I have many people in Kansas, asking to see the picture of the suspect Kane you have.<!--/Text--></td></tr>
+<!--/Post: 141-->
+<!--Post: 143--><!--Time: 1085957479-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST143"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ryan_olesin<!--/name--></b></a><br>Username: <!--field:uname-->Ryan_olesin<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 30, 2004 - 3:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.olesin.50megs.com/zodiac" target=_top>www.olesin.50megs.com/zodiac</a><!--/Text--></td></tr>
+<!--/Post: 143-->
+<!--Post: 708--><!--Time: 1092026797-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST708"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Weeza<!--/name--></b></a><br>Username: <!--field:uname-->Weeza<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, August 08, 2004 - 9:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.preciousdoe.com/" target=_top>http://www.preciousdoe.com/</a> <BR> <BR>The Case of &#34; Precious Doe&#34; Kansas city MS. <BR><a href="http://abcnews.go.com/sections/us/DailyNews/precious_doe010614.html" target=_top>http://abcnews.go.com/sections/us/DailyNews/precio us_doe010614.html</a> <BR> <BR>I&#39;m actually working on publicity for the case of &#34;Precious Doe&#34; out of Kansas City. Mr. Washington is a comic book artist, as well as community activist in the african american community. Please take a look at &#34;Precious Doe&#34; and his site and see if you can help solve a mystery.The second link has other cases deserving of attention as well.  <BR><a href="http://www.omega7.com/" target=_top>http://www.omega7.com/</a> <BR><a href="http://www.omega7.com/html/MissingKids.html" target=_top>http://www.omega7.com/html/MissingKids.html</a><!--/Text--></td></tr>
+<!--/Post: 708-->
+<!--Post: 740--><!--Time: 1092381476-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST740"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Weeza<!--/name--></b></a><br>Username: <!--field:uname-->Weeza<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, August 13, 2004 - 12:17 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->ATTENTION: Nevada and surrounding states <BR>A friend of mine asked me to pass this along... Weeza <BR> <BR>I went to pick up my grandson up by Kansas city and ran into a father <BR>passing out missing flyers of his daughter, Heather Benenhaley. <BR> <BR>date missing: 7-14-04 <BR>birth:5-26-92 <BR>age: 12 <BR>race: caucasian <BR>brown eyes, long blone hair <BR>She went missing from Nevada, Missouri July, 14,04 around 1:30pm She was seen <BR>getting into a semi-truck at a Nevada fuel stop. May be in the company of an <BR>adult male. <BR>    Heather is considered endangered. <BR>The father told me Nevada Pd did not put out an amber alert because they <BR>think she may be a run away! And might have left the area with his 36yr old <BR>brother. <BR>Can Missouri AD try to find something out about why there is no amber alert <BR>on this child? The father is so distraught he looks close to insanity. <BR>Nevada Pd- 417-448-2710<!--/Text--></td></tr>
+<!--/Post: 740-->
+<!--Post: 741--><!--Time: 1092383575-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST741"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Weeza<!--/name--></b></a><br>Username: <!--field:uname-->Weeza<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, August 13, 2004 - 12:52 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.pollyklaas.org/missing/kids/benenhaley.htm" target=_top>http://www.pollyklaas.org/missing/kids/benenhaley. htm</a> <BR> <BR>Picture now available for the missing girl<!--/Text--></td></tr>
+<!--/Post: 741-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/30">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/30" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

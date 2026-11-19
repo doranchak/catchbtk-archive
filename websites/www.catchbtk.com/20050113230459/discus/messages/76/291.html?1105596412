@@ -1,0 +1,285 @@
+<html>
+<!--Topic: 76/BTK Media-->
+<!--Me: 291/Necklace-->
+<!--Level 1: 291/Necklace-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 76-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Necklace</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Necklace</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/76/76.html"><font color="#f7f7f7">BTK Media</font></a> &#187;
+Necklace
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=76&page=291"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=76&page=291"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 3471--><!--Time: 1104947948-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3471"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Analyzer<!--/name--></b></a><br>Username: <!--field:uname-->Analyzer<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 9:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Latest article <BR> <BR><a href="http://www.kansas.com/mld/kansas/news/special_packages/btk/10571781.htm" target=_top>http://www.kansas.com/mld/kansas/news/special_pack ages/btk/10571781.htm</a><!--/Text--></td></tr>
+<!--/Post: 3471-->
+<!--Post: 3473--><!--Time: 1104949616-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3473"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Devbost<!--/name--></b></a><br>Username: <!--field:uname-->Devbost<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 10:26 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><b><i>Police said the necklace is described as a gold chain with two pearls set vertically. Police said it is possible that BTK may have given the necklace to a woman he was dating at the time.</i></b> <BR> <BR>Described by whom? By BTK? Or by someone who knew Fox and described the necklace to police? <BR> <BR>Was the necklace unaccounted for among Fox&#39;s belongings because BTK told the WPD he took it, or did somebody else notice it missing? <BR> <BR>Why do I get the feeling that this is another BTK-inspired wild goose chase? And why is this coming out three weeks following the last communication? Has there been another message from BTK in the meantime that the public hasn&#39;t been alerted to?<!--/Text--></td></tr>
+<!--/Post: 3473-->
+<!--Post: 3478--><!--Time: 1104954460-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3478"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 11:47 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You can bet there&#39;s more jewelry where that came from!  Perhaps another sign that your boyfriend is BTK, ladies of Wichita, is that he is regularly giving you jewelry he probably can&#39;t afford. <BR> <BR>Are we getting more insight into BTK&#39;s signature here? <BR> <BR>I wonder why WPD seems to imply that the necklace was given away almost immediately, rather than some time long after the crime?<!--/Text--></td></tr>
+<!--/Post: 3478-->
+<!--Post: 3490--><!--Time: 1104964107-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3490"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brazilian<!--/name--></b></a><br>Username: <!--field:uname-->Brazilian<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 2:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->And what about the music playing when you enter catchbtk.com. <BR>Anyone know it?<!--/Text--></td></tr>
+<!--/Post: 3490-->
+<!--Post: 3492--><!--Time: 1104964689-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3492"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 2:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;Pearl Necklace&#34; by ZZ Top <BR> <BR>iq<!--/Text--></td></tr>
+<!--/Post: 3492-->
+<!--Post: 3516--><!--Time: 1104973352-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3516"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dorothy<!--/name--></b></a><br>Username: <!--field:uname-->Dorothy<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 5:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I posted a link to the similar looking necklace on another forum today.  I think that&#39;s where Tom must have gotten his photo. <BR> <BR><a href="http://tinyurl.com/4xo4h" target=_top>http://tinyurl.com/4xo4h</a> <BR> <BR>aka TheresNoPlaceLikeHome<!--/Text--></td></tr>
+<!--/Post: 3516-->
+<!--Post: 3519--><!--Time: 1104974155-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3519"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Researcher<!--/name--></b></a><br>Username: <!--field:uname-->Researcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 5:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The story is that Nancy Fox treasured that neclace. It is likely that she was wearing it the night that she was murdered having just come from her second job at the jewelry store.  BTK could have grabbed it from her bureau, but out of all the pieces that she musy have had it is to much of a coincidence that he could have grabbed the one that meant so much to her. <BR> <BR>Don&#39;&#39;t know anything about ladies jewls and stuff, nor how popular and available that pice was, but I can see hundreds of gals in Wichita rumaging through their jewelry box tonight and wondering.  Hell - I can&#39;t remember what I received last Christmas - or for that matter - what I had for breakfast last Saturday. Let alon over twnety-five years ago. <BR><!--/Text--></td></tr>
+<!--/Post: 3519-->
+<!--Post: 3523--><!--Time: 1104974535-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3523"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Researcher<!--/name--></b></a><br>Username: <!--field:uname-->Researcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 5:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->devbost - supposedly the neclace in question is the one that Nancy Fox is wearing in the photo on this site and also on other BTK boards.  The WORD has it that it was BTK himself who spoke about it on one of his communications.  The fact that the WPD is now asking - begging - for assistance in this matter is itself interesting.  A step at a time I guess.<!--/Text--></td></tr>
+<!--/Post: 3523-->
+<!--Post: 3524--><!--Time: 1104974738-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3524"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 5:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Go to this page on this forum: <BR> <BR><a href="http://www.catchbtk.com/news.html" target=_top>http://www.catchbtk.com/news.html</a> <BR> <BR>and then klick on : <BR>Here is a high-res picture of Nancy wearing the necklace. <BR> <BR>Then you get a picture of nancy Fox with the pearl necklace I presume is the one in question.<!--/Text--></td></tr>
+<!--/Post: 3524-->
+<!--Post: 3549--><!--Time: 1104996308-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3549"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Devbost<!--/name--></b></a><br>Username: <!--field:uname-->Devbost<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 11:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Researcher: <BR> <BR>Thanks for the additional info. It makes a lot more sense knowing that detail. <BR> <BR><b><i>I can see hundreds of gals in Wichita rumaging through their jewelry box tonight and wondering. Hell - I can&#39;t remember what I received last Christmas - or for that matter - what I had for breakfast last Saturday. Let alon over twnety-five years ago.</i></b> <BR> <BR>We should be so lucky if there&#39;s some woman in Wichita rummaging through her jewelry case thinking &#34;Where on earth is that necklace that I got from that creepy guy I dated for a couple weeks in 1978...&#34;<!--/Text--></td></tr>
+<!--/Post: 3549-->
+<!--Post: 3551--><!--Time: 1104999229-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3551"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 12:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Don&#39;t count your BTK escapes before they hatch.  Trust me - my wife loves her jewelry, no matter how expensive or cheap the piece.  If she were a guy, I&#39;d say she had a jewelry fetish.  She remembers each and every piece, where it came from, which creep &#40;including me, I guess&#41; gave it to her, and what the occasion was.  And she probably never threw out a single piece.  If she passed it on to somebody, she&#39;ll remember exactly who and when.  It&#39;s like a timeline to her life, much in the way half-used bottles of cologne and aftershave are to mine &#40;except I don&#39;t remember where they came from, but she does&#41;. <BR> <BR>If BTK was stupid enough to pass off that necklace to a lady like mine, he&#39;s toast.<!--/Text--></td></tr>
+<!--/Post: 3551-->
+<!--Post: 3557--><!--Time: 1105007703-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3557"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 2:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->On my second marriage now, and I can tell you; when I got divorced, the ex even remembered a baseball cap that was hers and got bent that I had it.  <BR> <BR>I wonder if LE actually has a pretty good idea of who has it and this is some way of goading her into talking. They may have a strong suspicion and perhaps if they&#39;ve talked to her in the past they know she&#39;s either co-dependent or frightened or both.  <BR> <BR>It could also be a way of pushing BTK a little, since he might be getting revved up if he&#39;s ready to make another &#39;anniversary drop.&#39;<!--/Text--></td></tr>
+<!--/Post: 3557-->
+<!--Post: 3567--><!--Time: 1105030398-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3567"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Devbost<!--/name--></b></a><br>Username: <!--field:uname-->Devbost<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 8:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><b><i>If BTK was stupid enough to pass off that necklace to a lady like mine, he&#39;s toast.</i></b> <BR> <BR>Well, there&#39;s the part that bothers me. Apparently, the WPD has issued this call for help based on information provided to them by BTK. But why should we believe anything he says? <BR> <BR>BTK&#39;s M.O. is all about control. The items that he has taken from the various crime scenes are souvenirs to him, but he&#39;s smart enough to know that they also are evidence linking him to the crimes. Someone suggested he may have gotten a thrill from seeing his significant other wearing it around after he took it from a woman he&#39;d murdered. My own guess is that if he did give this necklace away, it would have to be someone very special to him - someone over whom he&#39;d have some measure of control - and not just someone he dated casually. <BR> <BR>Unfortunately, if the necklace now belongs to Mrs. BTK, that may mean that this clue is a dead end. Unlike in the movies, where wives become suspicious of their husbands because of stuff like this, in real-life she&#39;s probably joking with him, saying &#34;Look Honey! That looks just like MY necklace! That means you must be BTK!&#34; <BR> <BR>The WPD knows that he himself is not a trustworthy source of information. The intrigue here is: what makes the police so sure that this is a potentially fruitful lead, given that they&#39;re working from information he provided? What is so special about this particular item that has led them to drop the veil briefly and let the public in on part of the investigation, when they have been so reluctant to do so in the past? <BR> <BR>Best-case scenario? He&#39;s slipped up somehow and let the bloodhounds get close. Worst-case scenario? We&#39;ll never hear about this from the WPD again.<!--/Text--></td></tr>
+<!--/Post: 3567-->
+<!--Post: 3597--><!--Time: 1105052403-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3597"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Birdieict<!--/name--></b></a><br>Username: <!--field:uname-->Birdieict<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 3:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have a feeling WPD is onto something. I don&#39;t think they would&#39;ve called for a press conference when Wichita is having one of the worst storms of the year, and the media is already pushed to their limits covering that story. It seems weird  that the call for help was made when half of the city is without power. I have a feeling based on WPD&#39;s previous actions that they have some good info to back this up.<!--/Text--></td></tr>
+<!--/Post: 3597-->
+<!--Post: 3610--><!--Time: 1105058950-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3610"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Curious2<!--/name--></b></a><br>Username: <!--field:uname-->Curious2<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 4:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree, Bird.  All the profilers agree that <BR>some major life-shifting event has occured in <BR>BTK&#39;s world this year, in order for him to <BR>come out of hiding.  What if it was a divorce <BR>after 25 years???  What if police assume he  <BR>gave this necklace to his then &#40;in 1977&#41; bride- <BR>to-be as a gift?  And now, that she is divorced, <BR>she would be much more willing to talk?  Any  <BR>thoughts?<!--/Text--></td></tr>
+<!--/Post: 3610-->
+<!--Post: 3675--><!--Time: 1105124405-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3675"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Devbost<!--/name--></b></a><br>Username: <!--field:uname-->Devbost<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 07, 2005 - 11:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Curious2, I see what you&#39;re getting at, but I think it takes a few jumps in logic to arrive at that point. <BR> <BR>Assuming that the life change described in MK&#39;s profile has occured and is a divorce, how would the WPD know that? How would they know which divorced woman to watch for? <BR> <BR>I suppose it&#39;s possible that something in one of BTK&#39;s communications could have led them in that direction, but if that&#39;s the case, then they&#39;d have likely identified a suspect, and would presumably have some idea of where to look for the necklace. That would eliminate the need to ask the public for help in finding it. <BR> <BR>It&#39;s all conjecture without more information from the WPD about why this piece of evidence and why now, but the public appeal for leads would suggest that they have no idea where the necklace is or who has it.<!--/Text--></td></tr>
+<!--/Post: 3675-->
+<!--Post: 3705--><!--Time: 1105145430-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3705"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bojo<!--/name--></b></a><br>Username: <!--field:uname-->Bojo<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 07, 2005 - 4:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I wonder if any consideration was given to the person this necklace was given to.  Would BTK attempt to retake it?  And by what means?  <!--/Text--></td></tr>
+<!--/Post: 3705-->
+<!--Post: 3863--><!--Time: 1105346598-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3863"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 10, 2005 - 12:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It&#39;s possible that BTK may be including little printed-out notes with his drop-offs, or at least with some of them; notes which say something like, &#34;I have many other things to tell you and give you but unless you give this [whatever may be enclosed] item full media coverage, you&#39;ll never hear from me again. You know I&#39;ve killed others, and I&#39;ll prove it to you -- in time -- but if you don&#39;t follow my directions, those poor families will never have closure.&#34; Something like that from BTK wouldn&#39;t surprise me a bit. We&#39;re dealing with a sewer rat, and he isn&#39;t going to do anybody any favors. These guys just don&#39;t.  <BR> <BR>Quick example: Have you heard of the sexual sadist Mel Ignatow? There was photographic proof of severe torture and rape shown at his trial, proving he had caused a severely long and  unbearably painful death of his victim. Know what Ignatow did near the end of the trial? He turned to the family of the victim, the family fully aware of the proof of torture, and said, &#34;she died peacefully.&#34; <i>That</i> is what sexual sadists do. Want a peek inside BTK&#39;s head? <BR><a href="http://www.cbsnews.com/stories/2002/01/25/48hours/main325645.shtml" target=_top>http://www.cbsnews.com/stories/2002/01/25/48hours/ main325645.shtml</a><!--/Text--></td></tr>
+<!--/Post: 3863-->
+<!--Post: 3864--><!--Time: 1105348006-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3864"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 10, 2005 - 1:06 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The necklace may have also been given to a mother, an aunt or a sister. Or it may be a complete Red Herring. Regarding my previous post: it&#39;s my belief that people need to know all aspects of a sexual sadist, and I&#39;m afraid that also means being aware of the darkest depravity a so-called human being&#39;s unhinged mind can conceive. It needn&#39;t be dwelt upon, but it should be known, in my opinion. Most here know this, some may not. The good news lies in understanding that there is hope, and in spite of doubts many have, the BTK saga isn&#39;t over and he can be apprehended. Each new day is just that-- a new day. A new day, a new opportunity, a new reason to persevere.<!--/Text--></td></tr>
+<!--/Post: 3864-->
+<!--Post: 3869--><!--Time: 1105356101-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3869"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->L2829tad<!--/name--></b></a><br>Username: <!--field:uname-->L2829tad<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 10, 2005 - 3:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George, A Great Post But,&#34; Bottom Line&#34; Pure Speculation,,Who Say&#39;s The Necklace Was Even  <BR>Taken As Part Of That Peticular Crime??A.M.W. <BR>?/If It Was,So What...I&#39;m Just Saying &#40;Can&#39;t <BR>Be Used As Evidence&#41;Thank The Big Man &#34;UPSTAIRS&#34; <BR>For All.B-Good-B-Carefull-B-Happy....LATER... <BR>....................THARDU................<!--/Text--></td></tr>
+<!--/Post: 3869-->
+<!--Post: 3870--><!--Time: 1105356941-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3870"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 10, 2005 - 3:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->L2829tad, I have no specific belief about the necklace, I just threw out those possibilities. If I had to guess, I&#39;d say it&#39;s a red herring.<!--/Text--></td></tr>
+<!--/Post: 3870-->
+<!--Post: 3929--><!--Time: 1105418823-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3929"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 10, 2005 - 8:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If you go to this WPD BTK Archives and click on the January 5 link, you can read the news release about the Nancy Fox necklace being missing and BTK claiming he stole items from her. <BR>-Deb <BR> <BR><a href="http://www.wichita.gov/CityOffices/Police/BTK%2BArchive.htm" target=_top>http://www.wichita.gov/CityOffices/Police/BTK&#43;Arch ive.htm</a><!--/Text--></td></tr>
+<!--/Post: 3929-->
+<!--Post: 3935--><!--Time: 1105421778-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3935"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 10, 2005 - 9:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Deb, I haven&#39;t a strong feeling in any direction. I&#39;ve seen what you cite. I do believe BTK stole the necklace. I don&#39;t know that he&#39;s given it away. I&#39;m glad the item was in the news; it keeps up interest in catching him.<!--/Text--></td></tr>
+<!--/Post: 3935-->
+<!--Post: 4058--><!--Time: 1105593164-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4058"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 12, 2005 - 9:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi, George. The missing necklace is a good clue. If a woman received a similar piece of jewelry in December 1977 or early 1978, she can simply call WPD and talk about the man who gave it to her.  <BR> <BR>Another point is that BTK obviously hid Nancy Fox&#39;s driver&#39;s license because someone would become suspicious, but he wouldn&#39;t need to hide a necklace. If BTK kept the necklace and never gifted it, someone might remember seeing it somewhere in his home. He could have it laying around somewhere or hanging somewhere so that he could look at it often. If anyone noticed it he could always say it was a keepsake from a friend. So someone might remember seeing this &#34;double pearl&#34; gold necklace in the home of a man who is approximately 65 years old. <BR> <BR>Every clue helps. My only worry is that because of the ice storm many people were without power and were not even able to watch the news that day. hagd <BR>-Deb<!--/Text--></td></tr>
+<!--/Post: 4058-->
+<!--Post: 4059--><!--Time: 1105596412-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4059"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 12, 2005 - 10:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Deb, I understand the ideas behind the necklace and going public with it. Historically, if he didn&#39;t gift the necklace, it was probably extremely well hidden. But I understand your point. Thanks a bunch.<!--/Text--></td></tr>
+<!--/Post: 4059-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="76/291">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=76/291" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

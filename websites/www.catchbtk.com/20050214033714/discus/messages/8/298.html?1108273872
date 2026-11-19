@@ -1,0 +1,302 @@
+<html>
+<!--Topic: 8/Possible BTK Victims-->
+<!--Me: 298/Jonbenet Ramsey-->
+<!--Level 1: 298/Jonbenet Ramsey-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 8-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Jonbenet Ramsey</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Jonbenet Ramsey</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/8/8.html"><font color="#f7f7f7">Possible BTK Victims</font></a> &#187;
+Jonbenet Ramsey
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=8&page=298"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=8&page=298"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 3563--><!--Time: 1105028654-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3563"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kayjay<!--/name--></b></a><br>Username: <!--field:uname-->Kayjay<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 8:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Many similarities to some of the MO&#39;s BTK used: <BR>Killer waited inside the house for victim to return home. <BR>JB was bound tortured and killed in a similar manner to some of BTK&#39;s victims. <BR>JB was found in the basement. <BR>JB wasnt raped but had evidence of sexual assault. <BR>JB&#39;s killer took rope and tape to her home. <BR>JB&#39;s killer liked to &#39;comunicate about himself&#39; as evidenced by a 3 page ransom note. <BR>Boulder isnt all that far from Wichita and its a university town. <BR>JB&#39;s killer signed the note using an acronym S.B.T.C <BR>BTK sent an ID to police in the name of someone from the  <BR>S...outhwestern <BR>B..ell <BR>T..elephone <BR>C..company <BR> <BR>Was BTK to old {frail} by 1996 to take on the whole family? Did he opt just for the young girl? We know from his first killings that the young girl was his main focus. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 3563-->
+<!--Post: 3568--><!--Time: 1105033392-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3568"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brazilian<!--/name--></b></a><br>Username: <!--field:uname-->Brazilian<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 9:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Look at this: the infamous garrote <BR> <BR><a href="http://www.crimelibrary.com/notorious_murders/famous/ramsey/it_5.html?sect=7" target=_top>http://www.crimelibrary.com/notorious_murders/famo us/ramsey/it_5.html?sect=7</a> <BR> <BR>Personally I dont think this crime has anything to do with BTK, but surely there are some weird coincidences...<!--/Text--></td></tr>
+<!--/Post: 3568-->
+<!--Post: 4650--><!--Time: 1106620608-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4650"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 6:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Mrs. Julie Otero seems to be the focus of the first attack, in my opinion. BTK couldn&#39;t have known Josephine was even in the house, as it was a school day. As to JonBenet, not a BTK crime. BTK&#39;s targets were adult women, JonBenet was very high-profile due to the sick performances which pleased her parents, and hundreds of pedophiles witnessed JonBenet; an enormous criminal group were aware of her.<!--/Text--></td></tr>
+<!--/Post: 4650-->
+<!--Post: 4880--><!--Time: 1106789750-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4880"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kayjay<!--/name--></b></a><br>Username: <!--field:uname-->Kayjay<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 5:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I beg to differ George. The young otero girl was found semi naked and hanging in the basement. Its clear which victim was his main focus. <BR>Sick performances? yep, I guess we are on different pages!<!--/Text--></td></tr>
+<!--/Post: 4880-->
+<!--Post: 5648--><!--Time: 1107234634-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5648"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 31, 2005 - 9:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The way Josephine was tied is similar to the Barbie doll found on the Ramsey lawn some time after her murder. <BR> <BR>This link is from an archived Ramsey website: <BR><a href="http://web.archive.org/web/20020216224828/http://ramseyfamily.com/barbie.html" target=_top>http://web.archive.org/web/20020216224828/http://r amseyfamily.com/barbie.html</a> <BR> <BR>And the clove hitch knot is similar to the knot used on garrote <BR><a href="http://www.tollesburysc.co.uk/Knots/Clove_hitch1.htm" target=_top>http://www.tollesburysc.co.uk/Knots/Clove_hitch1.h tm</a><!--/Text--></td></tr>
+<!--/Post: 5648-->
+<!--Post: 5697--><!--Time: 1107291298-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5697"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ryddik<!--/name--></b></a><br>Username: <!--field:uname-->Ryddik<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 12:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thats scary the barbie is &#34;bound&#34; the same way. I don&#39;t see someone putting that much effort into strapping fabric to a barbie without having an underlying meaning.<!--/Text--></td></tr>
+<!--/Post: 5697-->
+<!--Post: 5731--><!--Time: 1107308306-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5731"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 5:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That is scary Ryddik. I think that tying someone at the waist would be unusual.  <BR> <BR>I remembered this from when I would visit the Ramsey Murder message boards. It wasn&#39;t easy to find again.<!--/Text--></td></tr>
+<!--/Post: 5731-->
+<!--Post: 5755--><!--Time: 1107335147-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5755"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kayjay<!--/name--></b></a><br>Username: <!--field:uname-->Kayjay<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 1:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Notice that one of the dolls is wearing a red sock? That addition does appear odd. BTK&#39;s Otero letter makes reference to &#39;sock&#39; in describing both the mother and daughters attire. Has it ever been said what color sock {or socks} Josephine was wearing when found? If the answer is red, then up go the hairs on the back of my neck!<!--/Text--></td></tr>
+<!--/Post: 5755-->
+<!--Post: 5906--><!--Time: 1107451631-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5906"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 9:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Kayjay, <BR>Another connection to the Ramsey&#39;s could be the city where they had another home,Charlevoix, Michigan. Charlevoix means &#34;Charles voice.&#34; Can&#39;t find that link, but it was on one of Charlevoix&#39;s websites at one time. Charlie is the name of one of the Otero children as we all know.<!--/Text--></td></tr>
+<!--/Post: 5906-->
+<!--Post: 5910--><!--Time: 1107453458-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5910"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 9:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;Charlevoix means &#34;Charles voice.&#34; <BR>Just another thought. BTK&#39;s voice is on record, the one time he called in Nancy Fox&#39;s murder.  <BR> <BR>Also, Charlie Otero&#39;s initials are CO, which is the abreviation for Colorado. <BR> <BR>The year the Barbie dolls were found on the Ramsey property, 1997, was the 100 anniversary of the Kraft corporation &#40;Post Toasties&#41;. <BR><!--/Text--></td></tr>
+<!--/Post: 5910-->
+<!--Post: 6352--><!--Time: 1107719498-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6352"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 06, 2005 - 11:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Adding on here: both JonBenet and Josephine&#39;s fathers were pilots.<!--/Text--></td></tr>
+<!--/Post: 6352-->
+<!--Post: 6361--><!--Time: 1107728568-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6361"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 06, 2005 - 2:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.cbsnews.com/stories/2002/10/01/48hours/main523892.shtml" target=_top>http://www.cbsnews.com/stories/2002/10/01/48hours/ main523892.shtml</a>  <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6361-->
+<!--Post: 6364--><!--Time: 1107729288-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6364"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 06, 2005 - 2:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Read the part about the cassette tapes and the response the friend got from police and the Tip Line...??? makes you wonder... <BR> <BR>They say his &#40;Oliva&#41; DNA doesn&#39;t match... it took them until 2004 to say the DNA didn&#39;t match the families... <BR> <BR>This is a botched case. <BR> <BR>I feel bad for the parents... the beauty pagent stuff was really inappropriate IMO but to go into a store and see papers calling you a murderer of your own child and a molester and worse... weird or not they don&#39;t and didn&#39;t deserve that. <BR><!--/Text--></td></tr>
+<!--/Post: 6364-->
+<!--Post: 6541--><!--Time: 1107875769-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6541"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 7:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Q, <BR>I feel bad for the parents too. Many people still believe they did it; I&#39;m not one of those. That case was really botched, but I feel there is still hope. <BR> <BR>One of the serial killers BTK compared himself to was the Boston Strangler. They had that movie on the other night.  <BR> <BR>In the movie it showed a mannequin &#40;undressed like one of the barbie dolls&#41; and there were the words &#34;La Mode&#34; which according to the alta vist translator &#40;French&#41;, means &#34;fashion&#34;. The pageants Jon Benet was in were a lot about fashion, especially some of the one&#39;s she wore. Wasn&#39;t Jon Benet taking French lessons, could be mistaken? <BR> <BR>One of the dolls looks like its taped with a green tape, which is erie in that in BTK&#39;s letter he says she was wearing &#34;green pants.&#34; Maybe the tape is a reflection of the rug.<!--/Text--></td></tr>
+<!--/Post: 6541-->
+<!--Post: 6555--><!--Time: 1107886573-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6555"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 10:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;One of the dolls looks like its taped with a green tape, which is erie in that in BTK&#39;s letter he says she was wearing &#34;green pants.&#34; Maybe the tape is a reflection of the rug.&#34; -Bookworm <BR> <BR>You lost me there Bookworm... tape...rug??? <!--/Text--></td></tr>
+<!--/Post: 6555-->
+<!--Post: 6561--><!--Time: 1107889555-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6561"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cyndi<!--/name--></b></a><br>Username: <!--field:uname-->Cyndi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 11:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It is also interesting that JonBenet had a RED HEART drawn on the palm of her hand and one of the latest BTK drops was a cereal box with the RED HEART circled.  Coincidence?<!--/Text--></td></tr>
+<!--/Post: 6561-->
+<!--Post: 6642--><!--Time: 1107923880-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6642"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 8:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The Heart on the Post toasties box was &#39;not&#39; circled Cyndi. <BR><!--/Text--></td></tr>
+<!--/Post: 6642-->
+<!--Post: 6731--><!--Time: 1107988754-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6731"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cyndi<!--/name--></b></a><br>Username: <!--field:uname-->Cyndi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 2:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Pardon me.  My mistake.  There are still some very eerie similarities in this case and BTK murders.<!--/Text--></td></tr>
+<!--/Post: 6731-->
+<!--Post: 6885--><!--Time: 1108062610-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6885"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 11:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wasn&#39;t there talk about the DNA found on JonBenet being unique, or something strange about it? <BR> <BR>Also, hasn&#39;t there been information about the BTK&#39;s DNA being unique?<!--/Text--></td></tr>
+<!--/Post: 6885-->
+<!--Post: 6891--><!--Time: 1108063794-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6891"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 11:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Just of note.  probably isn&#39;t related at all: <BR> <BR>JOHN THOMAS RAMSEY, born December 21, 1937 in WICHITA SEDGWICK CO., KS; died November 29, 1996 in VALLEY CENTER, SEDGWICK CO., KS. He married JANICE LOUISE MCGLACHLIN June 15, 1957 in Wichita Sedgwick KS. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6891-->
+<!--Post: 6892--><!--Time: 1108063885-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6892"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 11:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yes, supposedly the DNA was unique.  They made a movie about the JonBenet case.  I never once thought the parents did it...way to many similarities to the Wichita guy..I will try to find some info on it.<!--/Text--></td></tr>
+<!--/Post: 6892-->
+<!--Post: 6894--><!--Time: 1108064129-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6894"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 11:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Jrl maybe BTK is little jon  the son of thomas ramsey.  never know , right down the road from drop #8<!--/Text--></td></tr>
+<!--/Post: 6894-->
+<!--Post: 6895--><!--Time: 1108064193-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6895"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 11:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Also of note, the BTk posting here keeps doing all this double letter business. <BR> <BR>In the Ramsey ransom note they spell business &#34;bussiness&#34;.  Again, probably nothing, just pointing out the obvious.<!--/Text--></td></tr>
+<!--/Post: 6895-->
+<!--Post: 6899--><!--Time: 1108065055-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6899"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 11:50 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->One more crazy thought...could the PJ stand for Patsy and John instead of P.J. Wyatt? <BR> <BR>What if BTK is related to Patsy and John in some way...<!--/Text--></td></tr>
+<!--/Post: 6899-->
+<!--Post: 6903--><!--Time: 1108069730-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6903"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 1:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Q, <BR>I guess the tape is green, I was looking at the tint in the picture. The rug looks beige. <BR> <BR>Lots of similarities. Both girls were found in the basement. <BR> <BR>The killer in both cases came into the homes when the families were there. Very high risk. <BR> <BR>Maybe they should be checking out Ramsey suspects who may have a connection to Wichita.<!--/Text--></td></tr>
+<!--/Post: 6903-->
+<!--Post: 6908--><!--Time: 1108070910-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6908"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ryddik<!--/name--></b></a><br>Username: <!--field:uname-->Ryddik<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 1:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->does anyone know if a hand writing anaylasis has been done between the ramsey note and other btk letters that may include samples of his writing?? <!--/Text--></td></tr>
+<!--/Post: 6908-->
+<!--Post: 6950--><!--Time: 1108089650-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6950"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kayjay<!--/name--></b></a><br>Username: <!--field:uname-->Kayjay<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 6:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Several years ago I sent an email to John Ramsey {the family had a web site back then}, outlineing the similarities between his daughters murder and the BTK killings. At the time though, it was a stretch, as there was nothing to indicate that BTK was even alive in 1996. John replied, thanking me etc and saying that he would pass my email on to his investigators. He said that he was convinced that his daughters murder was not the killers first. I was happy knowing that a possible BTK connection was brought to the attention of someone who gave a damn {as opposed to the Boulder LE.} <BR>Something else thats been on my mind for a long time: A couple of years back, a talking head {possibly the guy from AMW...not sure now as it was so long ago} was talking about the Ramsey case on air and his talk included something along the lines of &#34;when John found his daughter hanging in the basement&#34;. The posters in the forum that I frequented at the time, poo poo&#39;ed the idea and said it was just a mistake on his {the talking heads} part. <BR>I suspect it may have been a mistake....the mistake being that he let it slip! He would have been told the details of the killing and if he had not been told of Jonbenet &#39;hanging&#39;, then why on earth would he come out with something like that? <BR>We are told that Jonbenet was found on the floor in the basement which had an overhead pipe. Her wrists had been bound, and there was excess rope extending from those knots. Could it be that she was actually found hanging from the overhead pipe?  Could that explain the excess rope? Some details are kept from the public to weed out loonies who want to confess. Could this detail be one of them? If the talking head had not heard of that detail then I fail to understand why he would mention it, accidently or otherwise!<!--/Text--></td></tr>
+<!--/Post: 6950-->
+<!--Post: 7037--><!--Time: 1108143281-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7037"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 9:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Josephene was hanged by the neck using a noose. The &#39;head&#39; may had heard about the excess rope and assumed...Or..Ifound a site about a year after the murder that had a lot of info about the initial investigation, including autopsy photos.  <BR>I seem to remember some talk about her being hung up, but i can&#39;t say for sure. The problem stems from the fact that john ramsey &#40;this is wierd&#41; found the body , while the police were in the house already,he either cut her down or picked her body up&#40;the body was in rigor mortis&#41;carried her upstairs and lay the body back on the floor. That was the main thing that cast suspicion his direction. The detectives felt he not only contaminated the crime scene on purpose, but he placed his daughters body on the floor, rather than the kitchen table or a nearby sofa.  <BR> <BR>Of course, I can&#39;t be sure of what is fact, and what is heresay. The jon-bonet case was the most screwed up investigation that I have ever heard of. I actually expected the Boulder police chief and DA to be charged with obstruction for a while there.<!--/Text--></td></tr>
+<!--/Post: 7037-->
+<!--Post: 7115--><!--Time: 1108188829-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7115"><font face="Verdana" size="1"><b><!--email--><a href="mailto:zodiacfiles@aol.com" target="_blank"><!--/email--><!--name-->Ed_neil<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 10:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->John Ramsey immediately hugged the body of his daughter as soon as she was discovered, thereby contaminating the crime scene.  He also made a very odd statement, claiming her killer didn&#39;t mean to kill her, which is why he put a blanket on her body.<!--/Text--></td></tr>
+<!--/Post: 7115-->
+<!--Post: 7202--><!--Time: 1108273872-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7202"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 9:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->From BTK letter about Oteros and from section about Josephine regarding the pieces of clothesline used: He said that they were &#34;all one lenght.&#34;  <BR> <BR>When Jon Benet&#39;s autopsy report was released in the press, the word &#34;length&#34; was mispelled similarly, except in the FBI copy of the report. There were other spelling mistakes, and all together they spelled the word &#34;things&#34;. You won&#39;t find copies of these reports anymore, they were obviously corrected. <BR> <BR>BTK said that the pieces of clothesline used on Josephine were &#34;all one lenght.&#34; We don&#39;t know what that length was, but similarly, if you add the lengths of the tails of the ligatures on each of Jon Benet&#39;s wrist and garotte, they are equal. So I would assume her murderer measured these lengths so they were the same. 15.5&#43;5.5=21  17&#43;4=21 <BR> <BR>From the autopsy report: <BR>Right wrist. <BR>“At the knot there is one tail end which measures 5.5 inches in length with a frayed end. The other tail of the knot measures 15.5 inches in length and ends in a double loop knot.  <BR>This end of the cord is also frayed.” <BR> <BR>Garotte <BR>“Extending from the knot…are two tails of the knot, one measuring 4 inches in length and having a frayed end, and the other measuring 17 inches in length  with the end tied in multiple loops around a length of a round tan-brown wooden stick which measures 4.5 inches in length.” <BR> <BR>Another similarity is that the Ramsey ransom note was found on the bottom stairs and BTK says that&#39;s where some of Josephine&#39;s clothes were &#40;basement stairs&#41;. <BR> <BR>BTK also mentions a &#34;dryer or freezer&#34; in the basement. I can&#39;t be absolutely positive, but I thought that Jon Benet&#39;s blanket had been in the dryer and that&#39;s where they thought it was taken from. I have to review the books. <BR> <BR>Ed the description of how the blanket was on Jon Benet was different in Douglas&#39;s book and Schiller&#39;s book. I don&#39;t understand why French didn&#39;t look in that room when he first searched the house.  <BR><!--/Text--></td></tr>
+<!--/Post: 7202-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="8/298">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=8/298" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

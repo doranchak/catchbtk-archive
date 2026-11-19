@@ -1,0 +1,1 @@
+window.CBTK={"page":"20.html","title":"catch BTK .com -- COMPOSITE","archive":"../index.html","versions":[{"t":"20041204111653","e":"20041204111653","n":1,"f":"history/20~20041204111653.html","a":0,"d":0,"sa":[],"sd":[]}]};

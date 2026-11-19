@@ -1,0 +1,1 @@
+window.CBTK={"page":"17.html","title":"catch BTK .com -- BILL BUTTERWORTH","archive":"../index.html","versions":[{"t":"20041204185347","e":"20041204185347","n":1,"f":"history/17~20041204185347.html","a":0,"d":0,"sa":[],"sd":[]}]};

@@ -1,0 +1,265 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 569/Is there anyone else ...-->
+<!--Level 1: 569/Is there anyone else ...-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Is there anyone else ...</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Is there anyone else ...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Is there anyone else ...
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=569"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=569"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 8641--><!--Time: 1109260286-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8641"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 7:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Is there anyone else out there that think the BTK hasn&#39;t even touched a computer, let alone respond to us?  I just feel that its improbable and that all these &#34;fakes&#34; &#40;I really think they are fake&#41; are just playing with us more than the BTK has!  Everywhere I look I see people talking about B&#42;T&#42;K or BTK_AMW or other names.  I see nothing however that suggests that any of these online postings are in BTK&#39;s style of communicating. <BR> <BR>Every BTK posting online that I&#39;ve seen offers no evidence to prove once and for all it is him.  There is no relation between the letters he sends to the media and these messages.  Every bit of information given online is something that has already been known by the general public.  Previous crimes are already reported, and it is easy to say &#34;you did it&#34; to get people riled up. <BR> <BR>The BTK has always wanted to ensure that they know it is him.  I&#39;m almost confident that BTK doesn&#39;t want the same fate as Zodiac&#39;s and JTR&#39;s Letters where some of them are now questionable authorship.  This is why he includes evidence, information, and small codes to packages and postcards.  None of these online postings have that, and the ones that do are just numbers that anyone can write down.  <BR> <BR>My point is that BTK has obviously shown great care in his communication work.  He&#39;s offered numbering the communications so people aren&#39;t confused.  There is a code so that police can know it is him.  He releases unknown evidence in his letters, and even provides some ACTUAL evidence.  All these letters coming out this decade are pre-planned, and telling a story.  They are telling a BTK story. <BR> <BR>BTK isn&#39;t going to come online and go &#34;Nah nah, you&#39;re all wrong! And I&#39;m going to KILL again ....Boooogity BOO!&#34; The ones who are saying that are selfish uncaring jerks behind a computer in some state not even bordering Kansas and they are LAUGHING at the fun.   <BR> <BR>IF BTK IS READING THIS THEN HE MUST .... MUST!!! ... provide PROOF of his online activities in a offline way.  Via a postcard to the media station reffering to some online posts, and using a clever return address name that alludes to some online conversation or person!  Then we will know that you are watching the public via this new technology.  This is my only request from him, if he is reading this.<!--/Text--></td></tr>
+<!--/Post: 8641-->
+<!--Post: 8652--><!--Time: 1109267446-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8652"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 9:50 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think it has been proven he has used a computer at least occasionally. If you remember, he is using the outline and basic chapters of the Crime Library article on the BTK case, <i>a strictly online, internet resource</i>, to frame <i>his </i>chapters that he has been giving the media and law enforcement.  <BR>I think it is clear he at least is online occasionally. And, from what we know of BTK, don&#39;t you think being online reading about himself and what his actions have caused would be something that would be right up his alley?  That might cause him jollies every day, as he is a power and control freak that spreads his DNA liberally everytime he thinks he has become the center of attention of a new stage.<!--/Text--></td></tr>
+<!--/Post: 8652-->
+<!--Post: 8653--><!--Time: 1109268137-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8653"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 10:02 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->“Chills &amp; Shivers”?  Give me a break! <BR> <BR>The only service these imposters are doing is keeping the search for BTK alive.   <BR> <BR>I don’t entirely believe all the BTK online postings.  However -- having proclaimed that -- the “West Street” post is intriguing -- but this may have been a mere coincidence.<!--/Text--></td></tr>
+<!--/Post: 8653-->
+<!--Post: 8662--><!--Time: 1109274346-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8662"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Miss<!--/name--></b></a><br>Username: <!--field:uname-->Miss<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 11:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree, Verm.  I don&#39;t think any of the posters claiming to be BTK, here or on AMW are real.   <BR>Even if he reads about himself, I just don&#39;t think he&#39;d have the nerve to post, due to fears of being caught.  I don&#39;t know enough about how to trace someone through an IP #, to know whether or not I could be tracked based on my online posting, and I bet he doesn&#39;t either.   <BR>It&#39;s a lot less dicey to just read and lurk.  It would be foolhardy for him to post, IMO, and I doubt he&#39;d risk it. <BR>He likes to taunt, and might have something set up to reveal his identity after he dies, but I am -certain- that he does not want to be caught, especially not because of a foolish mistake.<!--/Text--></td></tr>
+<!--/Post: 8662-->
+<!--Post: 8665--><!--Time: 1109276052-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8665"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsbarn<!--/name--></b></a><br>Username: <!--field:uname-->Elsbarn<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 12:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I would have thought it would be way too risky for BTK to post on one of these boards. Having said that, he has successfully engaged in other risky behavior, including the park drop where he could have been witnessed. BTK’s biggest fan is BTK and if I had to name a likely person who would enjoy writing as BTK on a message board for attention, it would be BTK. As John Douglas asserts, the Internet has opened up a whole new realm for the criminal. <BR> <BR>Skov has brought to this board&#39;s attention the BTK hopeful on the AMW boards; the one on the Eagle board is no doubt the same. The way of the &#40;wannabe?&#41; BTK poster is equally childish. The writing style seems similar to me of that of Christ on the Cross in the Messages from BTK thread--complete with the author-like descriptions of his satisfaction killing the victims. In fact, the way these posts are written they common across as if the poster is sitting at the computer pretending to be some sort of sinister British accented writer, or as Snoopy beginning, “It was a dark and stormy night.&#34; I am not sure there are any actual known communications from BTK that read like that, the recent ones seem more like some concise detective writing a memo.  <BR> <BR>In looking at some of his thinking that has been present in his communications, I am assume that BTK displays what can only be described as infantile behavior--his plea to the media for some attention being the main one of these examples. It is so absurd, it seems like it would have to be fake for an adult to really make comments like “How many do I have to kill, before I get my name in the paper or some national attention?” or, in the case of the Eagle Poster/ Poseur, “I am highly intelligent with an IQ double what most of you seem to have.”   <BR> <BR>I am in no way convinced that this poster is BTK, and would like to know how someone could be so distant from the feelings of the victims’ survivors that they would post so cruelly.  If BTK, he has a long way to go before convincing the skeptics, no doubt. <BR><!--/Text--></td></tr>
+<!--/Post: 8665-->
+<!--Post: 8670--><!--Time: 1109278360-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8670"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 12:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I am convinced he does post, but just acts like a concerned citizen. I also believe he has many screen names, and even asks questions and answers them himself under a different name. I have also noticed some posters that throw something into the mix of the thread that in no way shape or form belong in a particular thread, and those are the posters I pay extra attention to, thinking there may be a real clue there.   <BR> <BR>Does anyone else, as they are reading along, get struck by something, and think...man, if this was a book, it would be the freakiest book ever. For example, after he is identified, what if we find out that he has been posting all along, leaving little clues here and there, that could have solved the case already. So keep your eyes open. <BR> <BR>Not to accuse anyone, but for example...on the Mo Id Ruse thread, ftoth, aka the fool on the hill,kept insisting &#40;on feb 14&#41; that pj&#39;s meant fox, the chapter titled pj&#39;s if for nancy fox, ....then on feb 16 the fox tv station gets a letterwith return address of pj fox. Thats the kind of stuff that I find verrrry interesting. After you have read everything you can about the whole case, and you have the names and dates pretty well, go back and read some earlier posts, not just here, but on other boards as well.  <BR> <BR>or i may just be paranoid...<!--/Text--></td></tr>
+<!--/Post: 8670-->
+<!--Post: 8689--><!--Time: 1109286875-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8689"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Essevi<!--/name--></b></a><br>Username: <!--field:uname-->Essevi<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 3:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Itty, I noticed the PJ/Fox thing then I reread the thread after totally disregarding it the first time. I have also noticed other posts that seem somewhat odd if you look deep, but I end up telling myself that it&#39;s my imagination and BTK would never post to a message board. <BR> <BR>The reason that I doubt BTK would post is because of the subpoenas for the &#34;suspicious six&#34;. That leak would have tipped him off early on. Too bad that couldn&#39;t have been kept a secret.<!--/Text--></td></tr>
+<!--/Post: 8689-->
+<!--Post: 8694--><!--Time: 1109290684-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8694"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 4:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ess, I still think he can be posing as a poster. <BR>You can use the internet almost anywhere. Library, coffee shop, even the nail salons offer free internet while you wait.  <BR>Maybe what they should look for is screen names that use a lot of different ip addys. You know what I mean?  <BR>Yes, I also was disapointed when I read the big headline about kansas.com&#39;s subpoena, shoot, they keep everything from us, this is one that I would have agreed to keep secret. <BR>About seeing strange things in the posts, I also have noticed, that after a really weird post, they will just disappear and not answer questions about their post.<!--/Text--></td></tr>
+<!--/Post: 8694-->
+<!--Post: 8708--><!--Time: 1109294391-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8708"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 5:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Not only do I think he uses a computer, I think he uses Linux. And has for a long time.<!--/Text--></td></tr>
+<!--/Post: 8708-->
+<!--Post: 8710--><!--Time: 1109294695-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8710"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 5:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I am not sure how proficient BTK is with computers, but he does read the boards. The Post Toasties box is proof of it. <BR> <BR>Back in November of 2004, a poster in one of the BTK boards &#40;ezboard, or kansas.com... maybe here&#41; made the comment &#34;she must&#39;ve made her own BTK website, and is posting about Post Toasties right now&#34;.... or something similar to that. <BR> <BR>I saw this post, and it was quoted in a few boards, specially the kansas.com board, after the first Post Toasties box was found. <BR> <BR>Or, was it a coincidence that he sent a Post Toasties box?<!--/Text--></td></tr>
+<!--/Post: 8710-->
+<!--Post: 8712--><!--Time: 1109294981-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8712"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 5:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Haha! Itty... <BR> <BR>I was banned from Kansas.com for posting that BTK is a John Fahey fan... and I don&#39;t know why. <BR> <BR>I made a new name, but decided not to post anymore over there. I just can&#39;t participate in a board in which you can&#39;t speak freely, IMO. <BR> <BR>Or P. Freely... haha! <BR> <BR><IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0> <BR><!--/Text--></td></tr>
+<!--/Post: 8712-->
+<!--Post: 8718--><!--Time: 1109296007-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8718"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 5:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;BTK is monitoring the papers and the electronic media...&#34; Wichita Police Chief Norman Williams to the Wichita Eagle, December 2004. <BR>Notice he doesn&#39;t say BTK is monitoring the papers and TV coverage, or is monitoring the papers and TV and radio reports. His use of the phrase &#39;electronic media&#39; seems to imply and include the internet. <BR>He may not be posting but he is watching. I&#39;m sure there are a few news sites and others that he frequents from time to time. CatchBTK may or may not be one of them.<!--/Text--></td></tr>
+<!--/Post: 8718-->
+<!--Post: 8738--><!--Time: 1109302475-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8738"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 7:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I do not believe the BTK Strangler participates in discussions on electronic message boards. The unknown subject most probably visits several message boards to read them. The BTK Strangler would enjoy reading messages dedicated to his crimes and analyzing his psyche. He would derive the most gratification from messages expressing anger and frustration at his crimes and towards him and the erroneous portraits developed by message board members. Message boards provide him with the attention and recognitition the BTK Strangler craves. He also visits internet websites dedicated to his criminal career. In a correspondence last year, the unknown subject referred to chapters from the Crime Library.com website. <!--/Text--></td></tr>
+<!--/Post: 8738-->
+<!--Post: 8770--><!--Time: 1109318213-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8770"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 11:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe BTK is montioring message boards and websites. I am however quite dubious of any of the messages claiming to be from him. The recent posts on Kansas.com and AMW a would say are definitely not him. While most of the posts claiming to be from him on this site, I believe are fakes, one or two I&#39;m undecided about. I do not believe it is out of the question for him to post a message on a website. I think this website dedicated, to him, would be most attractive to his ego.<!--/Text--></td></tr>
+<!--/Post: 8770-->
+<!--Post: 8772--><!--Time: 1109320044-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8772"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 12:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree this website is attractive to BTK&#39;s ego. I don&#39;t believe BTK has read anything compelling enough <i>anywhere</i> on the Internet for him to be so stupid as to post. Not even if he was dying. Psychopaths <font color="0000ff">don&#39;t care</font> what others say about them, with only a tiny handful of exceptions. One such exception was the announcement of Robert Beattie&#39;s upcoming book about BTK. That was too much for BTK, in my opinion, and had no book ever been planned or advertised, Ms. Vicki Wegerle would, in my opinion, have forever been an unsolved homicide.  <BR> <BR>Bulletin: Most of BTK&#39;s known crimes predate the Information Age. BTK has kept pace with technology but deepest in his psyche is hard copy; newspapers. Since childhood BTK has read Wichita newspapers and I really wish more items would be placed in these papers, items aimed at BTK&#39;s ego. I hope like mad that Beattie continues his book -- if BTK really thinks he&#39;s going to have his own book published he&#39;s showing a serious weakness -- and it would be cool if anyone else wrote a BTK book. <BR> <BR>How about Ann Rule? Imagine that, BTK. Say what one will about her books, the inaccuracies, the streamlined format which leaves out particular details &#40;and you such a detail-oriented person&#41; and gets specific data wrong. Boy, wouldn&#39;t that be ironic?  <BR> <BR>If nothing else, the papers need to start making you miserable, something they could most easily do.<!--/Text--></td></tr>
+<!--/Post: 8772-->
+<!--Post: 8773--><!--Time: 1109323105-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8773"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 1:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m not so sure how dangerous it would be for him to post. He could go to a library or any place with public computers and do so. I do not believe it would be in reponse to an actual post but to feed his ego. Another snub at police so to speak. I&#39;m not in total agreement with Beattie&#39;s book being the prime reason for BTK&#39;s return. As far as I know he&#39;s never referenced it in any correspondence, as he has with say the crime library article. I think it was in reponse to the article written about the anniversary of the murders. I think that in combination with the crime library listing of him under unsolved crime with all his heros and the capture of the GREEN RIVER killer got his coals stoked again<!--/Text--></td></tr>
+<!--/Post: 8773-->
+<!--Post: 8778--><!--Time: 1109326675-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8778"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Louise<!--/name--></b></a><br>Username: <!--field:uname-->Louise<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 2:17 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->With regard to Beattie&#39;s book, I almost wish he&#39;d hurry up and finish it but think he&#39;s waiting to make sure he has the details correct. If he published it I&#39;d like to see him hold a huge book signing...like an open house, cameras running overhead of course! And then every single book sold would ID the person buying it by some private means. BTK couldn&#39;t wait to get his hands on such a book about himself! He might even come to the original book signing, and at any rate the surveillance would have to be interesting.<!--/Text--></td></tr>
+<!--/Post: 8778-->
+<!--Post: 9173--><!--Time: 1109407633-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9173"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 12:47 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m also not one hundred percent sure Beattie&#39;s book is the primary reason BTK re-surfaced, it&#39;s merely my opinion. There is a trend in the BTK letters. Nothing is his fault. He may blame a monster and &#34;Factor X&#34; -- as if BTK can diagnose himself accurately about anything -- and all that crap. But he would, IMO, <i>never</i> admit that word of Beattie&#39;s book caused him to do anything. As a sociopath, this would be devestating to his ego.  <BR> <BR>He needs to be given credit. His first letter is a whining taunt about how &#34;those three&#34; didn&#39;t commit the Otero crime and BTK then provides killer-only information. That this botch of nature demanded credit for one of the sickest, most cowardly attacks of suburban 1970s America tells me that he must be acknowledged in some fashion. When reading that Beattie was to write a book about him, BTK had to inform the world that he was still here. And this he did. <BR> <BR>Great point about computers. I guess what I mean is that BTK grew up reading traditional newspapers <BR>and this practice is far more deeply embedded in his psyche than anything computer related; printed words in a newspaper would, in my opinion, have more power and <i>authority</i> to BTK than anything he might read on any Internet message board.<!--/Text--></td></tr>
+<!--/Post: 9173-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/569">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/569" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

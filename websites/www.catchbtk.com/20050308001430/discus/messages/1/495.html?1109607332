@@ -1,0 +1,303 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 495/:Links to various related websites-->
+<!--Level 1: 495/:Links to various related websites-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: :Links to various related websites</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">:Links to various related websites</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+:Links to various related websites
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=495"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=495"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 7475--><!--Time: 1108511945-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7475"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 15, 2005 - 3:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There have been several times I&#39;ve wanted to find a link that I saw on this site but couldn&#39;t find it.  <BR>I think it would help keep things organized if we could use this thread as a &#34;LINK RESOURCE THREAD&#34;  <BR> <BR>To make finding the link easier please label each with a brief description.  <BR>Any and all links directly related or just interesting coincidence are welcome.  <BR>I&#39;ve seen some links posted as a result of googling key words that turn out to be very interesting.  <BR> <BR>Here are some ideas:  <BR> <BR>BTK related  <BR>-Documents  <BR>-Maps  <BR>-Pictures  <BR>-Timelines  <BR> <BR>Examples:  <BR> <BR>Otero Letter <BR><a href="http://www.catchbtk.com/letters.html" target=_top>http://www.catchbtk.com/letters.html</a> <BR> <BR>Psychic sketches of BTK <BR><a href="http://www.catchbtk.com/images/btk1.jpg" target=_top>http://www.catchbtk.com/images/btk1.jpg</a> <BR><a href="http://www.catchbtk.com/images/btk2.jpg" target=_top>http://www.catchbtk.com/images/btk2.jpg</a> <BR><a href="http://www.catchbtk.com/images/btk3.jpg" target=_top>http://www.catchbtk.com/images/btk3.jpg</a> <BR> <BR>Pat Brown&#39;s Person of Interest <BR><a href="http://www.she-dc.com/pages/BTK.htm" target=_top>http://www.she-dc.com/pages/BTK.htm</a> <BR> <BR>Strange Coincidence?  <BR><a href="http://www.killman.com/" target=_top>www.killman.com/</a>  <BR> <BR> <BR>Interesting old Post Toasties Boxes  <BR><a href="http://www.theimaginaryworld.com/post.html" target=_top>http://www.theimaginaryworld.com/post.html</a>  <BR> <BR>Any help I can get in moving the links already on the site would be appreciated.  <BR> <BR>iq<!--/Text--></td></tr>
+<!--/Post: 7475-->
+<!--Post: 8520--><!--Time: 1109183131-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8520"><font face="Verdana" size="1"><b><!--email--><a href="mailto:witchkingofangmar@comcast.net" target="_blank"><!--/email--><!--name-->Witchking<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Witchking<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 10:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://witchkingofangmar.blogspot.com/" target=_top>http://witchkingofangmar.blogspot.com/</a> <BR> <BR>From someone who has had enough of the moollycoddling of this filth and wants to tell him what a real bag of sh&#42;t he is. He&#39;s no legend, I&#39;m going to rewrite the end of this story from the one he has planned for it. <BR> <BR>Visit and let him know what he&#39;s really worth. I&#39;ve been in Wichita 3 days now and find the people engaging and wonderful, sans ONE<!--/Text--></td></tr>
+<!--/Post: 8520-->
+<!--Post: 8642--><!--Time: 1109260404-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8642"><font face="Verdana" size="1"><b><!--email--><a href="mailto:witchkingofangmar@comcast.net" target="_blank"><!--/email--><!--name-->Witchking<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Witchking<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 7:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Unfortunatley I was asked by someone &#40;whom I shall not name&#41; to take the above site down. It was NOT the hosting company, the request came from someone via email with Wichita PD who asked I call them. I did and spoke with someone there who stated the above mentioned site had drawn the ire of &#39;someone&#39; close to the investigation.  <BR> <BR>I will stay in town looking<!--/Text--></td></tr>
+<!--/Post: 8642-->
+<!--Post: 8643--><!--Time: 1109261595-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8643"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Topsailgrl<!--/name--></b></a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 8:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well POOP! Witchking! I didnt get to see the site at all! Wish I had a &#39;clue&#39; as to what was posted on it.  <BR> <BR>One can only imagine who&#39;s ire you drew. Please keep us posted, it&#39;s great that you are in a sense taking us along with you on your stay in town.<!--/Text--></td></tr>
+<!--/Post: 8643-->
+<!--Post: 8645--><!--Time: 1109264304-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8645"><font face="Verdana" size="1"><b><!--email--><a href="mailto:witchkingofangmar@comcast.net" target="_blank"><!--/email--><!--name-->Witchking<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Witchking<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 8:58 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->My stay has been very nice indeed. My website was basically me challenging BTK and posting of things &#40;such as the fellow using the pay phone off of Harry street the other night who looked strange so I called WPD and the police grabbed him and then dusted the phone booth for prints--didn&#39;t know Wichita had such nice SWAT trucks&#41; I&#39;m finding out locally along with a couple of craaaaazy, shall we say, electronic tricks that have gleaned something of value. <BR>I was a very bold site intended &#40;and I make NO BONES about his&#41; to challenge, intimidate and aggravate a certain piece of filth. It aggravated SOMEONE close to the investigation who saw it, I could guess who but I couldn&#39;t tell you exactly whom. I know who I hope objected to it...<!--/Text--></td></tr>
+<!--/Post: 8645-->
+<!--Post: 8646--><!--Time: 1109264353-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8646"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 8:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Be careful ALL!  Witchking...tried to access that site that &#34;drew the ire of someone&#34;....took my whole system down....but all is okay...it took about 20 minutes to get it back up and running...just be careful...someone is of course watching you...watching us... <BR>I just wish I could have seen it also.. <BR>don&#39;t stop posting! <BR><!--/Text--></td></tr>
+<!--/Post: 8646-->
+<!--Post: 8648--><!--Time: 1109265679-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8648"><font face="Verdana" size="1"><b><!--email--><a href="mailto:witchkingofangmar@comcast.net" target="_blank"><!--/email--><!--name-->Witchking<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Witchking<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 9:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I won&#39;t stop posting &#40;OR DIGGING&#41;. I don&#39;t claim to know EVERYTHING, that would be a fools errand pretending I did. I do know SOME things and HINTED at them on the website. SOMEONE didn&#39;t like it and I wasn&#39;t told whom but I did oblige even though the thought the Wichita PD have had the case for 31 years and me visiting Wichita and putting up an admittedly tough website and having someone asking to take it down after only 4 days did crank me off a bit. I guess you could say I was being a good guest. It also tells me either BTK or the WPD watch this site as I hadn&#39;t linked it anywhere else yet... <BR> <BR>The overall idea I have still stands, if this piece of filth crosses my path somewhere sometime he&#39;ll have a hard time defending himself in court all Karen Ann Quinlan&#39;d up &#40;Nice 70&#39;s reference for you there BTK&#41;<!--/Text--></td></tr>
+<!--/Post: 8648-->
+<!--Post: 8654--><!--Time: 1109268424-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8654"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 10:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yea for YOU Witchking...keep right on digging...I am originally from WIchita....very nice people there...very kind and hospitable...there will be sooo many people going &#34;home&#34; when the &#34;filth&#34; is apprehended! <BR>Thank-you for your caring and your digging...<!--/Text--></td></tr>
+<!--/Post: 8654-->
+<!--Post: 8668--><!--Time: 1109276920-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8668"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 12:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Witchking, I have a couple of things on my mind.  I live in Wichita now and find it hard to believe &#34;the swat team was called&#34; and &#34;the phone booth dusted for prints&#34; as you say. All of this happened just because someone {you} called the police about someone suspicious looking using a payphone? MMM....don&#39;t think so. We may be in the middle of the big USA but we&#39;re not a bunch of Barney Fife&#39;s running around here saying &#34;Andy!, I think we got &#39;em!. By the way, I DID log on to your website last night and I honestly thought it had to be a joke. Where did you get that god awful picture from? It looked like KKK meets halloween, meets aliens from outer space. If your for REAL, I&#39;d be REAL surprised.<!--/Text--></td></tr>
+<!--/Post: 8668-->
+<!--Post: 8669--><!--Time: 1109277846-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8669"><font face="Verdana" size="1"><b><!--email--><a href="mailto:witchkingofangmar@comcast.net" target="_blank"><!--/email--><!--name-->Witchking<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Witchking<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 12:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lorenap, don&#39;t believe me, look at the police logs, evdently they were more interested in WHOM he was calling than me calling him in. Someone I spoke to said he was on the phone with KAKE at the time---investigate that. They indeed had the phone booth dusted for prints. Get a police scanner would be my advice. It just seems strange to me someone is on a payphone constantly looking side to side and somewhat agitated. <BR>I&#39;m very real and the picture is that of the Witch King of Angmar, a character in the Lord of the Rings trilogy, if you&#39;d like the backstory supposedly the Witch King is one no man can kill.... <BR> <BR>If you saw any of the posts originally on the site you&#39;d see I had many KIND things to say about Wichita and that the people were nothing like the cow-town rubes many on the coasts would expect. In fact I said I enjoyed everyone in the town sans ONE. <BR> <BR>Now back to the intended string...<!--/Text--></td></tr>
+<!--/Post: 8669-->
+<!--Post: 8678--><!--Time: 1109280563-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8678"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bakerwood<!--/name--></b></a><br>Username: <!--field:uname-->Bakerwood<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 1:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Witchking, <BR>Where was that telephone?  The address or cross street?<!--/Text--></td></tr>
+<!--/Post: 8678-->
+<!--Post: 8680--><!--Time: 1109281530-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8680"><font face="Verdana" size="1"><b><!--email--><a href="mailto:witchkingofangmar@comcast.net" target="_blank"><!--/email--><!--name-->Witchking<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Witchking<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 1:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;ll just say W Harry between S Waco and S Main &#40;I simply cannot give up to many good hideouts---seriously, waiting near post boxes on anniversary dates, or by certain properties on anniversary dates is a favorite trick of mine&#41;...I figure if there is ONE trait he can&#39;t beak it&#39;s visiting sites important to him on anniversaries...Tuesday night was just a chance thing, one REALLY suspicious dude on a phone in his 50&#39;s-60&#39;s---too precious and wouldn&#39;t THAT be something. Some out of towner rolls into town not knowing anyone from Adam and gets WAY LUCKY, like the first time lottery ticket buyer who wins... <BR> <BR>Peace out for now...<!--/Text--></td></tr>
+<!--/Post: 8680-->
+<!--Post: 8686--><!--Time: 1109285631-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8686"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 2:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Witchking: <BR>I was just wondering why you agreed to it. <BR> <BR>Personally, I would have said no. Unless they were pretty convincing.<!--/Text--></td></tr>
+<!--/Post: 8686-->
+<!--Post: 8688--><!--Time: 1109286632-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8688"><font face="Verdana" size="1"><b><!--email--><a href="mailto:witchkingofangmar@comcast.net" target="_blank"><!--/email--><!--name-->Witchking<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Witchking<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 3:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->they asked and trying to be accomodating, I did but I mentioned in the redone site I reserve the right to change it back... <BR> <BR>It&#39;s amazing the interest I&#39;m getting here. Tom is going to beat us all senseless if we don&#39;t get back on target with this string...If I do get some more info &#40;keep your police scanners on&#41; I will surely pass it along in the correct threads... <BR> <BR>Off to KC Mo in the morning to visit my favorite aunt and uncle....I&#39;ll return sometime soon. Wichita is a very nice place and you can&#39;t beat the steaks! <BR> <BR>peace to all of you, except one<!--/Text--></td></tr>
+<!--/Post: 8688-->
+<!--Post: 8695--><!--Time: 1109290724-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8695"><font face="Verdana" size="1"><b><!--email--><a href="mailto:topsailgrl@yahoo.com" target="_blank"><!--/email--><!--name-->Topsailgrl<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 4:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Witchking-can you give us a better description of the man on the phone other than in his 50&#39;s to 60&#39;s?<!--/Text--></td></tr>
+<!--/Post: 8695-->
+<!--Post: 8854--><!--Time: 1109367307-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8854"><font face="Verdana" size="1"><b><!--email--><a href="mailto:witchkingofangmar@comcast.net" target="_blank"><!--/email--><!--name-->Witchking<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Witchking<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 1:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Topsailgrl, did you hear, this &#39;POI arrest&#39; and search warrant has SOMETHING to do with a certain phone call at a payphone Tuesday night. Like I said, someone around there told me he was talking to KAKE at the time.... <BR> <BR>Could one be so lucky?<!--/Text--></td></tr>
+<!--/Post: 8854-->
+<!--Post: 8855--><!--Time: 1109367376-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8855"><font face="Verdana" size="1"><b><!--email--><a href="mailto:witchkingofangmar@comcast.net" target="_blank"><!--/email--><!--name-->Witchking<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Witchking<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 1:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lorenap, you can buy me a drink next time I&#39;m in town for your doubting thomas attitude---shame on you ;&#41;<!--/Text--></td></tr>
+<!--/Post: 8855-->
+<!--Post: 8874--><!--Time: 1109370751-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8874"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 2:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oh boy do I hope I was wrong!!! I hope they got this guy. While your sipping your drink, I&#39;ll be eating crow. <!--/Text--></td></tr>
+<!--/Post: 8874-->
+<!--Post: 8879--><!--Time: 1109371325-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8879"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 2:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Witchking.... <BR> <BR>YOU ROCK!<!--/Text--></td></tr>
+<!--/Post: 8879-->
+<!--Post: 8948--><!--Time: 1109379059-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8948"><font face="Verdana" size="1"><b><!--email--><a href="mailto:witchkingofangmar@comcast.net" target="_blank"><!--/email--><!--name-->Witchking<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Witchking<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 4:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Try this one on for size BTK, here you are in all your horrid filth <BR> <BR> <BR><a href="http://www.parkcityks.com/images/pages/C163/dennisr.jpg" target=_top>http://www.parkcityks.com/images/pages/C163/dennis r.jpg</a><!--/Text--></td></tr>
+<!--/Post: 8948-->
+<!--Post: 9131--><!--Time: 1109400490-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9131"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 10:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->oh wow.  a compliance officer.... that makes so much sense, from the job description.  do you recall the &#34;lost dog&#34;, etc. references in the autobiography?<!--/Text--></td></tr>
+<!--/Post: 9131-->
+<!--Post: 9403--><!--Time: 1109496019-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9403"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Weeza<!--/name--></b></a><br>Username: <!--field:uname-->Weeza<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 1:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->links to all the capture info: <BR> <BR><a href="http://www.boston.com/news/nation/articles/2005/02/27/neighbors_say_suspect_had_2_sides/" target=_top>http://www.boston.com/news/nation/articles/2005/02 /27/neighbors_say_suspect_had_2_sides/</a> <BR> <BR><a href="http://www.msnbc.msn.com/id/6988048/page/2/" target=_top>http://www.msnbc.msn.com/id/6988048/page/2/</a> <BR>follow up <BR> <BR><a href="http://www.foxnews.com/story/0%2C2933%2C148833%2C00.html" target=_top>http://www.foxnews.com/story/0,2933,148833,00.html</a> <BR>follow up story <BR> <BR><a href="http://64.233.167.104/search?q=cache:CmB-un1FYusJ:www.parkcityks.com/index.asp%3FID%3D163%2Bsite:parkcityks.com%2Brader&amp;hl=en" target=_top>http://64.233.167.104/search?q=cache:CmB-un1FYusJ: www.parkcityks.com/index.asp%3FID%3D163&#43;site:parkc ityks.com&#43;rader&amp;hl=en</a> <BR> <BR><a href="http://ksn.com/news/stories/7036051.html" target=_top>http://ksn.com/news/stories/7036051.html</a> <BR>Video <BR> <BR><a href="http://mwc.starrtech.net/K00067881R056111117.jpg" target=_top>http://mwc.starrtech.net/K00067881R056111117.jpg</a> <BR>Pic <BR> <BR><a href="http://www.kansas.com/mld/kansas/11000748.htm" target=_top>http://www.kansas.com/mld/kansas/11000748.htm</a> <BR>mug shot <BR> <BR><a href="http://www.parkcityks.com/images/pages/c163/dennisr.jpg" target=_top>http://www.parkcityks.com/images/pages/c163/dennis r.jpg</a> <BR> <BR> <BR><a href="http://www.jacksonprogressive.com/issues/littleton/rader.html" target=_top>http://www.jacksonprogressive.com/issues/littleton /rader.html</a> <BR>different guy, not BTK <BR> <BR><a href="http://216.109.117.135/search/cache?p=%22Dennis%2BRader%22%2B%2B%2B%22Wichita%22&amp;ei=UTF-8&amp;u=www.christ-lutheran.org/people&amp;w=%22dennis%2Brader%22%2Bwichita&amp;d=91F4B24D41&amp;icp=1&amp;.intl=us" target=_top>http://216.109.117.135/search/cache?p=%22Dennis&#43;Ra der%22&#43;&#43;&#43;%22Wichita%22&amp;ei=UTF-8&amp;u=www.christ-luthe ran.org/people&amp;w=%22dennis&#43;rader%22&#43;wichita&amp;d=91F4 B24D41&amp;icp=1&amp;.intl=us</a> <BR>his church <BR> <BR><a href="http://web.archive.org/web/20021209041921/www.christ-lutheran.org/church/" target=_top>http://web.archive.org/web/20021209041921/www.chri st-lutheran.org/church/</a> <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 9403-->
+<!--Post: 9432--><!--Time: 1109522447-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9432"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 8:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Weeza...THANK YOU!<!--/Text--></td></tr>
+<!--/Post: 9432-->
+<!--Post: 9436--><!--Time: 1109524612-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9436"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 9:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wow..this is creepy.  From the above church link: <BR> <BR>Organists: Freyja Carlste <BR> <BR>In the from BTK section: <BR> <BR>i am BORED to death...i should freya something<!--/Text--></td></tr>
+<!--/Post: 9436-->
+<!--Post: 9457--><!--Time: 1109533679-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9457"><font face="Verdana" size="1"><b><!--email--><a href="mailto:topsailgrl@yahoo.com" target="_blank"><!--/email--><!--name-->Topsailgrl<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 11:47 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Check this out! <BR> <BR><a href="http://www.kansas.com/multimedia/kansas/archive/btk/022705raderriverview.pdf" target=_top>http://www.kansas.com/multimedia/kansas/archive/bt k/022705raderriverview.pdf</a><!--/Text--></td></tr>
+<!--/Post: 9457-->
+<!--Post: 9481--><!--Time: 1109537802-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9481"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 12:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Creepy TOPS! <BR> <BR>He is just plain creepy!<!--/Text--></td></tr>
+<!--/Post: 9481-->
+<!--Post: 9519--><!--Time: 1109544060-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9519"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Weeza<!--/name--></b></a><br>Username: <!--field:uname-->Weeza<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 2:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://ghostiesannex.myphotoalbum.com/view_album.php?set_albumName=BTK" target=_top>http://ghostiesannex.myphotoalbum.com/view_album.p hp?set_albumName=BTK</a><!--/Text--></td></tr>
+<!--/Post: 9519-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/495">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/495" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

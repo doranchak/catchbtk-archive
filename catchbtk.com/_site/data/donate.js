@@ -1,0 +1,1 @@
+window.CBTK={"page":"donate.html","title":"Charlie Otero Donation","archive":"../index.html","versions":[{"t":"20050305000925","e":"20050305000925","n":1,"f":"history/donate~20050305000925.html","a":0,"d":0,"sa":[],"sd":[]}]};

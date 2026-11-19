@@ -1,0 +1,249 @@
+<html>
+<!--Topic: 59/Messages To BTK-->
+<!--Me: 93/BTK, Profile youself AT NO RISK-->
+<!--Level 1: 93/BTK, Profile youself AT NO RISK-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 59-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK, Profile youself AT NO RISK</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK, Profile youself AT NO RISK</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/59/59.html"><font color="#f7f7f7">Messages To BTK</font></a> &#187;
+BTK, Profile youself AT NO RISK
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=59&page=93"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=59&page=93"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 511--><!--Time: 1090158829-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST511"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Russell<!--/name--></b></a><br><!--field:posts--><!--/field--><!--field:registered--><!--/field--><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, July 18, 2004 - 6:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK, Profile Yourself AT NO RISK <BR> <BR>... At least there is no more risk than mailing a letter. This is a character profile, not a typical statistics-based FBI profile. I posted this general offer on the Kansas message board last month, but received no response. Perhaps, you missed it. I do believe you are curious about your cognitive, behavioral, existential functioning. This is what the BRACE Character Profile measures. <BR> <BR>In any case, if you are serious about being accurately known or understanding yourself better, rate yourself on the 75-item 5-point rating scale known as the BRACE Character Profile. The 75 input ratings and the instructions are available at BRACEanalysis.com. You can even practice by rating Dr. Hannibal Lecter. Once you view the simple instructions and the profile items, all you need to do is rate yourself for each of the 75 items and e-mail or snail mail the corresponding ratings according to the “contact us” address at BRACEanalysis.com. You can view a profile of you that was developed in a message board at DeviantCrimes.com, Serial Crimes, Serial Murders section. <BR> <BR>Be sure to include how you want the results of your self-profile to be communicated to you ... the results can be posted on the internet, mailed to the newspaper or TV station of your choice, etc. no contact by you required. <BR> <BR>Of course, nothing will be confidential. And, I will need proof it is you.  <BR> <BR>SUMMARY: <BR>1.  No more risk than mailing a letter. <BR>2.  Rate yourself on the 75 items of the BRACE Character Profile. <BR>3.  You can view input ratings at BRACEanalysis.com,  <BR>4.  All I need are your ratings corresponding to the 75 items, e-mailed or snail mailed to me. Or, you can send them to the media, etc. <BR>5.  You can view a profile of you completed on the message board at DevianCrimes.com in the Serial Crimes/Serial Murders section. <BR>6.  Be sure to designate how you want your self-profile communicated to you through any third party. <BR>7.  Nothing will be confidential. <BR>8.  I will need proof it is you. <BR> <BR>Bottom line is that all I need are your 75 ratings, proof it is you, and instructions on what to do with the results. <BR> <BR>Russell <BR><!--/Text--></td></tr>
+<!--/Post: 511-->
+<!--Post: 512--><!--Time: 1090166893-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST512"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Mike_kelleher<!--/name--></b></a><br>Username: <!--field:uname-->Mike_kelleher<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, July 18, 2004 - 9:08 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You didn&#39;t mention how much BTK will pay for this profile. For the sake of completeness, would you like to add this important information? I was unable to find it on your website, other than the reference to PayPal at the end of the question section.<!--/Text--></td></tr>
+<!--/Post: 512-->
+<!--Post: 513--><!--Time: 1090181019-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST513"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, July 18, 2004 - 1:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Haha! Is there a disclaimer at the PayPal page promising not to look at his name and billing address? Otherwise, he may not go for it.<!--/Text--></td></tr>
+<!--/Post: 513-->
+<!--Post: 514--><!--Time: 1090207337-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST514"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Unsub<!--/name--></b></a><br>Username: <!--field:uname-->Unsub<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, July 18, 2004 - 8:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think infamous serial killers get a discount...<!--/Text--></td></tr>
+<!--/Post: 514-->
+<!--Post: 540--><!--Time: 1090441868-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST540"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Muskogee<!--/name--></b></a><br>Username: <!--field:uname-->Muskogee<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, July 21, 2004 - 1:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Geez!  I&#39;m in the wrong business... <BR> <BR>Here, Mike: <BR> <BR><a href="http://www.braceanalysis.com/clientarea.html" target=_top>http://www.braceanalysis.com/clientarea.html</a><!--/Text--></td></tr>
+<!--/Post: 540-->
+<!--Post: 541--><!--Time: 1090451516-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST541"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Mike_kelleher<!--/name--></b></a><br>Username: <!--field:uname-->Mike_kelleher<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, July 21, 2004 - 4:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks, Muskogee. It&#39;s an interesting fee schedule. In the public interest, I wonder if Russell would provide his BRACE profile on this site so we can have a look at it. That would give us all a chance to determine how it works, its worth, and its relevance.<!--/Text--></td></tr>
+<!--/Post: 541-->
+<!--Post: 542--><!--Time: 1090502689-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST542"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Russell<!--/name--></b></a><br>Username: <!--field:uname-->Russell<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, July 22, 2004 - 6:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->For a sample BRACE Character Profile, see the FAQ section of BRACEanalysis.com for the profile of Dr. Lecter. You can actually practice profiling Lecter to see how it works. Or, go to DeviantCrimes.com to see the profile analysis of BTK in the Serial Crimes/Serial Murder section. The input ratings for this profile were developed on their message board. <BR> <BR>A careful reading of my initial post makes it clear that all BTK has to do is view the input profile and put his self-ratings on a piece of paper and mail it according to the contact instructions at BRACEanalysis.com. He would never go to PayPal. <BR> <BR>Russell<!--/Text--></td></tr>
+<!--/Post: 542-->
+<!--Post: 549--><!--Time: 1090538686-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST549"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Mike_kelleher<!--/name--></b></a><br>Username: <!--field:uname-->Mike_kelleher<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, July 22, 2004 - 4:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, I guess that answers my question about posting it on this site.<!--/Text--></td></tr>
+<!--/Post: 549-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="59/93">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Post:</b>
+</font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Username:</b>
+</font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a public posting area.  Enter your username and password if you have an account. Otherwise, enter your full name as your username and leave the password blank.  Your e-mail address is optional.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Password:</b>
+</font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>E-mail:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><input type="text" name="email" value="" size=51></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Action:</b>
+</font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=59/93" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

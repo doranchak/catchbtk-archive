@@ -1,0 +1,1 @@
+window.CBTK={"page":"21.html","title":"catch BTK .com -- RICHARD LAMUNYON","archive":"../index.html","versions":[{"t":"20041204111835","e":"20041204111835","n":1,"f":"history/21~20041204111835.html","a":0,"d":0,"sa":[],"sd":[]}]};

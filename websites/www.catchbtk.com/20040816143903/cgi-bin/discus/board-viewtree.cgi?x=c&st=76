@@ -1,0 +1,79 @@
+<html>
+<head>
+<title>Tree View</title>
+<style>
+<!--
+body { font-family: Verdana; line-spacing: 0 }
+-->
+</style>
+<script language="JavaScript1.2">
+<!--
+function loader() {
+}
+// -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="loader()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Tree View</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<font face="Verdana" size="1">
+<!-- Non-JavaScript Tree -->
+<img src="/discus/icons/tree_g.gif" height=16 width=20 align=top>catchBTK.com MESSAGE BOARD<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=59"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/59/59.html?1092650196">Messages To BTK</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=1"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/1/1.html?1092590426">General BTK discussion</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=2"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/2/2.html?1092116723">Definite BTK Victims: The Oteros</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=5"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/5/5.html?1091758337">Definite BTK Victim: Kathryn Bright</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=6"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/6/6.html?1086972257">Definite BTK Victim: Shirley Vian</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=3"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/3/3.html?1090145058">Definite BTK Victim: Nancy Fox</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=7"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/7/7.html?1091239197">Definite BTK Victim: Vicki Wegerle</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=8"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/8/8.html?1092588467">Possible BTK Victims</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=9"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/9/9.html?1088311396">BTK Suspects</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=10"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/10/10.html?1090816890">BTK Letters</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=11"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/11/11.html?1092633226">BTK Theories</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=76"><img height=16 width=20 border=0 src="/discus/icons/tree_f.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/76/76.html?1090562047">BTK Media</a><br>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=admin" target=_top><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>
+<!--HTTP Cookie:  -->
+<!--Setting Cookies:
+  -->

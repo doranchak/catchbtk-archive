@@ -1,0 +1,1 @@
+window.CBTK={"page":"1.html","title":"catch BTK .com -- JOSEPH AND JULIE OTERO","archive":"../index.html","versions":[{"t":"20041204131744","e":"20041204131744","n":1,"f":"history/1~20041204131744.html","a":0,"d":0,"sa":[],"sd":[]}]};

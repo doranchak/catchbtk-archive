@@ -1,0 +1,248 @@
+<html>
+<!--Topic: 1/General BTK discussion-->
+<!--Me: 148/INSIDE THE BTK FILE-->
+<!--Level 1: 148/INSIDE THE BTK FILE-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: INSIDE THE BTK FILE</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">INSIDE THE BTK FILE</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK discussion</font></a> &#187;
+INSIDE THE BTK FILE
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=148"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=148"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 968--><!--Time: 1094168554-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST968"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, September 02, 2004 - 4:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A lot of new information was revealed. <BR> <BR>If you missed it, <a href="http://www.catchbtk.com/inside.html"> <b>here&#39;s a link</b></a> to the update.<!--/Text--></td></tr>
+<!--/Post: 968-->
+<!--Post: 969--><!--Time: 1094169723-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST969"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Micaela<!--/name--></b></a><br>Username: <!--field:uname-->Micaela<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, September 02, 2004 - 5:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey Tom, <BR> <BR>I am usually impressed with your &#34;information&#34;, but I have to say that this guy in no way gave more information than I already knew. Of course, I have known more about the case than most from the beginning. &#40;Not by choice&#41;. But it seems he should have heard or seen more.? <BR> <BR>I am not judging him, or discounting him. I respect him for coming forward. I agree with him that WPD is using the media to report misinformation to stir BTK up. I knew Josephine was a &#34;special&#34; target for him. <BR> <BR>I have been shocked by the recent &#34;secret&#34; search and seizure of persons and/or property with information about the BTK case. THAT doesn&#39;t make it in the news! <BR> <BR>Please keep him safe. There is a &#34;witch hunt&#34; going on. I hope to hear more dirt about the old fella&#39;s. This would be of importance to me! LOL! <BR> <BR>Take care and thanks, <BR>Jaden<!--/Text--></td></tr>
+<!--/Post: 969-->
+<!--Post: 971--><!--Time: 1094171010-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST971"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, September 02, 2004 - 5:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Micaela, my source just recently started getting back into the BTK case after being retired for the last 20 years and putting those memories aside. I&#39;m sure the more he reads, the more memories he&#39;ll have and share with me. <BR> <BR>For the record, there were several points he made that were definitely news to me and still others that seemed to confirm rumors that have been around for decades.<!--/Text--></td></tr>
+<!--/Post: 971-->
+<!--Post: 973--><!--Time: 1094180580-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST973"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lilcgirl<!--/name--></b></a><br>Username: <!--field:uname-->Lilcgirl<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, September 02, 2004 - 8:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The information this guy gave you was great.....I only hope that others may take his lead and do the same.  <!--/Text--></td></tr>
+<!--/Post: 973-->
+<!--Post: 974--><!--Time: 1094180911-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST974"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, September 02, 2004 - 8:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Is the suspect still alive? Does he know? Perhaps his parents recently died and that spawned BTK&#39;s return. Did he give you his name on the sly? Either the police are deliberately misrepresenting some facts or they are unbelievably inept. Surely this main suspect has been kept under surveillance. I do hope that more info comes back as he thinks about the case. <BR> <BR>Perhaps BTK has a scar afterall from his metal plate. I have only seen one person with a metal plate &#40;about 35 years ago&#41;. His hair was a different color down the center than on the sides. This was well before all the current wierdness with haircolor started. It may have been a piece. I have seen one person who was born without the top of his skull and there was minimal hair growth in that area. So, it may be distinct enough to warrant wearing a cap to cover it to avoid being id&#39;d. <BR> <BR>I wonder if BTK is an only child, still craving to be the center of attention. <BR> <BR>This information has been great! Thanks.<!--/Text--></td></tr>
+<!--/Post: 974-->
+<!--Post: 984--><!--Time: 1094232042-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST984"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Debbie<!--/name--></b></a><br>Username: <!--field:uname-->Debbie<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, September 03, 2004 - 10:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Great job, Tom!!! Thanks for going to all the trouble of doing this. I am looking forward to hearing more.<!--/Text--></td></tr>
+<!--/Post: 984-->
+<!--Post: 985--><!--Time: 1094239476-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST985"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Screamer<!--/name--></b></a><br>Username: <!--field:uname-->Screamer<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, September 03, 2004 - 12:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Great job Tom! Some stuff that I didn&#39;t know as well. I have to agree with Lilcgirl and hope this will bring other people forward. Thanks.<!--/Text--></td></tr>
+<!--/Post: 985-->
+<!--Post: 988--><!--Time: 1094329667-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST988"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, September 04, 2004 - 1:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you Tom, <BR> <BR>Walter Sickert was a Ripper suspect and is said to have painted scenes of the Ripper crimes from memory in his later art work. This is Patricia Cornwell&#39;s suspect in her book &#34;Portait of a Killer.&#34; <BR> <BR>The earlist mention of Sickert was in the  <BR>1976 book, &#34;Jack the Ripper: The Final Solution&#34; by Stephen Knight. This is the year before the Nancy Fox murder of Dec. 8, 1977, where BTK is said according to Tom&#39;s article sketched her murder scene. The sketch sounds a lot like elements of the scene of Ripper victim Mary Kelly, which too was sketched by the police.  <BR><a href="http://www.casebook.org/dissertations/dst-artofmurder.html" target=_top>http://www.casebook.org/dissertations/dst-artofmur der.html</a> <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 988-->
+<!--Post: 990--><!--Time: 1094348601-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST990"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wichitaboy<!--/name--></b></a><br>Username: <!--field:uname-->Wichitaboy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, September 04, 2004 - 6:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Great job Tom.  I am looking forward to other&#39;s who will surely come forward.  I hope you can get copies of all the letters. <BR> <BR>Mark<!--/Text--></td></tr>
+<!--/Post: 990-->
+<!--Post: 991--><!--Time: 1094361224-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST991"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Weeza<!--/name--></b></a><br>Username: <!--field:uname-->Weeza<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, September 04, 2004 - 10:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wasn&#39;t she found on her stomach? <BR> <BR>Similar, in some respects,except that Mary Kelly was disemboweled....&#40; I hope I spelled that right&#41; <BR><a href="http://www.casebook.org/victims/mary_jane_kelly.html" target=_top>http://www.casebook.org/victims/mary_jane_kelly.ht ml</a> <BR>and only partial DNA was recovered from Sickerts paintings, but the process of retrieving DNA did manage to scrape together the anger of the art community. <BR> <BR>Sorry, random thoughts often pop up for no useful reason, but I post them just the same.<!--/Text--></td></tr>
+<!--/Post: 991-->
+<!--Post: 994--><!--Time: 1094406545-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST994"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, September 05, 2004 - 10:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Weeza, <BR> <BR>Kelly is an Irish name, Vian was murdered on St. Pat&#39;s day and her address is 1311. 13=M and 11=K, MK for Mary Kelly. <BR> <BR>Shirley&#39;s murder was also after the Knight&#39;s Ripper book came out. <BR> <BR>I can&#39;t find where I read about the police sketch of the Kelly murder, but I think it said the sketch had her boots somewhere else besides in front of the fireplace.<!--/Text--></td></tr>
+<!--/Post: 994-->
+<!--Post: 996--><!--Time: 1094435118-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST996"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Colette<!--/name--></b></a><br>Username: <!--field:uname-->Colette<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, September 05, 2004 - 6:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It would seem that any BTK suspect would have already been tested for DNA, so the guy is someone no one has suspected yet. Under the radar, revealing only what he wants us to know.<!--/Text--></td></tr>
+<!--/Post: 996-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/148">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/148" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

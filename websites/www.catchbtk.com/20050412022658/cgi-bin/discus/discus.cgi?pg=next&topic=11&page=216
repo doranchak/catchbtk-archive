@@ -1,0 +1,307 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 223/BTK´s true initials-->
+<!--Level 1: 223/BTK´s true initials-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK´s true initials</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK´s true initials</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+BTK´s true initials
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=223"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=223"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 2337--><!--Time: 1103555943-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2337"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brazilian<!--/name--></b></a><br>Username: <!--field:uname-->Brazilian<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 20, 2004 - 7:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I read a lot of posts and theories about BTK´s real name based on the fact that his true initials are actually BTK. Or W, since some people think his name might be William. <BR> <BR>Personally I dont believe on this. What do you guys think about it?<!--/Text--></td></tr>
+<!--/Post: 2337-->
+<!--Post: 2384--><!--Time: 1103585366-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2384"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 20, 2004 - 3:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t believe it either Brazilian. BTK offered nine different choices of a nickname. The BTK Strangler was first followed by The Wichita Stangler, The Poetic Strangler, The Bondage Strangler, Psycho, The Wichita Hangman, The Wichita Executioner, The Garote Phantom and The Asphixiator. So he easliy could have been called something else by the media and authorities. <BR>It is interesting that he misspelled the word Garrote. Garrote with two r&#39;s refers to strangulation and methods of strangulation while Garote as he spells it with one r refers to a Filippino martial arts stick. You would think if a serial killer were choosing a name he would look up the correct spelling.  <BR>It is of further interest to note that in a drawing he sent to would-be victim Anna Williams he shows what investigators and others who have seen it, what is described as a billy club or police baton being inserted into a body cavity. Could they have interpreted the drawing incorrectly? Could it be a Garote stick?<!--/Text--></td></tr>
+<!--/Post: 2384-->
+<!--Post: 2391--><!--Time: 1103590069-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2391"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 20, 2004 - 4:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Its highly unlikely the BTK Strangler would use the initials of his name in the sobriquet. BTK refers to the method of murder and the term Strangler refers to the aspect of the crime that provides him with gratification. A sadistic psychopath enjoys taunting the police and public to ensure he maintains control and domination of the situation.<!--/Text--></td></tr>
+<!--/Post: 2391-->
+<!--Post: 2774--><!--Time: 1104102312-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2774"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 26, 2004 - 3:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->His initial letter said that the letters b,t, &amp;k were a &#34;code&#34; for &#34;me&#34; which I interpret to mean a code either for himself or for his name.  BTK is an anagram for &#34;bind torture kill&#34;, not a code for it. <BR> <BR>Incidently, the initials BTK also describe another serial killer who was well known to the WSU professor PJ.<!--/Text--></td></tr>
+<!--/Post: 2774-->
+<!--Post: 2777--><!--Time: 1104106442-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2777"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sean<!--/name--></b></a><br>Username: <!--field:uname-->Sean<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 26, 2004 - 4:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t know, perhaps I&#39;m being pedantic, but the moniker always seemed  to be disjointed to me. <BR>The Bind them, Torture them, Kill them, Stranler. <BR>Technically, shouldn&#39;t it be, Bind, torture, strangle, Kill/killer?<!--/Text--></td></tr>
+<!--/Post: 2777-->
+<!--Post: 2783--><!--Time: 1104117064-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2783"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Juno<!--/name--></b></a><br>Username: <!--field:uname-->Juno<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 26, 2004 - 7:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think he meant code as in  <BR>Code Name: Stingray  <BR>-or- <BR>Code Name: Jet Jaguar <BR>-or- <BR>Code name: BTK <BR>It&#39;s an acronym in this case, much like S.N.A.F.U. <BR>It&#39;s not a code for his real name.  <BR> <BR>Although obvious, it&#39;s interesting to note that all of the &#34;codenames&#34; other than &#34;psycho&#34; have to do with asphyxiation. <!--/Text--></td></tr>
+<!--/Post: 2783-->
+<!--Post: 2788--><!--Time: 1104123388-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2788"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 26, 2004 - 8:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sorry, I said anagram and meant acronym.   <BR> <BR>That said, the letter didn&#39;t say it&#39;s my &#34;code name&#34;, nor did it say it&#39;s an &#34;acronym for my name&#34;.  &#40;No offense, but if one analyzes the letter by guessing at what he meant by what he said, we&#39;ll be guessing forever.&#41;  If, however, we assume that he used language precisely, and that he meant exactly what he said, then we may have a starting point. <BR>His exact language was: &#34;The code words for me will be... Bind them, toture them, kill them, B.T.K.,&#34; &#40;<a href="http://www.kansas.com/mld/kansas/news/special_packages/btk/history/8321038.htm" target=_top>http://www.kansas.com/mld/kansas/news/special_pack ages/btk/history/8321038.htm</a>&#41; <BR> <BR>If anyone knows of some communication where he said his name was BTK please post it.  The letter with wichita strangler etc asked the press to name him.  BTK is not a name and bind them, toture etc. is not a name.  But if I&#39;m correct he NEVER said his name was BTK.   <BR> <BR>I&#39;m curious about the reasoning behind the statement &#34;It&#39;s not a code for his real name&#34;?  Would you mind sharing it?   <BR> <BR>However, if we treat the letters B, T, and K as code for a name instead of a code name, what&#39;s the name?<!--/Text--></td></tr>
+<!--/Post: 2788-->
+<!--Post: 2794--><!--Time: 1104144033-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2794"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 27, 2004 - 2:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I like Pat Brown&#39;s idea about the initials BTK - that they are related to the Marines in Vietnam, and their slogan &#34;Born To Kill&#34;.  Check out her profile at: <BR> <BR><a href="http://www.she-dc.com/pages/BTK.htm" target=_top>http://www.she-dc.com/pages/BTK.htm</a> <BR> <BR>There almost has to be a direct connection to a Marine vet or wannabe, in my opinion.  I think he really wanted the acronym.<!--/Text--></td></tr>
+<!--/Post: 2794-->
+<!--Post: 2949--><!--Time: 1104313059-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2949"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 29, 2004 - 1:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Pax56 <BR>there certainly could be a direct connection to a Marine.  Can you build a connection from the letters B T &amp; K to the name of a marine who lived in wichita two blocks from a BTK victim, who owns a business machine/copier repair company, is heavily involved in historical rail lines and is on the donor list at WSU?. What about the other two BTK&#39;s named in her analysis, &#34;Build the Kingdom&#34; and &#34;Billy the Kid&#34;.   <BR> <BR>Billy the Kid was a serial killer &#40;he killed eight people&#41; and actually lived in wichita; historical data locates the residence near 21st and Oliver.   <BR> <BR>The phrase BTK was a name the historical press used as an acronym for Billy the Kid.  To quote Juno since his real name was different &#40;Lets say his real name was John Doe,&#41; Billy the Kid would be John Doe&#39;s code name, which would use BTK like a morse code [SOS = Save Our Ship] so [BTK&#40;morse code&#41; = Billy The Kid &#40;Code name&#41;= John Doe. <BR> <BR>What if you could take Billy the Kid&#39;s real name and do everything I suggested you do with Born To Kill: <BR> <BR>&#34; build a connection from the letters B T &amp; K to the name of a person who lived in wichita two blocks from a BTK victim, who owns a business machine/copier repair company, is heavily involved in historical rail lines and is on the donor list at WSU?.&#34; <BR> <BR>I guess the starting point would be to ask what Billy the Kid&#39;s real name was and whether he had any historical connection to oteros?  <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 2949-->
+<!--Post: 2999--><!--Time: 1104363928-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2999"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Juno<!--/name--></b></a><br>Username: <!--field:uname-->Juno<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 29, 2004 - 3:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I would posit that the use of the word &#34;code&#34; was simply a malapropism on the part of BTK. <BR> <BR>He was referring to something more akin to &#34;key words&#34; &#34;descriptors&#34; &#34;adjectives&#34; &#34;buzz words&#34; &#34;nom de plume&#34; etc.  I didn&#39;t mean to imply above that it was actually a &#34;code.&#34; <BR> <BR>I seriously doubt they have anything to do with his real initials.  This is a guy who wanted press and wasn&#39;t getting it.  So he made up his own nickname, so to speak. <BR> <BR>Ever see the episode of Seinfeld where George wants a nickname?  He  keeps trying to get people to call him something like &#34;T-Bone.&#34;  That&#39;s about the best analogy I can come up with.  The press wasn&#39;t giving him a Kool Killer Kode-Name so he manufactured his own moniker.  <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 2999-->
+<!--Post: 3009--><!--Time: 1104370533-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3009"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 29, 2004 - 5:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Perhaps I should tell more of the reason behind my last post on this thread. <BR> <BR>I followed the line of reasoning outlined in the 12/29/04 post, starting several months ago.  I arrived at a name &#40;which I&#39;m not putting out here because I need an independent review.&#41; <BR> <BR>I have verified that a person by this name meets all available criteria.  When WPD went public with &#34;details&#34; so many of them fit that I called WPD, spent an hour with them, and gave them a copy of my research files.   <BR> <BR>I&#39;m seriously asking for a doublecheck on my reasoning and facts.  I think BTK made a mistake in his early correspondence, and tried to cover it up with his request that we pick a name for him. <BR> <BR>I mean no offense to Juno, but it&#39;s the same cop mentality that I see all the time.  Assumptions are not evidence, they are not facts. You don&#39;t use assumptions to exclude evidence, you use them to test evidence.   <BR> <BR>BTK may have used the word &#34;code&#34; incorrectly and it may indeed be a malapropism.  The only problem is that there is absolutely no evidence to support that conclusion. <BR> <BR>We don&#39;t know what he meant in his letters, but we do know what he said.  I don&#39;t mean to ruffle feathers here, but if you assume/posit that this language was a mistake, the analysis stops right there.  If you assume he meant exactly what he said, you have a testable hypothesis. <BR> <BR>How about looking at his first letter and assuming he meant what he said?   <!--/Text--></td></tr>
+<!--/Post: 3009-->
+<!--Post: 3036--><!--Time: 1104378247-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3036"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jujuree<!--/name--></b></a><br>Username: <!--field:uname-->Jujuree<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 29, 2004 - 7:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;I think BTK made a mistake in his early correspondence, and tried to cover it up with his request that we pick a name for him.&#34; <BR> <BR>I have to ask, what mistake are you referring to?  Can you tell without giving more info than you&#39;re prepared to give? <BR> <BR>Also, are you referring to the letter he left at the Wichita Public Library, addressed to the &#34;Secret Witness Program,&#34; claiming the Otero murders?  That was the first letter, wasn&#39;t it?   <BR><!--/Text--></td></tr>
+<!--/Post: 3036-->
+<!--Post: 3053--><!--Time: 1104387307-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3053"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 29, 2004 - 10:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think you made the right call twice - by going to the WPD and by not publishing the name.  Sounds like they gave you a fair hearing &#40;1 hour&#41;, too, which is refreshing to hear. <BR> <BR>Also consider the possibility that your suspect is not BTK, but a person &#42;known&#42; to BTK.  The reason I&#39;m saying this is that I personally don&#39;t buy many of the clues that he has been giving the police in 2004.  For example, the train thing has a lot of joke-on-the-cops potential.  I really think he may have been setting the police up on a lot of his clues.  But the blowback on that is that he may very well prove to be somebody acquainted with - or even well-known to - several people who fit the released profile, if he indeed tailored it to fit real individuals who he thought would draw police interest and resources. <BR> <BR>In any case, the initials B.T.K. may be significant - they could have multiple connections and meanings that BTK liked. <BR> <BR>It could be coincidence that the initials are a function of your suspect&#39;s name, but it might not be.  If you&#39;re comfortable letting somebody look at you&#39;re reasoning, and if Tom is willing to play postmaster and forward your ideas to me, I&#39;d be happy to look at your ideas offline.  I&#39;d rather not put my email on the board, however, since it&#39;s been getting mega-hits.<!--/Text--></td></tr>
+<!--/Post: 3053-->
+<!--Post: 3165--><!--Time: 1104537132-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3165"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Juno<!--/name--></b></a><br>Username: <!--field:uname-->Juno<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 31, 2004 - 3:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->So, I can assume he meant what he said at face value <BR> <BR>&#42;or&#42; <BR> <BR>I can look at his writing and make some assumptions based on his word choice, sentence structure etc.   <BR> <BR>Either way one is making an assumption. <BR> <BR>Shall I assume he reall meant to say &#34;those three dude?&#34; <BR> <BR>Shall I assume there really is a monster? Who apparently is looking over his shoulder as he writes and getting in a few lines of his own? <BR> <BR>Did he really mean &#34;BTK Haunts&#34; as it first appeared  or the later, apparently corrected, &#34;BTK&#39;s Haunts?&#34;  Did he really mean &#34;will there more?&#34; or the again corrected &#34;Will There Be More?&#34; <BR> <BR>Looking at his writing, I would not be surprised if he misuses words.  He has already done so. <BR> <BR>I will assume he uses words incorrectly, wanted attention, and came up with his own media name.  Is that more or less plausible than to assume he was dumb enough to use his real initials....and is still at large? <BR> <BR>Writing style analysis is a very worthwhile tool. <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 3165-->
+<!--Post: 3225--><!--Time: 1104639696-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3225"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 01, 2005 - 8:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Actually one can analyze it both ways. <BR>   <BR>However, you should be careful to start with the literal language.  He didn&#39;t say they were &#34;his real initials&#34; what he said was: <BR> <BR> <BR>&#34;The code words for me will be... Bind them, toture them, kill them, B.T.K.,&#34; <BR> <BR> <BR> <BR>I will concede that if your assumption is correct, &#34;he uses words incorrectly, wanted attention, and came up with his own media name&#34;, then I&#39;m on a wild goose chase. <BR> <BR>But what if my assumption is correct?   <BR> <BR> <BR>Look at <a href="http://freepages.genealogy.rootsweb.com/~gazetteer2000/ham_city/cemetery/oakwood/r_oakw/billykid.htm" target=_top>http://freepages.genealogy.rootsweb.com/~gazetteer 2000/ham_city/cemetery/oakwood/r_oakw/billykid.htm</a> <BR> <BR>Pax56: Set up a pseudonym email with yahoo, and email me at <a href="mailto:whoisbtk@yahoo.com">whoisbtk@yahoo.com</a>. I will email a detailed summary.<!--/Text--></td></tr>
+<!--/Post: 3225-->
+<!--Post: 3324--><!--Time: 1104803844-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3324"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 5:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Although I don&#39;t believe BTK stands for anything but Bind, Torture, Kill it could have a double meaning when refering to something he takes with him to all his murder sites.  <BR>That would be his Basic Tool Kit.<!--/Text--></td></tr>
+<!--/Post: 3324-->
+<!--Post: 3342--><!--Time: 1104813585-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3342"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 8:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->From the phonetic alphabet: Bravo Tango Kilo<!--/Text--></td></tr>
+<!--/Post: 3342-->
+<!--Post: 3476--><!--Time: 1104953103-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3476"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brazilian<!--/name--></b></a><br>Username: <!--field:uname-->Brazilian<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 05, 2005 - 11:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Whoisbtk, I am very interested on reading your analises. I sent you an e-mail and didnt get your response yet. Looking forward to read it! <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 3476-->
+<!--Post: 4200--><!--Time: 1105849231-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4200"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Boffa994<!--/name--></b></a><br>Username: <!--field:uname-->Boffa994<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 15, 2005 - 8:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->to whoisbtk: <BR>  Billy the Kids real name was: <BR>  William H. Bonney <BR>   <!--/Text--></td></tr>
+<!--/Post: 4200-->
+<!--Post: 4390--><!--Time: 1106290411-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4390"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 10:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->To Boffa994 <BR> <BR>&#34;Come, Watson, the game&#39;s afoot!&#34; <BR> <BR>Close.  Bonney was the pen name he assumed when he corresponded with the Governor of New Mexico.  However it was not his actual name. <BR> <BR>Since I am asking posters to retrace my logic, I don&#39;t want to blurt out &#40;what I think is&#41; the real name.  However, a small clue, check the website for Wichita, <a href="http://www.wichita.gov" target=_top>www.wichita.gov</a>.  There is an article on the early history of Wichita that has another name.  Google William H. &#42;&#42;&#42;&#42;&#42;&#42;&#42;, and you will find the data on another name.   <BR> <BR>In the 1870&#39;s the family lived in Wichita.  His mother ran a laundry and actually signed the petition to make Wichita a city.  The name she used was NOT Bonney. <BR> <BR>By the way, you have the first name: &#34;William&#34; correct.  The middle initial is also correct and stands for &#34;Henry&#34;.   <BR> <BR>The last however is a corruption of his mothers name before marriage &#34;Bohne&#34;.  It is NOT the name on documents in his pre and early teens, no birth certificate has been found/authenticated.   <BR> <BR>Granted, there is a dispute about the real last name, but if you get the last name they used while in Wichita, run it through WSU&#39;s website and see what you find.  <BR> <BR>Run it through Kansas businesses for copiers and see what you find. <BR> <BR>Run it through Kansas railroad history and see what you find. <BR> <BR>Search property ownership within two blocks of “Anna” at the time BTK broke in and see what you find. <BR> <BR>Good Hunting <BR> <BR><a href="mailto:whoisbtk@yahoo.com">whoisbtk@yahoo.com</a> <BR><!--/Text--></td></tr>
+<!--/Post: 4390-->
+<!--Post: 6973--><!--Time: 1108100120-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6973"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 9:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->To the person who mentioned the HAL9000 decoding thingie before, by that method, BTK is CUL... one letter after the original one. <BR> <BR>CUL may mean: <BR>Short for &#34;see you later&#34;; <BR>Canadian Underwriters Laboratories; <BR>Butt in French or Spanish <BR>Cul de sac, being the end of a private &#40;small&#41;road <BR>Cul de poule means... well... a chicken&#39;s rear <BR>CUL-Tech is a bycicle company: <a href="http://www.cultech-cycle.com/new_emporium001003.jpg" target=_top>http://www.cultech-cycle.com/new_emporium001003.jp g</a> ; <BR>A pharmaceutical company from England; <BR>Short for CUL8ER, C U L8 ER. <BR> <BR>An anagram from CUL is &#34;LUC&#34; which are the initials for Loyola University in Chicago. <BR> <BR><IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6973-->
+<!--Post: 6975--><!--Time: 1108100575-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6975"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 9:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I wish I could have a clean copy of the three grids. The picture of the block letters is too blurry for me to read. Then the grids someone made, well, looks like they copied some letters wrong.  <BR> <BR>I wish the PD would give out more information. <BR> <BR>For one... why not give us an idea of what Mr. Otero&#39;s watch looked like? Have they done that? Have I missed it? <!--/Text--></td></tr>
+<!--/Post: 6975-->
+<!--Post: 6985--><!--Time: 1108108081-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6985"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 11:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i>&#34;To the person who mentioned the HAL9000 decoding thingie before, by that method, BTK is CUL... one letter after the original one.&#34;</i> <BR> <BR>Doesn&#39;t that depend on who is HAL and who is IBM?  If you presume the same paradigm for BTK as for IBM/HAL, viz. that the psuedonym is derived by subtracting one letter from the original name, then wouldn&#39;t you actually be looking for someone with the birth-certificate-initials of &#34;ASJ&#34;?!?<!--/Text--></td></tr>
+<!--/Post: 6985-->
+<!--Post: 7012--><!--Time: 1108131555-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7012"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 6:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->CUL could also mean weeding out bad ones  <BR>I have heard this term as you would pick out choice wood in a lumber yard.<!--/Text--></td></tr>
+<!--/Post: 7012-->
+<!--Post: 7014--><!--Time: 1108132314-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7014"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 6:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Armchairpi, I would assume that. Just the way they had explained was one letter following the original letter. So, they had CUL. I think it would be ASJ if you were doing IBM into HAL, but if you were doing HAL into IBM, it would be BTK. <BR> <BR>Okay, now my brain hurts. Thanks. <BR> <BR><IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0><!--/Text--></td></tr>
+<!--/Post: 7014-->
+<!--Post: 7432--><!--Time: 1108494285-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7432"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 15, 2005 - 11:04 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think this fits in here somewhere. <BR>Bill Thomas Killman <BR>1684 S. Oldmanor <BR>1&#41;1684 is the NID for Wichita State University Website. <a href="http://WWW.wichita.edu/online/news/?_A=Article&amp;_NID=1684" target=_top>WWW.wichita.edu/online/news/?_A=Article&amp;_NID=1684</a> <BR>2&#41;1864 Wichita Kansas was founded. <BR>3&#41;Bill=William=William Shakespeare &#40;Tragedy&#41; <BR>4&#41;Thomas=Doubting Thomas-one who is habitually doubtful, someone who demands physical evidence in order to be convinced/especially when this demand is out of place. <BR>5&#41;Kill Man <BR>All together It is a Tragedy that you still demand physical evidence that I am the one that killed these men&#40;people&#41;. <BR>S. OldManor <BR>Same old manor=You know it is me because I haven&#39;t changed my MO, you still recieve my letters/clues in the same old manor<!--/Text--></td></tr>
+<!--/Post: 7432-->
+<!--Post: 7555--><!--Time: 1108572763-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7555"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 8:52 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->When newspapers run obituaries, some post the personal information, and then at the end they write &#34;Bill: ____ _____&#34;, whoever is responsible for paying the ad. <BR> <BR>I don&#39;t know but this reminds me of Bill Thomas Killman&#34;... a sarcastic way of saying &#34;blame Thomas Killman&#34;, for whatever reason... <BR> <BR>MO = my opinion <BR><IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0><!--/Text--></td></tr>
+<!--/Post: 7555-->
+<!--Post: 7837--><!--Time: 1108706544-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7837"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Isleuth<!--/name--></b></a><br>Username: <!--field:uname-->Isleuth<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 10:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have always been kinda bugged by the fact that BTK mentions other serial killers by their common names like the Zodiak killer etc but then he calls Ted Bundy &#39;Ted of the west coast&#39;. Nobody calls him &#39;Ted of the west coast.&#39;  Why does he think of him as &#39;Ted of the west coast&#39; unless, on a subconcious level, he thinks of himself as Ted of Kansas.  So that&#39;s the long-winded reason for why I think BTK&#39;s name may well be Ted--anyway it would make the &#39;T&#39; in BTK if those are his real initals.<!--/Text--></td></tr>
+<!--/Post: 7837-->
+<!--Post: 7861--><!--Time: 1108715862-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7861"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Suspiria_2<!--/name--></b></a><br>Username: <!--field:uname-->Suspiria_2<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 12:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->not sure about the dates of Ted Bundy&#39;s capture and how that correlates to BTK&#39;s note, but prior to them catching Bundy, he was known as &#34;Ted&#34; because that is the only clue that they had about his identity. <BR> <BR>when he was pulling his &#34;i&#39;m injured-can you help me with my boat/groceries/etc.&#34; trick, he foolishly used his own first name.  a few of the women who passed him up on this ploy related this information to the police and helped with a sketch. <BR><!--/Text--></td></tr>
+<!--/Post: 7861-->
+<!--Post: 9648--><!--Time: 1109578235-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9648"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->J_eric<!--/name--></b></a><br>Username: <!--field:uname-->J_eric<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 12:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->My opinion is that BTK is an anagram for Dennis Rader&#39;s kids:  &#34;Brian Then Kerry.&#34;  Or else he named them in that order after the earlier killings to match his moniker.<!--/Text--></td></tr>
+<!--/Post: 9648-->
+<!--Post: 9704--><!--Time: 1109609036-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9704"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stealth<!--/name--></b></a><br>Username: <!--field:uname-->Stealth<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 8:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Unless we hear from him otherwise, I am inclined to think this was not part of the deal <!--/Text--></td></tr>
+<!--/Post: 9704-->
+<!--Post: 9705--><!--Time: 1109609129-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9705"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 8:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Somethng so small, yet the meaning is so big. <BR> <BR>Thanks again J_eric. <BR><!--/Text--></td></tr>
+<!--/Post: 9705-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/223">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/223" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

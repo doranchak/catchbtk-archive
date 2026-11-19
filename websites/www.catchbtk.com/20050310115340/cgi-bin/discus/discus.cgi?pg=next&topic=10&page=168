@@ -1,0 +1,331 @@
+<html>
+<!--Topic: 10/BTK Communications-->
+<!--Me: 348/The puzzles...-->
+<!--Level 1: 348/The puzzles...-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: The puzzles...</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">The puzzles...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Communications</font></a> &#187;
+The puzzles...
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=348"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=348"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4499--><!--Time: 1106437121-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4499"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 3:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Okay, I&#39;ve wasted a full 30 minutes looking at these freakin word puzzles and here are all the words I found.  To let you know in advance, I found words within words, went up, down, and diagonal, backwards and forwards, side to side.  Those words where the letters were questionable I will put a question mark by.  Here goes.  Maybe there is something there.... <BR> <BR>fib <BR>sex <BR>kid <BR>in <BR>nip <BR>lot <BR>leo <BR>build <BR>builds <BR>top <BR>cruise <BR>plan <BR>details <BR>car <BR>sow <BR>spot <BR>pot <BR>hat <BR>pig &#40;found twice&#41; <BR>rum <BR>PJ <BR>up <BR>pin <BR>prowl <BR>owl <BR>pet <BR>helm <BR>elm <BR>MO <BR>row <BR>wit <BR>oil <BR>fan <BR>steam <BR>team <BR>follow <BR>sat <BR>sims <BR>sim <BR>five?? <BR>fives?? <BR> <BR>sos <BR>yes <BR>boa <BR>toy <BR>office <BR>officer <BR>peg <BR>par <BR>ice <BR>anderson <BR>school <BR>rye <BR>telephone <BR>phone <BR>poet <BR>wichita <BR>pet <BR>red <BR>son <BR>rye <BR>larry <BR>sub?? <BR> <BR>at <BR>fir <BR>shed <BR>he <BR>she <BR>poe &#40;As in Edgar Allen Poe or someone else&#41; <BR>led <BR>ruse <BR>use <BR>dog <BR>sold <BR>set <BR>man <BR>handy <BR>handyman <BR>hand <BR>no <BR>nor <BR>help <BR>stem <BR>met <BR>mets <BR>ice <BR>iceman <BR>insurance <BR>ran <BR>real <BR>God <BR>sold <BR>cad <BR>dam <BR>realtor <BR>sis <BR>lost <BR>dog <BR>lost dog <BR>new <BR>mad <BR>dress <BR>fake <BR>fakeid <BR>id <BR>die <BR>sold <BR>nam &#40;as in Vietnam&#41; <BR>wrong <BR>go <BR>amy <BR>dome <BR>model <BR>mode <BR>real <BR>realtor <BR>realtors<!--/Text--></td></tr>
+<!--/Post: 4499-->
+<!--Post: 4503--><!--Time: 1106443318-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4503"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 5:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I left off service and serviceman.  Sorry about that.<!--/Text--></td></tr>
+<!--/Post: 4503-->
+<!--Post: 4537--><!--Time: 1106504598-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4537"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 10:23 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Of interest I find that the nursery rhyme &#34;Curly Locks&#34; mentions swine and in his first puzzle he has pig twice along with the word sow. <BR> <BR>The words I find most curious are: <BR> <BR>PJ <BR>elm <BR>steam <BR>leo <BR>sos <BR>help <BR>boa <BR>toy <BR>dress <BR>poe <BR>sis <BR>amy <BR>nam <BR><!--/Text--></td></tr>
+<!--/Post: 4537-->
+<!--Post: 4545--><!--Time: 1106515706-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4545"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wade<!--/name--></b></a><br>Username: <!--field:uname-->Wade<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 1:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Jrl...if any of the information given to police as his bio is to be believed, look in front of the word steam in the puzzle.  There is an N. <BR>Nsteam is a type of train and in his bio he talks of life long interest in trains.  So I think the word is nsteam not just steam.  Google &#34;nsteam wichita&#34; and see what you get.  It will suprise you!!!!!<!--/Text--></td></tr>
+<!--/Post: 4545-->
+<!--Post: 4546--><!--Time: 1106516005-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4546"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wade<!--/name--></b></a><br>Username: <!--field:uname-->Wade<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 1:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sorry.  I meant just to google nsteam....not with Wichita. <BR> <BR>If you look thru the listings you will find a listing referring to Wichita. <BR>Sorry for the mistake! <BR><!--/Text--></td></tr>
+<!--/Post: 4546-->
+<!--Post: 4549--><!--Time: 1106517070-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4549"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 1:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wade, <BR> <BR>I am extremely limited on my time right now as I have already missed a writing deadline.  Could you provide the link?  Please? <BR> <BR>I will say, that&#39;s great work.  I had no idea about nsteam trains.  I think you&#39;re on to something.  If I were WPD, and I&#39;m hoping they already have, I would visit the train stores within Wichita and get a list of their long-time customers.  I would think he woudl visit the shop frequently. <BR> <BR>Thanks for providing the information.  <!--/Text--></td></tr>
+<!--/Post: 4549-->
+<!--Post: 4556--><!--Time: 1106519363-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4556"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Researcher<!--/name--></b></a><br>Username: <!--field:uname-->Researcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 2:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I made mention on another board a while back that no one commented on. See the puzzle to see what you think - the one that has the word details in the sixth column <BR> <BR>Across - ?IAMCLOLDDL <BR>Down from the M-  RNLT     <BR> <BR>Maybe I am stretching it - could be I AM RN  &#40;registered nurse? or =his initials?&#41;<!--/Text--></td></tr>
+<!--/Post: 4556-->
+<!--Post: 4557--><!--Time: 1106519644-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4557"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 2:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That&#39;s interesting researcher.  I will go back and look. <BR> <BR>I have not yet taken the time to look at words formed by breaking the traditional rules of crosswords, as in boggle type words. <BR> <BR>Interesting.<!--/Text--></td></tr>
+<!--/Post: 4557-->
+<!--Post: 4573--><!--Time: 1106536631-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4573"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 7:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Jrl - a lot of work was done on the puzzles on other boards, and is found there, and is also summarized on another thread here &#40;see the links below&#41;.  It&#39;s worth taking a full evening and reviewing these threads.  These folks did an incredible amount of fabulous work, mostly based on images they had to capture from TV.  It&#39;s a true hacker war story. <BR> <BR>Researcher - You may be onto something.  I&#39;m glad I&#39;m not the only one intrigued by that line.  I noticed the &#34;IAM&#34; line as well, but I was reading it a bit differently, and got some interesting results.  Not to say that I AM RN isn&#39;t a very good possibility - he has other right-angle word-finds in the puzzle, and hospital-worker serial killers are almost a class in themselves.  But I&#39;m tempted to read it straight across. <BR> <BR>Here is my analysis.  For explanation, I refer to two items: &#40;1&#41; the <a href="http://crimeandjustice.i8.com/btkltr4WM.jpg">original screen capture</a>, and &#40;2&#41; Wichitaboy&#39;s theory of puzzle reconstruction, which is in &#40;among other places&#41; the earlier <a href="http://www.catchbtk.com/discus/messages/1/197.html?1105407138">Puzzles </a>thread.  All of this is built on the work of many people on various boards, who did a lot of work collecting and analyzing these puzzle images. <BR> <BR>Wichitaboy&#39;s idea is that the main and obvious MO-type puzzle words are just chaff.  Not only that - he identified many keyboard-adjacent letter sequences &#40;up/down, left/right&#41; that are presumably ALSO chaff.  The great thing about this idea is that it narrows down the number of letters that have a high likelihood of being EXCLUSIVELY related to any potential hidden message, as shown by white-backgrounded letters in Wichitaboy&#39;s <a href="http://pages.prodigy.net/cross/puz915moa.JPG">color-coded table</a>. <BR> <BR>Note that the IAM&#40;something&#41; sequence falls squarely in the &#34;high-value&#34; area.  If you go back to the original TV screen capture you will see that the full line, located at Row 9, is: <BR> <BR>Q I A M C L D D L <BR> <BR>Normally I would just blow CLDDL off as random except for several things: &#40;1&#41; it&#39;s high-value stuff, &#40;2&#41; BTK intentionally left an obvious &#34;I AM&#34; in the text - he could have easily removed it, but he didn&#39;t, &#40;3&#41; BTK&#39;s puzzle preferences, and &#40;4&#41; his desire to taunt.  In regard to item &#40;3&#41;, it appears that BTK&#39;s working crypto level in this case is word-finds, jumbles, buried words, etc.  Even assuming the BTK posers in &#34;From BTK&#34; are actually BTK, people seem to be finding solutions without resorting to NSA-level stuff.  Besides, what fun is it to send people stuff they don&#39;t get?  That&#39;s where item &#40;4&#41; comes in.  I think he wanted to stick it in LE&#39;s face.  Pure and simple.  Something that he will always be able to point to - even after capture - and say &#34;Look!  I even gave them my friggin&#39; name and they didn&#39;t see it!  I&#39;m sooooooo superior.&#34;  Unfortunately for BTK, I&#39;ll bet they did. <BR> <BR>I think that, rather than entrusting precious information to a code or cipher that he is not fully &#34;in control&#34; of, BTK precisely set the level of his maximum exposure at a &#34;first name confession&#34; - something safe that would never hold up in court.  Something along the lines of &#34;I am called Joe&#34;.  Then he just removed letters until it had the right hide/taunt/thrill/risk level, and also fit onto his spreadsheet.  Don&#39;t put it all the way on the left where it&#39;s too obvious.  Then add perpendicular intersecting chaff words, and away he goes, as per Wichitaboy&#39;s description.  So what would it mean?: <BR> <BR>Q  I  AM  CLD  DL <BR> <BR>My guess would be that CLD is either &#34;called&#34; or &#34;cold&#34; with vowels and duplicates removed.  BTK is possibly multilingual, so he may well be familiar with languages that omit vowels and/or duplicates in writing, plus it&#39;s a standard word puzzle trick.  I was leaning toward &#34;called&#34; earlier, but &#34;cold&#34; takes on new meaning with Tom&#39;s cryptic reference to ice trays, and all the running faucet stuff.  But what&#39;s DL?  Maybe it&#39;s like PJ - first/last or first/middle initials.  But it could also be a first name, like Dale, with the vowels removed.  Unfortunately, that&#39;s a lot of names, if you care to dig through them all.  I did.  Consider &#42;D&#42;L&#42; where &#42; = any combination of vowels or duplicated consonants D or L.  Ouch.  But it might be worth bumping those names up the suspect list - again, assuming it&#39;s not random junk and I&#39;m not reading too much into it. <BR> <BR>One final note - the very next line: <BR> <BR>W O S R T T B L S <BR> <BR>The high-value part &#40;SRTTBLS&#41;, if you add back vowels, is &#34;SORT TABLES&#34;, which is kinda what we just did.  Confirmation or coincidence?  Is it real, or is it just Memorex?  Who knows.  That&#39;s all that I can see.  As usual, BTK brings plenty of rope, but never enough to hang himself.  Even if I&#39;m right, he&#39;ll skate on it.<!--/Text--></td></tr>
+<!--/Post: 4573-->
+<!--Post: 4575--><!--Time: 1106538766-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4575"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 7:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you Pax.  I don&#39;t know how I missed those before.  I feel silly for starting this thread now.   <BR> <BR>However, I do feel the words I listed above, which may have seemed irrelevant at the time are relevant.  I agree with what others said on the other thread.  The obvious words that would seem like clues are nothing but distractors to take your eye away from the others.  It will be interesting to see if BTK is caught if he will clue us in on these puzzles.<!--/Text--></td></tr>
+<!--/Post: 4575-->
+<!--Post: 4576--><!--Time: 1106540459-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4576"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 8:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Actually, Jrl, this area &#40;BTK Letters&#41; is where the thread probably should have been, although absent a Puzzles area, General BTK Discussion was also a decent choice.  I didn&#39;t find that thread either, until weeks after I started lurking!  Following the thread on another board where they got the tables from the screen captures was a dynamite read - even the soft flames between correspondents were fascinating.  In particular, one participant &#40;Miss Calculation - great name!&#41; was finding a lot of amazing embedded words by loosening constraints on word directions &#40;i.e., allowing twisting, turning, etc.&#41;.  Unfortunately, this was mostly just a probablility effect, unless BTK were using some sort of software to force higher layers of embedding along with his obvious words - which I think is unlikely &#40;although some of the very latest wordfind games do just that sort of thing&#41;.  As you say, it will be interesting once he&#39;s caught.... <BR> <BR>Yes, your systematic approach above has yielded some good stuff.  One thing that jumped out at me was &#34;ice&#34; and &#34;iceman&#34;.  There appears to be emerging info about BTK doing something nasty with ice or cold water.  Although &#34;iceman&#34; is really part of &#34;serviceman&#34;, I would bet heavily that BTK was quite aware of the embedded word, and was doing his taunt thing.<!--/Text--></td></tr>
+<!--/Post: 4576-->
+<!--Post: 4577--><!--Time: 1106541621-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4577"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stealth<!--/name--></b></a><br>Username: <!--field:uname-->Stealth<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 8:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Posted on Sun, Aug. 08, 2004  <BR>Memory of BTK plagues Otero <BR>BY TIM POTTER <BR>The Wichita Eagle  <BR>&#34;His family had recently moved into a house at 803 N. Edgemoor. As he neared it, he noticed the garage door was up. Charlie was going to chide his mother for leaving it open. <BR> <BR>Inside, he found disarray: an ice tray left out, his mother&#39;s purse dumped out.&#34; <BR> <BR>So much for the icetray mystery...I also found IPOD...I wonder if BTK wears black turtle necks!!!...as for &#34;I am RNL&#34;...makes me wonder what Richard LaMunyon&#39;s middle intial is...not that he is BTK, but BTK trying to stick it to him... <BR> <BR>I am sure the FBI computers have sliced and diced is every which way...I know the old Zodiac story about the couple cracking the code, but that was then this is now...I have faith in LE technology, provided these guys have access to everything... <BR><!--/Text--></td></tr>
+<!--/Post: 4577-->
+<!--Post: 4598--><!--Time: 1106574594-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4598"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 5:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I would agree, Stealth - anything we&#39;re bringing to the game is a few months late and a few million dollars short, compared to LE.  If there&#39;s something there, they found it already.  And if it was there, it probably wasn&#39;t worth too much.  BTK isn&#39;t one to leave the keys under the doormat.  With as much BS as he&#39;s been feeding everybody, nothing in the puzzles can be trusted anyway.  At best, we may get a little insight - if we&#39;re lucky.  Might as well try - he doesn&#39;t appear to be going anywhere soon.<!--/Text--></td></tr>
+<!--/Post: 4598-->
+<!--Post: 4614--><!--Time: 1106588194-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4614"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 9:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I also find the word POW. Was he a POW in nam?<!--/Text--></td></tr>
+<!--/Post: 4614-->
+<!--Post: 4627--><!--Time: 1106600916-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4627"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Researcher<!--/name--></b></a><br>Username: <!--field:uname-->Researcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 1:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Iceman?  Ice?  Perhaps related to the BTK poem &#34;Death To Nancy&#34; - about ice cold hands taking a grip on him??????<!--/Text--></td></tr>
+<!--/Post: 4627-->
+<!--Post: 5722--><!--Time: 1107303912-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5722"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 4:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m not convinced the chapter entitled PJs in the BTK chapter list has anything to do with Professor PJ Wyatt. The first time I read the theory it didn&#39;t make sense to me. Why PJs, why not PJ or PJ&#39;s or even PJ,s. <BR> <BR>My belief is that PJs is a military reference. There was a group that started in Viet Nam called PJs &#40;short for parajumpers&#41;. I think BTK has some link to this group.  <BR> <BR>Here is a link, and there are more: <BR><a href="http://www.pjsinnam.com/index.htm" target=_top>http://www.pjsinnam.com/index.htm</a> <BR> <BR>Feedback? <BR> <BR>iq<!--/Text--></td></tr>
+<!--/Post: 5722-->
+<!--Post: 7028--><!--Time: 1108139990-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7028"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 8:39 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Seems to me there was talk of a paint can as a BTK clue. can anyone tell me what color? and size of can<!--/Text--></td></tr>
+<!--/Post: 7028-->
+<!--Post: 7720--><!--Time: 1108665453-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7720"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Amandab<!--/name--></b></a><br>Username: <!--field:uname-->Amandab<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 10:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Quote from Pax56: <BR> <BR>Q I AM CLD DL  <BR> <BR>My guess would be that CLD is either &#34;called&#34; or &#34;cold&#34; with vowels and duplicates removed. BTK is possibly multilingual, so he may well be familiar with languages that omit vowels and/or duplicates in writing, plus it&#39;s a standard word puzzle trick. I was leaning toward &#34;called&#34; earlier, but &#34;cold&#34; takes on new meaning with Tom&#39;s cryptic reference to ice trays, and all the running faucet stuff. But what&#39;s DL? Maybe it&#39;s like PJ - first/last or first/middle initials. But it could also be a first name, like Dale, with the vowels removed. Unfortunately, that&#39;s a lot of names, if you care to dig through them all. I did. Consider &#42;D&#42;L&#42; where &#42; = any combination of vowels or duplicated consonants D or L. Ouch. But it might be worth bumping those names up the suspect list - again, assuming it&#39;s not random junk and I&#39;m not reading too much into it.  <BR>-------------------------------------------------- <BR> <BR>Pax56- <BR> <BR>It is probably nothing, but here&#39;s my take on this particular line. Given the ice cube clues we have, perhaps someone told BTK &#34;I am cold.&#34; while he was killing them? <BR> <BR>Someone, perhaps, like Deanna Law? <BR> <BR>Maybe BTK is trying to take credit for her killing?  <BR> <BR>I dunno....just guessing now.<!--/Text--></td></tr>
+<!--/Post: 7720-->
+<!--Post: 8163--><!--Time: 1108941376-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8163"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 20, 2005 - 3:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->look what i found <BR><a href="http://www.sabine.k12.la.us/class/Templates/Code%20Cracker.XLT" target=_top>http://www.sabine.k12.la.us/class/Templates/Code%2 0Cracker.XLT</a> <BR>look familiar?<!--/Text--></td></tr>
+<!--/Post: 8163-->
+<!--Post: 10103--><!--Time: 1109757804-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10103"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 2:03 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;ve been thinking throughout the re-emergence of BTK that part of the problem with dealing with a guy like Rader is that there is no word to describe him.  <BR> <BR>Mean really means mediocre, cruel implies power and control, evil, accurate but overused, dangerous is almost flattering.  <BR> <BR>In a world of terrorists, we need a really good gutteral sounding insult to depict the type of person who is a threat and morally bankrupt, but expresses it in a cowardly way, especially for selfish reasons. Something that doesn&#39;t imply that the recipient is fearsome or powerful, just capable of doing harm. <BR> <BR> <BR>If anyone knows such a word, in any language, I would appreciate them posting it here.<!--/Text--></td></tr>
+<!--/Post: 10103-->
+<!--Post: 10195--><!--Time: 1109807773-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10195"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Marga<!--/name--></b></a><br>Username: <!--field:uname-->Marga<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 3:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good thought, Bmodule! A different word &#42;is&#42; needed. I&#39;ll start thinking... Meanwhile, another possible thing we could do is coin a &#42;new&#42; term or phrase to refer to such a person &#40;who is a threat/coward/evil/selfish&#41;--just create one ourselves.<!--/Text--></td></tr>
+<!--/Post: 10195-->
+<!--Post: 10248--><!--Time: 1109840843-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10248"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 1:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I thought about that too. In fact I thought about that first...by incorporating BTK&#39;s name Rader into some type of spoonerism, but decided that would be unfair to the Raders of the world who are not murders. You notice that none of the Arnolds ever name their kids Benedict...or anyone else for that matter.   <BR> <BR>Iwas hoping that someone knew Japanese or any other language, or especially one of the Native American languages that had already tackled the problem. The more complicated the language, it seems, the more elegant and exacting the insults. <BR> <BR>It just seem that the Japanese are historically obsessed with exacting protocal and ettiquette and when describing an enemy would be very careful not to give them the satisfaction of implying that they held power of any type. <BR> <BR>Say for instance &#34;xxxxx&#34; meant: you are a mosquito. Small, insignificant, and a parasite that I am only aware of because of the lethal disease that you may carry and the pest that you are. <BR> <BR>Then BTK would be an &#34;xxxxx&#34;. <BR> <BR>Just think how that would have messed with his &#34;control console&#34;<!--/Text--></td></tr>
+<!--/Post: 10248-->
+<!--Post: 10293--><!--Time: 1109879323-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10293"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tucker<!--/name--></b></a><br>Username: <!--field:uname-->Tucker<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 11:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This is from Pax56, posted right here on 1/23/05.. <BR>Q I AM CLD DL <BR> <BR>My guess would be that CLD is either &#34;called&#34; or &#34;cold&#34; with vowels and duplicates removed. BTK is possibly multilingual, so he may well be familiar with languages that omit vowels and/or duplicates in writing, plus it&#39;s a standard word puzzle trick. I was leaning toward &#34;called&#34; earlier, but &#34;cold&#34; takes on new meaning with Tom&#39;s cryptic reference to ice trays, and all the running faucet stuff. But what&#39;s DL? Maybe it&#39;s like PJ - first/last or first/middle initials. But it could also be a first name, like Dale, with the vowels removed. Unfortunately, that&#39;s a lot of names, if you care to dig through them all. I did. Consider &#42;D&#42;L&#42; where &#42; = any combination of vowels or duplicated consonants D or L. Ouch. But it might be worth bumping those names up the suspect list - again, assuming it&#39;s not random junk and I&#39;m not reading too much into it.  <BR> <BR>Talk about basically hitting the nail on the head, as DL could easily be Dennis Lynn.  Not sure if people can verify this, but maybe his friends did call him D.L.  Just thought I would point out Pax&#39;s good work.  <!--/Text--></td></tr>
+<!--/Post: 10293-->
+<!--Post: 10427--><!--Time: 1109946171-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10427"><font face="Verdana" size="1"><b><!--email--><a href="mailto:topsailgrl@yahoo.com" target="_blank"><!--/email--><!--name-->Topsailgrl<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 6:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bmodule-I have two good words for your &#34;gutteral sounding insult&#34; <BR> <BR>1. <b>Reprobate</b> : to condemn strongly as unworthy, unacceptable, or evil <BR> <BR>And my favorite <BR> <BR>2. <b>Degenerate</b>:1 a : having declined &#40;as in nature, character, structure, or function&#41; from an ancestral or former state b : having sunk to a condition below that which is normal to a type; especially : having sunk to a lower and usually corrupt and vicious state<!--/Text--></td></tr>
+<!--/Post: 10427-->
+<!--Post: 10439--><!--Time: 1109958714-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10439"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sidewalker<!--/name--></b></a><br>Username: <!--field:uname-->Sidewalker<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 9:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just started looking at this puzzle. <BR>I see, in addition to the list above.....&#40;or maybe others have seen these too and posted, but I have not read that yet&#41; <BR>for sale, vend, mad,torn, eoe &#40;which maybe could be short for equal oportunity employer?&#41; worst,fantasies &#40;not sure of spelling on that&#41; meat, <BR> <BR>nuts gotta go to a dentist appt....&#40;early!&#41;<!--/Text--></td></tr>
+<!--/Post: 10439-->
+<!--Post: 10444--><!--Time: 1109962126-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10444"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 10:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Topsailgrl  <BR> <BR>Those are two fantastic words for Denny, particularly degenerate, But I feel in his case there is still room to lower our standards even more.<!--/Text--></td></tr>
+<!--/Post: 10444-->
+<!--Post: 10449--><!--Time: 1109962692-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10449"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 10:58 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey here&#39;s something sick to ponder, do you know that someone is seling the puzzle on ebay, go figure, I just boycotted Ebay unless they want to donate all the money to the Victims fund, even then not sure<!--/Text--></td></tr>
+<!--/Post: 10449-->
+<!--Post: 10460--><!--Time: 1109966748-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10460"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ozdude<!--/name--></b></a><br>Username: <!--field:uname-->Ozdude<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 12:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Peanut D&#42;ck?<!--/Text--></td></tr>
+<!--/Post: 10460-->
+<!--Post: 10484--><!--Time: 1109970549-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10484"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 1:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->guess they took the item off ebay, don&#39;t think I was the only one to complain to them, OZ that&#39;s funny <!--/Text--></td></tr>
+<!--/Post: 10484-->
+<!--Post: 10511--><!--Time: 1109978620-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10511"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 3:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->L A R R Y A N D E R S O N <BR>L Y N N R A D E R R O A&#40;R&#41;S <BR> <BR>Not as tidy as I thought, but still, Bleeeeeeech!<!--/Text--></td></tr>
+<!--/Post: 10511-->
+<!--Post: 10521--><!--Time: 1109981676-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10521"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 4:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->man do i feel stupid<!--/Text--></td></tr>
+<!--/Post: 10521-->
+<!--Post: 10531--><!--Time: 1109984423-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10531"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sui_juris<!--/name--></b></a><br>Username: <!--field:uname-->Sui_juris<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 5:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bmodule &amp; Topsailgrl: <BR>Hope you don&#39;t mind if I jump in.   <BR> <BR>How about: <BR>mephistophelian&#40;adj&#41; means showing the cunning or ingenuity or wickedness typical of a devil. <BR><!--/Text--></td></tr>
+<!--/Post: 10531-->
+<!--Post: 10561--><!--Time: 1110003935-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10561"><font face="Verdana" size="1"><b><!--email--><a href="mailto:zodiacfiles@aol.com" target="_blank"><!--/email--><!--name-->Ed_neil<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 10:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I must say that I&#39;m impressed with everyone&#39;s work.  I only found 54 words/number groupings &#40;although I consider most of the 2 and 3 letter words I found somewhat iffy, since it&#39;s easier to form such words with randomly chosen letters&#41;.  In addition to DRADRE &#40;an obvious anagram of D RADER, near his address, 6220&#41;, I also found FOX and, believe it or not, TOM.  Thing is, much like the D RADER anagram, the FOX and TOM letter groupings are not found in straight lines like all the other words: in block 1 of the symbols, line 2, 2nd from right is F, then up to line 1, 3rd from right to O, then down one to X.  For Tom, look down to block 3, line 1 5th from left for T.  Go down to line 2, 4th from left for O, then down to line 3 and back to 5th from left for M. <BR> <BR>I would normally be inclined to disregard these as artifacts coincidental to the puzzle, except for the fact that D RADER occurs in a similar fashion in block 2, as does his address &#40;well, street number anyway&#41;.<!--/Text--></td></tr>
+<!--/Post: 10561-->
+<!--Post: 10572--><!--Time: 1110014881-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10572"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->J_eric<!--/name--></b></a><br>Username: <!--field:uname-->J_eric<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 05, 2005 - 1:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ed, just below RADER - forming a part of it in fact, we find OFFICER to get &#34;Officer Rader,&#34; his title when catching dogs.  These guys always feel compelled to &#34;sign&#34; their work.  And like ALA, we have another palindrome!<!--/Text--></td></tr>
+<!--/Post: 10572-->
+<!--Post: 10672--><!--Time: 1110123897-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10672"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 7:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I´v been looking at the puzzel and this is what I came up with.  <BR>ALL THE WORDS ARE TO BE FOUND IN THE PUZZLE <BR> <BR>MO: <BR> <BR>BUILD FANTASIES <BR>ODD SEX DETAILS <BR> <BR>PROWL <BR>SPOT VICTIM <BR>FOLLOW <BR> <BR>PLAN TEAM <BR>GO FOR IT <BR> <BR>ID: <BR>LARRY ANDERSON <BR>WICHITA TELPHONE CO <BR>SCHOOL OFFICER <BR> <BR>HIT STRONG <BR>FRAP &#40;to draw tight &#40;as with ropes or cables&#41; <BR> <BR>RU: <BR>DR &#40;Dennis Rader&#41; FAKE: <BR> <BR>ADH : NEW/OLD MODEL <BR>LE : MAD PET <BR>REALTOR : SALE <BR>INSURANCE : WE HELP <BR>HANDYMAN: WRONG ADDRESS  <BR><!--/Text--></td></tr>
+<!--/Post: 10672-->
+<!--Post: 10673--><!--Time: 1110124952-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10673"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 8:02 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In addition: <BR>&#40;316&#41; is the prefix for Wichita and Park City telephone#&#39;s &#40;316&#41; 268-6628 &#40;MNBV&#41;or &#40;316&#41;268-2043 <BR> <BR>USD 259<!--/Text--></td></tr>
+<!--/Post: 10673-->
+<!--Post: 10677--><!--Time: 1110130999-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10677"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 9:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTW - I&#39;m not calling them, I&#39;m too scaredt!<!--/Text--></td></tr>
+<!--/Post: 10677-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/348">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/348" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

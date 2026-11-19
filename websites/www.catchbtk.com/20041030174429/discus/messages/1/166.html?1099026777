@@ -1,0 +1,253 @@
+<html>
+<!--Topic: 1/General BTK discussion-->
+<!--Me: 166/THE POSTED LETTER GRID-->
+<!--Level 1: 166/THE POSTED LETTER GRID-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: THE POSTED LETTER GRID</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">THE POSTED LETTER GRID</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK discussion</font></a> &#187;
+THE POSTED LETTER GRID
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=166"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=166"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 1277--><!--Time: 1098720069-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1277"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@cox.net" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, October 25, 2004 - 9:01 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->YES TOM, I AM CURIOUS AS TO THE REASON THE GRID KEEPS GETTING BIGGER AND BIGGER.  WHATSMORE I AM CURIOUS AS TO WHY YOU HAVE TURNED IT INTO A CROSS WORD PUZZLE.  EVEN IF YOU GET THE WORDS YOU NEED OUT OF IT WHAT IMPORTANCE DOES IT HAVE?  AND ON A SIDE NOTE LINE 6 WOULD ALSO SPELL OUT NEW, SCRAMBLED UP LIKE THE BTK LINE....MIGHT THIS MEAN NEW BTK, SINCE THESE ARE THE ONLY TWO NOT SPELLED OUT CORRECTLY?  YOUR FEEDBACK ON THIS TOPIC IS GREATLY APPRECIATED. <BR> <BR>SCRATCHING HIS HEAD <BR>WICHITAN<!--/Text--></td></tr>
+<!--/Post: 1277-->
+<!--Post: 1279--><!--Time: 1098725374-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1279"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@cox.net" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, October 25, 2004 - 10:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I MEANT TO SAY LINE 5 OF THE GRID, NOT LINE 6. <BR> <BR>SORRY, <BR> <BR>WICHITAN<!--/Text--></td></tr>
+<!--/Post: 1279-->
+<!--Post: 1280--><!--Time: 1098751240-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1280"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pilot<!--/name--></b></a><br>Username: <!--field:uname-->Pilot<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, October 25, 2004 - 5:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Interesting.  I looked at it several times and here&#39;s what I got out of the circled letters:  The first set of course is BTK.  The second is UCL which may stand for uncle.  The third, DMV which is the Department of Motor Vehicles and the forth of course is Fox meaning Nancy Fox.  Is this a puzzle by BTK or just something trivial? <BR><!--/Text--></td></tr>
+<!--/Post: 1280-->
+<!--Post: 1291--><!--Time: 1098883644-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1291"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sean<!--/name--></b></a><br>Username: <!--field:uname-->Sean<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, October 27, 2004 - 6:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This grid in and of itself,I suggest,is not a puzzle but rather,a key.What we are looking at here is a basic system of Numerology. In any system of Numerology, the letters of the Alphabet respond to the 9 digits or single numbers.The letters of the Alphabet must be reduced &#40;Fadic reduction&#41;to single numbers, so consequently more than one letter responds to the same number as shown in this grid. <BR>All letters have numerical equations, therefore all combinations of letters in names respond to a certain numerical value. When a name is given to a person,city,or anything else, it lets loose a certain Occult force expressed in its numbers. <BR>At least that&#39;s the thinking behind it, for what it&#39;s worth. <BR>The system is very much akin to astrology and is used for a variety of operations designed at prediction such as Name number,Birth path number, destiny number,monthly number etc.Essentially, if you believe in this crap,you can plot a course to do things on days that are lucky for you,or a path that best suits/corresponds with the &#34;heavens&#34;.Of course it could also have been employed here to set up a link or puzzle. <BR> <BR>The letters BTK correspond with the second,the 20th and the 11th letters of the Alphabet. <BR>&#40;B=2&#41; &#40;T=20 = 2&#43;0 =2&#41;, &#40;K=11 = 1&#43;1=2&#41;. Hence they fall in with this grid with a value of 2 for each. <BR>  <BR>To attribute a Name number to BTK,it would be 2&#43;2&#43;2=6. <BR>Perhaps if we were to go back over names and dates we might see some connection develop. <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 1291-->
+<!--Post: 1292--><!--Time: 1098884999-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1292"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@cox.net" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, October 27, 2004 - 6:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That&#39;s a FAIR assumption, but, what about 4 and 6?  This theory of yours can not be used for 4 and 6. <BR> <BR>wichitan<!--/Text--></td></tr>
+<!--/Post: 1292-->
+<!--Post: 1294--><!--Time: 1098889155-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1294"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sean<!--/name--></b></a><br>Username: <!--field:uname-->Sean<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, October 27, 2004 - 7:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Wichitan, <BR>          Don&#39;t know what you mean by &#34;it can not be used for four or six&#34; can you explain? <BR>The theory is that he may have used Numerology. <BR>Everything else is standard Numerology including that Gird,that&#39;s the layout.<!--/Text--></td></tr>
+<!--/Post: 1294-->
+<!--Post: 1295--><!--Time: 1098891000-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1295"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@cox.net" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, October 27, 2004 - 8:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There is no &#34;commmon&#34; number for line 4 or 6.  I have to say that I have ran across alot of numerical theories, take for instance: <BR> <BR>From: 1684 S. Oldmanor  <BR>To: 825 E. Douglas  <BR>Sept &#40;16&#41;, 1986 Vicki Wegerle attacked  <BR>1684 - 825 = 859  <BR> <BR>859 - 16 = 843  <BR> <BR>843 S. Pershing - Nancy Fox <BR> <BR>But, when you tell me that there is a common number such as 2,3, then what about line  4 and 6, what is common about these numbers?  I&#39;m not trying to doubt what you are saying, I just want a better understanding of it.  Lets face facts math is exact, and it can be misrepresented, much like: <BR> <BR>3 guys pay 10 dollars for a hotel room. <BR> <BR>the clerk made a mistake and charged 5 dollars to much. <BR> <BR>sent the bell hope up to return the refund, bell hope thought how are they gonna split 5 dollars 3 ways? <BR> <BR>He keeps 2 dollars, gives each of the guys 1 dollar. <BR> <BR>now the math <BR> <BR>$30 represents total price of the room <BR> <BR>they each got a dollar back. <BR> <BR>3X9=$27&#43;$2&#40;for the bell hop&#41;=$29 <BR> <BR>If mathematical equasions are misrepresented, then there is no exact answer. <BR> <BR>for the record: <BR>$25 for the room <BR>$1 for each guy <BR>$2 for the bell hope <BR>---------------- <BR>$30 <BR> <BR>wichitan<!--/Text--></td></tr>
+<!--/Post: 1295-->
+<!--Post: 1297--><!--Time: 1098892551-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1297"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@cox.net" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, October 27, 2004 - 8:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I suppose the real question here is where Tom got the grid from.  And whatsmore is it here to play with our minds or is it something factual? <BR> <BR>your killing us Tom, <BR> <BR>wichitan<!--/Text--></td></tr>
+<!--/Post: 1297-->
+<!--Post: 1298--><!--Time: 1098892845-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1298"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sean<!--/name--></b></a><br>Username: <!--field:uname-->Sean<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, October 27, 2004 - 9:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think you have misunderstood me. The whole system is based on a simple equation called Fadic reduction. Basically what that means is that all numbers with more than one digit must be reduced to a single number/digit. <BR> <BR>Line 4 gives D,M and V respectively.&#40;D= 4&#41; &#40;M= 13=1&#43;3=4&#41;&#40;v=22= 2&#43;2=4&#41;. Similarily line 6 gives FO and X &#40;F=6&#41; &#40;O=15 =1&#43;5=6&#41; &#40;x=24 =2&#43;4=6&#41;. <BR>That&#39;s how this Numerological table was designed. <BR> <BR>Another example would be say, the year of the murders 1974 = 1&#43;9&#43;7&#43;4 = 21=2&#43;1=3. <BR> <BR>Since BTK has apparently given this clue, it might have employed in either the choice of victim <BR>or he may have given a number that corresponds to his own name. But we do not know what his exact thinging was.It could be linked to names,addresses,liscence numbers,phone numbers, DOB&#39;s etc, or a combination. <BR>Interesting perhaps that he once wrote that he &#34;took down their numbers and followed them home&#34;. <BR>I fully agree that anything like this must have a strict math base/formula. I can&#39;t account for other numerical theories,but this appears to be a direct clue because that is the standard Numerical table which has been around for centuries. <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 1298-->
+<!--Post: 1299--><!--Time: 1098893904-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1299"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@cox.net" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, October 27, 2004 - 9:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I see your reasoning, and appreciate your clarification in this matter.  I only wanted to inderstand your concept more thourghly.  But again this is the only website, to which I have seen this grid.  Whatsmore is it the key to figuring out the other 3 grids we know he sent?  If so Sean get to crackin, you seem to be the man for the job!...LOL. <BR> <BR>thanks again, <BR> <BR>wichitan<!--/Text--></td></tr>
+<!--/Post: 1299-->
+<!--Post: 1309--><!--Time: 1099007000-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1309"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sean<!--/name--></b></a><br>Username: <!--field:uname-->Sean<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, October 28, 2004 - 4:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Admittedly this is more than a stretch and I&#39;m kind of half embarrased to mention it. However,it is something that this grid throws up. <BR>The surname FOX in Numerology &#40;BTK could have been responsible for two victims with this surname&#41;, throws up 666.That in itself goes back to another &#34;puzzle&#34; from the book of revelations, that ties in with this apparent clue. <BR> &#34;Let he who hast the mind for it calculate the number of the beast,for it is a man&#39;s number and his number is 666&#34;. <BR>Sorry! <BR>In any case, Tom, please put us out of our misery here,did this come from BTK, or is it something you found? <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 1309-->
+<!--Post: 1312--><!--Time: 1099026777-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1312"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@cox.net" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, October 28, 2004 - 10:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;In any case, Tom, please put us out of our misery here,did this come from BTK, or is it something you found?&#34; <BR> <BR>lets stick with this sean. <BR> <BR>wichitan  <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 1312-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/166">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/166" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

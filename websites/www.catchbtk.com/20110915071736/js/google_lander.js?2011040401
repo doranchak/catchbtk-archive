@@ -1,0 +1,636 @@
+var page_type = 'AFS_L', 						// AFD_L (1click), AFS_L (2click), AFS_S (result), AFS_T (tm names)
+    cid = '',									// google client id 
+	ch = '',									// google channel 
+	afd_ads_id = '#afd_ads',					// list of element ids 
+	afs_top_ads_id ='#afs_top_ads',
+	afs_bot_ads_id = '#afs_bottom_ads',
+	ws_results_id = '#ws_results',
+	rs_kws_id = '#rs_kws',
+	rs_kws_tab_id = '#rs_kws_tab',
+	related_kws_id = '#related_keywords',
+	pc_kws_id = '#pc_kws',
+	search_box = '.tdsearch',
+	error_id = '#error',
+	related_keywords = [],						// list of custom related keywords 
+	keyword_filter = [];						// list of keywords to filter 
+	
+	
+	// tracking variables
+var	num_ads_displayed = 0;
+
+window.setTimeout(checkTimeout, 5000);
+
+function checkTimeout() {
+    if( $(error_id).find('input[name="loaded"]').val() == 0 ) {
+        $(error_id).find('.msg').html('Failed to load page content');
+    }
+}
+
+
+/* * This function is required. It processes the
+		google_afd_response.ads JavaScript object, * which contains AFS ads relevant to the user's search
+		query. The name of * this function must be google_afd_ad_request_done. If
+		this * function is not named correctly, your page will not
+		display AFS ads. */
+function google_afd_ad_request_done(google_afd_response) {	    
+    $(error_id).find('input[name="loaded"]').val(1);
+
+	// check for fail
+	if (google_afd_response.faillisted) {
+		logStatus('faillist');
+	} else if (/^true$/.test(google_afd_response.needsreview)) {
+		logStatus('needsreview');
+	} else if (/^true$/.test(google_afd_response.adult) && 
+				!(/_adult_/.test(google_afd_response.client))) {
+		logStatus('adult');		
+	} else if(/^true$/.test(google_afd_response.blocked)) {
+		logStatus('blocked');
+	}
+	
+	log(google_afd_response);
+	
+	// set the google client id and channel for wrap_url func
+	cid = google_afd_response.client;
+	ch = google_afd_response.channel;			
+	
+	// set the search token 
+	setup_searchbox(google_afd_response);
+	
+	switch(page_type) {		
+		case 'AFS_P':	// popup
+			process_afs_ads(google_afd_response);			
+			attach_token2links(google_afd_response.token);
+			break;
+		case 'AFS_S':	// search results 
+			process_afs_ads(google_afd_response);
+			process_rs_kws(google_afd_response, 1);		// 1 column 
+			break;			
+		case 'AFD_L':	// 1 click
+		case 'AFD_S':
+			process_afd_ads(google_afd_response);
+			process_rs_kws(google_afd_response, 1);		// 1 column 
+			break;				
+		case 'AFS_T':	// tm names
+			process_rs_kws(google_afd_response, 2);		// 2 columns
+			//process_user_rs_kws(google_afd_response);	// 2 columns
+			break;
+		case 'AFS_L':	// 2 click 		
+		default:
+			process_rs_kws(google_afd_response, 3);		// 2 columns centered
+			process_pc_kws(google_afd_response);
+ 			// process_categories(google_afd_response);
+			break;
+	}
+	
+}
+
+
+// process afd ads
+function process_afd_ads(afd_response) {		
+	if(afd_response.ads && afd_response.ads.length > 0) {
+		disp_afd_ads($(afd_ads_id), 
+					 afd_response.ads,
+					 afd_response.feedback_url);
+	}
+}
+
+// process afs ads
+function process_afs_ads(afd_response) {
+	var num_top_ads = 0;
+	if(afd_response.ads && afd_response.ads.length > 0) {
+		num_top_ads = disp_afs_ads($(afs_top_ads_id), 
+					 				$(afs_bot_ads_id), 
+					 				afd_response.ads);	
+					 
+		disp_ws_results($(ws_results_id), num_top_ads);
+	}
+}
+
+
+// process popular categories 
+function process_pc_kws(afd_response) {
+	if(afd_response.categories && afd_response.categories.length > 0) {		
+		disp_pc_kws($(pc_kws_id), afd_response.categories, afd_response.feedback_url);
+	}
+}
+
+
+// process rs keywords 
+// * and setup the search token 
+function process_rs_kws(afd_response, layout) {
+	var idx, link_units = [], feedback_url;
+	
+	if (afd_response.link_units && afd_response.link_units.length > 0) {				
+		link_units = afd_response.link_units;
+		feedback_url = afd_response.feedback_url;
+	} else {
+		// use related_keywords for failback 
+		for(idx = 0; idx < related_keywords.length; idx++) {
+			link_units.push({term: related_keywords[idx], token: afd_response.token});
+		}
+		feedback_url = '';		
+	}
+	
+	// filter keywords
+	link_units = filter_keywords(link_units);
+	
+	switch(layout) {
+		case 1:
+			disp_rs_kws_one($(rs_kws_id), link_units, feedback_url);
+			break;
+		case 3:
+			disp_rs_kws_center($(rs_kws_id), link_units, feedback_url);
+			break;
+		case 2:
+		default:
+			disp_rs_kws_two($(rs_kws_id), link_units, feedback_url);
+			break;		
+	}
+
+	disp_rs_kws_tab($(rs_kws_tab_id), link_units, feedback_url);
+				
+}
+
+
+// process user rs keywords 
+function process_user_rs_kws(afd_response) {
+	var idx, link_units = [];
+	for(idx = 0; idx < related_keywords.length; idx++) {
+		link_units.push({term: related_keywords[idx], token: afd_response.token});
+	}
+		
+	// filter keywords
+	link_units = filter_keywords(link_units);
+	
+	disp_rs_kws_two($(related_kws_id), link_units);
+}
+
+
+// attach token to links that have term as first param 
+function attach_token2links(token) {
+	$('a').each(function(idx) {
+		if($(this).attr('href').match(/\?term=/)) {		
+			$(this).attr('href', $(this).attr('href') + '&token=' + token);
+		}
+	});
+}
+
+
+// set search token 
+function setup_searchbox(afd_response) {	
+	// set the search token
+	if(afd_response.search_token) {
+	    var html = '';	    
+        
+        html += '<div>';
+        html += '<form name="search_form" style="padding: 0px; margin: 0px;" method="get" action="search.php">';
+        html += '    <strong>Search</strong>';
+        html += '    <input type="hidden" name="token" value="'+afd_response.search_token+'">';
+        html += '    <input type="hidden" name="uid" value="'+GetParam('uid')+'">';
+        html += '    <input type="hidden" name="src" value="'+GetParam('src')+'">';
+        html += '    <input type="hidden" name="sec" value="sb">';
+        html += '    <input type="text" name="term" size="40" style="width:400px;" />';
+        html += '    <input type="submit" name="Submit" value="Search" />';
+        html += '</form>';
+        html += '</div>';
+			    
+		$(search_box).html(html);
+	}
+}
+
+
+function get_num_ads_displayed() {
+	return num_ads_displayed;
+}
+
+/***********************************/
+/**** display related functions ****/
+
+// display popular categories 
+function disp_pc_kws(jobj, categories, feedback_url) {
+	var idx, idx2, html = '';
+	
+	html += '<strong>' + make_feedback_url('Popular Categories', feedback_url) + '</strong>';
+	html += '<table border="0" width="100%">';
+	html += '<tr>';
+	
+	for(idx = 0; idx < categories.length && idx < 4; idx++) {
+		html += '<td width="25%">';
+		html += '<ul>';
+		
+		html += '<li style="font-style:italic">' + categories[idx].term + '</li>';
+		for(idx2 = 0; idx2 < categories[idx].subcategories.length; idx2++) {
+			html += '<li>' + 
+					make_kw_link(categories[idx].subcategories[idx2].term, 
+			   					 categories[idx].subcategories[idx2].token) + 
+					'</li>';					
+		}
+				
+		html += '</ul>';
+		html += '</td>';
+	}
+	
+	html += '</tr>';
+	html += '</table>';
+	
+	jobj.html(html);
+	jobj.addClass('pc_list');
+}
+
+
+// display rs keywords in tab 
+function disp_rs_kws_tab(jobj, link_units, feedback_url) {
+	var idx, html = '';
+	
+	html += '<strong>' + make_feedback_url('Related Searches', feedback_url) + ':</strong>';	
+	html += '<ul>';
+	for(idx = 0; idx < link_units.length && idx < 4; idx++) {
+		html += '<li>' + make_kw_link(link_units[idx].term, link_units[idx].token) + '</li>';
+	}
+	html += '</ul>';
+	
+	jobj.html(html);
+	jobj.find('li:last').addClass('last');	// remove vertical bar from last item
+}
+
+
+// display rs keywords in single column format(1click and results page)
+function disp_rs_kws_one(jobj, link_units, feedback_url) {
+	var idx, html = '';
+	html += '<strong>' + make_feedback_url('Related Searches', feedback_url) + '</strong>';
+	html += '<ul>';	
+	for(idx = 0; idx < link_units.length && idx < 10; idx++) {
+		html += '<li>' + make_kw_link(link_units[idx].term, link_units[idx].token) + '</li>';
+	}	
+	html += '</ul>';
+	
+	jobj.html(html);
+	jobj.addClass('kws_list kws_list_single');
+}
+
+
+// display rs keywords in double column format(2click lander)
+function disp_rs_kws_two(jobj, link_units, feedback_url) {
+	var idx, html = '';
+	
+	html += '<strong>' + make_feedback_url('Related Searches', feedback_url) + '</strong>';
+	html += '<table border="0" width="100%">';
+	html += '<tr>';
+	html += '	<td width="50%" valign="top">';
+	html += '		<ul>';
+	for(idx = 0; idx < link_units.length && idx < 5; idx++) {
+		html += '		<li>' + make_kw_link(link_units[idx].term, link_units[idx].token) + '</li>';
+	}	
+	html += '		</ul>';
+	html += '       <br/>';
+	html += '		<ul>';
+	for(; idx < link_units.length && idx < 10; idx++) {
+		html += '		<li>' + make_kw_link(link_units[idx].term, link_units[idx].token) + '</li>';
+	}	
+	html += '		</ul>';
+	html += '	</td>';
+	html += '	<td width="50%" valign="top">';
+	html += '		<ul>';
+	for(;idx < link_units.length && idx < 15; idx++) {
+		html += '		<li>' + make_kw_link(link_units[idx].term, link_units[idx].token) + '</li>';
+	}		
+	html += '		</ul>';	
+	html += '       <br/>';
+	html += '		<ul>';
+	for(;idx < link_units.length && idx < 20; idx++) {
+		html += '		<li>' + make_kw_link(link_units[idx].term, link_units[idx].token) + '</li>';
+	}		
+	html += '		</ul>';	
+	html += '	</td>';
+	html += '</tr>';
+	html += '</table>';		
+		
+	jobj.html(html);
+	jobj.addClass('kws_list kws_list_double');
+}
+
+
+function disp_rs_kws_center(jobj, link_units, feedback_url) {
+	var idx, html = '';
+	
+	html += '<strong>' + make_feedback_url('Related Searches', feedback_url) + '</strong>';
+	html += '<table border="0" width="100%">';
+	html += '<tr>';
+	html += '	<td width="50%" valign="top">';
+	html += '		<ul>';
+	for(idx = 0; idx < link_units.length && idx < 5; idx++) {
+		html += '		<li>' + make_kw_link(link_units[idx].term, link_units[idx].token) + '</li>';
+	}	
+	html += '		</ul>';		
+	html += '	</td>';
+	html += '	<td width="50%" valign="top">';
+	html += '		<ul>';
+	for(; idx < link_units.length && idx < 10; idx++) {
+		html += '		<li>' + make_kw_link(link_units[idx].term, link_units[idx].token) + '</li>';
+	}	
+	html += '		</ul>';
+	html += '	</td>';
+	html += '</tr>';
+	html += '</table>';		
+		
+	jobj.html(html);
+	jobj.addClass('kws_list kws_list_double kws_list_center');
+}
+
+
+// display afd ads 
+function disp_afd_ads(jobj, ads, feedback_url) {
+	var idx, html = '';		
+	
+	html += '<h3>' + make_feedback_url('Sponsored Listings', feedback_url) + '</h3>';
+	html += '<ul>';
+	for(idx = 0; idx < ads.length; idx++) {
+		html += '	<li>' + make_ad(ads[idx]) + '</li>';
+	}		
+	html += '</ul>';		
+	
+	jobj.html(html);
+	jobj.addClass('ads_list');
+			
+	// record the number of ads
+	num_ads_displayed = ads.length;
+}
+
+
+// display afs ads: top ads, bottom ads
+function disp_afs_ads(jobj_top, jobj_bot, ads) {
+	var idx, html = '', 
+		top_ads_html = '',
+		bot_ads_html = '',
+		num_top_ads = 0, num_bot_ads = 0;
+
+	
+	for(idx = 0; idx < ads.length; idx++) {
+		if(ads[idx].position && ads[idx].position == 'Top') {
+			num_top_ads++;			
+			top_ads_html += '<li>' +  make_ad(ads[idx]) + '</li>';
+		} else {
+			num_bot_ads++;
+			bot_ads_html += '<li>' +  make_ad(ads[idx]) + '</li>';
+		}
+	}
+	
+	
+	if(num_top_ads > 0) {			
+		html = '<h3>Sponsored Listings</h3>';
+		html += '<ul>';
+		html += top_ads_html;
+		html += '</ul>';
+				
+		jobj_top.html(html);	
+		jobj_top.addClass('ads_list');
+	}
+	
+	
+	if(num_bot_ads > 0) {
+		html = '<h3>Sponsored Listings</h3>';
+		html += '<ul>';
+		html += bot_ads_html;
+		html += '</ul>';		
+		
+		jobj_bot.html(html);		
+		jobj_bot.addClass('ads_list');
+	}	
+	
+	// record the number of ads
+	num_ads_displayed = ads.length;
+	
+	// return the number of top ads 
+	return num_top_ads;
+}
+
+
+function disp_ws_results(jobj, num_ads) {
+	// need to display web search results 	
+	var html = '';	
+	if(num_ads < 5) {
+		num_ads = 5;
+	}
+	
+	$.ajaxSetup({ cache: false });	// turn off ie caching 
+	$.getJSON('/websearch.php', 
+			  {term: GetParam('term'), max: num_ads}, 
+			  function(data) {		
+		$.ajaxSetup({ cache: true });
+		
+		if(data && data.length > 0) {
+			html = '<h3>Search Results</h3>';
+			html += '<ul>';
+			
+			$.each(data, function(idx, r) {				
+				html += '<li>' + make_ws(r) + '</li>';
+			});
+			html += '</ul>';
+			
+			jobj.html(html);
+			jobj.addClass('ads_list');
+		}
+	});	
+}
+
+
+/**** helpers ****/
+function make_kw_link(term, token) {
+	// $link = "search.php?$gparam&term=" .urlencode($pl[$i]) ."&args=$ptermargs&sec=pl"
+	return '<a href="/search.php?uid='+ GetParam('uid') +
+	        '&src=' + GetParam('src') +
+	        '&term=' + encodeURIComponent(term) + 
+			'&token=' + token + '">' +
+			term + '</a>';
+}
+
+
+// need to handle ads with multiple links and rating
+// * <sitelinks>	(can be up to 10 sitelinks)
+// * <seller_ratings> 
+function make_ad(ad) {	
+	var idx, html = '';
+	
+	// wrap ad.url with tracker:
+	ad.url = wrap_url(ad.url, 'ad');	
+	
+	html += '<a class="ad_title" href="' + ad.url + '" target="_blank">' + ad.line1 + '</a><br/>';
+	html += '<span class="ad_text">' + ad.line2;	
+	if(ad.line3) {	// convert to wide ad 
+		html += ' ' + ad.line3;
+	}
+	html += '</span><br/><a class="ad_url" href="' + ad.url + '" target="_blank">';
+	html += ad.visible_url + '</a>';
+	
+	// <seller_ratings>
+	if(ad.seller_ratings) {
+		html += '<br/><span class="seller_ratings">';
+		html += ad.seller_ratings.advertiser_info;
+		html += ' ' + make_stars_graphic(ad.seller_ratings.rating) + ' ';
+		html += '(<a href="'+ wrap_url(ad.seller_ratings.source_url, 'review') +'" target="_blank">';
+		html += ad.seller_ratings.review_count +'</a>)';
+		
+		html += '</span>';
+	}
+		
+	// <sitelinks>
+	if(ad.sitelinks && ad.sitelinks.length > 0) {
+		html += '<br/><table class="sitelinks" cellspacing="0" cellpadding="0">';
+
+		for(idx = 0; idx < ad.sitelinks.length; idx++) {
+			if(idx == 0) {
+				html += '<tr>';
+			} else if(!(idx % 2)) {
+				// odd numbers
+				html += '</tr><tr>';
+			}			
+			
+			html += '<td><a href="'+ wrap_url(ad.sitelinks[idx].url, 'ad') +
+					'" target="_blank">' + ad.sitelinks[idx].link_text +'</a></td>';						
+		}
+		if(idx % 2) {
+			html += '<td></td>';	// place holder for odd number of results 
+		}
+		html += '</tr>';
+		html += '</table>';
+		
+		// ie adds extra line break after table even with display: inline;
+		if(!jQuery.browser.msie)  {	
+			html += '<br/>';
+		}
+	} else {
+		html += '<br/>';
+	}
+	
+	html += '<br/>';
+	
+	return html;
+}
+
+
+
+function make_ws(r) {
+	var html = '';
+	
+	r.url = wrap_url(r.url, 'ws');
+	
+	html += '<a class="ad_title" href="' + r.url + '" target="_blank">' + r.title + '</a><br/>';
+	html += '<span class="ad_text">' + r.description + '<br/></span>';
+	html += '<a class="ad_url" href="' + r.url + '" target="_blank">';
+	html += r.display_url + '</a><br/><br/>';
+
+	return html;
+}
+
+
+
+function make_stars_graphic(rating) {
+	var star_on, star_half, star_off, html = '';
+	
+	// the stars
+	star_on = '<img src="http://208.87.32.71/images/stars_graphic.png" style="left:0px;position:absolute;top:0px">';
+	star_half = '<img src="http://208.87.32.71/images/stars_graphic.png" style="left:-11px;position:absolute;top:0px">';	
+	star_off = '<img src="http://208.87.32.71/images/stars_graphic.png" style="left:-22px;position:absolute;top:0px">';		
+
+	// generate the html 		
+	html += '<table cellpadding="0" cellspacing="0"><tr>';
+	html += '<td><p>' + star_on + '</p></td>';
+	html += '<td><p>' + star_on + '</p></td>';
+	html += '<td><p>' + star_on + '</p></td>';
+	html += '<td><p>' + star_on + '</p></td>';
+
+	if(rating > 4.5) {
+		// 5.0
+		html += '<td><p>' + star_on + '</p></td>';
+	} else if(rating > 4) {		
+		// 4.5
+		html += '<td><p>' + star_half + '</p></td>';
+	} else {
+		// 4.0
+		html += '<td><p>' + star_off + '</p></td>';
+	}
+
+	html += '</tr></table>';
+	
+	return html;	
+}
+
+
+function make_feedback_url(label, feedback_url) {
+	if(feedback_url && feedback_url != '') {
+		return '<a href="' + feedback_url + '" target="_blank" class="feedback_url">' + label + '</a>';
+	} else {
+		return label;
+	}
+}
+
+function wrap_url(url, type) {
+	return '/gclick.php?uid='+GetParam('uid')+'&r='+
+		encodeURIComponent(url) + 
+		'&type=' + type + 
+		'&term=' + GetParam('term') +
+		'&pt=' + page_type + 
+		'&cid=' + cid +
+		'&ch=' + ch;
+		
+}
+
+
+// remove any filter keywords 
+function filter_keywords(link_units) {
+	var idx, new_link_units = [];
+	if(keyword_filter.length > 0) {
+		for(idx = 0; idx < link_units.length; idx++) {
+			if(!match_keyword_filter(link_units[idx].term.toLowerCase())) {
+				new_link_units.push(link_units[idx]);			
+			}		
+		}
+		return new_link_units;
+	} else {		
+		return link_units;
+	}
+}
+
+
+// term is lowercase 
+function match_keyword_filter(term) {
+	var idx;
+	for(idx = 0; idx < keyword_filter.length; idx++) {
+		if(term.indexOf(keyword_filter[idx].toLowerCase()) >= 0) {			
+			return true;
+		}		
+	}
+	return false;
+}
+
+
+function GetParam(name) {
+    var match = new RegExp(name +
+    "=*([^&]+)*", "i").exec(location.search);
+    if (match == null)
+    match = new RegExp(name + "=(.+)", "i").exec(location.search);
+    if (match == null) return null;
+    match = match + "";
+    //**convert match to a string
+    result = match.split(",");
+    return decodeURIComponent(result[1]);
+}
+
+
+function logStatus(type) {
+	$.ajax({
+		cache: false,
+		global: false,
+		async: true,
+		type: "POST",
+		url: '/logpstatus.php',
+		data: {uid: GetParam('uid'), type: type}
+	});
+}
+
+
+function log(str) {
+	if (window.console && window.console.log) {
+		window.console.log(str);
+	}
+}

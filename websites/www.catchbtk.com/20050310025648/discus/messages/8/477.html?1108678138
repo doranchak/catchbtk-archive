@@ -1,0 +1,228 @@
+<html>
+<!--Topic: 8/Possible BTK Victims-->
+<!--Me: 477/Mr. X?-->
+<!--Level 1: 477/Mr. X?-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 8-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Mr. X?</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Mr. X?</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/8/8.html"><font color="#f7f7f7">Possible BTK Victims</font></a> &#187;
+Mr. X?
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=8&page=477"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=8&page=477"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 7042--><!--Time: 1108145136-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7042"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 10:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->i found the following at: <BR><a href="http://www.angelfire.com/nc/crimeinformation/murder.htm" target=_top>http://www.angelfire.com/nc/crimeinformation/murde r.htm</a> <BR> <BR>Do you know anything about these cases? <BR>Im trying to learn more about these cases. They mysteriously dont have a location or much information at the website. Ive emailed the owner and haven&#39;t heard back...<!--/Text--></td></tr>
+<!--/Post: 7042-->
+<!--Post: 7134--><!--Time: 1108223823-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7134"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 7:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good read, here is one excerpt from this site: <BR> <BR>&#34;Bobby Joe Long  A distant cousin of Henry Lee Lucas, Bobby suffered from a hereditary disorder in which he had an extra &#34;X&#34; chromosome which made his glands produce abnormal amounts of estrogen. In other words, Bobby had breasts. Adding to his confusion his mother slept with him until he was thirteen.  <BR> <BR>After suffering a head injury from a motorcycle accident, Bobby Joe turned into a lust machine. He masturbated five times a day in addition to the two daily sessions with his wife. Not satisfied he began stalking for new dates. From 1980 to 1983 Bobby was busy raping fifty women in the Miami/Fort Lauderdale area. In 1984, after moving back to the Tampa Bay area, he graduated to murder. His victims of choice were prostitutes whom he considered scum. &#34; <BR> <BR>     A possible solution for our X Factor mystery, and the possible reason for masturbating so many times at the scenes. <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 7134-->
+<!--Post: 7692--><!--Time: 1108657546-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7692"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 8:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->ok. i got a response regarding the following cases... <BR>1. In 1985, an unknown assailant raped and murdered a 32 year old female and killed two of her small children. All three were stabbed multiple times and their throats were cut. The mother&#39;s hands had been bound with some type of cord and a pillow had been placed over her face. There was no sign of forced entry. The victim had recently placed an ad in the local paper. Some correspondence was received from a &#34;Mr. X&#34; claiming responsibility.  <BR> <BR>2. In 1985 an unknown assailant raped and murdered a 32 year old female. She had been stabbed multiple times and her throat was cut. Her hands had been bound with some type of cord and a pillow had been placed over her face. There was no sign of forced entry. The victim had recently placed an ad in the local paper.   <BR> <BR>Response: <BR>Hi: <BR>    Thank you for your inquiry.  The postings are several years old and it might take some time to find the submissions. <BR>    I have some limited information as to where the crimes occurred.  The first one occurred in Fayetteville, North Carolina and the second one about fifty miles away in Bolivia, North Carolina. <BR>    There was a conviction in the first case but the defendant was acquitted in a second trial.  A book came out about the case.  It was &#34;Innocent Victims&#34; by Scott Whistnant.  The case was also published in a book entitled &#34;Witness for the Defense,&#34; by Dr. Elizabeth Loftus. <BR>  <BR>  No one was ever arrested in the second case.  They both happened around the same time frame. <BR>  <BR>I wish I had more information but if you have specific questions I can try to locate the submission. <BR>  <BR>THEN I ASKED IF THERE WAS A POSITIVE DNA MATCH... <BR>Response: <BR>No.  these crimes occurred in the mid-1980&#39;s an DNA wasn&#39;t available.  Now that it is, the State still considers the first one closed because someone was arrested.  The other one is probably sitting deep in a cold case file somewhere.  I don&#39;t know where you&#39;re from but in this State a criminal case is considered closed at the time a suspected is arrested.  If he is found not guilty, the case remains in the solved category.<!--/Text--></td></tr>
+<!--/Post: 7692-->
+<!--Post: 7752--><!--Time: 1108672490-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7752"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Thinker<!--/name--></b></a><br>Username: <!--field:uname-->Thinker<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 12:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Nm_pi <BR> <BR>Number 5 on that site you listed is creepy, too.  A young mother and her two sons were the victims in this case. While none of BTK&#39;s known victims were left in a bathtub, the hands and feet of the vics were tied with telephone cord and they were strangled as well as drowned.   <BR> <BR>The murders happened during the day, their car was taken and left elsewhere, and there was no sign of robbery or sexual assault. <BR> <BR>This happened in Houston, TX in May 1978.<!--/Text--></td></tr>
+<!--/Post: 7752-->
+<!--Post: 7771--><!--Time: 1108677207-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7771"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 1:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->karen pretty? see the thread above this one... it totally sounds like btk. including the &#34;take the car a little ways&#34; trick<!--/Text--></td></tr>
+<!--/Post: 7771-->
+<!--Post: 7776--><!--Time: 1108678138-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7776"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Thinker<!--/name--></b></a><br>Username: <!--field:uname-->Thinker<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 2:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Nm_pi <BR>I totally agree.  In fact, the only part that doesn&#39;t ring to BTK is the bathtub thing. However, with the manual strangulation thrown in, I feel this could very well be connected. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 7776-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="8/477">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=8/477" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

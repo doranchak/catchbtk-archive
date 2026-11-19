@@ -1,0 +1,289 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 493/Melissa in AMW-->
+<!--Level 1: 493/Melissa in AMW-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Melissa in AMW</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Melissa in AMW</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+Melissa in AMW
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=493"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=493"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 7431--><!--Time: 1108494109-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7431"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 15, 2005 - 11:01 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Melissa, aka FBIknowsu, in the AMW board tells the story of working in Germany in the 1980s with a mysterious man. They worked in an aviation-type company. She and another co-worker/friend drove this man somewhere in town one weekend. It turned out there was a murder at the same place where they had left the man that weekend. <BR> <BR>She knew that the person they gave a ride to had killed the man, who was found hanging by the neck from the ceiling, and there was semen all over the place. <BR> <BR>Upon her return to the USA, she went to live in  Georgia. And, she signed up for match.com, a dating service. She was getting emails and PMs from a man for some time, then one day she bothered to check the match.com profile - it was the same man who she thought committed the murder in Germany. <BR> <BR>She goes on to say that she notified the FBI, her local police, KAKE TV, and other news and law enforcement agencies, but nobody was taking her seriously.  <BR> <BR>She said she was afraid and moved out of her county and went to live in another where nobody knew her. Then one night she saw the same man in a restaurant sitting on the bar right across from her, staring at her. She says that the man had two other acquaintances who may or may not know what he&#39;s  up to, but she thinks they do. <BR> <BR>Most everyone think this woman has lost it, and she&#39;s just a case of extreme paranoia caused by too much BTK bulletin boards. She may have in fact been stalked by the man, since these things happen often. But, she has no proof that he is BTK. <BR> <BR>I just thought on mentioning this here, as AMW wants to talk to her, and it seems that after posting on AMW, authorities are taking her more seriously. She has armed herself, and is taunting BTK to go get her. <BR> <BR>Pretty wicked stuff. <BR> <BR>:|<!--/Text--></td></tr>
+<!--/Post: 7431-->
+<!--Post: 7444--><!--Time: 1108499395-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7444"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 15, 2005 - 12:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->One question: If she came from germany to &#39;Georgia&#34; why would she alert &#34;KAKE&#34; at all or even know of KAKE?<!--/Text--></td></tr>
+<!--/Post: 7444-->
+<!--Post: 7445--><!--Time: 1108499408-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7445"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 15, 2005 - 12:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Germany keeps popping up.<!--/Text--></td></tr>
+<!--/Post: 7445-->
+<!--Post: 7446--><!--Time: 1108499480-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7446"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 15, 2005 - 12:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->and aviation.<!--/Text--></td></tr>
+<!--/Post: 7446-->
+<!--Post: 7452--><!--Time: 1108502855-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7452"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Joel<!--/name--></b></a><br>Username: <!--field:uname-->Joel<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 15, 2005 - 1:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bmodule - excuse my ignorance, but where else has Germany been mentioned? <BR> <BR>Is BTK being abroad a possible theory for the gaps in murders and/or communications?<!--/Text--></td></tr>
+<!--/Post: 7452-->
+<!--Post: 7455--><!--Time: 1108504497-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7455"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 15, 2005 - 1:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I live in Germany now fo 10 years. I work as a government contractor. If anyone could find some more dietailed info, I could try and research some if thats possible. There are alot of old vets here where I work, Lockhead Matin, ITT guys, all work at flight line for Chinooks. If there was a name and or location, I could ask someone.. Plus another thing, about 8Years ago, the Army started pulling out troops here and contractors started getting cut. Maybe BTK worked in Germany and went back to Wichata. Ill look on German Google about unsolved sexual murders in the 80&#39;s-90&#39;s.<!--/Text--></td></tr>
+<!--/Post: 7455-->
+<!--Post: 7469--><!--Time: 1108509373-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7469"><font face="Verdana" size="1"><b><!--email--><a href="mailto:Iwillc@tchu.com" target="_blank"><!--/email--><!--name-->Catcher<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Catcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 15, 2005 - 3:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This thread has sparked the utmost amount of interest as I have a POI that matches this German connection as well.  At least in some fashion.  My guy was in Germany for an overseas study program as an udergraduate at KU.  I believe it was his junior year and it was 1972.  I am almost certain that he went back in the 80&#39;s, and I know that his career focus was on electrical engineering and physics.  I&#39;d sure like to talk to Melissa and see if they could possibly be connected or the same person!<!--/Text--></td></tr>
+<!--/Post: 7469-->
+<!--Post: 7476--><!--Time: 1108512705-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7476"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 15, 2005 - 4:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I forgot to paste the link. She is clearly freaked out by the man. She mentions names in this and other posts, including the name of the murdered man. The list of messages are on the left, hers are with capital letters. <BR> <BR><a href="http://forums.prospero.com/foxamw/messages/?msg=1508.1" target=_top>http://forums.prospero.com/foxamw/messages/?msg=15 08.1</a> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 7476-->
+<!--Post: 7490--><!--Time: 1108517966-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7490"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rev<!--/name--></b></a><br>Username: <!--field:uname-->Rev<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 15, 2005 - 5:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;One question: If she came from germany to &#39;Georgia&#34; why would she alert &#34;KAKE&#34; at all or even know of KAKE?&#34; <BR> <BR>Q, my guess is she heard on the national news about BTK and related him to her POI, then went searching on the net and discovered the boards, KAKE, etc. <BR> <BR>But who knows whether this is all pure garbage or there&#39;s any truth to it whatsoever.<!--/Text--></td></tr>
+<!--/Post: 7490-->
+<!--Post: 7535--><!--Time: 1108564040-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7535"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dee<!--/name--></b></a><br>Username: <!--field:uname-->Dee<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 6:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m sorry, but I don&#39;t see it.  I have read her posts, seen this man&#39;s pictures, read his match.com profile and I don&#39;t see a fit at all.  It appears to me that Melissa is either a woman scorned or needs some serious psychiatric care.  If I am missing something, by all means tell me.  But I think this is going to lead to nothing but a restraining order.<!--/Text--></td></tr>
+<!--/Post: 7535-->
+<!--Post: 7538--><!--Time: 1108564812-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7538"><font face="Verdana" size="1"><b><!--email--><a href="mailto:BTK_Catcher@cox.net" target="_blank"><!--/email--><!--name-->Catcher<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Catcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 6:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dee, <BR>I tend to agree with you after going to AMW and reading her posts.  She seems delusional, paranoid, her processes are all F@!%#&#42;! up!<!--/Text--></td></tr>
+<!--/Post: 7538-->
+<!--Post: 7544--><!--Time: 1108569791-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7544"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 8:03 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That is my impression too, catcher. But, the man could be stalking her for real. I remember seeing one of the pictures that she showed in Paltalk some years ago, and Paltalk is freako heaven, IMO. <BR> <BR>I don&#39;t know you, but this BTK thing is a little scary, specially for a woman who lives by herself and is somehow vulnerable. She may have gone off the deep end, if you know what I mean. <BR> <BR>Remember the Muhammed-Malvo thing in the East about three years ago? During the time that it went on, I actually was looking over my shoulder, and walking faster from buildings to my car - and I live about 500 miles from where it happened! Haha!  <BR> <BR><IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0><!--/Text--></td></tr>
+<!--/Post: 7544-->
+<!--Post: 7551--><!--Time: 1108571729-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7551"><font face="Verdana" size="1"><b><!--email--><a href="mailto:BTK_Catcher@cox.net" target="_blank"><!--/email--><!--name-->Catcher<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Catcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 8:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I do empathize for anyone in her situation, it must be absolutely terrorizing.  I just think the BTK link is weak to say the least.  Preacher3 has more convincing links to his POI as being BTK than she does for her stalker! <!--/Text--></td></tr>
+<!--/Post: 7551-->
+<!--Post: 7631--><!--Time: 1108614316-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7631"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 8:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yes, I agree it&#39;s weak.  Too bad.  Her guy may have issues, or even real skeletons in some closet, but he&#39;s not BTK, IMO. <BR> <BR>Catcher - do you have a URL for data on Preacher3&#39;s POI?  I couldn&#39;t find anything.  Not sure if you think he&#39;s a good POI or not - saying he&#39;s better than her POI isn&#39;t that much of an endorsement, obviously.  Just checking for any matches...  thanx - pax<!--/Text--></td></tr>
+<!--/Post: 7631-->
+<!--Post: 7646--><!--Time: 1108621496-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7646"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 10:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i>She knew that the person they gave a ride to had killed the man, who was found hanging by the neck from the ceiling, and there was semen all over the place.</i> This sounds like an autoerotic asphyxiation death. Was Melissa more specific here? It does sound weak.  <BR><!--/Text--></td></tr>
+<!--/Post: 7646-->
+<!--Post: 7854--><!--Time: 1108712160-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7854"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 11:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->True, he may be a stalker, but that doesn&#39;t mean he&#39;s BTK.  <BR> <BR>Then, again, we could all be wrong and she&#39;s been right all along... haha! <BR><!--/Text--></td></tr>
+<!--/Post: 7854-->
+<!--Post: 8093--><!--Time: 1108870127-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8093"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 7:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Mel, &#34;Rog&#34; and Charlie&#39;s Theory???? <BR> <BR>&#34;melissa&#34; requested help in researching her &#34;story&#34;.  i looked around on the internet and found what i feel is some interesting links that relate to one of her messages. see below.  im not going to get into a discussion now of how this might all relate to one recurring theory regarding BTK, but I want to post it anyway for your contemplation. in short, i was trying to establish a potential link between germany and wichita to see if it was concievable... <BR> <BR> <BR> <BR>melissa wrote on amw.. <BR> <BR>  <BR> 1666.6 in reply to 1666.5  <BR>  <BR>  <BR>  <BR>worms police  investigators into &#34;George&#39;s&#34;  death &#34;police called it a suicide????????? <BR> <BR>Germany=dyncorp 87/88=mannheim west germany,coleman AAF aviation maintenance contractor  for the us army until june 1988-temco took over the army contract which returned all the dyncorp folkss back to the usa--spreading out in other aircraft co maintenence work areas trying to find work <BR> <BR>nam= time travel--feb 19,2004 --time before the april 19th 2004--post began in kansas  <BR> <BR>jim=fire 1/25/04------co worker-----talk about walking down memory lane----- <BR> <BR>you know who--sheet metal worker/aviation PLUS some <BR> <BR>check out secretary of state website in GA and look for the name and see dates as &#34;security&#34; license--do search there------------------time travel---------don&#39;t forget first names may not be the same-----some of those are a little to close to my home!!!! <BR> <BR>  <BR> <BR>so help me out here researchers----- <BR>  <BR> <BR> <BR> <BR> <BR>now,some food for thought off the internet... <BR> <BR> <BR> <BR><a href="http://www.globalsecurity.org/military/facility/coleman-bks.htm" target=_top>http://www.globalsecurity.org/military/facility/co leman-bks.htm</a> <BR> <BR><a href="http://diversityworking.com/career/Aviation_and_Airlines/Aircraft_and_Avionics_Equipment_Mechanics_and_Service_Technicians/Aircraft_Mechanic.html" target=_top>http://diversityworking.com/career/Aviation_and_Ai rlines/Aircraft_and_Avionics_Equipment_Mechanics_a nd_Service_Technicians/Aircraft_Mechanic.html</a> <BR> <BR>  <BR> <BR><a href="http://www.bizjournals.com/stlouis/stories/2003/04/07/daily41.html" target=_top>http://www.bizjournals.com/stlouis/stories/2003/04 /07/daily41.html</a> <BR> <BR>  <BR> <BR><a href="http://www.sourcewatch.org/index.php?title=DynCorp" target=_top>http://www.sourcewatch.org/index.php?title=DynCorp</a> <BR> <BR>  <BR> <BR><a href="http://www.colombiasolidarity.org.uk/Solidarity%206/dyncorp.html" target=_top>http://www.colombiasolidarity.org.uk/Solidarity%20 6/dyncorp.html</a> <BR> <BR><a href="http://www.thenation.com/doc.mhtml%3Fi=20010716&amp;s=vest20010703" target=_top>http://www.thenation.com/doc.mhtml%3Fi=20010716&amp;s= vest20010703</a> <BR> <BR><a href="http://eatthestate.org/06-15/NaturePolitics.htm" target=_top>http://eatthestate.org/06-15/NaturePolitics.htm</a> <BR> <BR><a href="http://www.portaec.net/library/action/alabama_cia_air_contractor.html" target=_top>http://www.portaec.net/library/action/alabama_cia_ air_contractor.html</a> <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 8093-->
+<!--Post: 8224--><!--Time: 1109008429-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8224"><font face="Verdana" size="1"><b><!--email--><a href="mailto:linnieskid@earthlink.net" target="_blank"><!--/email--><!--name-->Linnieskid<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Linnieskid<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 9:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->On the AMW discussion board there are some very interesting posts that speak about Melissa posting as BTK.  &#34;BTK 2005 victim Melissa Scott&#34; <BR>Worth the read!  Make sure you read the links that are posted showing Melissa&#39;s communications on the board.<!--/Text--></td></tr>
+<!--/Post: 8224-->
+<!--Post: 8254--><!--Time: 1109015625-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8254"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 11:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Has anyone thought about contacting WPD about this entire episode? I find this pretty disturbing <i>if </i>it is for real.<!--/Text--></td></tr>
+<!--/Post: 8254-->
+<!--Post: 8260--><!--Time: 1109021075-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8260"><font face="Verdana" size="1"><b><!--email--><a href="mailto:linnieskid@earthlink.net" target="_blank"><!--/email--><!--name-->Linnieskid<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Linnieskid<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 1:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dpinva: No one states they have contact WPD but hopefully they monitor the board, and don&#39;t think that she is a complete whacko, &#40;like I use to&#41;.  Notice how Melissa is almost incoherent,rambling etc., just like someone in a psychotic state might be... Maybe we are being lead down the primrose path?  Pretty weird, though that a Melissa was found dead.<!--/Text--></td></tr>
+<!--/Post: 8260-->
+<!--Post: 8266--><!--Time: 1109024142-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8266"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 2:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->i have suggested before that melissa&#39;s writing style sounded to me like it was BTK at a public computer trying to write in a big hurry...<!--/Text--></td></tr>
+<!--/Post: 8266-->
+<!--Post: 8278--><!--Time: 1109032518-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8278"><font face="Verdana" size="1"><b><!--email--><a href="mailto:linnieskid@earthlink.net" target="_blank"><!--/email--><!--name-->Linnieskid<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Linnieskid<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 4:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Nm_pi, You were on to something!<!--/Text--></td></tr>
+<!--/Post: 8278-->
+<!--Post: 8287--><!--Time: 1109038966-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8287"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 6:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->on something or onto something??? lol<!--/Text--></td></tr>
+<!--/Post: 8287-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/493">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/493" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

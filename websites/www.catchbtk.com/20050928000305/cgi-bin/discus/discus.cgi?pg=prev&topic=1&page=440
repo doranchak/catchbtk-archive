@@ -1,0 +1,275 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 436/A Blackout Tavern-->
+<!--Level 1: 436/A Blackout Tavern-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: A Blackout Tavern</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">A Blackout Tavern</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+A Blackout Tavern
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=436"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=436"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 6285--><!--Time: 1107658570-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6285"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bestbud<!--/name--></b></a><br>Username: <!--field:uname-->Bestbud<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 6:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Some interesting words &#40;typesetting and railroad ties&#41; and paragraphs in the Article: <BR> <BR>Assembled in the similar pursuits of congeniality, the tavern customers, regardless of ideology, fell into a receptive state. In this way, a middle-aged future owner of the bar, Dudley, found himself in proximity to wild youth. &#34;Dudley started coming into the bar during the day. He was a clinical alcoholic who had stayed dry. He&#39;d come in there and do a couple of business deals over the phone—selling typesetting equipment. Then he fell off the wagon.&#34;  <BR> <BR>John Byers ran A Blackout from 1975 to 1978, taking it over from Dudley. According to Byers, Dudley ran a loose ship, sleeping on the bar, giving his dog an inviolable corner, and acting very much annoyed if he were called upon to furnish potations.  <BR> <BR>Byers had definite ideas on tavern management, partly defined through his experiences in the bar when McNabb owned it. &#34;I wanted to bring it back to life. I put seashells everywhere and made it a seaside bar.&#34;  <BR> <BR>He also put wood chips and railroad ties behind the building, as well as a tall fence, so that his patrons could take in the out-of-doors in good weather with some privacy. The entertainment was a jukebox with hard-to-find records whose message was fiercely anti-disco. <BR> <BR><a href="http://www.ku.edu/heritage/beats/ablackout.html" target=_top>http://www.ku.edu/heritage/beats/ablackout.html</a><!--/Text--></td></tr>
+<!--/Post: 6285-->
+<!--Post: 6294--><!--Time: 1107662271-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6294"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lilymarie<!--/name--></b></a><br>Username: <!--field:uname-->Lilymarie<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 7:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I know from my own mistakes that your post will have to come down because it was copied...however, I love that site and have wondered about Byers for a couple of months. Haven&#39;t been able to track him past &#39;78.<!--/Text--></td></tr>
+<!--/Post: 6294-->
+<!--Post: 6295--><!--Time: 1107662582-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6295"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bestbud<!--/name--></b></a><br>Username: <!--field:uname-->Bestbud<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 8:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oh!  Sorry...Didn&#39;t know I wasn&#39;t supposed to copy and paste info.  Thanks for the heads up! ;&#41; <BR> <BR>Did you check out the White Van with the &#34;Unidentifed&#34; Logo? Hmmmm.... <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6295-->
+<!--Post: 6297--><!--Time: 1107663205-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6297"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lilymarie<!--/name--></b></a><br>Username: <!--field:uname-->Lilymarie<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 8:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yep - Moody&#39;s Skidrow Beanery &#40;steaming coffee mug&#41; is the logo. Google Moody&#39;s - don&#39;t know if its relevant - but it is interesting nonetheless.<!--/Text--></td></tr>
+<!--/Post: 6297-->
+<!--Post: 6301--><!--Time: 1107664655-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6301"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 8:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There is a John Byers in northwest Wichita, no idea if it is the same one. He lives around the area of 53rd north and Seneca. This is very close to the last drop off area.  <BR> <BR><a href="http://maps.yahoo.com/maps_result?ed=PaluM.p_0TrI8IJHI60sl0VlnPW6xbuosw--&amp;csz=WICHITA%2BKS%2B67204&amp;country=us&amp;cat=&amp;trf=0" target=_top>http://maps.yahoo.com/maps_result?ed=PaluM.p_0TrI8 IJHI60sl0VlnPW6xbuosw--&amp;csz=WICHITA&#43;KS&#43;67204&amp;count ry=us&amp;cat=&amp;trf=0</a><!--/Text--></td></tr>
+<!--/Post: 6301-->
+<!--Post: 6302--><!--Time: 1107665012-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6302"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 8:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Fwiw, PJ O&#39;Connor mentions in his book that he had a harmonica playing friend who worked at Coleman. They played music together at A Blackout. His name was Bill. <!--/Text--></td></tr>
+<!--/Post: 6302-->
+<!--Post: 6314--><!--Time: 1107674492-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6314"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bmodule<!--/name--></b></a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 05, 2005 - 11:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Don&#39;t overlook Dudley. I wonder where he landed?<!--/Text--></td></tr>
+<!--/Post: 6314-->
+<!--Post: 6327--><!--Time: 1107700540-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6327"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 06, 2005 - 6:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->From &#34;Tales From A Blackout&#34;: <BR> <BR>&#34;&#39;During the day it was open forum, longhairs sitting next to guys with ties. Then at night it was pretty much freaks.&#39; In this way, a middle-aged future owner of the bar, Dudley, found himself inproximity to wild youth.&#34; <BR> <BR>Middle-aged? Too old?  <BR> <BR>Can anyone tell me who was &#34;The Irishman&#34;? <!--/Text--></td></tr>
+<!--/Post: 6327-->
+<!--Post: 6386--><!--Time: 1107745657-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6386"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tadpole<!--/name--></b></a><br>Username: <!--field:uname-->Tadpole<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 06, 2005 - 7:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->From the link in the first post this caught my eye: <BR> <BR>&#34;Ina&#39;s had been a rough place. She had a nightstick carved like a dildo and she would use it on anyone that got out of line.&#34; <BR> <BR>Was it not stated that a possible victim received a drawing involving a nightstick?<!--/Text--></td></tr>
+<!--/Post: 6386-->
+<!--Post: 6388--><!--Time: 1107749332-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6388"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tadpole<!--/name--></b></a><br>Username: <!--field:uname-->Tadpole<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 06, 2005 - 8:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sorry, I found it, posted by Johno on 12/20/04: <BR>&#34;It is of further interest to note that in a drawing he sent to would-be victim Anna Williams he shows what investigators and others who have seen it, what is described as a billy club or police baton being inserted into a body cavity.&#34;<!--/Text--></td></tr>
+<!--/Post: 6388-->
+<!--Post: 7196--><!--Time: 1108270944-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7196"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bestbud<!--/name--></b></a><br>Username: <!--field:uname-->Bestbud<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 9:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Go Figure: <BR> <BR><a href="http://www.whoownsjackkerouac.com/wayne2.html" target=_top>http://www.whoownsjackkerouac.com/wayne2.html</a> <BR><a href="http://www.whoownsjackkerouac.com/people2b.html" target=_top>http://www.whoownsjackkerouac.com/people2b.html</a> <BR>&#34;Larry and Amy&#34; puzzle pieces? <BR> <BR><a href="http://al.gcsu.edu/dlow4.htm" target=_top>http://al.gcsu.edu/dlow4.htm</a> <BR><a href="http://old.lawrence.com/burroughs/wsb_photo1.html" target=_top>http://old.lawrence.com/burroughs/wsb_photo1.html</a> <BR><a href="http://old.lawrence.com/burroughs/wsb_photo4.html" target=_top>http://old.lawrence.com/burroughs/wsb_photo4.html</a> <BR><a href="http://www.ardmoreite.com/stories/080397/news/news08.html" target=_top>http://www.ardmoreite.com/stories/080397/news/news 08.html</a> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 7196-->
+<!--Post: 7210--><!--Time: 1108278531-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7210"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Weeza<!--/name--></b></a><br>Username: <!--field:uname-->Weeza<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 11:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There&#39;s a John Mark Byers, In Tennessee...those of you who are familiar with the WM3 case will know why I mention that as an odd coincidence<!--/Text--></td></tr>
+<!--/Post: 7210-->
+<!--Post: 7211--><!--Time: 1108278575-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7211"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Weeza<!--/name--></b></a><br>Username: <!--field:uname-->Weeza<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 11:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oops, Arkansas, not Tennesee...my mistake<!--/Text--></td></tr>
+<!--/Post: 7211-->
+<!--Post: 7213--><!--Time: 1108281784-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7213"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 13, 2005 - 12:03 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.ardmoreite.com/stories/080397/news/news08.html" target=_top>http://www.ardmoreite.com/stories/080397/news/news 08.html</a> <BR> <BR>Bestbud <BR> <BR>Good snag. Bouroughs&#39; mention of being introduced to the &#34;invader&#34; after shooting his wife in the forehead, is very much in line with BTK&#39;s &#34;monster&#34;. Notice also, that he says that the only way for him to deal with it is to write. <BR> <BR>BTK isa eclectic assemblage of other prominant people&#39;s traits. This may explain his monster theory...speaking of which... <BR> <BR><a href="http://www.thoughtpeach.com/archives/000411.html" target=_top>http://www.thoughtpeach.com/archives/000411.html</a> <BR> <BR>I ran across this somewhere. It is mostly about the same stuff you find on any BTK site, however half way through there is a mention of a factor x theory which I have never heard before.<!--/Text--></td></tr>
+<!--/Post: 7213-->
+<!--Post: 8709--><!--Time: 1109294687-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8709"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Hbtcontrol<!--/name--></b></a><br>Username: <!--field:uname-->Hbtcontrol<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 5:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->OK, I must have read this post pretty quickly when it first came up because after rereading it - I have a question for those that seem to be much more in the know about the Blackout than I. <BR> <BR>Who is Pat J. O&#39;Connor or &#34;PJ&#34;? And how old is he or she?  Can this person possibly be the one referenced by BTK  as &#39;PJ&#39; in lieu or in addition to PJ Wyatt?  <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 8709-->
+<!--Post: 8742--><!--Time: 1109303187-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8742"><font face="Verdana" size="1"><b><!--email--><a href="mailto:rwmm@swbell.net" target="_blank"><!--/email--><!--name-->Lilymarie<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Lilymarie<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 7:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hbt - I don&#39;t know about anyone else - but I never realized that Pat&#39;s initials were PJ too! I&#39;ve always been interested in the &#34;beat generation&#34; angle of this story - and my profile states that I think at least one of the victims was connected through The Blackout Tavern. <BR> <BR>I thought I had exhausted my own personal research on this topic - but you&#39;ve brought it back to life. Thanks!!<!--/Text--></td></tr>
+<!--/Post: 8742-->
+<!--Post: 8767--><!--Time: 1109315261-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8767"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 11:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I was begining to wonder if the Blackout had anything to do with BTK other than the drug angle. You may have something.<!--/Text--></td></tr>
+<!--/Post: 8767-->
+<!--Post: 14299--><!--Time: 1126117927-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST14299"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, September 07, 2005 - 11:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There was a project black out.<!--/Text--></td></tr>
+<!--/Post: 14299-->
+<!--Post: 14302--><!--Time: 1126128040-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST14302"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, September 07, 2005 - 2:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->What or who was it?<!--/Text--></td></tr>
+<!--/Post: 14302-->
+<!--Post: 14303--><!--Time: 1126128871-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST14303"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, September 07, 2005 - 2:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->B- hey hop on over to Kansas.com and read the article...&#34;Brushes with BTK&#34;  towards the bottom it explains Project Blackout...and it did have to do with the tavern..........he trolled there<!--/Text--></td></tr>
+<!--/Post: 14303-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/436">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/436" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,1 @@
+window.CBTK={"page":"julieo.html","title":"Julie Otero","archive":"../index.html","versions":[{"t":"20050305004335","e":"20050305004335","n":1,"f":"history/julieo~20050305004335.html","a":0,"d":0,"sa":[],"sd":[]}]};

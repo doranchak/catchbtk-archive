@@ -1,0 +1,239 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 835/Preventing Future BTKs, Part 2-->
+<!--Level 1: 835/Preventing Future BTKs, Part 2-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Preventing Future BTKs, Part 2</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Preventing Future BTKs, Part 2</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Preventing Future BTKs, Part 2
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=835"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=835"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 14033--><!--Time: 1124433136-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST14033"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, August 18, 2005 - 11:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Continued <a href="http://www.catchbtk.com/discus/messages/1/767.html?1124432896"> <b>from here</b></a>.<!--/Text--></td></tr>
+<!--/Post: 14033-->
+<!--Post: 14071--><!--Time: 1124520333-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST14071"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, August 19, 2005 - 11:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rader is simple. <BR> <BR>He simply never learned to deal with the original sin: &#34;self focus&#34;. <BR> <BR>Everyone is born with a certain amount of self focus. That is what makes us breath and eat. Most people learn, however, that there is a limits to self-gratification.  <BR> <BR>Rader never got it.  <BR> <BR>A lot of people don&#39;t get it. The reason Rader became such a festering sore of a personality, though, was his ability to uber-compartmentalize his personality so that he could live a life of hypocracy, keeping the personality that he KNEW was unacceptable hidden, and exposing the personality that he KNEW was acceptable. <BR> <BR>Preventing more Raders? <BR> <BR>I see four common trends today that are contributing to the Raderesque behaviour: <BR> <BR>1&#41; acceptance of narcissism as a healthy self image. Examples: artificially inflating child&#39;s &#34;self-esteem&#34;, &#34;Army of One&#34; &#40;illusion used as an enlistment ploy that is, of course, corrected during boot camp&#41;, and Donald Trump &#40;and reality TV in general&#41;. <BR> <BR>2&#41; Acceptance of Compartmentalized behavior and hypocracy as normal. Examples: Rush Limbaugh&#39;s insistance that drug users are criminal instead of in need of medical attention...until he went into to rehab for oxycotin, Catholic Church harboring peodophile priests from prosecution, and politics...in general. <BR> <BR>3&#41; The &#34;extreme thing&#34;. The Ancient Greeks &#40;who were wise&#41; stressed &#34;moderation in all things&#34;. Our modern society puts a premium on &#34;Xtreme&#34;. Extreme sports, colors, flavors, fashions, etc.. Although extremes are more exciting, if you do everything to the nth extreme, you are going to run into problems. <BR> <BR>4&#41; The ever-popular desensetizing of the young to violence through video games and gross movies. I&#39;m not real sure about this one, but I don&#39;t remember any mass murders at schools before video games and cable. <BR> <BR>My basic point is: Take a kid, inflate his ego, teach him that hypocracy is okay and extreme behavior is good, then desensetize him to violence, and you will end up with someone like Rader. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 14071-->
+<!--Post: 14072--><!--Time: 1124523316-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST14072"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 20, 2005 - 12:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->What you point out may well be contributing factors to a future Dennis Rader however no one told Rader that hypocracy was OK and there is no indication in his family of being taught extreme behavior and a desensetization to violence. <BR>There was no Rush Limbaughs or Donald Trumps, no reality shows, no extreme sports or extreme anything. He grew up in the Eisenhower 50&#39;s. There wasn&#39;t too many gross movies and there wasn&#39;t video or cable and he wasn&#39;t exposed to any Catholic church pedophelic priests. <BR>He had a good family, lived in a good area, went to good schools, had disiplined miltary training and lasted through his tour of duty and wasn&#39;t in combat. He began a college education and married into a good family.  <BR>And yet he became what he became, when came 1974 and the darkness of darkness spewed forth, springing from him like a volcanic burst. <BR>And he became what he became. <BR>And it was there all the while. But with no criminal background or history of observed phychiatric problems and his failure to disclose that anything was wrong with him how can you prevent that?<!--/Text--></td></tr>
+<!--/Post: 14072-->
+<!--Post: 14074--><!--Time: 1124528608-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST14074"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Victor<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Victor<!--/field--><br><br>Registered: <!--field:registered-->5-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 20, 2005 - 2:03 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Easy, just put the new RONCO &#34;Serial Killer Tracker&#34; on him, at an early age. Say, from age 8 on. It&#39;s a simple electronic device that attaches to the ankle, just like the good ol&#39; &#34;electric ankle braclets&#34; you&#39;ve seen the courts use. <BR> <BR>Only it detects extended or recurring serious violent thought patterns in a human brain. Don&#39;t worry, it&#39;s completely painless &amp; oderless. No fuss, no muss. Even your girlfriend won&#39;t notice it. <BR> <BR>Track each person untill they&#39;re 21 or so, and Presto! No more serial killers!! <BR> <BR>They are just coming out in Japan &amp; you&#39;ll be able to find them in your local hardward store by Christmas, with any luck. <BR> <BR>The preceding ad brought to you by Brooklyn Bridge Real Estate Co.<!--/Text--></td></tr>
+<!--/Post: 14074-->
+<!--Post: 14109--><!--Time: 1124696407-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST14109"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 22, 2005 - 12:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->He claims to have had these sexual fantasies back in grade school and would make sketches of Annette Funicello when she was on the Mousketeers and considered her a hit target and wanted to go out to California and act out his sexual fantasies on her. <BR>He also claims to have hung a cat and then a dog when he was a kid. <BR>He also claims to have begun window peeping and stealing womens underwear at the age of 18.<!--/Text--></td></tr>
+<!--/Post: 14109-->
+<!--Post: 14114--><!--Time: 1124749821-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST14114"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 22, 2005 - 3:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Why didn&#39;t he just go out and buy porn videos to satisfy the violent sexual fantasies he was having? Were video&#39;s like that available in 1974? <!--/Text--></td></tr>
+<!--/Post: 14114-->
+<!--Post: 14116--><!--Time: 1124752504-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST14116"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Victor<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Victor<!--/field--><br><br>Registered: <!--field:registered-->5-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 22, 2005 - 4:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Porno videos of what? Hanging a live cat or dog? Violently assaulting a Mousketeer? No, I&#39;m afraid &#34;the dog catcher&#34; needed to DO these things in &#34;real life&#34; to satisfy his urges. And he started having to act out these fantasies when he was still a kid in grade school. Thus the hanging of the dog&#40;s&#41; &amp; cat&#40;s&#41;, and who knows what else. <BR> <BR>I&#39;d like to see a good list, with sources, of &#34;serial killer&#34; traits that are exhibited when the preps were still young. This would be a great start to &#34;Preventing Future BTKs&#34;. I know the stereotype &#34;triad&#34; is bedwetting, animal cruelty &amp; arson. But is this true, or just a myth?<!--/Text--></td></tr>
+<!--/Post: 14116-->
+<!--Post: 14117--><!--Time: 1124759466-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST14117"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, August 22, 2005 - 6:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Porno magazines and videos were comonplace in the early 70&#39;s but not in Rader&#39;s formitive years in the 50&#39;s and early 60&#39;s.  <BR>During those years &#34;Stag Films&#34; were pretty tame by todays standards and were sold by mail or in big city adult book stores and were shown mostly at bachelor parties. <BR>Rader said that he viewed S&amp;M and Bondage magazines and &#34;Girly&#34; magazines and police magazines. <BR>Festish was almost mainstream back then. The &#34;girlie&#34; magazines were full of bondage scenes even on their covers. The police gazette and true crime magazines of the day featured strangulation killers and girls in bondage and S&amp;M and women in leather and rubber and quite popular was women in Nazi clothing made to look sexy. These were commonplace and the covers of these magazines would have these kind of images on them in almost any newstand or drugstore. Most adolecents who viewed and read these with curiosity, disgust or a passing interest from a distance. Rader viewed these and it turned him on to the point that he never moved on to anything else and began a lifelong facination with these kind of images until he got to the point where it was the only thing that turned him on sexually. <BR>His family and church instilled morals probably led him to get married and try to lead a &#34;normal&#34; life but he couldn&#39;t be normal. He didn&#39;t act these out with postitutes because he knew that he couldn&#39;t fully enjoy the S&amp;M and bondage without actually killing the prostitute. <BR>He thought he could lead a &#34;straight&#34; life and compartmentalize these fantasies but he couldn&#39;t. <BR>I ain&#39;t no shrink but this is how I see his basic evolution into BTK.<!--/Text--></td></tr>
+<!--/Post: 14117-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/835">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/835" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

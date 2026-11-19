@@ -1,0 +1,1 @@
+window.CBTK={"page":"charlie.html","title":"Letter From Charlie Otero","archive":"../index.html","versions":[{"t":"20050103090744","e":"20050103090744","n":1,"f":"history/charlie~20050103090744.html","a":0,"d":0,"sa":[],"sd":[]}]};

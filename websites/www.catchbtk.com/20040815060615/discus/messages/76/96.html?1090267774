@@ -1,0 +1,280 @@
+<html>
+<!--Topic: 76/BTK Media-->
+<!--Me: 96/Dateline NBC/Ron Loewen-->
+<!--Level 1: 96/Dateline NBC/Ron Loewen-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 76-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Dateline NBC/Ron Loewen</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Dateline NBC/Ron Loewen</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/76/76.html"><font color="#f7f7f7">BTK Media</font></a> &#187;
+Dateline NBC/Ron Loewen
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=76&page=96"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=76&page=96"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 419--><!--Time: 1089488032-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST419"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, July 10, 2004 - 12:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I really enjoyed the show. It was much better than the <i>America&#39;s Most Wanted</i> effort. Nice to finally see the <i>Eagle&#39;s</i> Hurst Laviana, too. <BR> <BR>Funny note: At the end of the segment, 1970s newsman/TV anchor Ron Loewen &#40;the guy who received the first BTK correspondence&#41; was shown examing papers at his desk. They were printouts from my other site, Zodiackiller.com! I should get a royalty!<!--/Text--></td></tr>
+<!--/Post: 419-->
+<!--Post: 431--><!--Time: 1089633485-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST431"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, July 12, 2004 - 4:58 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I thought Mr. Loewen was a rather strange indivdual. Why does BTK have an intrest in this man. At the end of the segment they stated BTK want to tell his story but only to Mr. Loewen. Also I believe Tom, that they stated Mr. Loewen was the head of the newsroom not the anchor. He only appeared in front of the camera for that interview with the police chief. Why? Also they went out of their way to state Mr. Loewen was on vacation when the first new note came in and he had moved from wichita in 1986. Intresting year.<!--/Text--></td></tr>
+<!--/Post: 431-->
+<!--Post: 432--><!--Time: 1089637275-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST432"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, July 12, 2004 - 6:01 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Also one of the btk composites looks strangely like Mr Loewen.<!--/Text--></td></tr>
+<!--/Post: 432-->
+<!--Post: 445--><!--Time: 1089702642-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST445"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, July 13, 2004 - 12:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Scbenson2001, I actually made a few inquiries about Mr. Loewen following the show Friday night. I&#39;m sure he&#39;s not at all involved and probably an A &#43; character, but for a novice like me there were some interesting tidbits that made me say &#34;Hmmmm....&#34;<!--/Text--></td></tr>
+<!--/Post: 445-->
+<!--Post: 454--><!--Time: 1089732706-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST454"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, July 13, 2004 - 8:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->hmmm. Is right. I&#39;m sure he is a fine man also however how would btk come to even know the name of this man. He was a behind the scenes news producer. Very strange. I have to say I was suprised by the quality of the piece. <!--/Text--></td></tr>
+<!--/Post: 454-->
+<!--Post: 457--><!--Time: 1089748033-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST457"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Screamer<!--/name--></b></a><br>Username: <!--field:uname-->Screamer<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, July 13, 2004 - 12:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I thought that it was very well done. I missed the America&#39;s Most Wanted.  <BR> <BR>I was also asking myself how BTK would have known Ron Loewen? But, there are so many unanswered questions with this case. Probably only BTK knows for sure. <BR> <BR>Also, the subliminal message thing was wierd. I&#39;ve heard of it being done in movies and music. I really don&#39;t think that it works, but it&#39;s worth a shot, right?<!--/Text--></td></tr>
+<!--/Post: 457-->
+<!--Post: 459--><!--Time: 1089763291-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST459"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, July 13, 2004 - 5:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Scbenson2001 wrote: <BR><i>&#34;At the end of the segment they stated BTK wants to tell his story but only to Mr. Loewen.&#34;</i> <BR> <BR>Actually, that scenario was presented hypothetically by the anchor. She said: <BR><i>&#34;And then there’s the old newsman’s ending. . . the killer says he’ll talk, but he’ll only tell his story to Ron Loewen.&#34;</i><!--/Text--></td></tr>
+<!--/Post: 459-->
+<!--Post: 460--><!--Time: 1089767173-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST460"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Screamer<!--/name--></b></a><br>Username: <!--field:uname-->Screamer<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, July 13, 2004 - 6:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok, I just watched Dateline again... <BR> <BR>All this chat about Ron Loewen got me wanting to look a little closer. As Tom stated above, he&#39;s probably been checked out, but there are some interesting tidbits.  <BR> <BR>Did anyone notice that he moved from Wichita in late 1986. Vicki Wegerle was murdered in September of 1986 and police didn&#39;t know if the crime was really BTK until the recent letter taking credit. It also said that he move hundreds of miles away. I know, that could mean 200 or 2000 miles, but anything is possible<!--/Text--></td></tr>
+<!--/Post: 460-->
+<!--Post: 466--><!--Time: 1089792218-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST466"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, July 14, 2004 - 1:03 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A couple more Loewen remarks that might be interpreted as being curious are: <BR> <BR>&#40;From 1978&#41; <i>&#34;BTK claims to have strangled a total of seven women, uh, seven people, rather, mostly women&#34;</i> <BR> <BR>Since BTK seemed to target women, hmmm... <BR> <BR>&#40;From 2004&#41; <i>&#34;no one has come close to catching him.&#34;</i> <BR> <BR>How could he know that? Unless... <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 466-->
+<!--Post: 467--><!--Time: 1089792882-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST467"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Laoise<!--/name--></b></a><br>Username: <!--field:uname-->Laoise<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, July 14, 2004 - 1:14 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->one thing that struck my husband and i both about ron&#39;s portion of the interview: <BR> <BR>he told how, after he made the on air announcement, the cops tailed him 24/7 even going in his house first to make sure it was secure right? he then said that after several weeks of this he became so nervous about having the cops following him all the time that he told them to just stop. seems to me that if i have reason to believe a serial killer might contact me in whatever fashion, i would SO welcome the cops with me all the time! heck i&#39;d even be making them the BEST home cooked food they&#39;ve ever had in hopes that theyd come back off duty as well! <BR> <BR>just my thoughts on that....<!--/Text--></td></tr>
+<!--/Post: 467-->
+<!--Post: 468--><!--Time: 1089793247-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST468"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, July 14, 2004 - 1:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hmmm...that&#39;s a good point!  <BR> <BR>In Loewen&#39;s scenario, I certainly wouldn&#39;t mind police protection. Unless of course it was somehow encumbering my normal activities. And the police only encumber illegal activities...<!--/Text--></td></tr>
+<!--/Post: 468-->
+<!--Post: 469--><!--Time: 1089794103-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST469"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Laoise<!--/name--></b></a><br>Username: <!--field:uname-->Laoise<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, July 14, 2004 - 1:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->exactly...  <BR> <BR>and ya know, i still dont get why exactly ron was chosen to &#34;break the news&#34; on air and to be &#34;live bait&#34;. was the letter sent to kake addressed to him?  who&#39;s idea was it to begin with?  i just dont get it...<!--/Text--></td></tr>
+<!--/Post: 469-->
+<!--Post: 470--><!--Time: 1089794219-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST470"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, July 14, 2004 - 1:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m quite sure that Ron Loewen is merely the victim of circumstances. In fact, he&#39;s probably already been swabbed for DNA and, if not, will surely cooperate to eliminate himself as a potential BTK suspect.<!--/Text--></td></tr>
+<!--/Post: 470-->
+<!--Post: 474--><!--Time: 1089806814-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST474"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, July 14, 2004 - 5:06 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In response to tom&#39;s post.  <BR>That&#34;BTK wants to tell his story but only to Ron <BR>Loewen&#34; was a hypothetical scenario.   <BR>Thanks for helping me understand I hadn&#39;t caught that. I still think its strange for him to say. <BR>He isn&#39;t in the same field anymore. I recorded the segment but have not had a chance to see it again. There was a part during the interview where Loewen pointed to the camera and said something like &#34;He&#39;s still out there somewhere&#34; or something to that effect. I found this also weird.<!--/Text--></td></tr>
+<!--/Post: 474-->
+<!--Post: 475--><!--Time: 1089808974-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST475"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, July 14, 2004 - 5:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I also noticed those papers Loewen was looking at on his desk being a printout of your website. Hmmm, wasn&#39;t BTK a zodiac buff. Why would he have them, is he also a student of serial killers as he suggested btk had to have been. I believe he stated his first thought after reading the letter was btk must have been a student of serial killers because he named 10 to 15 murderers through out history. This to me must mean Loewen knew who these names where as well.<!--/Text--></td></tr>
+<!--/Post: 475-->
+<!--Post: 483--><!--Time: 1089833535-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST483"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Screamer<!--/name--></b></a><br>Username: <!--field:uname-->Screamer<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, July 14, 2004 - 12:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I would really like to know if he has in fact been swabbed. I&#39;m sure that there is really no way of knowing, but could he have been SO close to the case that he kind of flew under the radar? <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 483-->
+<!--Post: 488--><!--Time: 1089892509-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST488"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, July 15, 2004 - 4:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I doubt he flew under the radar. I&#39;m sure he was swabbed. I think the police weren&#39;t only following him around just for his protection. I&#39;m sure at one time he might have been considered a suspect but was excluded. That&#39;s sure speculation of course. <!--/Text--></td></tr>
+<!--/Post: 488-->
+<!--Post: 490--><!--Time: 1089902664-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST490"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Screamer<!--/name--></b></a><br>Username: <!--field:uname-->Screamer<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, July 15, 2004 - 7:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You are probably right. He just seemed even more odd to me after watching Dateline again.<!--/Text--></td></tr>
+<!--/Post: 490-->
+<!--Post: 491--><!--Time: 1089906519-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST491"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, July 15, 2004 - 8:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I watched it again last night and I agree with you he seems very odd. The strangest part to me is the old footage of the annoucement on the air with the police chief. He asks the chief if they have any leads in the case or something and the chief sort of gives him as quick glance while looking at the camera when he states &#34;We have no suspects&#34;. <!--/Text--></td></tr>
+<!--/Post: 491-->
+<!--Post: 498--><!--Time: 1089933938-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST498"><font face="Verdana" size="1"><b><!--email--><a href="mailto:zodiacfiles@aol.com" target="_blank"><!--/email--><!--name-->Ed_neil<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, July 15, 2004 - 4:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->But why was Loewen looking at a printout of Zodiac suspect Rick Marshall from zodiackiller.com?  Wouldn&#39;t it have made more sense to look at something from catchbtk.com?<!--/Text--></td></tr>
+<!--/Post: 498-->
+<!--Post: 503--><!--Time: 1089997459-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST503"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, July 16, 2004 - 10:04 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hopefully somebody can answer a question I have. <BR>Two Btk Letters where sent to the Wichita Eagle-Beacon. Also we know KAKE recieved one. Evidently Ron Loewen worked at both places at one time or another or maybe both at the same time I&#39;m not sure. Does anybody know if he actually recieved these letters at the wichita eagle, kake or both.<!--/Text--></td></tr>
+<!--/Post: 503-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="76/96">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=76/96" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

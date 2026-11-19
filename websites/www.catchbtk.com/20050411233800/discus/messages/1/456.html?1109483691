@@ -1,0 +1,271 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 456/Fake BTKs-->
+<!--Level 1: 456/Fake BTKs-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Fake BTKs</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Fake BTKs</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Fake BTKs
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=456"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=456"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 6726--><!--Time: 1107984149-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6726"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 1:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t think any of these people posting as BTK are the real killer. Too risky a proposition. Much easier to make drops. The guy using the name &#34;BTK&#34; sounds like he or she needs to get out of the house more. Christ on the Cross is creepy, though.<!--/Text--></td></tr>
+<!--/Post: 6726-->
+<!--Post: 6730--><!--Time: 1107988670-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6730"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cyndi<!--/name--></b></a><br>Username: <!--field:uname-->Cyndi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 2:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree Sherlock.<!--/Text--></td></tr>
+<!--/Post: 6730-->
+<!--Post: 6738--><!--Time: 1107991406-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6738"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 3:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Agreed.   It would leave a traceable connection.  He could attempt to do it at a library, or an office building, or internet cafe, but even then there would be too many people around.   <BR> <BR>The only safe communication is drop-off communication.<!--/Text--></td></tr>
+<!--/Post: 6738-->
+<!--Post: 6739--><!--Time: 1107991542-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6739"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 3:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just looked at it again.  The guy is clever though. <BR> <BR>&#34;maybe when the rooster crows&#34; is in reference to the year of the Rooster, which has begun.<!--/Text--></td></tr>
+<!--/Post: 6739-->
+<!--Post: 6761--><!--Time: 1107999708-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6761"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 5:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->When the Rooster crows could perhaps mean...right before the end sun is up ...signifying a new day...meaning at the end of the year of the rooster?  Who knows...just a thought... <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6761-->
+<!--Post: 6780--><!--Time: 1108005662-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6780"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stealth<!--/name--></b></a><br>Username: <!--field:uname-->Stealth<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 7:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->there are ways to avoid a truely traceable connection...very simple ways to do it since Tom is not requiring an account...it would take huge balls to be doing it, but almost anyone could...I&#39;m not going to teach him how if he doesn&#39;t know... <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6780-->
+<!--Post: 6786--><!--Time: 1108008450-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6786"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 8:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The crystal climbs the vine with the mouse on its back, and Mama knows who swept the porch for the seventh time. <BR> <BR>Not bad, heh? If I come up with a name like Bone Toy Kidman and post my message under Messages from BTK---all of a sudden I&#39;m a serial killer suspect and I&#39;ve got people trying to decipher my message and reading hidden meanings into it when the truth is I made it up in about forty-five seconds.<!--/Text--></td></tr>
+<!--/Post: 6786-->
+<!--Post: 6794--><!--Time: 1108009622-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6794"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 8:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think Tom V´s pride makes him do EVERYTHING possible to avoid that som prankmoron is filling up the &#34;from BTK&#34; thred, belive me that thred is not just another thred to Tom IMO<!--/Text--></td></tr>
+<!--/Post: 6794-->
+<!--Post: 6826--><!--Time: 1108023432-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6826"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 12:17 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You&#39;re right, Skov. I&#39;m not ripping on Tom, or anyone else on this site---except those posters. My point is just my point. I don&#39;t believe any of those cats are the real thing. And there&#39;s no way to know. But they can&#39;t all be real. Maybe the real one will visit this thread to defend himself.<!--/Text--></td></tr>
+<!--/Post: 6826-->
+<!--Post: 6914--><!--Time: 1108073751-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6914"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 2:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sherlock, <BR> <BR>Even if there is some “secret symbol” to validate BTK, I’m beginning to worry that some of these drops may not be authentic either.  <!--/Text--></td></tr>
+<!--/Post: 6914-->
+<!--Post: 6919--><!--Time: 1108076576-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6919"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 3:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ooh, Iceteajan, can you say more about your hunch that some of the drops may be hoaxes? Does anything in particular fuel your thinking? <BR> <BR>I also started a thread under Theories: &#39;BTK is D-E-A-D&#39; <BR>The idea is that it&#39;s not BTK making the drops but rather someone who came into possession of his &#39;treasure trove&#39; <BR>There are some very interesting quotes there from posters with far greater knowledge of the case than me.<!--/Text--></td></tr>
+<!--/Post: 6919-->
+<!--Post: 6935--><!--Time: 1108083348-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6935"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 4:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sherlock, <BR> <BR>I really wonder if BTK is being DRAWN OUT &#40;by the authorities&#41; using bogus, intermittent, drops? <BR> <BR>These bogus drops may infuriate BTK, who in turn would need to keep “stepping into the limelight” bearing his own legitimate proof &#40;souvenirs&#41;, and taking proper due credit about his misdeeds. <BR> <BR>To me the equation is simple:  more drops =  more clues.  Even the tiniest microscopic bit of residue on the postcard may be specific to an area or occupation -- and thereby corner him. <BR> <BR>Remember the Patty Hearst kidnapping?   There were birds chirping in the background of the kidnappers’ tape recording.  The tape was studied by someone in the know about birds.  They found that these birds were indigenous to only one specific area in California.   <BR> <BR>This didn’t solve the kidnapping because they were constantly on the move, but you get the idea about how something so inconspicuous can turn into something very useful.   <BR> <BR>I think BTK is incredibly foolish to continue making these drops.  With forenic science, traffic cameras, night vision binoculars, etc. -- he is bound to be cornered.   <BR> <BR>They MAY already have a good idea about who it is.  Why?  Because the swabbings that are going on might only be for “eliminations” – not for prosecution.   <BR> <BR>If they’ve narrowed down say 20 suspects, and 15 agreed to be swabbed, then they need focus on the other 5 more seriously. <BR> <BR>THEY MUST HAVE HAD SOME DISTINGUISHING DATA THAT MADE THEM SWAB SOME PEOPLE. <BR><!--/Text--></td></tr>
+<!--/Post: 6935-->
+<!--Post: 6962--><!--Time: 1108095733-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6962"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 8:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Brilliant! I am speaking of what you say all the way through &#34;he is bound to be cornered.&#34; I think you may very well be right. <BR> <BR>After that my thinking is different. I don&#39;t think the police have DNA that will do them any good. It could just be a bluff and they don&#39;t have any DNA period. If they do, though, then that is where my theory comes in that someone other than the real killer is behind all this and he has nothing at all to fear from a swabbing.<!--/Text--></td></tr>
+<!--/Post: 6962-->
+<!--Post: 6971--><!--Time: 1108099000-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6971"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Toto<!--/name--></b></a><br>Username: <!--field:uname-->Toto<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 9:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ditto on the Brilliant! If it&#39;s not LE making &#39;phony&#39; drops, then they should be!  Hope they&#39;re reading the board.  That is exactly the type of thing that would bring BTK out, even if just to refute the evidence and once again prove LE&#39;s ineptness.   <!--/Text--></td></tr>
+<!--/Post: 6971-->
+<!--Post: 6984--><!--Time: 1108107907-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6984"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 11:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->What does LE stand for? Wichita PD?<!--/Text--></td></tr>
+<!--/Post: 6984-->
+<!--Post: 7003--><!--Time: 1108121486-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7003"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Haytrader<!--/name--></b></a><br>Username: <!--field:uname-->Haytrader<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 3:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sherlock. <BR> <BR>LE means law enforcment.<!--/Text--></td></tr>
+<!--/Post: 7003-->
+<!--Post: 7033--><!--Time: 1108141775-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7033"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 9:09 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you. I was almost embarrassed to ask. <BR> <BR>Back to the topic. I think BTK if he comes to this site would be more likely to post in rooms like this, to propose theories that in reality are very close to the truth, and then watch how people react, see if they pick up on anything. Sort of an undercover poster. If he wants just to taunt he can make drops and use the mail for that. And it&#39;s safer. That&#39;s why I think it is unlikely he would post in the messages from BTK.  <BR> <BR>I still think he&#39;s dead.<!--/Text--></td></tr>
+<!--/Post: 7033-->
+<!--Post: 9361--><!--Time: 1109483691-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9361"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 9:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Won&#39;t it be interesting if they find out he was posting to this site and what handle he was using?!!!<!--/Text--></td></tr>
+<!--/Post: 9361-->
+<!--Post: 9365--><!--Time: 1109484346-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9365"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 10:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->search on the author &#34;raidar&#34; <BR><a href="http://www.catchbtk.com/discus/messages/9/599.html?1109480267" target=_top>http://www.catchbtk.com/discus/messages/9/599.html ?1109480267</a><!--/Text--></td></tr>
+<!--/Post: 9365-->
+<!--Post: 9372--><!--Time: 1109485914-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9372"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 10:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->He&#39;s Aliiiiiiiiiiiiiiiiiiiiiiiiiiiiive!<!--/Text--></td></tr>
+<!--/Post: 9372-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/456">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/456" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

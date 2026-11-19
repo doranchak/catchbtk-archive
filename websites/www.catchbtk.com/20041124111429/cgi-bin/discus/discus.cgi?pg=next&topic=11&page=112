@@ -1,0 +1,223 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 131/MO-ID RUSE-->
+<!--Level 1: 131/MO-ID RUSE-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: MO-ID RUSE</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">MO-ID RUSE</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+MO-ID RUSE
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=131"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=131"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 832--><!--Time: 1093024912-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST832"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, August 20, 2004 - 11:01 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->According to rumor the letter from BTK last May had this:  <BR> <BR>1. A SERIAL KILLER ________  <BR>2. DAWN  <BR>3. FETISH  <BR>4. FANTASY WORLD  <BR>5. THE SEARCH BEGINS  <BR>6. BTK&#39;S HAUNTS  <BR>7. PJ&#39;S  <BR>8. MO-ID RUSE  <BR>9. KITS  <BR>10. TREASURED MEMORIES  <BR>11. FINAL CURTAIN CALL  <BR>12. DUSK  <BR>13. WILL THERE MORE?  <BR> <BR>This is a parody off the table of contents from the CrimeLibrary. &#40;<a href="http://www.crimelibrary.com/serial_killers/unsolve" target=_top>http://www.crimelibrary.com/serial_killers/unsolve</a> d/btk/index_1.html?sect=4&#41;  <BR>They had a story on the BTK with the contents reading as this:  <BR> <BR>1.All American City  <BR>2.A Chilling Discovery  <BR>3.Bind Them, Torture Them, Kill Them  <BR>4.Different Worlds Collide  <BR>5.Vanishing Act  <BR>6.Ghost Busters  <BR>7.The Next Step  <BR>8.Cold Case Squad  <BR>9.Profile  <BR>10.Aftermath  <BR>11.BTK Returns  <BR>12.Bibliography  <BR>13.The Author  <BR> <BR> <BR>As we can see the Police confirmed BTK&#39;s Chapter 7&#39;s PJ, but what I find intersting is the 8th chapter. Of all the chapter&#39;s these two are the most interesting because of their encrypted letters.  <BR> <BR>The 8th is SUPPOSEDLY written as MO-ID RUSE  <BR> <BR>What ID could mean is the revealing of his ID use. MO may mean the state &#34;Missouri&#34;. MO is also another word for &#34;Mail Order&#34; &#40;check out dictionary.com&#41;, &#34;Money Order&#34;, or &#34;modusoperandi&#34;  <BR> <BR>Modusoperandi means &#34;A method of operating or functioning.&#34; or &#34;A person&#39;s manner of working.&#34;  <BR> <BR>Indeed all these meanings for MO is VERY VERY VERY tantilizing. If he had to choose one abbreviation that would confuse people. MO is it.  <BR> <BR>Now then, the word &#34;ruse&#34; has many intentions. He could mean that this Modusoperandi ID was a ruse to get into houses, or that his Missouri ID was a ruse.  <BR> <BR>OR he could be saying that this revelation of his &#34;fake ID&#34; scheme could be a ruse to the police and that he gets into buildings a DIFFERENT way.  <BR> <BR>All in all a very interesting and weird devlopment. <BR> <BR>&#40;i already posted this in another topic, but thought I should post it again as its own topic&#41;<!--/Text--></td></tr>
+<!--/Post: 832-->
+<!--Post: 833--><!--Time: 1093025349-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST833"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, August 20, 2004 - 11:09 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Other possible ID meanings: <BR> <BR>Idaho <BR>Indonesia <BR>Identification <BR>Intelligence Department <BR>Irvine Dataflow <BR>Internet-Draft <BR>Idem &#40;Something that has been mentioned previously; the same&#41; <BR>inner diameter <BR>inside diameter <BR>internal diameter <BR>intradermal <BR>Contraction of I had. <BR>Contraction of I would. <BR> <BR>Id: In Freudian theory, the division of the psyche that is totally unconscious and serves as the source of instinctual impulses and demands for immediate satisfaction of primitive needs. <BR> <BR>Id: a skin rash that is an allergic reaction to an agent causing an infection <BR> <BR>ID: A symbol used for the dose of an infectious organism required to produce infection in 50 percent of the experimental subject. <BR> <BR>Id: A small fresh-water cyprinoid fish &#40;Leuciscus idus or Idus idus&#41; of Europe. A domesticated variety, colored like the goldfish, is called orfe in Germany.<!--/Text--></td></tr>
+<!--/Post: 833-->
+<!--Post: 834--><!--Time: 1093025589-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST834"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, August 20, 2004 - 11:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Other MO meanings: <BR> <BR>Macao <BR>molybdenum <BR>medical officer <BR>month <BR> <BR>Other meanings of Ruse <BR> <BR>Ruse: A city of northeast Bulgaria on the Danube River south of Bucharest, Romania. Founded as a Roman fortress, it is today a major port and industrial center. Population: 193,000. <BR> <BR>Ruse: A crafty stratagem; a subterfuge. &#40;most likely&#41; <BR> <BR>AS WRITTEN AT DICTIOANRY.COM: <BR> <BR>ruse <BR> <BR>n : a deceptive maneuver &#40;especially to avoid capture&#41; [syn: artifice]<!--/Text--></td></tr>
+<!--/Post: 834-->
+<!--Post: 1017--><!--Time: 1094825700-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1017"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Will_graham<!--/name--></b></a><br>Username: <!--field:uname-->Will_graham<!--/field--><br><br>Registered: <!--field:registered-->9-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, September 10, 2004 - 7:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have wondered about the I.D. ruse. Does that mean the way he got I.D.&#39;s? If so I have a theory. I think he may have been a janitor. He would have access to the books in the library, could make copies, and be able to steal I.D&#39;s all without being detected. That would also help him in learing to clean his tracks. I am just an amateur slueth so maybe someone can set me straight on this one.<!--/Text--></td></tr>
+<!--/Post: 1017-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/131">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/131" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

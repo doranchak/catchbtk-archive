@@ -1,0 +1,332 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 626/What&#39;s buried in Rader&#39;s back yard?-->
+<!--Level 1: 626/What&#39;s buried in Rader&#39;s back yard?-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: What&#39;s buried in Rader&#39;s back yard?</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">What&#39;s buried in Rader&#39;s back yard?...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+What&#39;s buried in Rader&#39;s back yard?
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=626"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=626"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 9820--><!--Time: 1109654227-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9820"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 9:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A friend told me yesterday &#40;don&#39;t ask who&#41; that Rader has belongs, jewerly etc buried in his back yard, that&#39;s how LE knew there where more vics. I never really thought about it, thought everyone know that&#39;s where he hid it. So how come I am the only on to hear this?<!--/Text--></td></tr>
+<!--/Post: 9820-->
+<!--Post: 9832--><!--Time: 1109656869-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9832"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dz<!--/name--></b></a><br>Username: <!--field:uname-->Dz<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 10:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->i found on crime &amp; justice resource post something called RIVERVIEW ROUND-UP i dont know exactly what it is but it says there that he want to &#34;garden a lot&#34; i have not heard about what you say but i think that is probable right.<!--/Text--></td></tr>
+<!--/Post: 9832-->
+<!--Post: 9885--><!--Time: 1109688798-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9885"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rev<!--/name--></b></a><br>Username: <!--field:uname-->Rev<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 6:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I saw a video &#40;don&#39;t remember where since there&#39;s so much to watch&#41; where LE was in his back yard pulling things out of the ground.  The only thing I could make out was a necklace. <BR> <BR>I&#39;ve heard from someone who knew his family that he had a shed in his backyard, and their theory is that most of it was in there. <BR> <BR>Dz, the Riverview Round-Up is like a survey from his 8th grade reunion asking the students what they had been doing since graduating from 8th grade.<!--/Text--></td></tr>
+<!--/Post: 9885-->
+<!--Post: 9895--><!--Time: 1109695872-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9895"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 8:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rev it was the shot on CNN! Rader has a small shed attached to the back of his house, they were pulling those items out of that shed. Those items included pantyhose, underwear, and a cylinder tube containing lots of jewelry. I do know also that there is a park behind his house with a ditch that runs through it. &#40;I used to play in it&#41; Someone that lives behind him took that shot for CNN!<!--/Text--></td></tr>
+<!--/Post: 9895-->
+<!--Post: 9899--><!--Time: 1109697074-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9899"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ozdude<!--/name--></b></a><br>Username: <!--field:uname-->Ozdude<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 9:11 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky, I saw it locally on KSN, too. Hope the media and rubber-neckers show a little respect for your family and their property.  <BR> <BR>I&#39;d also like to point out that, to me, it was inappropriate for that investigator to be pulling that stuff out in plain view where someone with a camera could catch it. I&#39;d also like to point out his clothing was labeled FBI. Speaking of, there has been a lot of WPD bashing, but what about the other assisting agencies. They apparently had nothing of value to add in 31 years, did they? Why not bash them, too?<!--/Text--></td></tr>
+<!--/Post: 9899-->
+<!--Post: 9906--><!--Time: 1109699478-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9906"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 9:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oz - cute name by name, you should here people make fun of me when I tell them where I&#39;m from! Bet they don&#39;t anymore! HA! No, they are not respecting they opened up the area this morning! The on lookers are abundant! What do they think they&#39;ll see? Anyway, that shot came from someone/media across the park and behind Rader&#39;s house. We saw a media antenna up over there. It was not in plan view, they really had a powerful lense to get that shot. I&#39;m wondering why, investigators didn&#39;t have a blanket over that shed? They parked their crime scene trucks in front of the house at an angle where media couldn&#39;t see what they were taking to it!<!--/Text--></td></tr>
+<!--/Post: 9906-->
+<!--Post: 9930--><!--Time: 1109706813-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9930"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rev<!--/name--></b></a><br>Username: <!--field:uname-->Rev<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 11:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here&#39;s a picture of the <a href="http://www.kstatecollegian.com/articles/1109570400/view/lead.front.jpg">storage area</a>.<!--/Text--></td></tr>
+<!--/Post: 9930-->
+<!--Post: 9941--><!--Time: 1109710889-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9941"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 1:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rev: that is the one! Good job!<!--/Text--></td></tr>
+<!--/Post: 9941-->
+<!--Post: 9944--><!--Time: 1109711906-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9944"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 1:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Cool glad to sort that out, thanks for the great info everyone, E.<!--/Text--></td></tr>
+<!--/Post: 9944-->
+<!--Post: 9997--><!--Time: 1109720520-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9997"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 3:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rev...thanks for the picture. <BR> <BR>Noticed the headphones hanging on the door and it gave me such a creepy feeling.<!--/Text--></td></tr>
+<!--/Post: 9997-->
+<!--Post: 10074--><!--Time: 1109741203-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10074"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Foxfire<!--/name--></b></a><br>Username: <!--field:uname-->Foxfire<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 9:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Are those headphones for a tape recorder or are those the ear protectors one wears at a firing range?  Anyway, either/or it&#39;s  sort of creepy. <BR> <BR>And silly me is worrying about who&#39;s feeding and watering the poor dog!  lol! <BR> <BR>Which reminds me, just about the one thing I got right in My profile was that he was with a dog.  Little did I know he was around LOTS of dogs at different times!  lol! <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10074-->
+<!--Post: 10079--><!--Time: 1109741451-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10079"><font face="Verdana" size="1"><b><!--email--><a href="mailto:rwmm@swbell.net" target="_blank"><!--/email--><!--name-->Lilymarie<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Lilymarie<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 9:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Notice the BRICK on the table?????<!--/Text--></td></tr>
+<!--/Post: 10079-->
+<!--Post: 10201--><!--Time: 1109812502-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10201"><font face="Verdana" size="1"><b><!--email--><a href="mailto:blingbling1169@yahoo.com" target="_blank"><!--/email--><!--name-->Cawichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Cawichitan<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 5:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good observation, Lilymarie!I figured someone would have one laying around their yard or something and this weirdo has one on a table in his back yard!<!--/Text--></td></tr>
+<!--/Post: 10201-->
+<!--Post: 10228--><!--Time: 1109828756-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10228"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 9:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Looking at photos of Denny&#39;s pad all I can say is... <BR> <BR>WHAT A DUMP! It’s a white trash cabin! <BR> <BR><a href="http://www.kstatecollegian.com/articles/1109570400/view/lead.front.jpg" target=_top>http://www.kstatecollegian.com/articles/1109570400 /view/lead.front.jpg</a> <BR> <BR>I count at least 16 code violations in this area alone. <BR> <BR>Did you see the BTK slideshow on Yahoo? Check out slide 4 of 38. <BR> <BR>Look closely… do you see what I see? <BR> <BR>HIS FREAKIN CHRISTMAS LIGHTS ARE STILL UP!!!  <BR> <BR>Does his dog have rabies too? <BR> <BR>The code enforcing, grass measuring Barney of Park City has Christmas Lights up on February 25th!... and his back yard looks like a scenic backdrop for “The Further Adventures of Ma &amp; Pa Kettle”. <BR> <BR>For Pete’s sake! Jeffrey Dahmer showed more pride of ownership. <BR> <BR>I know Denny… I know… you were going to get those lights down first thing Saturday morning. <BR> <BR>MERRY XMAS buttneck! <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10228-->
+<!--Post: 10233--><!--Time: 1109831701-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10233"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bestbud<!--/name--></b></a><br>Username: <!--field:uname-->Bestbud<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 10:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It&#39;s been unseasonably cold in Kansas with snow, sleet, rain, a severe ice storm and temps in the 20&#39;s and below still. Keep in mind that the grass goes dormant in the winter in Kansas; thus, the &#34;grunge&#34; look. Actually, the house looks quite &#34;tidy&#34; from the pics I&#39;ve seen...   <!--/Text--></td></tr>
+<!--/Post: 10233-->
+<!--Post: 10234--><!--Time: 1109832249-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10234"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Foxfire<!--/name--></b></a><br>Username: <!--field:uname-->Foxfire<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 10:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t think his house looks oh so bad either.  However, those who live in glass houses shouldn&#39;t throw . . . ugh . . . bricks. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10234-->
+<!--Post: 10237--><!--Time: 1109833638-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10237"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 11:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i>&#34;HIS FREAKIN CHRISTMAS LIGHTS ARE STILL UP!!!</i> <BR> <BR>Why I also made note of this odd detail, I&#39;m not sure. <BR> <BR>I did feel before he was found that we&#39;d find he was an overly meticulous sort, but that he&#39;d probably have one thing he just neglected - his teeth, his body odor, something like that. Maybe his thing was something stupid like the Christmas lights.  <BR> <BR><i>&#42;Files &#34;buttneck&#34; away in mental dictionary, sure to find a reason to use it in the future...&#42;</i><!--/Text--></td></tr>
+<!--/Post: 10237-->
+<!--Post: 10243--><!--Time: 1109837580-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10243"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stormy74<!--/name--></b></a><br>Username: <!--field:uname-->Stormy74<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 12:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oooh Foxfire...&#42;shakes head at that post&#42; haha. Yes, I also noticed the Christmas lights, but there is something else about the pictures I have seen that bothers me. For someone who is so supposedly meticulous the place looks cluttered to me. Again, though, Bestbud made a valid point about the weather. I guess DR could have been too busy writing, posting, etc. as well...Ok, that was almost as bad as the &#39;brick&#39; thing! lol<!--/Text--></td></tr>
+<!--/Post: 10243-->
+<!--Post: 10245--><!--Time: 1109838292-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10245"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 12:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Prediction: As much of the media will clamour in months to come to do stories on the BTK crimes, investigation and trial, HGTV will show no interest.<!--/Text--></td></tr>
+<!--/Post: 10245-->
+<!--Post: 10255--><!--Time: 1109855309-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10255"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 5:08 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe we can sign him up for Monster House, and he can get a new home makeover!!! <BR>Martha is gettin&#39; out soon, maybe she can help her fellow jailbird.<!--/Text--></td></tr>
+<!--/Post: 10255-->
+<!--Post: 10382--><!--Time: 1109918276-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10382"><font face="Verdana" size="1"><b><!--email--><a href="mailto:blingbling1169@yahoo.com" target="_blank"><!--/email--><!--name-->Cawichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Cawichitan<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 10:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Okay guys! Back to what&#39;s in the back yard! What do you think is back there besides the already mentioned s&#42;&#42;&#42; for grass, a table w/ a brick, a serial killer book, some panty hose, a necklace or 2 and a crappy looking &#34;shed&#34;. Gosh, now that you mention it, why didn&#39;t they cite his ass or talk to the city about the fact that his house aint the epitomy of clean and the guy keeps his lights up? I mean, if a guy was rude and nosey, shot a dog in front of me and my kids, was taking pictures of the back of my house when he didn&#39;t need to, was measuring the grass and was generally mean, why not ask for someone else to pick up the stray animals? I mean, how hard is that? C&#39;mon Kansas, we can do better than that! He was a harraser and a weirdo and here in Cali, we would have got rid of him a long time ago. People who can perform menial jobs aren&#39;t hard to find. Has anyone heard of them digging in the back yard or are they only going to focus on the shed? It seems to me if there was really something in the back yard worth retreiving we would have at least heard they were digging, right? You can&#39;t hide piece of construction equiptment from Larry Hatteburg, can you? One more thing, are they going to persue a charge of attempted murder for Kevin Bright? It&#39;s only right and fair for him as well. Maybe they just haven&#39;t mentioned it. I know they haven&#39;t mentioned a lot of the charges he has to be facing like breaking and entering, robbery, theft, grand theft auto, criminal threats, eluding and evading and many others, huh?<!--/Text--></td></tr>
+<!--/Post: 10382-->
+<!--Post: 10389--><!--Time: 1109918948-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10389"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 10:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I hope they find something more up to date because the nut was Working for the US Census Bureau in 1989 and running around measuring peoples flipping grass, Remeber when he said he had ways to release his whatever? what was that exactly, and beinga control freak, why the Christmas lights, everything else in his life was controled, or Dennis lived in the house and Denny the nut hung outside in the shed and forgot to tell the other personality to take down the Lights,\E.<!--/Text--></td></tr>
+<!--/Post: 10389-->
+<!--Post: 10392--><!--Time: 1109919451-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10392"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 10:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;......and forgot to tell the other personality to take the lights down........&#34; <BR> <BR>Too funny....but yet........<!--/Text--></td></tr>
+<!--/Post: 10392-->
+<!--Post: 10409--><!--Time: 1109922321-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10409"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 11:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->yeah I know Kind of makes you wonder don&#39;t it? <BR>some people say he was a really great guy and other&#39;s wanted to torch him hmmmmmmmmmm<!--/Text--></td></tr>
+<!--/Post: 10409-->
+<!--Post: 10508--><!--Time: 1109977201-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10508"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 3:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ember, <BR> <BR>I owe you an “on topic” post. <BR> <BR>What&#39;s buried in Rader&#39;s back yard?... <BR> <BR>Survey Says!… human remains. <BR> <BR>Hating the thought of it – but – there are so many unsolved HOMO-cides and disappearances. <BR> <BR>I have these reasons to believe it is so: <BR> <BR> <BR>Control <BR> <BR>No consecration <BR> <BR>No crime scene <BR> <BR>Copycat <BR> <BR>Relics/ Souvenirs <BR> <BR>Infinite torture for the victim’s survivors <BR> <BR>He is a homocidal maniac <BR> <BR> <BR>I know this is not easy to talk about. In fact this is all I want to say about it myself. <BR> <BR>Discuss, if you have the stomach. <BR> <BR>LDog  <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10508-->
+<!--Post: 10514--><!--Time: 1109979467-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10514"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ozdude<!--/name--></b></a><br>Username: <!--field:uname-->Ozdude<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 3:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->KAKE &#40;here we go again with KAKE&#41; reported at 5pm that &#34;sources in law enforcement&#34; said jewelry was found that doesn&#39;t belong to any of the known 10 victims. If this was posted already somewhere else, too bad. I have Fred Flintstone dial up technology and it takes too long to do a lot of searching.<!--/Text--></td></tr>
+<!--/Post: 10514-->
+<!--Post: 10518--><!--Time: 1109981137-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10518"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lctrip<!--/name--></b></a><br>Username: <!--field:uname-->Lctrip<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 4:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->LDog you&#39;ve always got something good to contribute, but this time I&#39;m not so sure I agree with you.  Yes there&#39;s lots of unsolved murders, but while I think Denny gets off on reliving his &#39;moments of glory&#39; &#40;glory for him, horrific for us&#41;, I just don&#39;t think he would be the type to keep human remains that close.  First off, it would be tough to bury properly &#40;ya gotta go deep&#41; because if you don&#39;t the dogs will find them.  Secondly, they decompose so eventually there wouldn&#39;t be too much to look at which leads to my final thought which is it strikes me as being too &#39;dirty&#39; for his neat and tidy tastes. <BR> <BR>Sure hope I&#39;m right on this one because that would take this horror to an even lower level than it&#39;s already at. <BR> <BR>Besides, aren&#39;t there recovered bodies for most &#40;all?&#41; of the unsolved murders on the possible BTK victims?  Haven&#39;t read every one but I can&#39;t recall one where there wasn&#39;t. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10518-->
+<!--Post: 10519--><!--Time: 1109981522-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10519"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 4:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->we have been working on the Rader timeline, vicims link, have been noticing some really strange things, some of the vics. are probably his, that have that MO and some about 7 to date are not but they to have the same Mo, I would not be suprised at this point to find bodies in his back yard, or planted in the flower bed at a relatives house, He did list Gardening a a hobby, I know not funny<!--/Text--></td></tr>
+<!--/Post: 10519-->
+<!--Post: 10538--><!--Time: 1109989463-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10538"><font face="Verdana" size="1"><b><!--email--><a href="mailto:rwmm@swbell.net" target="_blank"><!--/email--><!--name-->Lilymarie<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Lilymarie<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 6:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ldog &amp; Lctrip - What would make that the ultimate irony is that bodies buried in the backyard would have to be soooooooo against city code!!! I&#39;d actually have to give him some credit for being a rebel.<!--/Text--></td></tr>
+<!--/Post: 10538-->
+<!--Post: 10551--><!--Time: 1109999206-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10551"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 04, 2005 - 9:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->better write Denny a ticket and Have Dennis pay it<!--/Text--></td></tr>
+<!--/Post: 10551-->
+<!--Post: 11752--><!--Time: 1111112836-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11752"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 17, 2005 - 6:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Does anybody know if investigaters of recovered Joe Otero&#39;s watch and the Nancy Fox Necklace?<!--/Text--></td></tr>
+<!--/Post: 11752-->
+<!--Post: 11754--><!--Time: 1111116884-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11754"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 17, 2005 - 7:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Meg - I don&#39;t think anything has been disclosed by LE with regards to what they found in DTDC home or shed. Some of us did see a CNN shot of them pulling items out of the shed and those items included: <BR>pantyhose <BR>a white cylinder tube full of jewlery <BR>women&#39;s underwear <BR>a book about serial killers <BR>So, I guess well know soon if Mr. Otero&#39;s watch and Ms. Foxs&#39; necklace is among those items.  <BR> <BR>I can tell you as well, that I knew if they found anything related to Marine Hedge or Mrs. Davis in that shed we would know the next day at the press conference that they were going to charge DTDC for their murders as well, and in fact they did.<!--/Text--></td></tr>
+<!--/Post: 11754-->
+<!--Post: 11756--><!--Time: 1111120008-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11756"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 17, 2005 - 8:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->KSN TV reported on February 28th that a computer, a printer and a plastic container were removed from Dennis Rader&#39;s house. Removed from his shed were a pair of black pantyhose in a plastic bag, a yellow hard hat, jewelry stored in a cylinder and book titled &#39;100 Most Famous Criminals.&#39; <BR> <BR><a href="http://www.ksn.com/news/stories/7045823.html" target=_top>http://www.ksn.com/news/stories/7045823.html</a> <BR> <BR>It&#39;s interesting that investigators were interested in that yellow hard hat. It begs the question did Rader pose as a construction worker in a murder? <BR>I also remember reading somewhere that none of the jewelry found in the cylinder recovered from Rader&#39;s shed matched any of the 10 murders that he is charged with. <BR><!--/Text--></td></tr>
+<!--/Post: 11756-->
+<!--Post: 11778--><!--Time: 1111164169-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11778"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sidewalker<!--/name--></b></a><br>Username: <!--field:uname-->Sidewalker<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 18, 2005 - 8:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->After looking again at the picture of the &#42;shed&#42; I do not see any christmas lights. It looks like wiring, maybe telephone? or electrical? <BR>I dont think I either see Christmas lights or am not looking in the right place.<!--/Text--></td></tr>
+<!--/Post: 11778-->
+<!--Post: 11787--><!--Time: 1111175136-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11787"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 18, 2005 - 11:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I wonder if he was a cross dresser?  You know, like Buffalo Bill in Silence of the Lambs? <BR> <BR>&#34;It rubs the lotion on its skin. It does this whenever it is told.  It rubs the lotion on its skin or else it gets the hose again.&#34; <BR> <BR>Eeewwww!!! <BR><!--/Text--></td></tr>
+<!--/Post: 11787-->
+<!--Post: 11806--><!--Time: 1111200463-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11806"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 18, 2005 - 6:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sidewalker, look at the front of the house. <BR><a href="http://www.sfgate.com/cgi-bin/object/article?f=/c/a/2005/03/06/MNGE2BL7CJ1.DTL&amp;o=O" target=_top>http://www.sfgate.com/cgi-bin/object/article?f=/c/ a/2005/03/06/MNGE2BL7CJ1.DTL&amp;o=O</a><!--/Text--></td></tr>
+<!--/Post: 11806-->
+<!--Post: 11831--><!--Time: 1111244146-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11831"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Angrywolf<!--/name--></b></a><br>Username: <!--field:uname-->Angrywolf<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 19, 2005 - 6:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->uh..is that really the front of the house ? Sheesh..you would think he would have had some improvements made..... <BR> <BR>He&#39;s too ugly to pose as a woman..most likey he did pose as electrical or gas company employees, delivery men..maybe even a letter carrier/postman..stuff like that..people you would expect to see..it&#39;s called role camoflage..<!--/Text--></td></tr>
+<!--/Post: 11831-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/626">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/626" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

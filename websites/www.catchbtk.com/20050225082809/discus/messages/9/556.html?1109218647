@@ -1,0 +1,311 @@
+<html>
+<!--Topic: 9/BTK Suspects-->
+<!--Me: 556/POI AIR FORCE-->
+<!--Level 1: 556/POI AIR FORCE-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 9-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: POI AIR FORCE</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">POI AIR FORCE</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/9/9.html"><font color="#f7f7f7">BTK Suspects</font></a> &#187;
+POI AIR FORCE
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=9&page=556"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=9&page=556"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 8388--><!--Time: 1109103820-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8388"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 12:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I found a POI who was in the air force. Am I allowed to post the link with his name?<!--/Text--></td></tr>
+<!--/Post: 8388-->
+<!--Post: 8392--><!--Time: 1109106605-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8392"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jed4258<!--/name--></b></a><br>Username: <!--field:uname-->Jed4258<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 1:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Nugzter - I&#39;d be interested, being a retiree from the AF, it would be somewhat of an insult if BTK had been AF.  I do have a limited amount of resources that I could check the name against though.  I&#39;ll email you later this evening, unless you post it in the meanwhile.<!--/Text--></td></tr>
+<!--/Post: 8392-->
+<!--Post: 8399--><!--Time: 1109111624-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8399"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 2:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->look what I found. <BR> <BR>retired postal worker. 31 years. Where is ROSE HILL? <BR> <BR>he said something like smelling the flowers makes his day????? in one of his posts. <BR> <BR>link <BR> <BR><a href="http://skyways.lib.ks.us/museums/kng/goetzhf.html" target=_top>http://skyways.lib.ks.us/museums/kng/goetzhf.html</a> <BR><!--/Text--></td></tr>
+<!--/Post: 8399-->
+<!--Post: 8401--><!--Time: 1109113283-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8401"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hkenley@san.rr.com" target="_blank"><!--/email--><!--name-->Chiefron<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Chiefron<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 3:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rose Hill is about 5 miles east of Derby or about 10 miles south east of downtown Wichita. <BR> <BR>I do not know where you are going with that link though. All I see is a guy who served his country twice over, very honorably. I just don&#39;t see the connection. If we start looking for POI&#39;s based on posts on messages boards, whose source we cannot verify, we will have thousands of POI threads that boarder on being slander, especially in the case of an honorably retired Master Sgt. whose only similarity is tenuous at best. <BR> <BR>Ron<!--/Text--></td></tr>
+<!--/Post: 8401-->
+<!--Post: 8405--><!--Time: 1109113738-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8405"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 3:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I derved my country too. But this is an investigation. Every one who can not be cleared is open to being looked into.His Birth year fits, and if you read other theorys here and other places, you will see it could fit. 31 years post office. Has access to names and addresses. Possably even the neighborhoods at one time when he was starting out. Delivery man. <BR>Probably in a positon of control at his job. Could have known Otero. <BR>See my theory about last names and victims in theorys. <!--/Text--></td></tr>
+<!--/Post: 8405-->
+<!--Post: 8424--><!--Time: 1109122110-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8424"><font face="Verdana" size="1"><b><!--email--><a href="mailto:williammichael@direcway.com" target="_blank"><!--/email--><!--name-->Oklahoma_mike<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Oklahoma_mike<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 5:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m with Chiefron on this at least at the moment. I don&#39;t see anything linking this man to the crimes of btk.  In fact, I see the contrary. All the evidence about this USAF Sgt., retired, indicates he fit in well with whatever environment he operated.  Seems to have done way above average for a military man and as a civilian.  He also is a joiner, notice the several organizations he was a member of?  I do not think btk is this social of an animal, nor as confident in his career.  If he had done as well as this man, he would not want to kill. <BR><!--/Text--></td></tr>
+<!--/Post: 8424-->
+<!--Post: 8449--><!--Time: 1109135148-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8449"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 9:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Also note that he&#39;s nuclear qualified.  People with even one of BTK&#39;s overt psychological traits don&#39;t get anywhere near nukes.  That does it for me - he&#39;s innocent.  Frankly, I&#39;d be proud if one of my kids grew up to be like this guy.<!--/Text--></td></tr>
+<!--/Post: 8449-->
+<!--Post: 8476--><!--Time: 1109171702-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8476"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 7:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Don&#39;t feel bad for posting the link. If we are going to stop posting possible POIs because someone thinks the person is all 100% honorable, then we might as well don&#39;t have a thread called POIs. <BR> <BR>Being a POI doesn&#39;t mean slander, because nobody is saying this is BTK. All they are saying is this is a &#34;Person Of Interest&#34;, let&#39;s look at him. <BR> <BR>That&#39;s what a discussion board is all about. <BR><IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0> <BR> <BR>p.s. <BR>I don&#39;t know how, I had come up with that link about three days ago... haha!<!--/Text--></td></tr>
+<!--/Post: 8476-->
+<!--Post: 8479--><!--Time: 1109173313-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8479"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 7:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->After this let&#39;s check out Jimmy Carter, Neil Diamond and the Pope. They are all in the age window and cannot be otherwise excluded. <BR> <BR>Leave this gentleman alone. He honorably served his nation, in two careers, and unless you have pictures of him leaving the Otero&#39;s house during a snowy day then I think you on the wrong track. <BR> <BR>I don&#39;t mean to sound a fecetious as I did in the start of this post, so I will ask. WHY, very specifically an explicitly, do you like this guy for BTK?<!--/Text--></td></tr>
+<!--/Post: 8479-->
+<!--Post: 8499--><!--Time: 1109177702-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8499"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cyndi<!--/name--></b></a><br>Username: <!--field:uname-->Cyndi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 8:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dpinva, he didn&#39;t say he &#34;liked&#34; this POI.  He already stated his reasons for listing him in his above post.   Access to addresses, age range, etc. Just because someone has served their country honorably DOES NOT mean they are incapable of acting dishonorably.  I was the stepdaughter of a military person &#34;serving his country&#34; and trust me, he did some VERY dishonorable things while in service.   <!--/Text--></td></tr>
+<!--/Post: 8499-->
+<!--Post: 8500--><!--Time: 1109178228-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8500"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 9:03 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If we were not to discuss a person because we don&#39;t have pictures of them leaving the Otero house, then we might as well don&#39;t discuss anybody at all. Because not even the police has such pictures.  <BR> <BR>NOBODY is saying the guy is BTK. He meets some criteria and that&#39;s why he mentioned it.... to discuss it.......  <BR> <BR>Nothing else. <BR> <BR>Hello! <BR><!--/Text--></td></tr>
+<!--/Post: 8500-->
+<!--Post: 8512--><!--Time: 1109180888-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8512"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hkenley@san.rr.com" target="_blank"><!--/email--><!--name-->Chiefron<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Chiefron<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 9:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe you misunderstand me. Nutzger posted that one of his reasons for suspecting this POI was that:  <BR> <BR>&#34;he said something like smelling the flowers makes his day????? in one of his posts.&#34; <BR> <BR>Strike that one reason and you have a person who was a postal worker and in the right age group. Why strike that statement? Because there is no credible evidence that the person who posted that is BTK. So working from what is known and not from what is speculated, you have a guy who is in the range and who was a postal worker. <BR> <BR>I don&#39;t want you to not have him as a POI, but unless you have something more substantial, I would suggest sharing your ideas privately with people rather than plastering his name on internet web sites under suspect threads. <BR> <BR>I have researched dozens of POIs, a few of whom are still in my mind POI, yet I have not connected any of them enough with fact to warrant a post for general consumption.  <BR> <BR>You do realize that using your criteria for establishing someone as a POI, you might as well just ask WPD to go swab everyone who worked for USPS in Sedgewick county between 1973 and 2005?  <BR> <BR>Narrow it down, provide at least 1 compelling argument for, and then post.  <BR> <BR>Ron  <BR><!--/Text--></td></tr>
+<!--/Post: 8512-->
+<!--Post: 8518--><!--Time: 1109182744-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8518"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 10:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Okay, here it goes. This is what makes that Goetz guy a POI. <BR> <BR>1. James A. Goetz grew up in Indiana ..... close state. <BR> <BR>2. Joined the U.S. Air Force in 1952.... right age, military service. <BR> <BR>3. He received initial training on electronic fundamentals..... basic electronics, could fix copiers and small appliances. <BR> <BR>4. Upon graduation was selected for nuclear weapons electronics and mechanical training..... mechanical engineering book reference to one of his letters left in the library.  <BR> <BR>5. He came to Kansas as a member of the 36th Aviation Depot Squadron at Smoky Hill &#40;later renamed Schilling&#41; Air Force Base, Salina..... he lived in the area. <BR> <BR>6. He qualified in both nuclear and conventional weapons handling, including explosive ordnance disposal....... he knew how to use a gun. <BR> <BR>7. Goetz was discharged in 1957 and joined the Air Force Reserve while beginning what proved to be a 31-year career with the U.S. Postal Service........... there we go, some thought BTK once was somehow related to the post office. <BR> <BR>8. He came into the Kansas Air National Guard in 1965 with the 190th Tactical Reconnaissance Group in Hutchinson and blah blah blah........ he remained in the area for many years. <BR> <BR>9. While in the reserve, his other assignments included supervisor of vehicle maintenance and a second tour as NCOIC of disaster preparedness..... like teaching how to tie knots and secure stuff. <BR> <BR>10. Being from Indiana, he was still in Kansas in 1988, Goetz was promoted to chief master sergeant and was appointed senior enlisted advisor &#40;SEA&#41; for the Kansas Air National Guard, the top enlisted position in the state. <BR> <BR>&#40;should I mention there is a National Guard armory right across the street from where the Oteros used to live?&#41; <BR> <BR>11. He actively promoted resident school attendance of Professional Military Education &#40;PME&#41; courses such as Leadership School, NCO Academy, and the Senior NCO Academy......... this would match the &#34;leadership&#34; voice on the Nancy Fox call that many talk about. <BR> <BR>12. Goetz is now retired from both the Air Guard and the Postal Service, living in Rose Hill with his wife, Marilyn...... which would explain his amount of free time to do BTK hauntings stuff. <BR> <BR>I AM NOT SAYING THAT THIS MAN IS BTK.  <BR> <BR>I am merely telling you all who are telling others not to post links or talk about anyone who are not shown coming out of the Otero home, that this is a forum to discuss &#34;persons of interest&#34; and you should not be asking others not to post about a certain person because the person doesn&#39;t seem btkish to you. <BR> <BR>That said in the nicest way. <BR> <BR><IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 8518-->
+<!--Post: 8546--><!--Time: 1109200593-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8546"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 3:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You know what. let Mr Goetz giva a DNA sample. then his name will be cleared. And I promise all of you, There will be no more posts about him. He is just as suspect as every Wichita citizen. <BR>Dont forget there are still ex-WPD that havnt given DNA, they are still suspects. There is too many circumstances to rule him out.  <BR>  <BR>By the way, I live in Germany, have no connection to the POI. I found his info on the internet. I have never heard of this man before. This is no Melissa trip, out to screw someone. This is an honest assumption. Nothing more. I respect anyone who has honerably served his country. But that makes no one perfect. Sorry but reeality check, every one in the area of Wichita is suspect. THATS A FACT... <BR>I would gladly eat my words about this POI. But please prove me wrong first!!!!<!--/Text--></td></tr>
+<!--/Post: 8546-->
+<!--Post: 8547--><!--Time: 1109201080-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8547"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 3:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I will even go as far as to go on National Tv in the States and give a public appoligy to my POI. If it such a serious issue, I will be man enough to say I was wrong. Like I said before, please prove me wrong. <BR> <BR> BTW. Ive always tried to remain &#34;outside the norm&#34;. But honestly, I never would have thought that one of my posts would create such a problem. <BR>I think its awefull. But it is something that at least should be looked into. Damn. didnt wanna pi$$ anyone off.<!--/Text--></td></tr>
+<!--/Post: 8547-->
+<!--Post: 8552--><!--Time: 1109206006-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8552"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 4:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->please don&#39;t post names, Tom will have a fit, if you have that kind of info, email it to each other, we don&#39;t want to get in trouble for slander<!--/Text--></td></tr>
+<!--/Post: 8552-->
+<!--Post: 8563--><!--Time: 1109209883-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8563"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 5:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sorry Nugz, I didn&#39;t mean to upset you, the other posts are filled wite peoples names who are either under investigation or have been and their info, is public knowledge. I guess I just wouldn&#39;t want Tom to get in trouble for letting us go off the deep end and add personal details about normal people. I hope your not mad. <!--/Text--></td></tr>
+<!--/Post: 8563-->
+<!--Post: 8567--><!--Time: 1109210476-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8567"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 6:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><b>&#34;NOBODY is saying the guy is BTK. He meets some criteria and that&#39;s why he mentioned it.... to discuss it.......  <BR> <BR>Nothing else.  <BR> <BR>Hello! &#34;</b> <BR> <BR>Then let&#39;s stop running this guys name through the mud and wasting time and board space. This site is about possible <b>BTK suspects</b>, not every single person who MIGHT be someone who is a little strange to someone - <b><i>get a grip folks!</i></b> &#40;I guess I need to start a new website - completelyuselessinformationabouteveryone.com&#41; <BR><!--/Text--></td></tr>
+<!--/Post: 8567-->
+<!--Post: 8568--><!--Time: 1109210498-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8568"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 6:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->no dude im not mad at all. i just want to try to make the severity of the situation clear. Ive had about 10 diffrent theorys and still he isnt caught.  <BR>but i would still like to know about the code and if you got a reply back.... <!--/Text--></td></tr>
+<!--/Post: 8568-->
+<!--Post: 8573--><!--Time: 1109210879-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8573"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 6:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->no he never replied, it wasn&#39;t him, and the theory is a good one. And you hit the problem on the head, we have to figure out who he was at what time, because he is several different characters.<!--/Text--></td></tr>
+<!--/Post: 8573-->
+<!--Post: 8576--><!--Time: 1109211172-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8576"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 6:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->i think so too. but to pull it off in the same city is tough, he had to have had a &#34;normal&#34; side. he may have went to prostitues and played what ever roll he wanted. double life, tripple life, quadrupel life. it is for sure he is as evil as 4 people combined.<!--/Text--></td></tr>
+<!--/Post: 8576-->
+<!--Post: 8591--><!--Time: 1109218034-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8591"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 8:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dpinva, nobody is saying &#34;This is BTK&#34;. His name was mentioned as a POSSIBLE POI, in order to discuss him in the thread.  <BR> <BR>Without a name or reference to a link which has his name, then we cannot discuss ANY POI. <BR> <BR>Many people here, not me, have mentioned BY NAME the chief of police, the different detectives, the anchors of the two main TV stations in the area, even some of the victims, as POIs. And, nobody cried &#34;slander&#34;. <BR> <BR>Besides, to prove slander one has to show maliciousness. And, clearly, there is no maliciousness in discussing him.<!--/Text--></td></tr>
+<!--/Post: 8591-->
+<!--Post: 8593--><!--Time: 1109218647-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8593"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 8:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Embersage, how can we discuss a POI without saying who it is? Isn&#39;t that what this forum is for? This is ridiculous. <BR> <BR>Why ask us to email the names of a POI in private?  <BR> <BR>Again, we are merely discussing a person... clearly not saying the person is BTK. <BR><!--/Text--></td></tr>
+<!--/Post: 8593-->
+<!--Post: 8682--><!--Time: 1109282994-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8682"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 2:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i>Many people here, not me, have mentioned BY NAME the chief of police, the different detectives, the anchors of the two main TV stations in the area, even some of the victims, as POIs. And, nobody cried &#34;slander&#34;. </i> <BR> <BR>All of these individuals are in the public domain and are, to one degree or another public figures. Public figures, both legally and ethically, have to meet a much higher threshold before they can claim slander. This gentleman is a private citizen with no public profile at all. To name him in this context is, if not slander, at least slanderous. If you really don&#39;t think it is a problem to mention people&#39;s names and discuss them, although the clearly are not BTK, then what is <i>your name</i>? I am sure you won&#39;t mind us posting it on the internet so we can &#34;discuss&#34; you as well, right? <BR><!--/Text--></td></tr>
+<!--/Post: 8682-->
+<!--Post: 8702--><!--Time: 1109293372-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8702"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 5:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I live hundreds of miles away from Wichita, never been to any state near Kansas, was a child when the crimes occurred, besides other more obvious things...  <BR> <BR>I guess it would serve no purpose to name me a POI, but if you want to discuss me as a POI, then you find my name first. <BR> <BR>As to the public figures having a higher threshold for slander, that is not so. We all have reputations and when someone makes false malicious statements about us, which ruin our good reputation, then that is slander... no matter if it&#39;s a public person or a private person.  <BR> <BR>But, if there were to be a difference, then it would make sense that a public figure may be more concerned about keeping a good reputation, than a private person. Specially when it affects the person&#39;s potential to earn a living. <BR> <BR>So, the way you put it, all the police officials, media persons, university employees, etc... whose names have been included in POIs discussions have no reason to cry slander and can be discussed... but then you cry slander when we talk about this guy? <BR><!--/Text--></td></tr>
+<!--/Post: 8702-->
+<!--Post: 8713--><!--Time: 1109295288-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8713"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Freya<!--/name--></b></a><br>Username: <!--field:uname-->Freya<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 5:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ztargate, I believe Dpvina was actually referring to legal precedent that public officials have to prove actual malice when suing for slander&#40;spoken&#41; or libel &#40;written&#41; defamation. Private citizens may have a hard time proving damages to reputation, but generally they have an easier time suing for defamation than public officials. One premise for this is that public officials willingly put themselves in the spotlight, while private citizens go about their business privately and that privacy should be respected. <BR> <BR>I understand that it may seem harmless to discuss him on this board, and it may in fact be so. But ethically and legally, it&#39;s not a good idea to write someone else&#39;s name out on a board like this.  <BR> <BR>I honestly don&#39;t mean to berate you, I just don&#39;t want anyone to get in trouble on here for 1&#41; what he writes or 2&#41; what is written about him.<!--/Text--></td></tr>
+<!--/Post: 8713-->
+<!--Post: 8720--><!--Time: 1109296541-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8720"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 5:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe the question has been answered quite well by others. If you want to talk POI, protect the innocent.<!--/Text--></td></tr>
+<!--/Post: 8720-->
+<!--Post: 8723--><!--Time: 1109298012-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8723"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Freya<!--/name--></b></a><br>Username: <!--field:uname-->Freya<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 6:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;So, the way you put it, all the police officials, media persons, university employees, etc... whose names have been included in POIs discussions have no reason to cry slander and can be discussed... but then you cry slander when we talk about this guy?&#34; <BR> <BR>That question, as far as I could read, had not been answered in legal terms. Now it is.<!--/Text--></td></tr>
+<!--/Post: 8723-->
+<!--Post: 8759--><!--Time: 1109309754-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8759"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 9:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->AGAIN, I have seen people posting the REAL ACTUAL names of many police officers &#40;whether they were actually involved in the investigation or not&#41;, the names of university employees, and anchors of television stations, and the names of other businesses and citizens, on this board and being discussed. Yet, we cannot discuss this guy? <BR> <BR>Embersage says, &#34;If you want to talk POI, protect the innocent&#34;. <BR> <BR>Okay, so how do we know who is innocent? And how can we discuss a POI without using his name??????? LMAO! <BR> <BR>In order to discuss a POI, we have to have a name, because if we don&#39;t have a name, then the people reading won&#39;t have an idea of who the ell we are talking about. <BR> <BR>Anyway, I will leave it alone, since I&#39;m repeating myself. I guess others will continue to bring in POIs AND THEIR NAMES, and they will be discussed... just not this guy. <BR> <BR>Hmph! <BR><!--/Text--></td></tr>
+<!--/Post: 8759-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="9/556">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=9/556" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

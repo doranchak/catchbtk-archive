@@ -1,0 +1,241 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 358/My Uneducated Theory-->
+<!--Level 1: 358/My Uneducated Theory-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: My Uneducated Theory</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">My Uneducated Theory</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+My Uneducated Theory
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=358"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=358"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4668--><!--Time: 1106654162-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4668"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 3:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;ve been studying the BTK story for a few months and like everyone else, have some strong gut feelings I would like to share.  First, this is my initial post - so please forgive mistakes I may make in ignorance. <BR> <BR>BTK is probably nothing like the picture he portrayed in the clues he sent.  Each and everyone is an attempt to throw investigators off his scent.  My estimate is that he is in his mid to late fifties, average height, slightly overweight, glasses, greying and non-descript for all purposes. <BR> <BR>BTK was not born or raised in KS.  He came here for the aviation work and at first, when he was in his early twenties, he was angry over a failed marriage.  This would be when he killed the Otero&#39;s.  I think he knew them from some sort of martial arts group.  I heard they were into Judo, or another grappling art.  Knowing the father could overpower him, BTK entered the home when Joe was gone - and subdued the mother and kids, using them as threat against Joe when he returned. <BR> <BR>I think BTK enjoyed the &#34;power&#34; of the kill. I doubt he was ever interested in the sexual aspect - or had any pedophile tendencies.   <BR> <BR>BTK then remarried - a woman who was intellectually his lesser.  He probably had kids and was a good father.  He would be a little strict with a boy - but probably very lenient with a girl - she could wrap him around her little finger...   <BR> <BR>Children are important to BTK.  He sees what he did as &#34;holy&#34; in some way - as if he was given, or entrusted with, a special gift, directly from God - to kill - and that God did not hold this against him.  I would also offer that BTK after his second marriage, entered some sort of &#39;religious era&#39;.  Probably evangelical - because that supports a man controlling his household.  He would have looked for verification of his acts in the life and values he built for himself.  I doubt that he thinks most women are his equal - he would like a return to the McCarthyistic era in that sense.   <BR> <BR>His wife would have to be a &#39;doormat&#39;.  They would have set up privacy rules - and she would have followed them explicitly - never looking in his things - or reading his notes, etc.  Using religion - he enforced this - and she never suspected. <BR> <BR>But, he changed late in 2003 - I don&#39;t think it was a physical change - but a mental, emotional, or spiritual one.   <BR> <BR>His wife would be in the time of her life that signals the end of child-bearing and that could be an impetus for his restlessness.  He closely associates the need to &#39;bring children into the world&#39; with his ability to &#39;take them out&#39;.  Losing that option would make his wife less physically attractive, intimacy probably declined sharply, and they may sleep in separate rooms now - or they may have divorced.   <BR> <BR>At this point - I think he is harmless.  He would use the knowledge that he is &#39;different&#39; from other SK&#39;s by the fact that he quit killing when the experts say a SK can not quit.  It empowers him - and he justifies his actions in that.  It makes him feel &#39;special&#39; in some way.  He&#39;s not a SK - because he quit.  That&#39;s what he thinks, anyway.   <BR> <BR>I doubt he feels guilty about his crimes - maybe he is sorry for the pain caused to family members - but he views his victims as &#34;collateral damage&#34; in some greater sphere.  I&#39;ll bet he knows the Bible backwards and forewards. <BR> <BR>He probably had some military training - as many have mentioned - but he did not fight in a war - probably used his time to get money for college - he started before his first youthful marriage - finished after that split.   <BR> <BR>He is an avid reader - writes well, English is his first language - and the only thing that reveals the real BTK in his correspondence - is his poetry. <BR> <BR>Not what he wrote - but &#39;because&#39; he wrote it.  Poets are &#39;feelers&#39; - BTK feels things deeply.   <BR> <BR>BTK in his middle age years may have joined some &#34;control&#34; groups, PAC&#39;s, and the like.  He is probably Republican, a white-collar job involving computers, and he would be attracted to groups that tried to, &#34;keep gays out of BoyScouts&#34;, or &#34;ban abortion&#34;, or &#34;close the borders&#34;, things of that nature as they are a harmless extension and outlet for his &#39;control&#39; aspect. <BR> <BR>BTK may continue to reveal clues - but he may also &#34;move on&#34; - this cycle of life ending - he may try something else - in another area - or employer.  I think it is a toss-up at this point.  His kids would be adults - or close, by now, and with his wife&#39;s fertility ending - he is once again, looking for something to fill that &#39;void&#39;. <BR> <BR>So he is dangling the carrot - but he may not drop it.  He knows the PD has nothing on him - and he is enjoying this time to &#39;rub it in&#39;.   <BR> <BR>The bogus arrest a month or so ago - would have greatly pumped his ego.  All his BS was actually believed - and the PD went after someone matching the clues BTK sent in.  He probably laughed - or got a rush out of it - for days.   <BR> <BR>He feels invincible.   <BR> <BR>Those are my, somewhat disconnected thoughts this early morning.  <!--/Text--></td></tr>
+<!--/Post: 4668-->
+<!--Post: 4698--><!--Time: 1106688035-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4698"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 1:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><font color="0000ff">Hi Tippy,</font> <BR><font color="0000ff">Thanks for time you spent in creating a theory. To make things easier, I&#39;ll give you my thoughts by using this blue text. One thing: We  have a professional criminologist and profiler on this board. His detailed profile has almost always been on the money. I say this in case you haven&#39;t read Dr. Kelleher&#39;s profile <i>and</i> his answers to questions.</font> <BR> <BR>I&#39;ve been studying the BTK story for a few months and like everyone else, have some strong gut feelings I would like to share. First, this is my initial post - so please forgive mistakes I may make in ignorance.  <BR> <BR>BTK is probably nothing like the picture he portrayed in the clues he sent.<font color="0000ff">I agree completely.</font> Each and everyone is an attempt to throw investigators off his scent. My estimate is that he is in his mid to late fifties, average height, slightly overweight, glasses, greying and non-descript for all purposes. <font color="0000ff">BTK has been able to almost flawlessly blend in, regardless of the situation. I agree he&#39;d be considered at least somewhat non-descript by the few who know him. He is shrewd and knows the city of Wichita like the back of his hand.</font> <BR> <BR>BTK was not born or raised in KS.<font color="0000ff">Perhaps not born in Kansas but I believe brought up there.</font> He came here for the aviation work and at first, when he was in his early twenties, he was angry over a failed marriage.<font color="0000ff">This is possible. I don&#39;t quite see this being the case but it&#39;s a plausible scenario.</font> This would be when he killed the Otero&#39;s. I think he knew them from some sort of martial arts group. I heard they were into Judo, or another grappling art. Knowing the father could overpower him, BTK entered the home when Joe was gone - and subdued the mother and kids,<font color="0000ff">In my opinion, BTK thought both of the kids would be in school: I firmly believe Mrs. Julie Otero was the BTK&#39;s prime target.</font> using them as threat against Joe when he returned.  <BR> <BR>I think BTK enjoyed the &#34;power&#34; of the kill.<font color="0000ff">Without question. Power and control are embedded fiercely in BTK&#39;s psyche.</font> I doubt he was ever interested in the sexual aspect - or had any pedophile tendencies. <font color="0000ff">It seems to me that BTK did have some sexual interest in the killings, but control was even more important. I agree that BTK was not a pedophile.</font> <BR> <BR>BTK then remarried - a woman who was intellectually his lesser. He probably had kids and was a good father. He would be a little strict with a boy - but probably very lenient with a girl - she could wrap him around her little finger... <font color="0000ff">One never knows but if he has kids, I doubt he&#39;s a good father - most sociopath&#39;s aren&#39;t - and I have to respectfully but sharply disagree with BTK being lenient toward any female, including a daughter, supposing he even has one.</font> <BR> <BR>Children are important to BTK. He sees what he did as &#34;holy&#34; in some way - as if he was given, or entrusted with, a special gift, directly from God - to kill - and that God did not hold this against him.<font color="0000ff">I understand what you mean; but while BTK has an unrealistically high opinion of himself I would also offer that BTK has never been deeply involved in religion of any kind.</font>second marriage, entered some sort of &#39;religious era&#39;. Probably evangelical - because that supports a man controlling his household. He would have looked for verification of his acts in the life and values he built for himself. I doubt that he thinks most women are his equal - he would like a return to the McCarthyistic era in that sense. <font color="0000ff">I think your last sentence is a bullseye.</font> <BR> <BR>His wife would have to be a &#39;doormat&#39;. They would have set up privacy rules - and she would have followed them explicitly - never looking in his things - or reading his notes, etc. Using religion - he enforced this - and she never suspected. <font color="0000ff">Only BTK knows but again, I don&#39;t see any serious religiousness in any aspect of BTK&#39;s adult life.</font> <BR> <BR>But, he changed late in 2003 - I don&#39;t think it was a physical change - but a mental, emotional, or spiritual one. <font color="0000ff">I agree with a physical or emotional change, disagree with the others.</font> <BR> <BR>His wife would be in the time of her life that signals the end of child-bearing and that could be an impetus for his restlessness.<font color="0000ff">I don&#39;t quite see it this way.</font> He closely associates the need to &#39;bring children into the world&#39; with his ability to &#39;take them out&#39;. Losing that option would make his wife less physically attractive, intimacy probably declined sharply, and they may sleep in separate rooms now - or they may have divorced. <font color="0000ff">A divorce is possible. I really believe that Josephine and JoeII Otero were murdered because BTK didn&#39;t expect them at the scene and couldn&#39;t take chances with witnesses. Remember that BTK did not harm the Vian children; I know BTK claims a phone call saved the lives of the kids, but BTK is a liar, all sociopaths are. Finally, if a ringing phone supposedly upset BTK, it means the phone lines were <b>not</b> cut.</font> <BR> <BR>At this point - I think he is harmless. He would use the knowledge that he is &#39;different&#39; from other SK&#39;s by the fact that he quit killing when the experts say a SK can not quit. It empowers him - and he justifies his actions in that. It makes him feel &#39;special&#39; in some way. He&#39;s not a SK - because he quit. That&#39;s what he thinks, anyway. <font color="0000ff">Experts who claim serials killers are incapable of stopping on their own are relying on information gathered a quarter of a century ago. Ed Kemper not only stopped, he turned himself in. Some serial killers can&#39;t stop, some can.</font> <BR> <BR>I doubt he feels guilty about his crimes - maybe he is sorry for the pain caused to family members - but he views his victims as &#34;collateral damage&#34; in some greater sphere.<font color="0000ff">I pretty much agree: BTK cares <i>nothing</i> about his crimes.</font> I&#39;ll bet he knows the Bible backwards and forewards. <font color="0000ff">I very much disagree as to BTK having an extensive knowledge of the Bible.</font>  <BR> <BR>He probably had some military training - as many have mentioned - but he did not fight in a war - probably used his time to get money for college - he started before his first youthful marriage - finished after that split.  <BR> <BR>He is an avid reader - writes well, English is his first language - and the only thing that reveals the real BTK in his correspondence - is his poetry. <font color="0000ff">English is his first language, yes. He is capable of writing prose well, in terms <BR>of vocabulary, syntax and grammar; his sloppy attempts to disguise this ability hurt him much more than they helped: they evince what he is, a liar and manipulator and criminal. BTK&#39;s poetry is a mishmash of vivid, often laughable, cliches;  is highly unoriginal and is designed to shock his betters. In the &#34;poetry&#34; thread, see all posts by Steve_Huff and Pax.</font> <BR> <BR>Not what he wrote - but &#39;because&#39; he wrote it. Poets are &#39;feelers&#39; - BTK feels things deeply. <font color="0000ff">I think BTK feels very little.</font>  <BR> <BR>BTK in his middle age years may have joined some &#34;control&#34; groups, PAC&#39;s, and the like. <font color="0000ff">I don&#39;t see this; BTK doesn&#39;t seem, to me, to be a joiner.</font> He is probably Republican, a white-collar job involving computers, and he would be attracted to groups that tried to, &#34;keep gays out of BoyScouts&#34;, or &#34;ban abortion&#34;, or &#34;close the borders&#34;, things of that nature as they are a harmless extension and outlet for his &#39;control&#39; aspect. <font color="0000ff">I tend to agree.</font> <BR> <BR>BTK may continue to reveal clues - but he may also &#34;move on&#34; - this cycle of life ending - he may try something else - in another area - or employer. I think it is a toss-up at this point. His kids would be adults - or close, by now, and with his wife&#39;s fertility ending - he is once again, looking for something to fill that &#39;void&#39;.<font color="0000ff">I agree that he has been trying to fill an internal void. This has been a lifelong pursuit and he has failed.</font>  <BR> <BR>So he is dangling the carrot - but he may not drop it. He knows the PD has nothing on him - and he is enjoying this time to &#39;rub it in&#39;.<font color="0000ff">Definitely. He&#39;s been dangling the carrot for thirty-one years.</font>  <BR> <BR>The bogus arrest a month or so ago - would have greatly pumped his ego. All his BS was actually believed <font color="0000ff">It wasn&#39;t believed by me. Or by a great many others but I appreciate your point.</font> - and the PD went after someone matching the clues BTK sent in. He probably laughed - or got a rush out of it - for days. <font color="0000ff">I don&#39;t doubt it.</font>  <BR> <BR>He feels invincible. <font color="0000ff">Yes. Frankly, he&#39;s still calling the shots. That&#39;s why none of the psychological ploys have worked. Of all things BTK may have laughed at, I&#39;d bet he laughed hardest at those promising him the highest degree of help. He is an absolutely worthless human being.</font>  <BR> <BR>Those are my, somewhat disconnected thoughts this early morning. <font color="0000ff">Apart from other posts, be sure to read Dr. kelleher&#39;s profile. It&#39;s imperative.</font> <BR>  <BR> <BR>   <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4698-->
+<!--Post: 4699--><!--Time: 1106688540-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4699"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stealth<!--/name--></b></a><br>Username: <!--field:uname-->Stealth<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 1:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;He probably laughed - or got a rush out of it - for days. I don&#39;t doubt it. &#34; <BR> <BR>He hates it when other people get credit for his work...they arrest the 3 guys for Otero and he sends the first letter...they arrest RV and he makes the Murdock drop... <BR><!--/Text--></td></tr>
+<!--/Post: 4699-->
+<!--Post: 4718--><!--Time: 1106692165-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4718"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 2:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George - thank you for such a wonderful and in-depth evaluation of my theory.  You make numerous highly-credible points. <BR> <BR>Also - thank you for pointing me towards Dr. kelleher&#39;s profile.  I will spend a good deal of time studying it. <BR> <BR>Perhaps I am wrong on the religion angle - but the reason I picked it is because BTK needed an outlet of control to gravitate towards when he was not killing.  Religion could provide that substitute. <BR> <BR>It is strange about religion.  For the most part - it offers people a new and kinder way to live and interact in society - but for some - it justifies their hatred.   <BR> <BR>And I have sometimes wondered if those who know their acts are anti-social want so badly to believe they are &#39;normal&#39; that they just adopt the current opiate of the masses, religion in many cases. <BR> <BR>I live in KS - and here, in the heart of the Bible Belt - we can generally feel safer.  The vast majority of Christians here are good citizens. <BR> <BR>But, we do have our doosies - for example a fairly well-known individual, Fred Phelps, of godhatesfags.com fame, has quite a following - all using the Bible to justify their thought that gays should be executed and from there they will proceed directly to a fiery eternity. <BR> <BR>I see BTK as much the same way.  As many criminals in prison find religion to be an outlet - he may also have discovered it.  And an evangelical group - along Promise Keepers lines, would provide him the support needed to implement total control in his home. <BR> <BR>I don&#39;t mean to come down on religion here - just that I think it can be twisted by twisted individuals, and is on a daily basis. <BR> <BR>Your points about BTK&#39;s use of the English language are well-taken.  I totally agree.   <BR> <BR>Somewhere - I believe the evidence is there - that would point him out - but unfortunately, the trail &#40;original trail&#41; grows colder as each year passes and people&#39;s memories fail, they relocate,and pass away. <BR> <BR>I&#39;m heading over to the good doctor&#39;s thread.  Thank you again for mentioning it.<!--/Text--></td></tr>
+<!--/Post: 4718-->
+<!--Post: 4737--><!--Time: 1106703200-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4737"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 5:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tippy, you would know far better than I concerning religion and its importance in Kansas. You reminded me of something. Below is a link to a song, sheet music, published in 1917 in Muscatine, Iowa. I have no idea where this town is. I discovered this music more than a decade ago. The scan is large, as it has to be in order to see what I intend to ask about. Note the police officer&#39;s hat and part of his uniform over his heart area. You&#39;ll see a familiar number. Again, Bible Belt, Muskatine, Iowa. Do you have any idea how on earth such an illustration could have been permitted, especially in 1917?  There&#39;s no obscene language or nudity or anything like that. <BR> <BR>Just look at the officers badge number on his hat and vest. This is one of the most <i>bizarre</i> things I have scene in nearly fourteen years of dealing old, collectible sheet music. &#40;By the way, Kansas is considered one of the five best states to find such items, as the publishers are smaller and the valuable sheet music period is approximately 1898 until 1918. I&#39;ve often said I wish I had a weekend at a flea market in Kansas! &#40;Missouri is considered the best state for great flea market finds of valuable sheet music.&#41; If you know of a stack of sheet music from the above mentioned 1898-1918 period, and the music is not classical, not religious and not in folio form, that&#39;s what to look for. Last, if you&#39;re ever at a flea market and for a buck or two you see an individual sheet from the above time period, and the piece calls itself a rag &#40;&#34;Maple Leaf Rag,&#34; &#34;Corn Shucks Rag,&#34; &#34;Cleopatra Rag&#34; are but three&#41; and is approximately 10.5&#34; x 13.5&#34; <BR>in measurement AND has no words inside, just musical notes, it&#39;s a good find. The profit record <BR>is from a guy who found a rare first edition rag for one dollar in Missouri and a few months later sold it to a collector for $6,000. That&#39;s a nice day&#39;s work! Hope you might see this tonight, since it&#39;s only barely on topic, although part of it is important: BTK crimes happened in Kansas, we live in a huge country and those who live on either coast may need to understand or learn some MidWestern habits and practices. Here&#39;s that link. This really is weird. <BR><a href="http://members.aol.com/returnofchorb/pmu.jpg" target=_top>http://members.aol.com/returnofchorb/pmu.jpg</a><!--/Text--></td></tr>
+<!--/Post: 4737-->
+<!--Post: 4771--><!--Time: 1106737657-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4771"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 3:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George - Fascinating!  And I must say - you have sparked a latent sheet music bug in me.  I will definetly be on the look out now.   <BR> <BR>The badge and hat number are astonishing - but notice the left hand the man extends?  It looks symbolic in nature also - not quite Masonic, from my research - maybe closer to Woodsmen of the World?   <BR> <BR>You would have a fascinating time at the flea markets here - and perhaps a better time at the estate auctions.  Some date back to the grandparents who came here in the 1800&#39;s and, if not publicized well, will only draw the locals - farm mentality - for the most part.  But if you can take the elements, heat, rain, dust, etc., for a few hours - you could walk away happy. <BR> <BR>I&#39;m going to upset people around here if I start on the underlying religious aura - but here goes anyway. <BR> <BR>Wichita is a city - full of diverse people and the church community reflects that, but take the time to step outside the city limits - and things change, ever so slightly at first, but with greater investigation - moreso. <BR> <BR>The familial ties are strong in KS.  For a family to turn one of its own over to the authorities - is anathema.  Much of the early population was German, Bohemian and Swedish.  Different areas vary, of course.  Non-English speaking people, highly superstitious, clannish, and bringing with them - a variety of customs and religious bents. <BR> <BR>Did you ever see a movie, &#34;Children Of The Corn&#34;?  It springs to mind in some places here.   <BR> <BR>To illustrate - without mentioning the community&#39;s name - a small town, less than five thousand, still has prayer in school.  Why?  Because they can.  No one calls them on it.  And I pity the fool who someday does.  A short distance from this community - lies another, quite nice people, very small - less than one thousand - and about 6 years ago they finally removed a sign on the small road entering the community that read, &#34;Nigger, don&#39;t let the sun set on you.&#34; <BR> <BR>But I should emphasize that this is the underlying rural KS - and although the element still exists in larger towns, the towns, themselves, offer a more diverse blending of customs.   <BR> <BR>I could go on for hours - but I don&#39;t want to bore you.  I have done extensive research at the State Historical Society in Topeka and to read the newspapers of the late 1800&#39;s from KS is like stepping into a totally different world. <BR> <BR>I really like your theory about the link between BTK &#40;possibly&#41; and the religious heritage around here - if indeed, he was raised in this area.   <BR> <BR>You make a good point.  I will have to seriously re-think my idea that he was raised elsewhere. <BR> <BR>Thanks again for a stimulating discourse - and for the sheet music cover.  I will now be on the lookout......<!--/Text--></td></tr>
+<!--/Post: 4771-->
+<!--Post: 4772--><!--Time: 1106738046-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4772"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 3:14 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Stealth, you wrote: <BR> <BR>[b]He hates it when other people get credit for his work...they arrest the 3 guys for Otero and he sends the first letter...they arrest RV and he makes the Murdock drop... [/b] <BR> <BR>While I agree that BTK wants to get the credit for his own acts - in this case - when the PD arrested the man - he was getting credit.  His tips worked.  They were released to the public and someone fit the description. <BR> <BR>Now, had that person walked in and simply confessed, I feel it would have been a different story. <BR> <BR>Just my thoughts.<!--/Text--></td></tr>
+<!--/Post: 4772-->
+<!--Post: 4782--><!--Time: 1106749461-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4782"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stealth<!--/name--></b></a><br>Username: <!--field:uname-->Stealth<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 6:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->When 3 people were arrested in 1974 he sent a letter saying it ain&#39;t those three dudes...In December when they had another suspect arrested and were watching him like a hawk he makes another drop to remove all doubt that it wasn&#39;t that guy...It is all about him, not someone else...he is an attention hound...<!--/Text--></td></tr>
+<!--/Post: 4782-->
+<!--Post: 4827--><!--Time: 1106767324-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4827"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 11:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tippy, you said something which deserves to be in bold face: <BR><b>The familial ties are strong in KS. For a family to turn one of its own over to the authorities - is anathema.</b> This may or may not apply as concerns BTK, but if it does apply, it&#39;s easy to see why he hasn&#39;t been caught.  <BR> <BR>I would say to the good people of Wichita - and from everything I have read, they are good people - many midwestern and southern states &#40;and even east and west coast states&#41; which have large expanses of rural areas have a similar religious aspect. Some of the most God-fearing and by-the-Bible living people I&#39;ve ever seen are in rural Pennsylvania. I have one more link, you tell me if you think it&#39;s BTK related. Please remember that the time period, 1920-1925, saw a revival of interest in the group, and some of the most violent and fervent followers were located in Southern California, including Los Angeles. Other areas include but are not limited to: Illinois, especially Williamson County; Oklahoma; Texas; Louisiana, especially the Mer Rouge incident; Michigan; Oregon; Florida, and many other states. <BR>&#40;Source: <i>Hooded Americanism</i> by David Chalmers&#41;.  <BR>Are you familiar with the town of Ottawa, Kansas? <BR>Here&#39;s why: {<a href="http://www.members.aol.com/returnofchorb/ourlast.jpg" target=_top>www.members.aol.com/returnofchorb/ourlast.jpg</a>} <BR>This is from 1924. No evidence to indicate BTK was into this nonsense, but what of, say, his grandparents or great-grandparents? In my opinion, no. But this is fascinating.<!--/Text--></td></tr>
+<!--/Post: 4827-->
+<!--Post: 4923--><!--Time: 1106823406-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4923"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 2:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George - I&#39;ve been through Ottawa but haven&#39;t really spent any time there.  The cover you linked to however, could have had its roots in many parts of KS after the legacy of hatred bred even before the Civil War that resulted in Jayhawkers and Bushwackers, two radical militant groups that were anti-slavery and pro-slavery, respectively, at least on the surface.  Underneath, they were both nothing but murderous gangs.  They killed women and children without so much as a backward&#39;s glance.  Sound familiar? <BR> <BR>The racial hatred has lingered in pockets since then, such as the small community I mentioned before.   <BR> <BR>BTK. if raised in that aura, would likely bear some of its scars.  Yet I don&#39;t see a real racial-cast to his killings. <BR> <BR>The KKK still exists here - descendants of the Bushwackers - literally and figuratively.  But every generation improves upon the last.   <BR> <BR>If BTK has killed in the Park City, Valley Center area - not yet confirmed - then he is getting closer to some of my lineage.  Whether he hails from those areas is still up in the air - but in Valley Center - in the 20&#39;s and 30&#39;s there was Klan activity.   <BR> <BR>BTK - in his generation - if he did grow up under such influence - could conceivably have come from some pretty hardened stock.  Perhaps madness DOES run in families &#40; think the Kansas Benders&#41;.  But, the hold on the children is dying out.  Perhaps a result of forced segregation?  I don&#39;t know.  It&#39;s dying in many arenas.  The Amish &#40;some&#41; and Holderman&#40;many&#41; children of the Yoder/Hutchinson area will hide short-shorts and revealing tops - change and run the streets of Hutch, later changing back into their &#39;plain&#39; clothing and returning home. <BR> <BR>An observation here - should BTK come from an Amish or Holderman Mennonite group, I doubt the rest of his people would have kept up on the news, or even heard it to begin with, and if they did - and suspected him - the &#39;outside&#39; authorities would not have been contacted.  IMHO. <BR> <BR>On a lighter note - I am hypnotized by my new-found love - old sheet music.  I will begin perusing the auction and flea markets.  I may have questions for you.... <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4923-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/358">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/358" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

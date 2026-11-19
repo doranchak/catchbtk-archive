@@ -1,0 +1,275 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 445/A really nasty turn in the whole ugly business.-->
+<!--Level 1: 445/A really nasty turn in the whole ugly business.-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: A really nasty turn in the whole ugly business.</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">A really nasty turn in the whole ugly...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+A really nasty turn in the whole ugly business.
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=445"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=445"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 6532--><!--Time: 1107867036-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6532"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bmodule<!--/name--></b></a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 4:50 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I hesitate to throw this out, but here goes. <BR>Suppose instead of taking still shots only, BTK has been taping also.  <BR><a href="http://www.internetvideomag.com/articles2002/historyofcamcorders.htm" target=_top>http://www.internetvideomag.com/articles2002/histo ryofcamcorders.htm</a>  <BR>The messages from the alledged BTK mentioned SOULS FOR SALE&#40;Sell&#41;. The portable cam corder became available in hand held form around 1974-75 and was available in shoulder model a couple of years before. Around 74 would be when an expensive, but realatively small model &#40;B/W&#41; would become generally available. <BR> <BR>Snuff films have been the stuff of urban ledgend for years but no one has ever found/seen one. <BR> <BR>Suppose the whole psycho thing &#40;not suppose, it obviously is&#41; is BS and his sorry ass monster has nothing to do with anything. Suppose that the motive was to make money from tapes which, I&#39;m sure some defective reprobate would pay serious bucks for. <BR> <BR>It would explain why Josephine was isolated, bound so thoroughly, and otherwise treated differently than the other Oteros. And his mention of doing the same to Shirley Vian&#39;s daughter &#40;maybe little jon too&#41;. <BR> <BR>If the semen was a plant it would explain BTK&#39;s lack of concern for a DNA match.  <BR> <BR>It would explain the gaps between killings and the fact that he could stop for so long. The copy-cat method, the reason he wrote: &#39;fall is the season&#39; and was able to last through the summer without the monster bothering him. <BR> <BR>Another thought, that I believe came up already is that he might be working as a technician or cameraman at one of the television stations in Wichita. Notice only KAKE gets messages. Swabs don&#39;t count now. <BR> <BR>Prostitutes have come up in posts, and have been discarded as not likely. However If he is in the porn business he might have used them as models, and be very well networked instead of a loner. It would also provide him with a source of Semen. <BR> <BR>Obviously, others would be involved so he could have had someone drop him at the target and pick him up if necessary. The victims would not have to have anything in common if more than one person was picking them out. <BR> <BR>Sorry to post this...I hadn&#39;t even gotten used to his &#39;old&#39; sick self. <BR> <BR>Afterthought. The driver&#39;s liscense. Proof to the buyer that the film is the actual death of the victim, who is named in the press, rather than staged. And...why he doesn&#39;t mind giving them back.<!--/Text--></td></tr>
+<!--/Post: 6532-->
+<!--Post: 6536--><!--Time: 1107870466-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6536"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nugzter<!--/name--></b></a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 5:47 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Snuff, not a bad theory. Even if he filmed on old super 8, the films could go for alot of money. Fits the photography angle too. Snuff films are hard to track tho arnt they? If it is snuff and he is selling it, who then are the buyers? There must be a ring of some sort. But then why did he stop for so long. Did he pack up shop and go to Mexico? Could be possible. Could explain his &#34;accent&#34; or cover up with fake accent. Snuff films are made alot in Mexico I&#39;ve heard. Wasn&#39;t there also a movie about snuff films. Nicolas Cage. Wasn&#39;t that in Mexico?<!--/Text--></td></tr>
+<!--/Post: 6536-->
+<!--Post: 6538--><!--Time: 1107871966-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6538"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 6:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m not sure about the actual existance of any to date. They have a lot of staged ones, but last I heard the FBI said they have never turned up a real one. Thats not to say they don&#39;t exist. <BR> <BR>The child porn rings that I&#39;ve heard about being busted are international. In my opinion, if this theory holds water, Josephine was the intended victim, and this is very hard core child porn. <BR> <BR>Tracing the film would be next to impossible, however the FBI would start hammering away at the local porn, child porn, and particularly the prostitution ring that was popped in Wichita and OKC and Texas to Mexico in the last couple of weeks. Networks overlap and someone will want to deal out of kidnapping and possibly child porn considering the age of the girls. <BR> <BR>Then they confiscate computers and check email and other tracks pointing to sources.  <BR> <BR>I&#39;m not saying that BTK or his tapes are well known, but only someone wealthy could afford the price. Considering the crime, there will be a lot of roll overs and deals to be cut. They just need to find one customer and say the words &#39;wittness protection&#39;, and that&#39;s that. <BR> <BR>Of course I could be totally wrong, but I have yet to find a hitch in the case that can&#39;t be explained by a &#39;money motive&#39;rather than an inconsistant head case. <BR> <BR>Why&#39;d he quit? He got rich. Why work or take chances.<!--/Text--></td></tr>
+<!--/Post: 6538-->
+<!--Post: 6548--><!--Time: 1107884385-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6548"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 9:39 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BModule: <BR> <BR>A most interesting possibility.   <BR> <BR>The only thing I question is the part about BTK taking chances.  While he supposedly quit killing, it seems &#40;to me&#41; that he is still taking chances by taunting the police.   <BR> <BR>If he made his porn/tape money and got away with it -- he should simply just shut up and stop taunting the police. <BR> <BR>He might otherwise have been presumed dead if he just kept quiet.<!--/Text--></td></tr>
+<!--/Post: 6548-->
+<!--Post: 6550--><!--Time: 1107884611-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6550"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 9:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BModule: <BR> <BR>Also -- <BR> <BR>You may want to review the TFOTH thread in this section that deals with the possibility of planting semen at the scene. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6550-->
+<!--Post: 6566--><!--Time: 1107894476-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6566"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 12:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If he planted the semen and thinks that he&#39;s in the clear then he&#39;s taking &#39;very little chance of being caught with evidence. If he is selling snuff, then he has an accomplice&#40;s&#41;and must go through some middle men. Nobody who can afford to buy a certified snuff film is going to want BTK anywhere near him. He might have someone else do the drops. Remember the show must go on if he/they are to keep wpd off base-thinking this is a serial killer case. Btk is preparing to stage his exit, complete his book, possibly make one more film, and then dissappear for good, possibly leaving some evidence of his untimley demise. Sooner or later the film/tape will curculate the web through copies, the scam will be up, and he will get what he wants, making history by committing the perfect murder. <BR> <BR>He&#39;s not the head case he makes out to be, but he&#39;s still way over the yellow line. I believe he may be still competing with the successful beat artists in the sense that he feels that the entire shebang constitutes a form of performance art. And I do believe he enjoys the killing, but not because he is mentally ill &#40;he knows right from wrong&#41;, he just feels that money, perverse sex and his ego are more important than people&#39;s lives. <BR> <BR>I&#39;ll check tfoth. but planted semen from someone else is not going to match BTK. I realize it&#39;s not an original idea, and I&#39;ve stolen some ideas from all the posts, but it&#39;s not practical to write an entire bibliography after each post. <!--/Text--></td></tr>
+<!--/Post: 6566-->
+<!--Post: 6580--><!--Time: 1107899325-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6580"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 1:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bmodule: <BR> <BR>Even if the semen is NOT his, and some other ding-dong is stupid enough to do these drops for BTK -- there is still a connecting dot somewhere -- and still a chance is being taken. <BR> <BR>Also, I recommended the tfoth thread because you both had similar ideas about the planting of semen; not because I wanted an bibliography. <IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0> <BR><!--/Text--></td></tr>
+<!--/Post: 6580-->
+<!--Post: 6584--><!--Time: 1107902215-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6584"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 2:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->What can i say ... he&#39;s nuts.<!--/Text--></td></tr>
+<!--/Post: 6584-->
+<!--Post: 6600--><!--Time: 1107905138-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6600"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 3:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The market for such a film may not be in the continental United States but somewhere else like let&#39;s say Puerto Rico or Panama.<!--/Text--></td></tr>
+<!--/Post: 6600-->
+<!--Post: 6831--><!--Time: 1108031863-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6831"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 2:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The market is international, sparce, and exclusive. No one, even the athorities, really even wants to admit it exists &#40;or more likely, they don&#39;t want to think about it&#41;  <BR> <BR><a href="http://www.tranquileye.com/historyofporn/snuff.html" target=_top>http://www.tranquileye.com/historyofporn/snuff.htm l</a> <BR> <BR>The link above is the only actual &#40;documented&#41; case that I could find of a snuff film being made. Two men in Vienna, convicted of kidnapping a woman and torturing her to death before they finished the film. The second victim they kidnapped, to finish the film,  escaped and they were arrested before the film could be made. The footage was used to convict them. <BR> <BR><a href="http://www.void-within.net/reved/snuff.htm" target=_top>http://www.void-within.net/reved/snuff.htm</a> <BR> <BR>The second link is by a magazine writer who walks the reader through the planning and steps a person would have to go through to make a snuff film and get away with it. It is very detailed and sickly tongue-in-cheek &#40;avoid the notes on script and actual content&#41;, but, notice the similarities to Btk&#39;s MO and the writers suggestions. Notice the attention the writer gives to security to avoid having the film traced to the maker. Another thing to pay attention to is the suggested methods for picking &#34;Stars&#34;, and comparing them to the various unsolved murders around Wichita &#40;including those in the &#34;possible BTK victims list&#34;.  <!--/Text--></td></tr>
+<!--/Post: 6831-->
+<!--Post: 6837--><!--Time: 1108039261-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6837"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 4:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Mmodule, thats scary as hell. But wow it fits. I mean perfect. As if its someone who knows the BTK case well.  <BR>I had to stop reading further cause I wanted to post something. <BR> Photography, Sadisitic sex, maybe he had a partner. He does mention the monster. Maybe the monster is a snuff pedler. <BR>The monster made him do it.  <BR>Maybe his pedler said, hey I got a sick o here whos willing to go make the movies. <BR>Then he turns around and sells them. Off the wall theory. I know. <BR>Could be he just films them for himself. <!--/Text--></td></tr>
+<!--/Post: 6837-->
+<!--Post: 6842--><!--Time: 1108043199-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6842"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 5:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That is the suspected motive in some of the Juarez women killings also. sick<!--/Text--></td></tr>
+<!--/Post: 6842-->
+<!--Post: 6920--><!--Time: 1108076981-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6920"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 3:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->yeah. i believe david parker ray here in NM was involved in that trade.  maybe thats the NM connection ive been looking for.<!--/Text--></td></tr>
+<!--/Post: 6920-->
+<!--Post: 6921--><!--Time: 1108077303-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6921"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 3:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->could be<!--/Text--></td></tr>
+<!--/Post: 6921-->
+<!--Post: 7122--><!--Time: 1108203487-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7122"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Louise<!--/name--></b></a><br>Username: <!--field:uname-->Louise<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 2:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BModule: Your post with those links is the most profound I have seen recently. After reading every word of both of them, difficult and morbid though they were, I can definitely see BTK in this role as a snuff film maker...that would make his crimes 30 years ago possibly just practice attempts. He even speaks in that link of the necessity of disappearing from the crime scene area for a few years, writing in block letters with an old typewriter that can be discarded, and of many other extremely gruesome acts, some of which I imagine he performed. It gives a slightly different connotation of BTK, one much more ominous and definitely not lending itself to any lighthearted bantering. The fact that he admitted he has already done a snuff film &#40;at least that was my interpretation of his words&#41; is tremendously disturbing. A very appropriate find!<!--/Text--></td></tr>
+<!--/Post: 7122-->
+<!--Post: 7123--><!--Time: 1108204623-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7123"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Louise<!--/name--></b></a><br>Username: <!--field:uname-->Louise<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 2:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I forgot to add that he also speaks about removing the ID marks of a copier when making copies...and says to make a number of copies before sending one out! How can such similarities be ignored?! Whoever this person is he is an extremely dangerous criminal who apparently has killed before and admits it. The whole purpose of his writing is to instruct others in how to accomplish the gruesome acts of capturing, kidnapping and torturing helpless victims! He even goes so far as to reject someone else&#39;s suggestion that the victim should be palliated as not to show fear on their face for the film; this man PREFERS that the horror and fear SHOW for the purposes of better tantalizing the viewer. It is horrific reading in the extreme and I&#39;ll have to agree with Nugzter that it&#39;s as though someone knows the BTK case well.  <!--/Text--></td></tr>
+<!--/Post: 7123-->
+<!--Post: 7126--><!--Time: 1108210918-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7126"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 4:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Try to keep in mind that part of BTK&#39;s control trip is to terrorize the public, don&#39;t let him make you morbid. <BR> <BR>Not a day goes by that i don&#39;t think about what Josephene Otero went through, and at way too young an age to fathom why. But if you let him, or any terrorist freak you out to where you can&#39;t enjoy life, think how successful that makes them feel. <BR> <BR>You must make a conscious effort to lighten up you attitude toward the entire thing, yet keep the victims and their families in mind at all times. It&#39;s all about respect. If you respect the victims and their families, and give BTK no respect, even to fear him, he loses. Even if, heaven forbid, you find yourself face to face with him, go off in his face, loud and hard. I&#39;m almost positive that some of the unsolved murders in the area who died of stab and gunshot wounds were would be victims. But they fought him until he had to kill them quick. They died righteously, and a hell of a lot less horribly than those who didn&#39;t fight.  <BR> <BR>However if I were woman, I would have a dog and a pistol. BTK&#39;s bottom-feeding ass is going to be in for a surprise if he goes rural. People who live on farms and ranches are used to fending for themselves. A dog,inside the house, can hear a mosquito fart at 500 yards, and they will let you know when someone is around. Having the element of surprise on an intruder, and a suitable weapon &#40;never use a rifle indoors for protection. It&#39;s real easy to grab the barrel&#41;can make the difference. You might want to be sure to call the police if you have a chance first.  <BR> <BR>Anyhow, everybody dies of something and somehow, so don&#39;t be afraid to piss in BTK&#39;s post toasties if you need a break from his s---. <BR> <BR>And always remember...BTK is a really bad shot. <!--/Text--></td></tr>
+<!--/Post: 7126-->
+<!--Post: 7169--><!--Time: 1108252429-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7169"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Louise<!--/name--></b></a><br>Username: <!--field:uname-->Louise<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 3:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks BModule. Yes, one definitely does need to protect oneself from all this sordid ugliness. But back to your theory...BTK could have been building up to making a film with his earlier crimes. It&#39;s hard to imagine that he isn&#39;t involved with pornography in some way, though, considering what he did to Josephine as well as all of the others. There was so much emphasis on drawing the scene, the visual of it all! If he did not eventually become involved in making a snuff film then I still feel that he photographed his victims and used the pictures later in the smut industry. And, by the way, the person who wrote that article likely wasn&#39;t involved at all, though I find his advice about destroying copier ID marks extremely interesting! And your thought that BTK probably shot some of his victims as they were fighting him off is a good one.  <!--/Text--></td></tr>
+<!--/Post: 7169-->
+<!--Post: 7212--><!--Time: 1108280077-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7212"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 11:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It is proven that BTK takes photographs of the crime scene since the photos he sent of the Wegerle murder scene are the only ones that exist.&#40;EMTs removed the body in hopes of reviving her&#41;. <BR>BTK is already proven to be capable of torturing a little girl to death and taking photos to preserve the moment . It is not much of a stretch to imagine him taking movies or taping.  <BR> <BR>Also, from what I understand, the victims were tied in a way that at least one foot was in a  <BR>position that was impossible to maintain for very long. As they tired the rope attached to their feet pulled the rope tighter around their neck, strangling them. This would ensure that BTK was able to hold the camers and stay out of the picture.<!--/Text--></td></tr>
+<!--/Post: 7212-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/445">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/445" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

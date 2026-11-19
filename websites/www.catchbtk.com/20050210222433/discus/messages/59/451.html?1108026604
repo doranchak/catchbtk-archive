@@ -1,0 +1,347 @@
+<html>
+<!--Topic: 59/Messages To BTK-->
+<!--Me: 451/Feedback on &#34;Messages to/from BTK&#34;, Part 4-->
+<!--Level 1: 451/Feedback on &#34;Messages to/from BTK&#34;, Part 4-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 59-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Feedback on &#34;Messages to/from BTK&#34;, Part 4</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Feedback on &#34;Messages to/from BTK&#34;, P...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/59/59.html"><font color="#f7f7f7">Messages To BTK</font></a> &#187;
+Feedback on &#34;Messages to/from BTK&#34;, Part 4
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=59&page=451"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=59&page=451"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 6657--><!--Time: 1107928870-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6657"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 08, 2005 - 10:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Continued <a href="http://www.catchbtk.com/discus/messages/59/314.html?1107919701"> <b>from here</b></a>.<!--/Text--></td></tr>
+<!--/Post: 6657-->
+<!--Post: 6683--><!--Time: 1107961670-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6683"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tadpole<!--/name--></b></a><br>Username: <!--field:uname-->Tadpole<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 7:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sorry if this is a repeat, this was one of those &#39;slap myself silly&#39; thoughts last evening. <BR> <BR>IMO the isolated double letters is simple. <BR>Ligature = ties, binds = BTK &#39;signature&#39;  <BR> <BR>It&#39;s too easy to throw off the simple and dig for something with &#39;deeper&#39; meanings.  <BR><!--/Text--></td></tr>
+<!--/Post: 6683-->
+<!--Post: 6684--><!--Time: 1107961882-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6684"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nancydrew<!--/name--></b></a><br>Username: <!--field:uname-->Nancydrew<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 7:11 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;the rooster crows&#34; <BR> <BR>Today is the Chinese New Year, 2005 is the year of the rooster.<!--/Text--></td></tr>
+<!--/Post: 6684-->
+<!--Post: 6685--><!--Time: 1107961949-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6685"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 7:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->wonder if BTK, in his latest post: <BR>Posted on Tuesday, February 08, 2005 - 8:32 pm:      <BR> <BR>-------------------------------------------------- ------------------------------ <BR>tick tock goes the watch...when will &#40;i&#41;t strike again...maybe when the rooster crows? <BR> <BR> was inspired by this: <BR> <BR><a href="http://216.239.59.104/search?q=cache:YrqGo3d4EUUJ:www.spirit-net.ca/sermons/b-ad01su.html%2B%22%2Bwhen%2Bthe%2Brooster%2Bcrows%22%2B%2Bpoem%2B%2Bdeath&amp;hl=en" target=_top>http://216.239.59.104/search?q=cache:YrqGo3d4EUUJ: www.spirit-net.ca/sermons/b-ad01su.html&#43;%22&#43;when&#43;t he&#43;rooster&#43;crows%22&#43;%2Bpoem&#43;%2Bdeath&amp;hl=en</a> <BR> <BR>A READING FROM MARK 13:24-37  <BR> <BR> &#34;Therefore keep watch because you do not know when the owner of <BR>   the house will come back--whether in the evening, or at midnight, <BR>   or when the rooster crows, or at dawn.  If he comes suddenly, do <BR>   not let him find you sleeping.  What I say to you, I say to <BR>   everyone: &#39;Watch!&#39;&#34; <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6685-->
+<!--Post: 6686--><!--Time: 1107962108-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6686"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 7:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->or this one: <BR> <BR>Perhan&#39;s Dream <BR>After Emir Kusturica&#39;s Time of the Gypsies 1989 <BR> <BR>When the rooster crows  <BR>they will place a gold coin on each of his dead eyes <BR>the sun will set before the dance is done <BR>on the seventh day they will mourn him <BR>with trumpets and flirting for the last time <BR> <BR>Perhan&#39;s dream never ends  <BR>night after night the moon slips into his bed <BR>filling his head with unimaginable stories of chaos <BR>it is only when he wakes that Perhan stands on his own two feet <BR>and looks at himself flying across the highways <BR>humming a tiny gypsy song. <BR> <BR>  <BR><!--/Text--></td></tr>
+<!--/Post: 6686-->
+<!--Post: 6690--><!--Time: 1107963191-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6690"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 7:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->or this? is he using a folk song as inspiration again?: <BR><a href="http://216.239.59.104/search?q=cache:Ch7NBdEroD0J:mypcclinic.com/forums/archive/index.php/t-3889%2B%22%2Bwhen%2Bthe%2Brooster%2Bcrows%22%2B%2Bwichita&amp;hl=en" target=_top>http://216.239.59.104/search?q=cache:Ch7NBdEroD0J: mypcclinic.com/forums/archive/index.php/t-3889&#43;%22 &#43;when&#43;the&#43;rooster&#43;crows%22&#43;%2Bwichita&amp;hl=en</a> <BR> <BR>One of the most memorable folk songs included these lyrics:  <BR> <BR>&#34;When the rooster crows at the break of dawn, look out your window and I&#39;ll be gone. You&#39;re the reason I&#39;m traveling on, _______________________.&#34; <BR><!--/Text--></td></tr>
+<!--/Post: 6690-->
+<!--Post: 6695--><!--Time: 1107966507-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6695"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 8:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good work!! <BR> <BR>I hope he is not traveling or moving on.  I really do hope that is not the case.  That could only mean we will never know who he is.   <BR>All of his recent actions, including turning in two driver&#39;s licenses and giving a slight profile of himself to police, could be one last attempt to call attention to himself to recreate his legacy one last time?   <BR> <BR>I am willing to believe that each of the things mentioned above were all based on FROM MARK 13:24-37.  Meaning probably that BTK&#39;s mention of the crowing rooster at dawn is based on it as well.  I don&#39;t see how someone could mentione Rooster crowing at dawn and watching without having known about that verse in Mark.   <BR> <BR>Thanks... <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6695-->
+<!--Post: 6697--><!--Time: 1107966861-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6697"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 8:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->...tick tock goes the WATCH.. <BR>he says... <BR> <BR>OK. <BR> <BR>I did not realize watches go &#34;TICK TOCK&#34;.. watches not usually not loud enough to tick tock.   <BR> <BR>But...he says he is WATCHING.   <BR>&#39;tick tock goes the WATCH&#39;...is he saying he will only WATCH for so long.?? <BR> <BR>What is the significance of using the word WATCH in place of the word CLOCK when he says &#34;tick tock goes the.....&#34;   <BR>Should be &#39;tick tock goes the clock&#39;...instead he says &#39;tick tock goes the WATCH&#34;....is he saying he will only WATCH for so long? <BR> <BR>Just a thought to consider. <BR>I wonder if <!--/Text--></td></tr>
+<!--/Post: 6697-->
+<!--Post: 6702--><!--Time: 1107967665-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6702"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 8:47 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think he has another watch that belongs to another vitim<!--/Text--></td></tr>
+<!--/Post: 6702-->
+<!--Post: 6705--><!--Time: 1107969327-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6705"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Hmmm<!--/name--></b></a><br>Username: <!--field:uname-->Hmmm<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 9:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Older watches do tick tock...<!--/Text--></td></tr>
+<!--/Post: 6705-->
+<!--Post: 6707--><!--Time: 1107971123-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6707"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jilleng<!--/name--></b></a><br>Username: <!--field:uname-->Jilleng<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 9:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just found this reference to tick tock...i put in search &#34;tick, tock, watch&#34; and this came up.  It&#39;s from <a href="http://www.cowsinthebarn.com/archieves/00379.html..here" target=_top>www.cowsinthebarn.com/archieves/00379.html..here</a>&#39;s the entire message: <BR> <BR>&#39;Til The Cows Come Home <BR>come on, come on, turn a little faster...  <BR>« The Good, The Bad and The Ugly | Main | Check List »  <BR>July 01, 2003 <BR>Tick, Tock <BR>AAAAAAAAARRRRRRRRRRRRRGGGGGGGGGGHHHHHHHHHH. <BR> <BR>Less than 48 hours until I&#39;m on a plane, and they can&#39;t pass quickly enough. <BR> <BR>People might have to die. Watch for me on your evening news. <BR> <BR>Posted by mak at July 1, 2003 01:21 PM  <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6707-->
+<!--Post: 6714--><!--Time: 1107978766-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6714"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 11:52 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hmmmm..now that is interesting.  My grandfather worked for the railroad for 45 years...Cotton Belt..and he carried a watch on a chain...which I inherited after he died.  That thing does tick loud come to think of it. <BR> <BR>Good point.  <BR> <BR>Thank YOU!!<!--/Text--></td></tr>
+<!--/Post: 6714-->
+<!--Post: 6715--><!--Time: 1107978978-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6715"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 11:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oh one more thing...He italicizes the &#34;I&#34; in the word IT...giving us the impression that he could be referring to the clock &#40;it&#41; or himself &#40;i&#41; as to what will strike again...I think that is interesting.  He likes to leave things open to interpretation ...that is for sure. <BR> <BR> <BR>....tick tock goes the watch...when will &#40;i&#41;t strike again...maybe when the rooster crows?<!--/Text--></td></tr>
+<!--/Post: 6715-->
+<!--Post: 6718--><!--Time: 1107980504-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6718"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 12:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In other words he is not really saying what he will do <!--/Text--></td></tr>
+<!--/Post: 6718-->
+<!--Post: 6727--><!--Time: 1107984447-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6727"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 1:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here is a poem from a poem web forum that contain the line &#34;Tick tock the clock &#34; <BR> <BR><a href="http://64.233.183.104/search?q=cache:RBsbeCIyOccJ:allpoetry.com/Poem/458188%2B%22tick%2Btock%2Bgoes%2Bthe%2Bwatch%22&amp;hl=en" target=_top>http://64.233.183.104/search?q=cache:RBsbeCIyOccJ: allpoetry.com/Poem/458188&#43;%22tick&#43;tock&#43;goes&#43;the&#43;wa tch%22&amp;hl=en</a> <BR> <BR>Tick tock the clock chimes 11. <BR>Tick tock goes the watch in the lion&#39;s den. <BR>Tick tock the time piece strikes 12. <BR>Tick tock sounds the rooster in the kitchen <BR> <BR>Cry out O ye bright and tinkling bell <BR>your sounds are merry and gay. <BR>tock Tick fly the leaves from ground to tree. <BR>tock Tick fade the fissures from mountains <BR> <BR>tock Tick the tower gongs the mourning. <BR>Tick tock the tower begins the day.<!--/Text--></td></tr>
+<!--/Post: 6727-->
+<!--Post: 6734--><!--Time: 1107989541-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6734"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 2:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Exactly Skiller.  I think we all wish we could figure out his plan by deciphering a few lines from a forum and using google to find clues.  Ha! <BR> <BR>right...in other words, he is not really saying what he will do.  From what I understand, he has never stated what he is going to do before he does it.  ...nor has he ever warned anyone.  <BR> <BR>thanks...<!--/Text--></td></tr>
+<!--/Post: 6734-->
+<!--Post: 6741--><!--Time: 1107992538-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6741"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 3:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Featherw I have a suspicion he is up to no good,and plans to do something in the near future. <BR>I would still like to know who susan is . How would you get a list of names from 101st n to 53rdst n Seneca maybe the fire DPT?? Could this be area of next murder??  who knows he might be bluffing on last post<!--/Text--></td></tr>
+<!--/Post: 6741-->
+<!--Post: 6746--><!--Time: 1107993607-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6746"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 4:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Susan is KAKE-TV co-anchor Susan Peters.<!--/Text--></td></tr>
+<!--/Post: 6746-->
+<!--Post: 6756--><!--Time: 1107998574-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6756"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 5:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree Skiller. Like yourself, I suspect he is up to no good.  He is definately not going to give us any clues to his next plan.  <BR> <BR>Susan?  He says she is his prize.   <BR> <BR>Johno could be right...There is a Susan who is a co-anchor at KAKE right?  But why would he tell us the name of his next victim?  If he actually has a specific person in mind as his next victim, you can bet he won&#39;t give anyone the correct name of the person, but rather &#40;I think..&#41; he would give a false name of a person to MISLEAD as he always seems to do.  Naming a name is just another way he is misleading IMO.   <BR> <BR>He may have a next victim in mind.  But..I can almost be sure SUSAN is not her or his name.  <BR> <BR>If you need to get a list of specfic persons who live in the area you mentioned, I would suggest something complete...like a cross reference list...census bureau doc...something that is pretty recent.  If you feel the area you mentioned is his next area to strike at a victim, checking a cross reference for names of persons might be a shot.. <BR> <BR>But...I would not look for someone named SUSAN.  <BR> <BR>I think he might be bluffing too.  But...before he started presenting driver&#39;s licenses of his last victims just last year, he never BLUFFED, never gave hints, never gave warnings...he just killed without taunting beforehand.  Taunting came afterward.  Makes me wonder. <BR> <BR>Thanks.<!--/Text--></td></tr>
+<!--/Post: 6756-->
+<!--Post: 6764--><!--Time: 1108000830-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6764"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 6:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;tick tock goes the watch...when will &#40;i&#41;t strike again...maybe when the rooster crows?&#34; <BR> <BR>The year of the Rooster is 2005, but we&#39;re assuming that he&#39;s planning future events.  He could be reffering to previous victims.  <BR> <BR>Rooster  &#40; 1921 - 1933 - 1945 - 1957 -  1969 - 1981 - 1993 - 2005&#41; <BR> <BR>1993 is when Krisite Hatfield was murdered.  Nothing else happened in the other years.  So more than likely this theory of mine doesn&#39;t work out. <BR> <BR>But hey, it was a thought.<!--/Text--></td></tr>
+<!--/Post: 6764-->
+<!--Post: 6766--><!--Time: 1108001063-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6766"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Berkeley_street<!--/name--></b></a><br>Username: <!--field:uname-->Berkeley_street<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 6:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Come on people... How many other Susan&#39;s have a cold that he would know of and would send a post card wishing well?  SUSAN AT KAKE TV?!?  Duh!<!--/Text--></td></tr>
+<!--/Post: 6766-->
+<!--Post: 6771--><!--Time: 1108002160-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6771"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 6:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;tick tock goes the watch...when will &#40;i&#41;t strike again...maybe when the rooster crows?&#34;  <BR> <BR>Could watch mean &#34;nightwatch&#34;  <BR> <BR>Tick tock goes the night watch...when will &#40;I&#41; the night watch strike again...maybe at dawn? <BR> <BR>Hope not that BTK is a night watch at KAKE and plane to kill Susuan Peters when she shows up at work tomorrow morning!!! <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6771-->
+<!--Post: 6776--><!--Time: 1108003053-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6776"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 6:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->SKOV! Very interesting.  Now..I say that is worth considering.  Reading the sentence again I see exactly what you mean! <BR> <BR>Nightwatch... <BR>interesting.   <BR> <BR>I still doubt he is looking for an individual for which he gives us a name.  I really think he gives a name to mislead...but I could be wrong. <BR>Thanks..<!--/Text--></td></tr>
+<!--/Post: 6776-->
+<!--Post: 6779--><!--Time: 1108004508-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6779"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 7:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I guess you could be right on that he won´t give a real name on the other hand I think that he is getting more and more bold. <BR> <BR>I also think that is part of his plan.  <BR> <BR>Maybe he HAS decided that he wants to be caught but have planed to do it in a spectacular way that will make him the most famous Serial killer in US ever. Think of it IF he is an KAKE employe and always was &#34;one of the team&#34; and then he finish it all of with killing one of the &#34;talking heads&#34; iiihrr I just had this thought, what if he plans to kill her on air????? <BR> <BR>GOSH I think I have to go to beed now &#40;its 3.50 am here in DK&#41; I´m becomming a living nightmare thinking out movie scrips<IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0> urghhh!<!--/Text--></td></tr>
+<!--/Post: 6779-->
+<!--Post: 6781--><!--Time: 1108006507-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6781"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 7:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If BTK has  eyes on Susan Peters ,, to me that would be a slap in the face after all Kake has done for him. ofcourse Btk is a sico i would not put it past him. Susan is a very pretty lady i hope and prey she is not the one.<!--/Text--></td></tr>
+<!--/Post: 6781-->
+<!--Post: 6784--><!--Time: 1108008232-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6784"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 8:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You hope and PREY she is not the one?  Not making fun of your spelling Skiller...just know it is easy to misspell that word when you are thinking of a woman who could be PREYED upon by this guy. ha! <BR> <BR>He is a sicko alright...but I think if he wanted to PREY upon her, I am sure he would be caught red handed. I bet she is being watched around the clock along with other KAKE employees.  <BR> <BR>It certainly would be a slap in the face for BTK to stalk a woman from a station that has done so much for his publicity.  I agree. <BR> <BR>Thanks..<!--/Text--></td></tr>
+<!--/Post: 6784-->
+<!--Post: 6785--><!--Time: 1108008316-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6785"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 8:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Skov...you may have a point there.  Maybe he is naming his next victim...part of his ultimate plan as you mentioned...and part of his plan of finally getting himself caught..because maybe he wants to.  Good thinking.<!--/Text--></td></tr>
+<!--/Post: 6785-->
+<!--Post: 6799--><!--Time: 1108010981-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6799"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 8:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;Pity about poor Catherine. Tick tock,&#34; said Anythony Hopkins in <i>Silence Of The Lambs.</i> This line has been used in parodic fashion in entertainment snippets ever since. I don&#39;t know that this is the real BTK posting, or if the &#34;tick tock&#34; references the film, but if so his stealing the material of someone else certainly fits. ;&#41;<!--/Text--></td></tr>
+<!--/Post: 6799-->
+<!--Post: 6800--><!--Time: 1108011187-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6800"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 8:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There was &#34;Kathryn&#34; Bright. It just occurred to me. Well, if the film caused someone to quote it in relation to the BTK crimes, that&#39;s a little sick.<!--/Text--></td></tr>
+<!--/Post: 6800-->
+<!--Post: 6808--><!--Time: 1108016217-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6808"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 10:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Susan Peters was the obvious person that came to mind when I read that post and I mentioned it overtly once then and again as an aside, in a less obvious way by mentioning that camera men and technitians at local TV stations cannot be ruled out if theoriginal DNA specimens from BTK were false plants. I&#39;m sure that someone, who knows her, has noticed all of the recent &#34;heads&#39; up&#34;, and she has taken appropriate measures. <BR> <BR>The day after his posting there was some banter about some talk on the chat line which had spilled onto the message board. One of the posters, when speaking to &#39;the alledged BTK&#39; signed their post Susan. taBTK may have been referring to a conversation on the chat line. <BR> <BR>The &#39;rooster crowing&#39; and the &#39;tick tock&#39; referenses are so well-worn in prose and poetry that I went with my first impressions &#40;passing time&#41;&#40;rural, morning&#41;. <BR> <BR>THE MOST IMPORTANT LITERARY ALLUSION, I believe ,is the &#34;oh Anna&#34; poem. If anyone has found ANY additional info on that, please post it. <BR> <BR>This is one piece of confirmed BTK evidence that the public has available to us, that the police HAVE ASKED for our help on, that may shed some light on the case. <BR><!--/Text--></td></tr>
+<!--/Post: 6808-->
+<!--Post: 6822--><!--Time: 1108021065-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6822"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 11:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->To Lctrip / Toasties in rural drop <BR> <BR>You mentiomed the Chinese New Year &#40;Year of the Rooster&#41;, as did Nancydrew above, as did Aaron Brown on CNN &#40;9pm CST&#41; this evening. At the end of his program each night, a rooster crows and he shows the newspaper &#39;headlines&#39; from several prominant newspapers that will appear the &#39;following morning&#39;.<!--/Text--></td></tr>
+<!--/Post: 6822-->
+<!--Post: 6829--><!--Time: 1108026604-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6829"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 1:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think I&#39;ve got the doubled letter thing.  They&#39;re genotypes.  Like GG, gg, and &#40;especially&#41; Gg, as in &#34;FO Gg y&#34;.  Could be any letter - G is just the prototypical one.  He said &#34;way off bases&#34; &#40;as in nucleic acid bases - DNA&#41; when he was getting tired of us not getting it.  If you follow that line of reasoning, RIAC is out there in google-land - Italian Register of Chromosome Anomalies &#40;Registro Italiano delle Anomalie Cromosomiche - R.I.A.C.&#41;.  Could just be a poser, needling us on the chimera thing, or maybe BTK is saying the swabathon hasn&#39;t even come close to him yet.  This sort of stuff, including DNA fingerprinting, is now undergrad biochem, so it&#39;s not unbelievable that BTK would know it.  If Tom really thinks this guy is BTK, then it may prove that he&#39;s no dummy on DNA tech.  Or it could just be &#34;Prince Albert in a can of agarose.&#34;<!--/Text--></td></tr>
+<!--/Post: 6829-->
+<!--Post: 6836--><!--Time: 1108035316-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6836"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 3:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Pax - good post.  Very interesting. <BR> <BR>I think you are on to something.  One thing no one has ever satisfactorily answered for me is - where did the PD get the DNA?  I am begining to think they don&#39;t really have any. <BR> <BR>I think the swabbing is a psychological plan, intended to corner an unwary killer.    <BR> <BR>I would certainly like to be informed if someone knows information to the contrary.<!--/Text--></td></tr>
+<!--/Post: 6836-->
+<!--Post: 6841--><!--Time: 1108042116-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6841"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Essevi<!--/name--></b></a><br>Username: <!--field:uname-->Essevi<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 5:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tippy- If LE has no DNA, then how did they clear Mr. Valadez?<!--/Text--></td></tr>
+<!--/Post: 6841-->
+<!--Post: 6853--><!--Time: 1108050705-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6853"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 7:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A rock song comes to mind about a Rooster,  &#34;yea here comes the rooster ah yea.&#34;  can someone help me with the lyrics and the artist maybe there is some message .<!--/Text--></td></tr>
+<!--/Post: 6853-->
+<!--Post: 6854--><!--Time: 1108051526-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6854"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ciajoe<!--/name--></b></a><br>Username: <!--field:uname-->Ciajoe<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 8:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Artist: Alice In Chains <BR> <BR>Lyrics:  <BR>Ain&#39;t found a way to kill me yet <BR>Eyes burn with stinging sweat <BR>Seems every path leads me to nowhere, Mmm <BR>Wife and kids household pet <BR>Army green was no safe bet <BR>The bullets scream to me from somewhere, Mmm <BR> <BR>Here they come to snuff the rooster <BR>Yeah here come the rooster, yeah <BR>You know he ain&#39;t gonna die <BR>No, no, no oh, you know he ain&#39;t gonna die <BR> <BR>Here they come to snuff the rooster <BR>Yeah here come the rooster, yeah <BR>You know he ain&#39;t gonna die, oh <BR>No, no, no oh, you know he ain&#39;t gonna die <BR> <BR>Walkin&#39; tall machine gun men <BR>They spit on me in my home land <BR>Gloria sent me pictures of my boy, Mmm <BR>Got my pills &#39;gainst mosquito death <BR>My buddy&#39;s breathing his dyin&#39; breath <BR>Oh God please won&#39;t you help me make it through <BR><!--/Text--></td></tr>
+<!--/Post: 6854-->
+<!--Post: 6858--><!--Time: 1108051823-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6858"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skiller<!--/name--></b></a><br>Username: <!--field:uname-->Skiller<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 8:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ciajoe  Thank you very much, as you know Btk is into music.<!--/Text--></td></tr>
+<!--/Post: 6858-->
+<!--Post: 6862--><!--Time: 1108053915-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6862"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Amandab<!--/name--></b></a><br>Username: <!--field:uname-->Amandab<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 8:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;A READING FROM MARK 13:24-37  <BR> <BR>&#34;Therefore keep watch because you do not know when the owner of  <BR>the house will come back--whether in the evening, or at midnight,  <BR>or when the rooster crows, or at dawn. If he comes suddenly, do  <BR>not let him find you sleeping. What I say to you, I say to  <BR>everyone: &#39;Watch!&#39;&#34; &#34; <BR> <BR>Skov- <BR> <BR>Part of this was a line in &#34;The Shawshank Redemption&#34;, too. I&#39;m not sure if this side note is of any value, but I wanted to add it. <BR> <BR>-Amanda<!--/Text--></td></tr>
+<!--/Post: 6862-->
+<!--Post: 6865--><!--Time: 1108055274-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6865"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 9:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There is a &#34;Red Rooster market Ldt.&#34; in Wichita, about 4 blocks south of the phone booth BTK called in the Nancy Fox murder. Is he going to do a drop/murder around there? <BR> <BR>Red Rooster Market Ltd, &#40;316&#41; 262-6881, 520 E Douglas Ave, Wichita, KS 67202   <BR> <BR>here is a map: <BR><a href="http://maps.yahoo.com/maps_result?ed=MFixkup_0TrouqrksLI.g4kEyxorNZnB2oE-&amp;csz=WICHITA%2BKS%2B67202&amp;country=us&amp;cat=&amp;trf=0" target=_top>http://maps.yahoo.com/maps_result?ed=MFixkup_0Trou qrksLI.g4kEyxorNZnB2oE-&amp;csz=WICHITA&#43;KS&#43;67202&amp;count ry=us&amp;cat=&amp;trf=0</a><!--/Text--></td></tr>
+<!--/Post: 6865-->
+<!--Post: 6866--><!--Time: 1108056009-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6866"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 9:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks Amandab <BR> <BR>Anything COULD be of value, we have to shoot wide  and somtimes half blind to hit the target in this case IMO, and best case senario; suddenly somone here &#40;or the police who probably read this forum and have MUCH more info avaible&#41; can see a connection between somthing posted here and an individual or other evidence, so keep up the good work.<!--/Text--></td></tr>
+<!--/Post: 6866-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="59/451">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Post:</b>
+</font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Username:</b>
+</font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a public posting area.  Enter your username and password if you have an account. Otherwise, enter your full name as your username and leave the password blank.  Your e-mail address is optional.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Password:</b>
+</font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>E-mail:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><input type="text" name="email" value="" size=51></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Action:</b>
+</font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=59/451" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

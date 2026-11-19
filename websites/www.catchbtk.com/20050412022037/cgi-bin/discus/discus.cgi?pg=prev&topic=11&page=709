@@ -1,0 +1,282 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 705/REVENGE THEORY-->
+<!--Level 1: 705/REVENGE THEORY-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: REVENGE THEORY</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">REVENGE THEORY</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+REVENGE THEORY
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=705"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=705"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 11234--><!--Time: 1110519676-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11234"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 9:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Because Rader was turned down to be a candidate in the Wichita Police Department, he had the anger build up and he would release it on his victims. At the same time he got revenge by making the police look bad when they couldn&#39;t solve the cases. Video called &#34;Dennis Rader Denied Police Position?&#34; at the website: <BR><a href="http://www.kake.com/home/headlines/1354787.html" target=_top>www.kake.com/home/headlines/1354787.html</a> <!--/Text--></td></tr>
+<!--/Post: 11234-->
+<!--Post: 11239--><!--Time: 1110521256-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11239"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 10:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->We had assumed before that btk had tried to become a police officer, but do to his psyc. Evaluation would have been turned down. I suppose because he went to school all that time and wasn&#39;t accepted he had the I will show them attitude, Let&#39;s face it though he killed people because he was a sociopath and liked killing. I believe the taunting of the LE was for his own personal satisfaction yes to show he was smarter than they were.<!--/Text--></td></tr>
+<!--/Post: 11239-->
+<!--Post: 11240--><!--Time: 1110522008-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11240"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 10:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It seems Rader&#39;s inability to qualify for the Wichita Police Department may have been the catalyst for the series of murders. The factors motivating him would be his inability to develop relationships with women he considered &#39;attractive&#39;, a turbulent relationship with his father and the belief he possessed superior intelligence and could avoid apprehension.  <BR> <BR>I suspect Paula was a consolation prize. He harbors resentment towards the woman or women that rejected him. Rader may have resented his father&#39;s discipline and the two had an acrimonous relationship. His college degree and high position in the local parish would have reinforced his belief he possessed superior intelligence and was above the Wichita Police Department and its force of &#39;foolish&#39; officers. His local government position would have added insult to injury for the investigators. <!--/Text--></td></tr>
+<!--/Post: 11240-->
+<!--Post: 11242--><!--Time: 1110523511-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11242"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 10:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree, but, boy are you gonna catch hell about Paula.<!--/Text--></td></tr>
+<!--/Post: 11242-->
+<!--Post: 11256--><!--Time: 1110532454-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11256"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 1:14 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I will amend the statement concerning Paula Rader and apologize for the insensitive statement. I believe a young woman rejected Rader&#39;s affection. He could not cope with it and the desire to avenge the loss of honor manifested in violent sexual fantasies. He desired the woman so much he murdered at least eight women. His relationship with Paula may seem &#39;normal&#39; on a superficial level, but delve below the surface and I doubt his love for her is comparable to his desire for the woman who rejected him.<!--/Text--></td></tr>
+<!--/Post: 11256-->
+<!--Post: 11258--><!--Time: 1110536717-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11258"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 2:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That&#39;s similar to the Bundy theory per Ann Rule. She may be dead on accurate, too. I&#39;m more impressed by Bundy&#39;s Death Row interviews, where the sociopath theory trumps the rejected-by-his-ideal-woman theory. But that&#39;s the frustrating part -- we&#39;ll never know. <BR> <BR>Rader will talk, grant interviews, etc., I&#39;d bet. But again, will he really be honest? I doubt it. Going back to Ann Rule, her seminal book about Bundy contains this observation by Rule, &#34;I always believed that Ted Bundy would rather die than be humiliated.&#34; I agree with her and it really reminds me of Rader; any questions asked where the correct answer would be humiliating are the questions Rader is most apt to lie about, in my opinion. Unfortunately, everything Rader might say about himself, the questions which result in subjective answers and cannot be proved or disproved will probably be accepted as fact by most. Oh, well.<!--/Text--></td></tr>
+<!--/Post: 11258-->
+<!--Post: 11271--><!--Time: 1110549652-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11271"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Essevi<!--/name--></b></a><br>Username: <!--field:uname-->Essevi<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 6:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I can&#39;t seem to find the article, but I read somewhere that Dennis and Paula were childhood sweethearts and had dated throughout High School. I will keep looking and try to verify this.<!--/Text--></td></tr>
+<!--/Post: 11271-->
+<!--Post: 11275--><!--Time: 1110550067-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11275"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 6:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe she graduated in 1966, from the same highschool the worked at the va hospital. I think he pick her because she was nice, and cared about people, a quality he didn&#39;t have. I also believe he could control her and the relationship and that was the part that stroked his ego.<!--/Text--></td></tr>
+<!--/Post: 11275-->
+<!--Post: 11291--><!--Time: 1110559121-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11291"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Foxfire<!--/name--></b></a><br>Username: <!--field:uname-->Foxfire<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 8:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think that applying for the police dept. was just a cover.  I mean that YES he wanted to be a police officer, but ultimately, that would have been his cover to kill and also be &#34;above the law&#34; in his mind.  When that didn&#39;t work out, of course he was angry.   <BR> <BR>However, the rest of his life, he just applied for other types of work that would still enable him to be out in public ligitimately while casing people&#39;s houses. <BR> <BR>Also, he maried Paula because she WAS/IS nice, lovely, etc.  She did not &#34;set him off&#34; because she was sweet natured and complacent.  He could rule the roost and be &#34;head of the household&#34;. <BR> <BR>I think many of his killings were revenge related as in &#34;you don&#39;t cross Dennis and get away with it&#34;.  You&#39;ll ultimately pay whether it be in court with a ticket for real or trumped up ordinance or animal violations or you&#39;ll pay with your life -- eventually -- and if he thought he could get away with it. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 11291-->
+<!--Post: 11328--><!--Time: 1110590376-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11328"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 11, 2005 - 5:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree FoxFire, I believe Rader just wanted the power, and he was already killing, maybe he thought if he was so good at a crime  scene that he could be a cop, I know Strange.<!--/Text--></td></tr>
+<!--/Post: 11328-->
+<!--Post: 11371--><!--Time: 1110620002-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11371"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 1:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If the eyeglass theory holds water i.e. glasses make a woman seem naive, meek, innocent &#40;or unrecognizable if they have super powers&#41; and that is what he sought in his victims, maybe the fact that he and Paula grew up together put her in a position where he looked at her as a woman who was the opposite of the victim profile, yet knowing her and trusting her already, she was no threat as would be any other woman who appeared competent and intelligent.  <BR> <BR>Now before y&#39;all start, I&#39;m not saying that his victims were incompetent and stupid, just that he could fantasize about them that way because of the glasses<!--/Text--></td></tr>
+<!--/Post: 11371-->
+<!--Post: 11374--><!--Time: 1110622285-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11374"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->J_eric<!--/name--></b></a><br>Username: <!--field:uname-->J_eric<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 2:11 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t see this &#34;revenge theory&#34; as a correct evaluation for the murders.  Seems more of a &#34;thrill spree&#34; for Rader&#39;s own warped mind.  Particularly his recent drops of messages.  Had he merely wanted revenge, he could have dumped sugar in the police dep&#39;t gas tank, vandalized police cars or some such.  &#40;Yes, it can be done; in Van Nuys, CA, a transient set the entire police garage on fire one morning.&#41;    <BR> <BR>&#34;Multiple personalities&#34; at various times could account for it.  His relationship with his wife could have been genuine affection, remember they raised two children, and he was seemingly an asset to the community.  And he did become a &#34;police officer&#34; of sorts &#40;animal control, building inspector&#41;.<!--/Text--></td></tr>
+<!--/Post: 11374-->
+<!--Post: 11385--><!--Time: 1110647734-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11385"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lctrip<!--/name--></b></a><br>Username: <!--field:uname-->Lctrip<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 9:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky made an interesting comment in the Marine Hedge thread of &#34;Possible BTK Victims&#34; that prompted me to write a response about a theory I&#39;d been kicking around in my head.  Posting it again here because I&#39;d like to get it some visibility and see what the group thinks..... <BR> <BR>The thought has actually crossed my mind several times that perhaps the motive for all these murders was that Rader was taking out people that wronged his wife/family - defending the family honor so to speak. As the victims suffered he would tell them who he was and how it was so wrong to cross his wife or kids and now they would die for that transgression. Perhaps the Otero&#39;s were a personal revenge for him and he found a sick sense of satisfaction in it. Later ones could have been either for himself or his wife. Murders committed even later were exacting revenge for anyone in the family - himself, his wife, and his kids - perhaps even his parents, in-laws, or siblings.  <BR> <BR>I really don&#39;t want to believe this is so because it would mean someone in his family should have been able to connect the dots &#40;boy, evertime I tell hubby/dad about this person who dissed me they end up dead.....&#41; but stranger things have happened in this world.  <BR> <BR>Ironically it was reading about the supposed blogs posted by Kerri Rader&#39;s husband telling of her waking screaming in the night that got me thinking about this. Maybe she wasn&#39;t the victim of abuse, but knew something &#40;on a conscious or unconscious level&#41; about her father killing people. I personally never saw any of the blogs, so I&#39;m not sure exactly what was and was not stated.  <BR> <BR>Had Kerri Rader looked into her father&#39;s secret shed when she was younger? Did she perhaps see him enter Ms. Hedge&#39;s home on the day she went missing? As a child growing up there are innumerable opportunities to observe your parents as they really are, not how they present themselves to the public. Additionally, a child by nature is inquisitive and very observant and may notice odd little things that most adults miss. And finally most kids tend to be curious about &#39;forbidden&#39; areas and snoop around when given an opportunity &#40;although my experience finds this trend tends to run much stronger with boys as opposed to girls&#41;.  <BR> <BR>Also working against this theory is all the information that is coming out about Rader - the control, the bullying &#40;of some&#41;, the ego/power trip, etc. This information does seem to paint a picture of someone capable of committing these monstrous acts without needing &#39;motivation&#39; from others. Yet, he also seems like the type who would overreact to the little &#39;disses&#39; that are occasionally thrown our way. Some of the information we know about him infers that he was courteous and respectful to the women he worked with and dealt with at church &#40;not allowing dirty jokes to be told around them, helping with errands, etc.&#41; - maybe he had real issues with anybody who he felt wronged his wife or daughter. &#40;And obviously he had two very different personas because it seems he had no apparent problems with torturing and murdering women and children&#41;.  <BR> <BR>Is it possible that in his own twisted mind Rader was being nothing more than a white knight exacting revenge on anyone who dare disrespect his family&#39;s good name &#40;good name no more!&#41;? <BR> <BR>Thoughts anyone?  <!--/Text--></td></tr>
+<!--/Post: 11385-->
+<!--Post: 11398--><!--Time: 1110668643-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11398"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 3:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I doubt a sadistic psychopath is concerned with avenging injustices against his family. Dennis Rader&#39;s psyche is primarily concerned with satisfying his violent sexual fantasies and abusing and punishing individuals who wronged him. He believed his family&#39;s main purpose was to provide camouflage in the event the Wichita Police Department questioned him or his family in the BTK Strangler case. Rader derived gratification from dominating and controlling his victims and his family. He would never surrender control to reverse injustices to his wife and children, unless he was the beneficiary.  <BR><!--/Text--></td></tr>
+<!--/Post: 11398-->
+<!--Post: 11401--><!--Time: 1110672501-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11401"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 4:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Seems like everytime there was a stressor in his life, A birth, a family get together, being out of work, Rader was able to keep it together in front of his family, yet inside knew he wasn&#39;t in control of the situation, He took it out on others. For us these situations are considered normal stressors, we deal with them in our own indiviual ways, trying not to affect others around us. But if we were Sociopaths, we wouldn&#39;t care about how our need to deal with this backed in the corner idea affected anyone. Just an idea. <!--/Text--></td></tr>
+<!--/Post: 11401-->
+<!--Post: 11412--><!--Time: 1110680124-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11412"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 6:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Let me toss this out as a &#34;f&#39;r instance&#34;. The guy I&#39;m about to describe is not a BTK by any stretch but it might help to clarify the &#34;control&#34; thing. <BR> <BR>I worked for a company which involved the service industry. My original boss was a screw-up and I knew it, but I was going to school at the time and it was a paycheck. After a time he got fired and a new guy was brought in.  <BR> <BR>The new guy was a big guy, but as young as I was and not particularly threatening looking. He was a company man though, and with a swagger and a Policies and Proceedures Manual under his arm, he was going to &#34;turn the place around&#34;. He rearranged everything in the workplace, the furniture in his office, moved the telephones, even the dumpster. <BR> <BR>I was not an intrigal member of the operation at first and didn&#39;t pay a lot of attention to him or him to me until, after a stressful week or two he had either fired or driven off everyone above me and found myself appearing on his radar. <BR> <BR>After an impromptu &#34;come to Jesus&#34; meeting at quitting time, where he had outlined, in no vague terms, the shortcomings of me and my fellow workers, I knew that my days were numbered. I felt that the paycheck wasn&#39;t worth the pain, but at the same time I wanted to find something new before quitting. <BR> <BR>He obviously had picked up on my lack of enthusiasm for his new society because he began to watch and correct my every move. It was right before Christmas and even minimum wage jobs were hard to find, so things got tense. <BR> <BR>Things deteriorated to the point where each day I made the decision to stick it out one more day or just not show up. It became such a grind that I couldn&#39;t even take the agrivation seriously, and having nothing to lose, one day decided that if he wanted to control my every move, that I wasn&#39;t going to move without asking him first. <BR> <BR>We just happened to be working on a special project at the time, a simple one, but none the less there was plenty of opportunity to ask question after question after question. <BR> <BR>Well, the whole thing backfired on me and he eagerly answered each one, tirelessly, and in detail. <BR> <BR>That was a Friday so there was some down time before Monday. I&#39;d pretty much forgot about it till I got to work. But when I started back up again he was like a different guy. Suddenly he was all &#34;use your own judgement&#34; and &#34;I&#39;ll trust you to handle it&#34; and I suspiciously went back to doing things the way I&#39;d been doing them all along. <BR> <BR>I worked for him for a little more than a year after that, and though we were never &#34;best buds&#34; or anything he was off my case. Eventually the furniture and equiptment drifted back to where it was originally the P&amp;P manual ended back up on the shelf and that was that. <BR> <BR>The thing I noticed, though, was that he did the same song and dance each time a new person entered his sphere. Salesmen, repairmen, even clientele to an extent, who projected any authority would put his back up, making him cold and competitive. But he wasn&#39;t terribly picky about his victories, as soon as he felt &#40;in his own mind&#41; that he had backed somebody down, they were okay by him, unless they were like him, then it would become a polite, but non-resolvable stalemate. I always wondered what would happen if one of those occured over something that neither would back down on. <BR> <BR>The point of all this is that everyone had an opinion of the guy, either he was a great guy or an a&#42;&#42;h&#42;&#42;&#42;. It all depended of if you ran afoul of his vetting process, and the key to that was if you acknowleged his &#34;authority&#34;.  <BR> <BR>This was an intelligent guy who was noticably large and had been raised in a small town. He was used to being taken seriously and that attitude followed him where he went.  <BR> <BR>I&#39;ve been thinking that if you opened this guys skull and loosened a couple of screws and then turned him loose, you would pretty much have a Rader.<!--/Text--></td></tr>
+<!--/Post: 11412-->
+<!--Post: 11421--><!--Time: 1110688976-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11421"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 12, 2005 - 8:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->from bmod: The point of all this is that everyone had an opinion of the guy, either he was a great guy or an a&#42;&#42;h&#42;&#42;&#42;. It all depended of if you ran afoul of his vetting process, and the key to that was if you acknowleged his &#34;authority&#34;.  <BR> <BR>I agree completely, I have been a woman in a mans field for a long time, &#40;I work with engineers&#41; and there was one man that I had to play dumb with, ask lots of questions, let him explain things, as soon as I gave over the power to him, I was his favorite drafter, and he has spoken highly of me, and complimented me over the years &#40;18&#41;, He never compliments ANYONE. To me it was quite obviously an inferiority complex he would try to cover with all his pushiness and superior knowlege. I really hate seeing a smart woman play dumb, but that is the ONLY way I could&#39;ve ever lasted with him. How does this relate to rader? <BR>I dont know, maybe I just missed my keyboard today, as I was at a family party all day. <BR><!--/Text--></td></tr>
+<!--/Post: 11421-->
+<!--Post: 11678--><!--Time: 1111021824-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11678"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 5:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Bmodule and Itty&#39;s posts remind me of an anecdote of Roy Hazelwood&#39;s. <font color="0000ff">&#34;I was in the army many years ago, and once worked for a sadistic officer. At one point he counseled me to put my house up for sale because I was about to be transferred. I did so and quickly found a buyer. When I told the officer of the sale and asked when I would be transferred, <b>he smiled and said that he had not made up his mind, adding that I should have checked with him before disposing of my residence.</b> I knew this game. <b>He enjoyed tormenting people to prove his power over them.</b> So I didn&#39;t plead with him, as he hoped I would. I did not point out that I now faced enormous financial, not to mention personal, difficulties. <b>Instead, I returned his smile and said I was content either way because my wife and I had intended to sell since we wanted a larger home. His smile disappeared. The next day I was notified that my transfer orders were on the way.&#34;</b></font> From <i>Dark Dreams</i>, Roy Hazelwood and Stephen Michaud. 2001, St. Martins Press. <BR> <BR>There is a &#34;sadistic personality disorder,&#34; whereby a sadistic person gains pleasure from causing others pain or discomfort, usually in a social or work environment and most often to subordinates or perceived inferiors. He may even emotionally or physically abuse an individual but unless he receives a <i>sexual</i> thrill from this, he isn&#39;t a sexual sadist. We&#39;ve all come into contact with one or two of these, I&#39;d imagine. I certainly have. One boss I had seemed to live in order to deride every employee as frequently as he  could and in front of as many people as possible. I wasn&#39;t one of the top recipients of his cruelty but as the job was part-time for me, I did say to him, one-on-one in his office, that I was prepared to sue him for his abusive remarks if he lied to my future employer -- this conversation occurred when I quietly submitted my two weeks notice -- and of course I reminded him I had witnesses. What was more, I added that if someone else sued him I would gladly act as a witness for them. During my last two weeks he said not one thing to me and when my future employer did contact him, he told them I was a good employee. There really is a lot to the playground bully scenario; don&#39;t cower from him; instead stand up to him, and you&#39;ve demolished his control. <!--/Text--></td></tr>
+<!--/Post: 11678-->
+<!--Post: 11730--><!--Time: 1111085995-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11730"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 17, 2005 - 10:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George said: I always believed that Ted Bundy would rather die than be humiliated.&#34; I agree with her and it really reminds me of Rader. <BR> <BR>If we go back to the beginning when Rader was in the Air Force, and follow to the first killings that we know of. Then the pattern of thinking would be: <BR>Rader in the AF recieved badge in marksmanship, had intended to become a cop when he got out of the military, for the power or control that he thrived on. He was not accepted into the police Department because of something in his service record. and knew this may become an issue even when he was taking all those night classes, It would have been a major stressor and Rader is the kind of man who can&#39;t stand to be disrespected. This along with the other major dysfunctions in his manhood, made him angry and he felt he could relate to Zodiac. To revere someone, you have to show that the pattern of praise will emulate them so rader tried to copy Zodiacs patterns. Hewould never again get the respect or control he felt he had gotten in the AF as a SGT. and that may be part of the reason he wore his uniform during the murders, to give him that power, that he would have gotten in a police uniform. As a soldier in the Navy, when I put my uniform on, I became a different person, stronger more sure of my purpose. I believe he felt the same way<!--/Text--></td></tr>
+<!--/Post: 11730-->
+<!--Post: 12428--><!--Time: 1112212282-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12428"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 30, 2005 - 11:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->When I renew my license, I dress up for my photo. But then again, I am a woman. It surprised me that in his 2000 driver&#39;s license DR is wearing his compliance officer uniform. Having a uniform, and the control that comes with it, is extremely important to him.  <BR>-Deb <BR> <BR><a href="http://members.dodo.com.au/kbears/btkphoto.htm" target=_top>http://members.dodo.com.au/kbears/btkphoto.htm</a><!--/Text--></td></tr>
+<!--/Post: 12428-->
+<!--Post: 12476--><!--Time: 1112285382-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12476"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 31, 2005 - 8:09 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Being photographed in his uniform also sends a signal to law enforcement should they stop him. He may have hoped that it would elicit more respect due to comradery while putting him on a more equal footing with the officer. Some probation officers put their DL in their badge holder. That way LE could see the badge.<!--/Text--></td></tr>
+<!--/Post: 12476-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/705">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/705" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

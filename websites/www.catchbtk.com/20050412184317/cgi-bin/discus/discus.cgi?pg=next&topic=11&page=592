@@ -1,0 +1,252 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 593/Data Dump-->
+<!--Level 1: 593/Data Dump-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Data Dump</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Data Dump</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+Data Dump
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=593"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=593"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 9185--><!--Time: 1109412664-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9185"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 2:11 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This is all academic now – but, I would like to clean out my BTK closet. I invite all fellow hunters to do the same on this thread. <BR>_ _ _ _ _ _ _ _ _ _ _ _ _ <BR> <BR>In the early 1950s he built and operated a ham radio. <BR>-WPD Nov 30, 04 <BR> <BR>Ham Radio = Police Radio <BR> <BR>A phone call save them &#40;the Vian children&#41; <BR>-BTK Feb. 10/78 <BR> <BR>This never made sense to me. How a bout a dispatch call that was too close for comfort coming over the scanner he kept in his murder kit. That’s what save&#40;d&#41; them. <BR> <BR>_ _ _ _ _ _ _ _ _ _ _ _ _ <BR> <BR>Grandfather played the fiddle and died of a lung disease = Old Manor violent asphyxiation. <BR>What happened on Oldmanor Road? Anyone? <BR> <BR>- - - - - - - - - - - - - <BR>  <BR>In Cold Blood <BR> <BR>The bloody boot print at The Otero’s was intentionally made by BTK in tribute to Perry Smith and Dick Hickock as well as the blind cords, the blaring radio, the use of the basement and the overturned purse. BTK disguised himself as the dark complected Perry Smith. <BR> <BR>The fingerprint on the chair was, as Ed Neil suggested, a Zodiac tribute. If there is no match then I believe BTK brought a “spare” finger on ice from an earlier victim.  <BR> <BR>Young ladies’ brassieres in the 1970s were never dark in color. It was a bathing suit top. It was her secret. <BR> <BR>_ _ _ _ _ _ _ _ _ _ _ _ _ <BR> <BR>Secret Witness <BR> <BR>The Otero Case letter was left in a mechanical engineering textbook in the central branch of the Wichita Public Library in October of 1974. I don’t believe the actual date of discovery has been made public.   <BR> <BR>October 15th 1974 was a Tuesday. The only other Tuesday the 15th in 1974 was in January, the date of the Otero murders. The temperature in Wichita that day ranged from 63c to 33c. The WPL central branch was open until a very nippy 9:00pm. <BR> <BR>I think the book is Basic Machines and How They Work, by the U.S Bureau of Naval Personnel. <BR> <BR>The gloves really were superfluous, outside of keeping those icy hands warm. The applied physics section in a public library occupies a lonely aisle. It’s not exactly the kind of place one would go to meet girls. <BR> <BR>If the coast was clear, two handkerchiefs would get the job done nicely. <BR> <BR>This drop was meticulously planned and, as always, he created a disguise to suit his needs. <BR> <BR>BTK may have waited several days to announce the existence of the letter. As Ed Neil stated, October 22, 1974 was “precisely five years to the day after someone claiming to be the Zodiac called Oakland PD… <BR> <BR> I believe the WPD placed a duplicate textbook back on the shelf after the discovery as they felt it could be the killer’s preferred point of distribution for future communication. <BR> <BR>_ _ _ _ _ _ _ _ _ _ _ _ _ <BR> <BR>Something Nancy Fox said to BTK actually disturbs him to this day, no matter how much he punished her for it. It is part of the reason he telephoned if not entirely in tribute to Zodiac. <BR> <BR>_ _ _ _ _ _ _ _ _ _ _ _ _ <BR> <BR>Kathryn Bright is a definite BTK victim. <BR> <BR>In addition to the fact that the perennially discreet WPD lists her as such, consider the parting shot from the Otero Case letter sent six months after the Bright attack. <BR> <BR>“P.S. Since sex criminals do not change their <BR>M.O. or by nature cannot do so, I will not <BR>change mine” <BR> <BR>BTK,  October 1974 <BR> <BR>After confirming his responsibility for the frenzy at the Oteros, a sex criminal attempts to erase any connection to the Bright fiasco. He was frightened of the eyewitness. <BR> <BR>A sex criminal had quite a struggle outside the death spot. <BR>A sex criminal changed his M.O. when he panicked. <BR>A sex criminal shied away from adult male victims for good after Kevin. <BR> <BR>_ _ _ _ _ _ _ _ _ _ _ _ _ <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 9185-->
+<!--Post: 9196--><!--Time: 1109423122-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9196"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 5:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->No shock value. Seek psychiatric help or better yet, kill yourself.<!--/Text--></td></tr>
+<!--/Post: 9196-->
+<!--Post: 9213--><!--Time: 1109433406-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9213"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lmuncy316<!--/name--></b></a><br>Username: <!--field:uname-->Lmuncy316<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 7:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George, I have noticed since the arrest yesterday that endless bickering, sarcasm, and rudeness is blanketing this web site.  Is it because people are mad they didn&#39;t solve the crime?  If you don&#39;t like what Lostdog has to say stay off his/her thread! <BR> <BR>Lostdog, don&#39;t stop posting yet.  A lot has to be brought to light still.<!--/Text--></td></tr>
+<!--/Post: 9213-->
+<!--Post: 9230--><!--Time: 1109439057-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9230"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 9:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yeah, George, lighten up. You&#39;re making a huge embarassment of yourself. Get back on the &#39;medication&#39;!<!--/Text--></td></tr>
+<!--/Post: 9230-->
+<!--Post: 9233--><!--Time: 1109440505-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9233"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 9:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->My question is why no one on Park City, where half the citizenry considered him crazy and creepy, put two and two together and said something if not 20 years ago, at least when Maureen Hedge was killed down the street?<!--/Text--></td></tr>
+<!--/Post: 9233-->
+<!--Post: 9235--><!--Time: 1109440931-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9235"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 10:02 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->No prob, Victor. God knows you&#39;ve never blown up before. So, still think BTK is the Zodiac?<!--/Text--></td></tr>
+<!--/Post: 9235-->
+<!--Post: 9238--><!--Time: 1109442048-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9238"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 10:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lmuncy: I never even had a theory. I was personally attacked by this person, as were people I respect. It was out of my system hours ago.<!--/Text--></td></tr>
+<!--/Post: 9238-->
+<!--Post: 9285--><!--Time: 1109462265-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9285"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 3:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->My data dump - I have to admit that this guy bears some extremely eerie technical resemblances to at least one of my POIs, but Rader was definitely NOT on my list.    Very glad now that I didn&#39;t share any of them.  But I&#39;ll say this much, Rader looks da&#42;n good for it in retrospect.  I&#39;m curious if he was on anybody&#39;s POI list.<!--/Text--></td></tr>
+<!--/Post: 9285-->
+<!--Post: 9312--><!--Time: 1109468209-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9312"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Angrywolf<!--/name--></b></a><br>Username: <!--field:uname-->Angrywolf<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 5:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think that claim people thought he was creepy and crazy is sour grapes from people who didn&#39;t like him anyway..Certainly no body thought he was BTK any more than the people in that area thought any city/county official or law enforcement guy who was hard to deal with was a serial killer..being a bore doesn&#39;t make a person a killer...<!--/Text--></td></tr>
+<!--/Post: 9312-->
+<!--Post: 9332--><!--Time: 1109479258-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9332"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 8:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There was some buzzing after the Park City drop and I&#39;d bet LE put a quiet spotlight on the area, but as to Rader specifically he was a POI to LE only near the end. Without DNA, would he have been apprehended? That&#39;s a scary thought. <!--/Text--></td></tr>
+<!--/Post: 9332-->
+<!--Post: 9376--><!--Time: 1109486230-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9376"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 10:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It seems without the assistance of Rader&#39;s daughter, the Wichita Police Department would not have apprehended the BTK Strangler.<!--/Text--></td></tr>
+<!--/Post: 9376-->
+<!--Post: 9418--><!--Time: 1109511962-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9418"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 5:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I wonder if LE had surveillance on the missing package #10 we were so worried about. They could have acted like they didnt find it, then just watched. Theres no way he could have let that go. <BR>I thought of this a couple weeks ago, but didnt dare post it, in case it were true. <BR><!--/Text--></td></tr>
+<!--/Post: 9418-->
+<!--Post: 9423--><!--Time: 1109517437-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9423"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Haytrader<!--/name--></b></a><br>Username: <!--field:uname-->Haytrader<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 7:17 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Itty, <BR> <BR>I heard that the security camera at Home Depot caught him doing a drop. Maybe this is the same thing you mentioned since we never were informed of a drop there.<!--/Text--></td></tr>
+<!--/Post: 9423-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/593">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/593" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

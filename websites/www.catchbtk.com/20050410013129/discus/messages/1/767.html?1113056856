@@ -1,0 +1,269 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 767/Preventing Future BTKs-->
+<!--Level 1: 767/Preventing Future BTKs-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Preventing Future BTKs</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Preventing Future BTKs</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Preventing Future BTKs
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=767"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=767"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 12700--><!--Time: 1112855261-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12700"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 06, 2005 - 11:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Another &#34;Victor Special&#34;: <BR> <BR>This one is for any theories on how to PREVENT FUTURE BTKs. Any ideas whatsoever on STOPPING serial killers BEFORE they ever get started. What a concept, huh? <BR> <BR>IS there any way of keeping those vile humans from ever acting out on their serial killing impulses in the first place? <BR> <BR>Stay tuned here &amp; find out........<!--/Text--></td></tr>
+<!--/Post: 12700-->
+<!--Post: 12704--><!--Time: 1112881060-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12704"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Phoenix<!--/name--></b></a><br>Username: <!--field:uname-->Phoenix<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 6:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->V: <BR> <BR>I don’t think you can. <BR> <BR>First, the incidence of psychopaths in the general population is quite high.  The leading contemporary authority on psychopaths, Robert Hare, estimates one in a hundred north americans is a psychopath.  <a href="http://news.bbc.co.uk/1/hi/northern_ireland/4057771.stm" target=_top>http://news.bbc.co.uk/1/hi/northern_ireland/405777 1.stm</a>.  The psychopathic personality has sub-types, one of which is the sexual psychopath. Serial Killers are sexual psychopaths. <BR> <BR>Second, even though we have had a description of the disorder since 1886,&#40;Richard von Krafft-Ebbing, Pscyhopathia Sexualis&#41;, we have yet to identify a cause.  Hare&#39;s book &#34;Without Conscience. The Disturbing World of the Psychopaths Among Us&#34; argues that psychopaths are born not made.  There is no causal connection between child abuse and psychopaths. <BR> <BR>With all this in mind, I don&#39;t think you can stop them before they get started because the act of killing is a diagnostic event.  In other words, you know you&#39;re dealing with a sexual psychopath because they kill. <BR> <BR>Someone who has never killed anyone is not a serial killer. <BR> <BR>Phoenix <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12704-->
+<!--Post: 12706--><!--Time: 1112884932-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12706"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 7:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Should we ever know the life spectrum of Rader, one might be able to tell in hind sight what may have contributed to his BTK career. He clearly has a strong resentment toward a female figure, substituting numerous women for her. Some male in his past family  disrepected females in front of Rader. Somehow he associated sexual excitement and pain at a young age.  <BR> <BR>I do not think that serial killers can be prevented. Everyone in the world would have to be in therapy before the terrible two&#39;s. Somewhere in everyone&#39;s life is a very bitter experience, probably not even consciously remembered by the person, that has changed how they interpret life&#39;s events. Some recoil from the world in horror, some fight back, and some just freeze. You can be assured that his mother is spending many sleepless nights wondering what she did that made him BTK. If not, that may be part of the answer as to his character. Family secrets, family shame: the shame and blame of child rearing practices during his childhood and youth has had a untoward effect on baby boomers, of which I am one. His life in church created a facade instead of a change in heart. Somewhere between physiology, childhood experiences, and the spiritual history of his family lies only part of the answer. Within the last 4 generations of his family, with him being the fourth, is a male who behaved very similarly to Rader. I would make book on it. <BR> <BR>Was the sadism practiced on him as a child? Did someone tie him up as a &#39;lesson&#39; and then shame him when he wet his pants because he could not hold it until he was untied? He has shown someone that he can take what was dished out to him and he can give it back in spades.  <BR> <BR>This is a great thread for everyone to speculate &#39;what went wrong with Rader?&#39;.<!--/Text--></td></tr>
+<!--/Post: 12706-->
+<!--Post: 12707--><!--Time: 1112886554-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12707"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 8:09 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think a good start would be to catch them and punish them all in a span of less time than would allow them to live out their golden years on a serial killer&#39;s 401k program.<!--/Text--></td></tr>
+<!--/Post: 12707-->
+<!--Post: 12709--><!--Time: 1112887012-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12709"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 8:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There is no preventing such a phenomenon, truly. Any efforts based on the current thinking about what produces serial killers would result in over-control and over-regulation of people&#39;s personal lives to a fascist degree. There are, oddly, more people out there than we realize who mentally are very close to being one, but they simply never make the leap into homicide - so in essence, there&#39;s no real answer to your question. Sadly, we know that once they start, there&#39;s no curing them.<!--/Text--></td></tr>
+<!--/Post: 12709-->
+<!--Post: 12714--><!--Time: 1112898637-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12714"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lizzie<!--/name--></b></a><br>Username: <!--field:uname-->Lizzie<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 11:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I would like to see them stopped quicker once they start. It seems like if there was a way to database things like MO, victim similarities, DNA, fingerprints, composite skectes, etc. internationally or at the least countrywide, similarities to other cases might be found that could help catch the next BTK sooner. A combination of techniques used by people at this board as well as handwriting analysis and de-coding tools might also help find the criminals sooner that communicate with LE or the public.<!--/Text--></td></tr>
+<!--/Post: 12714-->
+<!--Post: 12716--><!--Time: 1112900644-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12716"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 12:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->P’x <BR> <BR>I always enjoy your postings. <BR> <BR>About that one percent... <BR> <BR>Have you read “The Sociopath Next Door” by Martha Stout? <BR> <BR>I’ve only read about the book. <BR> <BR>Apparently, Stout estimates that four percent of North Americans live with a disorder which robs them of compassion, conscience and shame. <BR>These are people who may be gifted with charisma but are totally devoid of the ability to love. <BR> <BR>Four percent! I was aghast. <BR> <BR>Then I started to ponder my sphere of influence. <BR>I imagined a room full of two-hundred good friends and acquaintances, neighbors, colleagues, ex-girlfriends, clients and relatives. <BR> <BR>It didn’t take long to come up with – <BR> <BR>one cold-blooded murderer - - Jane, I still can’t believe you got away with it! <BR>three registered sex offenders &#40;one makes his living as a locksmith&#41; <BR>four more child molesters &#40;ES&amp;D cousin Marc&#41; <BR>Kelly, the wife-abusing, home-wrecking, gambling-and-alcohol-addicted, tax-evading, life-of-the-party who pilfered his parent’s life savings <BR>Father John, who came to the house frequently - - before being defrocked for impregnating a teenage girl and subsequently paying for her abortion <BR>don’t get me started on my brother-in-law – poor devil <BR> <BR>For those of you keeping score at home, that makes eleven. <BR>Granted, I do know more than 200 people. <BR>However, eight of those mentioned above have dwelled in my core circle of acquaintances – and… <BR>I only spent five minutes making my list. <BR>I know I could come up with more and the clever ones will go undetected. <BR> <BR>Steve Huff is correct. <BR>A totalitarian government could diagnose and exterminate sociopaths with efficiency. <BR>Of course, the historical models show that this kind of leadership tends to instill psychopathic behavior among the citizenry. <BR>Think about this. “Good Germans” were made… not born. <BR> <BR>Here’s some questions for all y’all: <BR> <BR>Why does a truly free society, one based on the principles of fair play, equality and Judeo-Christian ethics seem to cough up more than it’s fair share of monsters? <BR> <BR>What is it that drives us to such violence?  <BR>There is an ongoing price to pay for our freedom to express, no? <BR>Do the military, legislative and societal battles fought to preserve, protect and spread the freedoms we cherish, leave a dastardly residue that must be recognized and accepted?  <BR> <BR>I have more thoughts on the subject, but as some of you are already sensing – I’m in way over my head. <BR> <BR>LayDog  <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12716-->
+<!--Post: 12718--><!--Time: 1112915694-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12718"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 4:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Serial killers have nothing to do with the freedoms or lack of freedoms from where they come. <BR>They know no religious, ethnic or geographical boundries and they know no social class. <BR>Under the oppressive Czarist and Soviet governments of Russia cam at least 11 searial killers from the 1880&#39;s to the 1990&#39;s that claimed more than 700 victims. <BR>The Soviet block countries of Belarus, Czrch Republic, Hungary, Romania, Ukraine, Yougoslavia and Poland all had multiple serial killers in the 20th century. <BR>China has had serial killers. <BR>The far east of Japan, Korea, Thailand, Taiwan and Indonesia have had serial killers. <BR>India has had serial killers. <BR>The Islamic nations of Pakistan, Jordan, United Arab Emirates, Yemen and Egypt have had serial killers. <BR>Every Scandanavian nation including Sweden, Norway, Denmark and Finland have had serial killers. <BR>The European nations of England, Ireland, France, Germany, Austria, Belgium, Greece, Spain, Estonia and the Netherlands have all had serial killers. <BR>The tiny, nuetral, peace-loving country of Switzerland has had at least four serail killers between the 1880&#39;s and the 1980&#39;s. <BR>A new country was created in the mid 20th century. They called it Israel and within five years of it&#39;s birth they had a serial killer. <BR>In this hemisphere south of the American border in Mexico, Nicaragua, Bolivia, Columbia, Guetamala, El Salvador, Peru and Columbia you will find the stories of each of those nations multiple serial killers. <BR>It&#39;s enough to make you want to get away from it all. Well forget the Bahamas because they&#39;ve had at least one serial killer in Nassau. <BR> How about our peaceful remote sparsely populated neighbors to the north, Canada? Not very likely you&#39;ll run into a serial killer there. Wrong. They have had at least 27 during the 20th century alone.  <BR>If you come up with a formula for stopping serial killers before they start thus eliminating all global serial killing you will be the recipient of the Nobel Prize in a couple of categories and be given audiences before presidents, kings, sultans, swamis, dictators and popes. <BR><!--/Text--></td></tr>
+<!--/Post: 12718-->
+<!--Post: 12719--><!--Time: 1112925353-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12719"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 6:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It would be difficult to prevent future serial murderers. Most serial murderers are psychopaths, but not all psychopaths become serial murderers. The typical serial murderer does not exist. One may be motivated by hatred towards his mother, another may hate a former girlfriend or wife and another may murder to compensate for his inability to experience a romantic relationship with a woman. <BR> <BR>Psychiatrists have failed to diagnose potential serial murderers in the past. Ed Kemper visited his psychiatrist a day after he murdered Aikoo Koo. The psychiatrist evaluated his mental health and reached the conclusion Kemper was no longer a danger to himself or others and recommended his juvenile record be sealed. Kemper was diagnosed as a personality trait disturbance, passive-aggressive type at Atascadero State hospital in California. He was committed to the hospital for murdering his grandparents at the age of 15. State psychiatrists objected to his 1969 release from the hospital. <!--/Text--></td></tr>
+<!--/Post: 12719-->
+<!--Post: 12721--><!--Time: 1112927676-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12721"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 7:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Jo, <BR> <BR>Very interesting and very scary. <BR>I&#39;ll say it again; the behavior spreads like a virus. <BR> <BR>I have heard the Ukraine called the &#34;serial killer capital of the world&#34;. <BR>Do they own the per capita statistic Johno? <BR> <BR>Civil war and the dysfunction that it breeds is a nasty catalyst. <BR>One would think that El Salvador, Nicaragua or Rwanda would be a hotbed for insatiable bloodlust. <BR> <BR>I suppose my impression is that we seem to have more psycho killers per capita here in the U.S.A. <BR> <BR>Do we?... or are we just more efficient at identifying and reporting the phenomena? <BR> <BR>If we do lead the world in fostering lone human hunters, why is it so? <BR> <BR>LD <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12721-->
+<!--Post: 12723--><!--Time: 1112931352-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12723"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Icyou<!--/name--></b></a><br>Username: <!--field:uname-->Icyou<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 8:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Parents: PAY ATTENTION to your children!<!--/Text--></td></tr>
+<!--/Post: 12723-->
+<!--Post: 12729--><!--Time: 1112937861-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12729"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 10:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Keeping track of serial killers is far from a science. There are figures available but what do they tell us? <BR>Take one example. BTK. The killings take place in modern times in a modern American city. Seven victims linked to most likely the same murderer. This is believed to be a fact for years until 2004 when the figure was raised to eight. In just one year that figure jumped to ten. Will it continue to climb? Very likely. <BR>Now go back in time to a crowded urban English industrial city. Jack the Ripper. In a brief late summer five murders believed to have been linked to the same murder. That figure has stood and we will never know how many more there may have been. <BR>Serial killings are in many cases unreported, unlinked and often covered up. China has only recently admitted that they have had a couple of serial killers since the 1990s. They claim it&#39;s something new there. <BR>There are and historically have been less serial killers operating in countries outside the USA but many of these fewer killers were far more prolific than most of the known USA killers. Fewer killers but more victims per killer. <BR>Third world countries barely report their serial killers. Communist countries try to pretend they don&#39;t exist and modern industrialized crime fighting societies don&#39;t really know what they are dealing with. Almost all captured serial killers have more victims than were originally thought. <BR>Available statistics show that North America has 80% of the world&#39;s known serial killers of the 20th century. <BR>The USA has 76% of the world&#39;s serial killers. <BR>The south is number one followed by the west, the midwest and the northeast. California is the top state. <BR>Europe accounts for 16% with Great Britain number one followed by Germany and France. <BR>Third world countries make up 4%. <BR>BTK represents the modern mobile serial killer. <BR>Jack the Ripper represents the crowded urban inner city serial killer. <BR>Why is the USA number one. We have both. A vastly mobile society with cars and buses and trains and planes and interstates and highways and freeways and parkways and six lane surface streets. We also have crowded inner cities and big sprawling cities. We also have lots of open spaces. We also have the ways, the means and the opportunities. <BR>Icyou says pay attention to your children and that is a large part of the problem. People don&#39;t. <BR>The three most frequent common denominators of serial killers is they come from dysfunctional families, unwed mothers and divorced parents.<!--/Text--></td></tr>
+<!--/Post: 12729-->
+<!--Post: 12732--><!--Time: 1112940660-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12732"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 11:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I know this kid, we will call him &#34;james&#34;. <BR> <BR>My friend came over the other day, and we had tea. and we talked, you know how women love to talk. Well, her son went over to James house during spring break. they went to the pond on his family&#39;s  property. the dog went with them, and he kept jumpin in the water and swimming. I dont know why the dog kept gettin in the water, its still cold here, and the water in the local ponds is very cold still. so, the dog starts actin weird on one of his trips out in the water, and started drowning, and james says &#34;oh no&#34;, but in a flat weird way, almost joking. <BR> <BR>Well, the two boys just watched the dog drown. they left it in the water, and james says to my friends son, &#34;dont tell anyone, my uncle will get very mad at me&#34; <BR> <BR>Well, this freaked me out immensely. James lives with his grandparents, and ALL he does is play video games. parents arent in the picture. <BR>My friends son kept this to himself for only one day, then finally told his mother. She told her son, &#34;call James and tell him he has to tell his grandmother what happened to the dog&#34; so he did call. next day, james calls my friends son and says he told granny what happened and granny said &#34;the dog must have had a heart attack&#34; <BR> <BR>I told my friend, she needs to call the granny and subtly mention something about the dog. She needs to find out if james really told granny. <BR> <BR>Granny is gonna answer &#34;yeah, I know the dog ran off&#34; &#40;originally told to granny by james&#41; <BR> <BR>or granny is gonna answer &#34;thats so terrible that the two boys had to see the dog drown like that&#34; <BR> <BR>Well, all I can tell you about James is that he is very shy, quiet, raised by grandparents with no rules, lives on video games. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12732-->
+<!--Post: 12733--><!--Time: 1112942178-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12733"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 11:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, I can tell from the way you wrote this, Itty, that you already know then that you should be very wary of James at all times. Where he is, what he&#39;s doing.  <BR> <BR>I have a relative who is now in his 40s, and he has a similar &#39;profile.&#39; Great around family, this guy, a charmer. Innocent looking, blonde hair, blue eyes, well-built. Very energetic, charismatic.  <BR> <BR>And I am certain he&#39;s a stone-cold psychopath. For one thing, I think there&#39;s a genetic component, and since I don&#39;t think I have that particular bad gene - I got all the other ones - I can admit that I still think it runs through my family on both sides to some degree - for another, this guy used to walk up to complete strangers on the street and to impress others, start wailing on the stranger. That&#39;s what we say around here - you might call it &#39;beating the crap out of a stranger.&#39; <BR> <BR>For all I know he&#39;s outgrown that egregiously antisocial behavior, but a felon check on my home state&#39;s online service the other day &#40;general felon, not just sex offender - there&#39;s none of that in the family, thank God&#41;showed he was still on probation for something.  <BR> <BR>Then there&#39;s one of my paternal great grandfathers - many in the family are certain he murdered at least two people in his day and probably pulled off more than a couple of insurance scams. He was still considered a fairly upstanding citizen in the communities where he lived. He moved around a lot - Kentucky to Florida to Tennessee. During the 20&#39;s and then the depression. With 12 children in tow. That makes him sound psycho to me right there, but I digress...<!--/Text--></td></tr>
+<!--/Post: 12733-->
+<!--Post: 12741--><!--Time: 1112978965-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12741"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 08, 2005 - 9:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Many of the Slavic and Russian countries are strongly patriarchial. That is how Hitler got everyone to follow along without questioning. They have very strong &#39;black and white&#39; perceptions. <BR> <BR>When I worked in probation, I realized that the problem with the probationers was they were living their lifestyle. It is what they did. Period. They were not necessarily out to break laws. They just pursued their goal. No thought to consequence, no reason to consider right from wrong, no future testing: they just did it. Water seeks its own level, as their friends were the same way. A few were harmlessly entertaining, but mostly it was a sad and &#39;ain&#39;t got no sense&#39; situation. Practice makes perfect. And a good number go on to come back again and again, and often work their way up from misdemeanor to felony with ease. Social strata only contributes in a small way, as I saw doctors and lawyers as well. Yes, genetics, the family history &#40;in all ways&#41;, and only God knows what else. <BR> <BR>Steve: my family history is riddled as well. My paternal grandfather was a bootlegger and I was told made the best whiskey in Texas. He attempted occult practices &#40;I do not think he was very successful at it&#41;, beat his wife and children, and was hunted by the vigilantes. My father always said that a person died like they lived. His father&#39;s bones were recovered in the woods, cause of death unknown. I do think that someone took him out. I shudder to think that I share bloodline and genetic material with someone like that. I just learned that my maternal grandmother was illegitimate. Well, great. Her children fought like there was no tomorrow, moved to different areas of the country, and demonstrated all the &#39;bad blood&#39; that it is possible to show. I do believe that curses come down the family line. <BR> <BR>I read that Rader is German. I am not that familiar with the teachings of the Lutheran faith. We do not know what his family line held in terms of degenerates in hiding, child rearing practices by a military father, and on and on. I am not a serial killer. I could say &#39;yet&#39;, but I do just not have the energy for it. I think that what ever it is that causes one to make the turn is so minute that we may never discover it. Some things may be glaring but are not the turning point. In the time progression of Raders pictures, you can see the change in expression and eyes. Why?<!--/Text--></td></tr>
+<!--/Post: 12741-->
+<!--Post: 12744--><!--Time: 1112981915-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12744"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Phoenix<!--/name--></b></a><br>Username: <!--field:uname-->Phoenix<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 08, 2005 - 10:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->ld:  Thanks for the tip. I&#39;ll read it if I’m not too busy. <BR> <BR>Jo:  WOW.  Can you recommend a bibliography? <BR> <BR>On a funky note, here&#39;s a link to a good footnote on: the summary of: an outline of: the readers digest condensed version of: the cliff-notes over: the introduction to: the chapter in Freshman Psych 101 on psycopathic personalities.  <a href="http://www.dummies.com/WileyCDA/DummiesArticle/id-1217.html" target=_top>http://www.dummies.com/WileyCDA/DummiesArticle/id- 1217.html</a>. <BR> <BR>A link to “The Psychopathy Checklist - Revised &#40;PCL-R&#41; Hare, 1991” full annotated version: <a href="http://www.swin.edu.au/victims/resources/assessment/personality/psychopathy_checklist.html" target=_top>http://www.swin.edu.au/victims/resources/assessmen t/personality/psychopathy_checklist.html</a> <BR> <BR>If Hare is correct, that psychopaths are born not made, then all the pop talk about child abuse or other inappropriate child rearing as a causative factor is out the window.  Hug your kid all you want, but you’re either hugging a psychopath or you’re not.  You can’t blame the parents, or the teachers, or television, or video games. <BR> <BR>Scary stuff. <BR> <BR>Phoenix <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12744-->
+<!--Post: 12746--><!--Time: 1112983745-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12746"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 08, 2005 - 11:09 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i>&#34;In the time progression of Raders pictures, you can see the change in expression and eyes. Why?&#34;</i> <BR> <BR>I realize this is perhaps a rhetorical question, but I noted very early after his arrest how Rader&#39;s photographs are never the same - I mean, it&#39;s almost eerie, how something seems to shift in each photo that&#39;s been published. <BR> <BR>I&#39;ve noticed this phenomenon in one person I was close to at one time. She <i>&#40;we were engaged to be married at one point&#41;</i> was a wickedly intelligent eldest daughter of a Methodist preacher. She was charming when we met in a sort of retro-hippie way, sexy too. But early in our relationship I noticed this strange mutability in her photographs. One photo could show a beautiful girl with a wide smile and sexy, half-lidded eyes, another show a frumpy, sullen geek girl.  <BR> <BR>Then I saw that this was seen in her behavior as well. To borrow a term from Star Trek, M. <i>&#40;like I would use her real name!&#41;</i> phase-shifted. At church, she was the Reverend&#39;s helpful, kindhearted oldest girl, the lead soprano in the choir, a real angel. In the everyday portion of our relationship - unfortunately we were one of those couples you often encounter in college who for a time become completely subsumed in one another&#39;s personalities - she was often whiny, manipulative, self-absorbed. In the non-everyday portion, even though I was her &#34;first,&#34; she was, somehow, a masochist. That is as delicate as I can put it. To be clear, I am not a sadist or a masochist, so this was a puzzle to me, at first. <BR> <BR>None of this was, in and of itself, that odd. Then, in the third and final year of our relationship, I got sick. For one week, terribly, terribly ill. Nothing I put in my body stayed, and it didn&#39;t come out solid - again, being delicate. I lost 10 pounds, ended up going to the emergency room to get IV fluids because I was dangerously dehydrated.  <BR> <BR>Later that year my breakup with her began, in part because she wanted to add a third person to the relationship, a woman, and I wasn&#39;t all about that, in spite of what you might think about the drives and desires of a typical 22-year-old guy. <i>&#40;I&#39;m 37 now, for perspective&#41;</i>.  <BR> <BR>Long story short, the night we broke up, I felt like I saw the real person for the first time - without going into detail, I gave her reason to be angry aside from just breaking up, it was true - I was culpable, for sure - but that night we were in a car parked in a parking lot near her apartment house, and she exploded. I mean <i>roared</i> at me. At some point she hit me, I&#39;m pretty sure. She was only 5&#39;0&#34; tall, but honestly, I was frightened. <i>&#40;And I&#39;m 6&#39;0&#34; and have lifted weights for most of my adult life.&#41;</i>  <BR> <BR>After the breakup I began to examine the relationship, and I began to realize something about her. She was a sociopath. Not a potential killer, necessarily - her upbringing may have saved society that burden, as she had a sister who turned out to be a very solid, upstanding citizen, a Democratic political activist in her hometown - but I began to recall jokes I&#39;d made all along in a different light. Like when I called M. &#34;my little con artist&#34; because of her ability to very subtly get people to do what she wanted - <i>every time.</i> <BR> <BR>And I thought about that time I got sick. How it wasn&#39;t too long after that she seemed to grow more and more restless in the relationship, leading up to that thing that caused it to end. Yeah, I wondered. She was already pretty computer-savvy - far more than me, with my rockin&#39; n&#39; rollin&#39; ADHD, toodling around on computers in the late 80&#39;s was just about unthinkable. She was one of the first people I ever knew who had AOL, in the early 90&#39;s. I guess I wondered if she&#39;d done any research on poisons.  <BR> <BR>In retrospect, I <b>have</b> concluded that worry about being poisoned was pure paranoia on my part. But it&#39;s telling. No other woman I&#39;ve had a serious relationship with ever gave me reason to truly suspect something that awful. Outwardly, M. didn&#39;t either. But subconsciously, reasons for worry were settling in my mind for the duration of the relationship. All of this gelled for me the day I decided to get rid of all my &#34;memorabilia&#34; from that relationship. I started going through our photographs, the ones she&#39;d given me and the ones we&#39;d taken. She changed, in every single photo. Shifted. Something was always <i>moving</i> under the surface.  <BR> <BR>What does this mean, really? I don&#39;t know. It errs towards the mystical, I admit. But she was a lesson for me in the manifold ways a kind of bland evil can be manifested in a person. She was no serial killer, for sure. I think for a time, in her way, she was sure she loved me. But there was something inside her that was never <i>moored</i>.  <BR> <BR>Who is to say that if she&#39;d been the eldest <b>son</b> of that preacher, if her sexuality was found by her at that point to bound up with violence in some form, that she wouldn&#39;t have, as that postulated male child, been a far, far more dangerous person to be close to? I think the possibility is strong. <BR> <BR>So that strange mutability I see in Rader&#39;s bland gaze from every photo I&#39;ve seen is familiar to me, and telling. Some people are simply missing something. Or they have it, but it is so weak that it never becomes rooted, anchored in their beings.  <BR> <BR>They are the Hollow Men, and Hollow Women. I find answers in poetry - my first published words were poems, so I guess that&#39;s inevitable. In T.S. Eliot&#39;s work I have found a great deal of truth, perhaps truth he didn&#39;t intend. His poem &#34;The Hollow Men&#34; - I recommend it to you strongly for a kind of abstracted insight into what I&#39;m saying. Rader was one of those men, his voice whispering across Wichita like wind in dry grass.<!--/Text--></td></tr>
+<!--/Post: 12746-->
+<!--Post: 12748--><!--Time: 1112998470-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12748"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 08, 2005 - 3:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Phoenix, Here is link to very informative website on the subject of serial killers: <BR> <BR><a href="http://www.serial-killer.org/index.php" target=_top>http://www.serial-killer.org/index.php</a><!--/Text--></td></tr>
+<!--/Post: 12748-->
+<!--Post: 12759--><!--Time: 1113056856-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12759"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, April 09, 2005 - 7:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Manson was a changling, and photos of Bundy hint of the same thing. Rader&#39;s expressions during his public court appearances will be very vital and will reinforce his innocense or guilt in the eyes of the public. I wonder if he is capable of even ingenuine humility. Any defiance on his part will not be helpful.  I do not know why it is, but preachers&#39; kids seem to have a huge number of behavioral issues. I have some former inlaw relatives who have allowed their son to brutalize animals since he was 2 years of age. No intervention on their part. Should his behavior ever become known, his status as a great little league player will come tumbling down. It is a total facade. As he would talk about what he did to animals, his eyes would become dull and far away, his voice monotone, his face without expression: he was a dead man talking. Someone once told me that the easiest lay in the church was the minister&#39;s daughter. Of course, they live a higher profile life and are held to a higher standard; however, some things are basic to all of us, regardless of status in life. <BR> <BR>Sidenote: After being a probation officer and knowing who is cooking, I do not like to eat out unless I am very familiar with the establishment. And, yes, strange bouts of woes could have been a &#39;taint&#39; administered for &#39;one&#39;s own good&#39;.<!--/Text--></td></tr>
+<!--/Post: 12759-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/767">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/767" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

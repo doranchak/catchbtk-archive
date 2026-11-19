@@ -1,0 +1,337 @@
+<html>
+<!--Topic: 9/BTK Suspects-->
+<!--Me: 550/Wichita Police Officer/Detective-->
+<!--Level 1: 550/Wichita Police Officer/Detective-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 9-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Wichita Police Officer/Detective</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Wichita Police Officer/Detective</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/9/9.html"><font color="#f7f7f7">BTK Suspects</font></a> &#187;
+Wichita Police Officer/Detective
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=9&page=550"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=9&page=550"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 8275--><!--Time: 1109030880-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8275"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Prairie_chicken<!--/name--></b></a><br>Username: <!--field:uname-->Prairie_chicken<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 4:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There are some people who are adamant that the murderer could not be a policeman.  I am one who believes that it is a former policeman. <BR>  <BR>           <BR>Oct. 22, 1974, Phone Call to Don Granger with directions to letter in book at Wichita Public Library: <BR>Granger described the voice as hard and aggressive. “Listen and listen good, I’m only going to say this once.” He describes someone &#34;who was used to giving orders. Not someone who wanted to give orders, someone who was used to giving orders.” <BR>  <BR>Susan Peters interview with Bernie Drowatsky, the now retired WPD detective who retrieved the letter from the library: <BR>“The investigation started to unravel when police officers started to accuse each other of the crime because on a cops boot print left in blood &#40;evidently dried, indicting it was before the bodies were found&#41; at the Otero home.” <BR>  <BR>Kevin Bright describes his attacker:   <BR>“He just told us to stop and hold it right there… He was gentle and he took control. It was like he’d done it before. He wasn’t worried about anything that I could tell. He was methodical, is what I’d say…I thought he was sure of himself and he had been in that situation before and he knew how to control people.” <BR>  <BR>Steve Relford, son of Shirley Vian:   <BR>Steve says he identified a policeman at the scene as the man who had knocked at his door that day.  He saw the man on the street, then at the door, and in his house.  He watched the man suffocate and strangle his mother.  The police declared his identification as unreliable. <BR>  <BR>Nancy Fox’s body was found after her killer called the police via the telephone operator and said:  “Yes, you will find a homicide at 843 S. Pershing.  Nancy Fox.”  When the dispatcher repeated the address, the killer responded “That is correct.”   <BR>If you watch any trials on Court TV, you will notice that any time a police person is on the stand and answers in the affirmative, he/she will say “that is correct.”  They all answer that way, as if it is some kind of protocol. <BR>  <BR>November 2004, The WPD finally decide maybe they should start swabbing the police force that worked on the case in the 70’s.  Some police officers refuse.  REFUSE.  <BR>What…?  If they have nothing to hide, what’s the concern?  It seems quite suspicious to me. Me think thou doth protest too much… <BR>  <BR>There are bad cops, just as there are good cops. Why would anyone be so adamant that it is NOT a LE person?  Just do a Google search on David Brame, Police Chief of Tacoma, Washington, to see what abuse of power and authority in the LE world takes place.   <BR> <BR>Thirty years ago we never would have thought of priests as being child molesters either, would we? <BR>  <BR>There is a saying here in Kansas:  <BR>If it looks like a duck, walks like a duck and quacks like a duck, it’s a duck. <BR>    <BR>PChick        <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 8275-->
+<!--Post: 8279--><!--Time: 1109032877-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8279"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 4:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Knowing that BTK had ID cards for a telephone company agent and a school worker, one has to wonder if he could also have had one for the WPD or county sheriff department. <BR> <BR>This reminds me of that movie with Martin Lawrence, he played a thief who pretended to be a police officer to get a jewel back, so everyone treated him as a real police officer without even checking his record, or badge. <BR> <BR>That was a funny movie, BTW. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 8279-->
+<!--Post: 8333--><!--Time: 1109057116-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8333"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 11:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;that is correct&#34; is common for police to say because they are all trained in radio language which is commonly used to give directions.  <BR> <BR>Example: <BR> <BR>Which way did he go? <BR>left. <BR>left? <BR>right. <BR>right? <BR>no,left! <BR> <BR>Anyone who uses a radio much &#40; especially truck drivers &#41; pick up the habit.<!--/Text--></td></tr>
+<!--/Post: 8333-->
+<!--Post: 8346--><!--Time: 1109081826-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8346"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 6:17 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;ve never ruled out a cop of any stripe. I think it unlikely but not impossible that BTK may have been one. BTK seems a calssic wannabe. Like many, I believe &#34;that&#39;s correct,&#34; was unrehearsed. Two things. One: &#34;That&#39;s correct&#34; is proper grammar. Saying &#34;That&#39;s right,&#34; when meaning &#34;correct&#34; is of course commonplace but is not good grammar, as the word &#34;right,&#34; in this instance, carries a moral tone. Example: &#34;It&#39;s right that he should be punished for his crimes.&#34; That&#39;s proper grammar and the word &#34;accurate&#34; or &#34;factual&#34; would be slightly improper. One other: &#34;The Chiefs won their last game, isn&#39;t that right?&#34; The word &#34;right&#34; shouldn&#39;t be used here &#40;even though we all do it&#41;; &#34;correct,&#34; &#34;accurate,&#34; &#34;true,&#34; and so forth are better grammar. <BR> <BR>Now, as to professions where you may hear &#34;that&#39;s correct.&#34; Lawyers, cops, librarians, English teachers, dispatchers, old-fashioned novelists, physicians and others. <BR><!--/Text--></td></tr>
+<!--/Post: 8346-->
+<!--Post: 8355--><!--Time: 1109088498-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8355"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Prairie_chicken<!--/name--></b></a><br>Username: <!--field:uname-->Prairie_chicken<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 8:08 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It seems to me that one or two points can be explained away, but collectively, they add up to LE.   <BR> <BR>Another thing that has me bothered, is that after reading all of Charlie O&#39;s statements, he believes his family was the target of a &#34;hit.&#34;  One of the btk chapters is &#34;Hits.&#34;  This leads me to think that btk thinks of himself as a hitman.  Maybe that is how it started.   <BR> <BR>Charlie has also stated that a friend of his fathers &#40;the one who suggested Wichita as a town to settle in&#41; was coming out of the interrogation room just after the Otero children were brought to Police Headquarters.  An old newspaper article quotes the man who took in the children right after the murders as saying that another friend from the military in Panama had suggested Wichita. <BR> <BR>Did this man have a job in LE?  maybe undercover?  Could he have hired a hitman to kill Julie Otero as a warning, or to kill the whole family once they moved here?  A hitman would not necessarily be tied down &#40;excuse the pun&#41; to a certain gender, age, etc.  Perhaps he enjoyed it so much that he pursued killing women on his own, in some kind of hitman fantasy mentality.  I don&#39;t think the Otero&#39;s were the first. <BR> <BR>At A Blackout, in the 1970&#39;s, it is perfectly believeable that a hitman could be hired there. It was a VERY rough crowd. <BR> <BR>Just some food for thought. <BR> <BR>PChick<!--/Text--></td></tr>
+<!--/Post: 8355-->
+<!--Post: 8357--><!--Time: 1109089149-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8357"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Miss<!--/name--></b></a><br>Username: <!--field:uname-->Miss<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 8:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I say &#34;that is correct&#34; when I&#39;m at work &#40;as an office manager,&#41; becuase I am often speaking to people whose first language is not english.  I say it because it is easier to understand &#40;at least I think it is,&#41; especially over the phone.   <BR>I personally don&#39;t think he&#39;s a cop, although it wouldn&#39;t surprise me if I was wrong. <BR> <BR>Just wanted to point out that any person could use &#34;that is correct.&#34;  I&#39;m also a graduate student, and I probably wouldn&#39;t use the phrase when talking with my classmates, because it&#39;s a little formal, but at work, I use it often.<!--/Text--></td></tr>
+<!--/Post: 8357-->
+<!--Post: 8361--><!--Time: 1109093404-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8361"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 9:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve Relford, son of Shirley Vian:  <BR> <BR>I wonder why Steve’s identification was deemed so unreliable?   <BR> <BR>Did this individual had have an iron-clad alibi as to where he was at the time, and were DNA tests performed on him? <BR> <BR>I’ve had an uncanny knack for remembering faces ever since I was a child.  I don’t always have the memory for placing WHERE I saw a face before – especially now as an adult.   <BR> <BR>When I was about 5 years old, I went to two weddings about 8 months apart from each other.  I singled out someone &#40;in the band&#41; as being in the previous wedding band – even though the band was comprised of entirely new members.   <BR> <BR>I told my mother, who allowed me to ask this band member about it.  He indeed verified that he was the individual in the wedding band of eight months prior. <BR> <BR>So children CAN HAVE GOOD PHOTOGRAPHIC MEMORIES – but as I’ve said before – as an adult I am not always able to place WHERE I saw a face.   <BR> <BR>However, I WAS DEFINITELY better at placing the face as a child.  <!--/Text--></td></tr>
+<!--/Post: 8361-->
+<!--Post: 8372--><!--Time: 1109097443-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8372"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jed4258<!--/name--></b></a><br>Username: <!--field:uname-->Jed4258<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 10:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Okay, using the theory of BTK being LE or somehow closely related it dawned on me a few minutes ago.  In the &#34;From BTK&#34; messages the supposed BTK&#39;s mention of tick-tock goes the watch and &#34;to solve this mystery one needs to educate thy self&#34; and the AMW board message saying something to the effect of &#34;I&#39;m watching&#34;. <BR> <BR>I started to think about a watchman?  Then I thought about the WSU Police Dept., this would provide the supposed WSU connection, a badge, access to &#39;inside&#39; information, etc.  Has anyone ever proposed this?  I may have missed it if so. <BR> <BR>Here&#39;s a link with the current WSU Police officers along with pitures. <BR><a href="http://webs.wichita.edu/?u=police" target=_top>http://webs.wichita.edu/?u=police</a> <BR> <BR>I&#39;m not saying I think someone here is BTK, but questioning if anyone has thought about this &#39;angle&#39;?    <!--/Text--></td></tr>
+<!--/Post: 8372-->
+<!--Post: 8376--><!--Time: 1109098448-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8376"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 10:54 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.geocities.com/murder_stories3/amanda_shaffer2.html" target=_top>http://www.geocities.com/murder_stories3/amanda_sh affer2.html</a> <BR> <BR>It has been considered earlier on in the investigation because of the guy in the above link, but no one has pursued it lately that I know of.<!--/Text--></td></tr>
+<!--/Post: 8376-->
+<!--Post: 8384--><!--Time: 1109100722-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8384"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Prairie_chicken<!--/name--></b></a><br>Username: <!--field:uname-->Prairie_chicken<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 11:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Jed, I&#39;m not sure you realize, but Paul Dotson, the current WSU Police Chief was one of the first WPD responders at the Otero crime scene.  I have made a list of every officer I&#39;ve seen in print in the Eagle articles and googled to see where they are now. I am intriged by this one, and two others.  It&#39;s amazing how many are Police Chief of smaller towns or County Sheriffs, or City Managers, etc. <!--/Text--></td></tr>
+<!--/Post: 8384-->
+<!--Post: 8402--><!--Time: 1109113404-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8402"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jed4258<!--/name--></b></a><br>Username: <!--field:uname-->Jed4258<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 3:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Prarie Chicken,  Do you know if he has been swabbed?  It would be interesting to see &#39;how soon&#39; he arrived on scene.  I read somewhere on this board that dried shoe prints in the blood matched the patterns of the shoes worn by WPD.  I was thinking of who would have access to the same if not WPD.   <BR>I would hesitate to guess that the University police would use basically the same source as the WPD.  I just posted as I wasn&#39;t sure if anyone had ever proposed the thought previously or not. <BR>If this is a dry well so be it, I won&#39;t press the issue.<!--/Text--></td></tr>
+<!--/Post: 8402-->
+<!--Post: 8403--><!--Time: 1109113462-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8403"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 3:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I use &#34;that is correct&#34; all the time when I schedule appointments with me in everyday business. <BR>As for being a cop he certainly was never a cop in the Wichita area. Every city, county and state cop within a couple hundred miles of Wichita heard the 911 Nancy Fox call and no one identified the caller as a current or former co-worker. A current or former Wichita area cop would never have made that call knowing they may be taped and identified. <BR>He of course could have been an ex-cop from well outside the Wichita area and at the time of the first murders had recently moved to or back to Wichita. I doubt it though. This is no cop. Maybe a wanna-be cop. <!--/Text--></td></tr>
+<!--/Post: 8403-->
+<!--Post: 8456--><!--Time: 1109140173-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8456"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 10:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i><b>Steve Relford, son of Shirley Vian:  <BR>Steve says he identified a policeman at the scene as the man who had knocked at his door that day. He saw the man on the street, then at the door, and in his house. He watched the man suffocate and strangle his mother. The police declared his identification as unreliable.</b></i> <BR> <BR>Holy schnikees! Was this ever pursued? Even if it is a child, a <i>positive</i> ID is a <i>positive</i> ID ! It should have at least been examined. IF Stephen Relford positively identified a uniformed police officer as BTK and no one did anything, then that is a MAJOR scandal in the making. SOMEONE NEEDS TO CHECK THIS OUT ASAP! <BR><!--/Text--></td></tr>
+<!--/Post: 8456-->
+<!--Post: 8458--><!--Time: 1109142640-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8458"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bestbud<!--/name--></b></a><br>Username: <!--field:uname-->Bestbud<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 11:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I remember all of the exact details of going to the hospital when I was 2 years old to get my stomach pumped after drinking Hydrogen Peroxide &#40;the Doctor, Nurses, exactly how the ER Room looked, my Dad crying and waving at me through the little window in the ER room, etc.&#41;   <BR> <BR>Everyone was amazed at how I described the exact details with such accuracy when I was a few years older.  I was told that I remembered because it was a traumatic experience.  The murder of Steve&#39;s mother was horrific and traumatic...Why wouldn&#39;t his identification be declared as credible?  <BR> <BR>Never underestimate the eyes &#40;understanding and knowing&#41; of a child...   <!--/Text--></td></tr>
+<!--/Post: 8458-->
+<!--Post: 8477--><!--Time: 1109172355-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8477"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 7:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think the reasons Steven Relford&#39;s statement was not taken seriously are, because of his tender age of five, the emotional trauma he had just gone through, and knowing that his testimony in court would be doubted because of those two reasons. <BR> <BR>Still, the person he mentioned should&#39;ve been investigated.  <BR> <BR>Maybe he was investigated and he was cleared. <BR><!--/Text--></td></tr>
+<!--/Post: 8477-->
+<!--Post: 8481--><!--Time: 1109173587-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8481"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 7:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think that Mr. Relford, even at 5 years old, is going to remember the face of the man who brutally killed his mother in front of him less than an hour before he ID&#39;d this cop. WHY did they blow this off?  <BR><i>This kind of nonsense on the part of WPD is where the cover up and conspiacy rumors come from ! And after hearing this one, maybe the conspiracy theorists have a point.</i> What the HELL was WPD thinking in blowing this off? That is just, at best, plain  flat completely irresponsible<!--/Text--></td></tr>
+<!--/Post: 8481-->
+<!--Post: 8492--><!--Time: 1109176362-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8492"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Prairie_chicken<!--/name--></b></a><br>Username: <!--field:uname-->Prairie_chicken<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 8:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t know who amongst my suspects have been swabbed--and certainly he could have been cleared, but...LE didn&#39;t even begin to look at 1970&#39;s officers/detectives until November, 2004.  That is disgraceful.  I truly wonder if FBI or KBI pushed the WPD into calling for any involved officers to be swabbed.  I think left up to WPD, it would never happen.  The blue wall of silence. <BR> <BR>My understanding is that, yes, they said Stevie was young and tramatized, but mostly it was discounted because the person he pointed out was a cop. <BR> <BR>I started this thread because I wanted to group all the references I&#39;d read that suggested LE involvement in one spot.  Reading it in one case, then later another, the notations don&#39;t seem significant.  But all together, it screams out at me.  I&#39;m glad you all see it too, at least the POSSIBILITY.   <BR> <BR>And another thing, Frank Cummins said that although the WPD has sworn to former LE that their DNA would not be used for any reason other than this investigation, he does not trust WPD to keep their word on that.  What...is he saying WPD is not honest and on the up and up?  He doesn&#39;t trust them?  He was one of them for years, so I guess he should know.    <BR> <BR>Any former LE who refused to submit would have a search warrant slapped on them immediately if I were the Queen.<!--/Text--></td></tr>
+<!--/Post: 8492-->
+<!--Post: 8503--><!--Time: 1109179210-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8503"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 9:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Id like to know if B. Drowatzky has been cleared. He was lead homicide detective back then and would have had unrestricted access to all the crime scene and all evidence collected, and he moved to OK. To me, BTK&#39;s &#34;S. Killett&#34; clue might mean OK, which looks like a skillet.<!--/Text--></td></tr>
+<!--/Post: 8503-->
+<!--Post: 8505--><!--Time: 1109180163-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8505"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dee<!--/name--></b></a><br>Username: <!--field:uname-->Dee<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 9:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->First, let me say that I have been a firm believer all along that BTK is still or was a member of LE.  Now, of all the officers that you all have mentioned, do you have pictures of them?  If you refer to the following link,  <a href="http://www.catchbtk.com/discus/messages/9/462.html?1108823864" target=_top>http://www.catchbtk.com/discus/messages/9/462.html ?1108823864</a> you will see that there is still a man that is &#34;unaccounted for&#34;.  If any of you can help with the identification, it would be greatly appreciated.  <!--/Text--></td></tr>
+<!--/Post: 8505-->
+<!--Post: 8511--><!--Time: 1109180685-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8511"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tadpole<!--/name--></b></a><br>Username: <!--field:uname-->Tadpole<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 9:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->IMO I agree, Frank Cummins is basically saying WPD is not to be trusted. But then, what does he have to hide? Not saying that he has anything, but I would think he would want to be eliminated as a suspect. Don&#39;t you think this even might make his family wonder? <BR> <BR>It&#39;s sad to think of how many times adults have gotten away with &#34;stuff&#34; because it was their word against a kid. Of course the kid was never believed, he was just a kid, didn&#39;t know anything. <BR>  <BR>If only someone would have pushed an investigation when the child pointed out the policeman. <!--/Text--></td></tr>
+<!--/Post: 8511-->
+<!--Post: 8519--><!--Time: 1109183028-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8519"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hkenley@san.rr.com" target="_blank"><!--/email--><!--name-->Chiefron<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Chiefron<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 10:23 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Nm_pi, <BR> <BR>Bernard Drowatzky is currently the Chief of Police in Kaw City Oklahoma. He has submitted to a buccal swab, in fact he was one of the first I believe to provide one.  <BR> <BR>Although I do agree that Frank Cummins casts a suspicious cloud upon himself for not providing a buccal swab, at 71 years of age he does not fit well with current BTK profiles based on witness descriptions from the 1970s. Of course they could have been mistaken or Mr. Cummins could have appeared 10 years younger than he actually was, these things I cannot confirm as I have yet to see a picture of the man from the time frame in question. <BR> <BR>I do agree however that there is a great deal of circumstantial evidence that indicate the possibility that BTK was either a LEO or in some other way very versed in LE procedure.  <BR> <BR>Ron<!--/Text--></td></tr>
+<!--/Post: 8519-->
+<!--Post: 8525--><!--Time: 1109183581-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8525"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 10:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->now, again, if someone &#40;LE, lab&#41; with access to the semen sample chain-of-custody may have switched samples then all bets are off... i still think that if it was an internal &#40;le&#41; job, and the semen were switched, its air tight and he&#39;ll never be caught. unless they get a new sample. i hope theyre looking at more than the dna.<!--/Text--></td></tr>
+<!--/Post: 8525-->
+<!--Post: 8529--><!--Time: 1109185538-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8529"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Topsailgrl<!--/name--></b></a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 11:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Chiefron &amp; Nm_pi, <BR> <BR>This is what I keep coming back to. Every time I do any research, I keep coming back to this. The guy in the video with the black jacket on who is apparently LE of some type is still to be identified. I want to know who this guy is! I have also noticed that when they show old footage, this guy is usually shown too. Just like if you read the Larry King transcripts, they have him listed as &#40;unidentified man&#41;. Whoisbtk stated that he knew and worked with this person and was supposed to get back with us to give us a name but never did. I don&#39;t know if he is Frank Cummins or not, just don&#39;t know! And it&#39;s driving me crazy!  <BR> <BR>Steven Relford should have not been dismissed! This kid saw him not only close up but on &#40;if you count the ID line up&#41; 4 times! Once when he was shown a picture by a man, second when he saw the man go to a neighbors door, third when he came to his door and murdered his mother, and 4th in a line up! How can you just dismiss that??? <!--/Text--></td></tr>
+<!--/Post: 8529-->
+<!--Post: 8534--><!--Time: 1109187702-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8534"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hkenley@san.rr.com" target="_blank"><!--/email--><!--name-->Chiefron<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Chiefron<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 11:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Topsailgrl, <BR> <BR>I did an analysis &#40;very amateur in scope&#41; of the voices on tape for BTK and the unidentified man &#40;I used Diamond Cuts Forensic Audio software&#41;. I posted the basics of the results in the &#34;Who is this man thread&#34; and emailed the full results with images to WPD last week. <BR> <BR>I fully agree that if Steve actually identified a suspect at the scene, that person should be checked, especially if that person happens to be the same person who so far has not been identified from the video tape.  <BR> <BR>Ron<!--/Text--></td></tr>
+<!--/Post: 8534-->
+<!--Post: 8538--><!--Time: 1109189750-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8538"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 12:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->please refresh my memory. the vian boy id&#39;d a cop at the scene right? do we know which cop he thought it was? or is this what your pointing out that we dont know.<!--/Text--></td></tr>
+<!--/Post: 8538-->
+<!--Post: 8540--><!--Time: 1109193221-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8540"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Topsailgrl<!--/name--></b></a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 1:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->From what I understood, he ID&#39;d him in a line up of photo&#39;s or an actual line up. It could be that it was at the scene, not sure. All I do know is that he did ID a cop the day of the crime and was not taken seriously. <!--/Text--></td></tr>
+<!--/Post: 8540-->
+<!--Post: 8581--><!--Time: 1109212247-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8581"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 6:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well at the very least, couldn&#39;t they have assumed that this cop LOOKED VERY SIMILAR to BTK, and then make a sketch based on this guy&#39;s general characteristics? <BR> <BR>Was there ever a bona-fide sketch that was released?  I don&#39;t mean a psyhic&#39;s sketch.  I mean one from say the gentleman who fought with BTK when his sister was attacked? <BR> <BR>If there was ever a sketch made, could someone give me a link to it?<!--/Text--></td></tr>
+<!--/Post: 8581-->
+<!--Post: 8647--><!--Time: 1109265303-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8647"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Prairie_chicken<!--/name--></b></a><br>Username: <!--field:uname-->Prairie_chicken<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 9:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Topsailgrl, I don&#39;t think there was a line-up or even photo&#39;s to look through.  It is my understanding that when LE questioned him at the scene of the crime, he pointed at the cop and id&#39;d him there.  In Stevie&#39;s latest interview with Susan Peters, he says LE never, ever, got ahold of him or his siblings after the day of the murder.   And ITJan, no sketch that I know of. I&#39;ll look through the Vian articles again this evening. <BR> <BR>I think the man in the video is a young Landwehr, but don&#39;t really know.  It&#39;s a guess.<!--/Text--></td></tr>
+<!--/Post: 8647-->
+<!--Post: 8657--><!--Time: 1109272737-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8657"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 11:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have been trying to lay out the evidence for the Otero case. Here&#39;s what I think happened, We all know that Joe was afraid of something....Everyone knows that part of the story, So what if Joe who left early that morning told his kids, not to open the door for anyone since Julie was sick in bed. So the knock comes at the door and either one of the kids answer,there&#39;s a man who is dressed as a cop, and since he&#39;s a cop the kids put the dog in the back yard and let him in.<!--/Text--></td></tr>
+<!--/Post: 8657-->
+<!--Post: 8663--><!--Time: 1109275491-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8663"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Beck<!--/name--></b></a><br>Username: <!--field:uname-->Beck<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 12:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Iceteajan <BR> <BR>What you said in an earlier post &#40;2/22&#41; about children having good memories is very true, and I think that Steve Relford&#39;s description, and ID of the police officer, should be taken with more merit.  <BR> <BR>I&#39;ve only been in a plane once in my life. I remember looking out the window, and what everything looked like on the ground. I remember my ears feeling like they were going to burst off of my head, and the flight attendant bringing me styrofoam cups to place over them. I remember that the lady had short brown hair. Then she pinned the delta wings on my shirt.  <BR> <BR>I was talking to my mother about this the other day. I asked her why they didn&#39;t give me gum for my ears, why the cups. She told me because I was only 18 months old. I&#39;m 25 now.  <BR> <BR>If Relford says it was that cop, I&#39;d place some stock in it.<!--/Text--></td></tr>
+<!--/Post: 8663-->
+<!--Post: 8687--><!--Time: 1109285903-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8687"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 2:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Embersage, We don&#39;t know that Joe was afraid of something. Charlie Otero alone gave those recolections of when he was 15. As far as we know no other relative, co-worker, neighbor, friend or anyone else has corraborated or verified that he was afraid of something. <BR>Again, I don&#39;t believe BTK was in Wichita law enforcement. His voice on the Fox call would have been identified by a current or former co-worker. I believe his only connection to law enforement was possibly as a wanna-be.<!--/Text--></td></tr>
+<!--/Post: 8687-->
+<!--Post: 8691--><!--Time: 1109288516-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8691"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 3:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Another aspect of BTK possibly being a cop is another Otero incident. How did he know Mr. Otero had a rib injury? One possibility is that BTK worked the accident, saw the accident report or was IN the accident. This one has always been the strongest evidence to me of a connection with LE.  <BR>The only way BTK <i>could</i> have possibly known about this is if he had some kind of prior knowledge - I simply can&#39;t buy the idea that he chatted about it with his torturer - and that is very limited prior knowledge and should have focused the investigation for LE considerably as soon as they got the letter BTK mentioned it in.  <BR>Who would have access to that information? <BR>1&#41; The Police Officer&#40;s&#41; who worked the accident. If Mr. Otero was transported to the hospital directly form the scene then <BR>2&#41; the EMTs who treated him at the scene and the ER physician and nursing staff that saw him; or... <BR>2b&#41;If he was seen <i>later</i>, then his family general practitioner and whatever specialists he was sent to see, if any. <BR>3&#41; The insurance agents and other personnel who handled his automobile and medical claims. <BR>4&#41; Members and close friends of the Otero family <BR>5&#41; &#60;i&#62;Possibly &#40;apparently from research at least 1&#41; of Mr. Otero&#39;s co-workers. <BR> <BR>Which of these jump out as the <i>most likely</i>? To me all of these should have been looked at, but don&#39;t the LE and co-worker angles seem the most likely? What do you think about this one folks? <BR><!--/Text--></td></tr>
+<!--/Post: 8691-->
+<!--Post: 8704--><!--Time: 1109293921-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8704"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 5:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->He was tying up Otero and Otero not knowing that he was ultimately going to be killed simply said to BTK to be careful because he had hurt his ribs in a car accident a couple weeks before. <BR>As I see it that&#39;s all there is to it.<!--/Text--></td></tr>
+<!--/Post: 8704-->
+<!--Post: 8721--><!--Time: 1109296593-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8721"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 5:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dpinva <BR> <BR>Can you privide a link to the source of the quote from Steve Redford that you site in your post above: Feb 22, 2005 10:29pm ? <BR> <BR>Thank you.<!--/Text--></td></tr>
+<!--/Post: 8721-->
+<!--Post: 8740--><!--Time: 1109302819-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8740"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Murco<!--/name--></b></a><br>Username: <!--field:uname-->Murco<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 7:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->a very twisted cop... <BR>gerard schaefer: <BR><a href="http://www.crimelibrary.com/serial_killers/predators/gerard_schaefer/1.html" target=_top>http://www.crimelibrary.com/serial_killers/predato rs/gerard_schaefer/1.html</a><!--/Text--></td></tr>
+<!--/Post: 8740-->
+<!--Post: 8764--><!--Time: 1109313665-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8764"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 10:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Very twisted.  <BR> <BR>He was a monster. <BR> <BR>Now, I wonder if he had been helped by getting psychological help. He was seen at the beginning, when he started college, but the doctor didn&#39;t find much wrong with him. I guess the doctor was wrong. <BR> <BR>:|<!--/Text--></td></tr>
+<!--/Post: 8764-->
+<!--Post: 8774--><!--Time: 1109323934-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8774"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 1:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->but what does it have to do w/BTK?<!--/Text--></td></tr>
+<!--/Post: 8774-->
+<!--Post: 8791--><!--Time: 1109346190-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8791"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 7:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok if you want to expound on the theory that he was a hitman, see if there is a military link between Joe and the guy who was shot, who worked at Colemens, a few days before the Otero murders, and yes then it would be possible that this hit man, caused Joe to have a car accident before this day.<!--/Text--></td></tr>
+<!--/Post: 8791-->
+<!--Post: 11496--><!--Time: 1110784446-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11496"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 13, 2005 - 11:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There is however the question: Why didn&#39;t the Park City police suspect Rader? Surely they knew who he was and I assume also that they could tell that he had a loose screw. Park City is a small town. Even if they had thought about it and talked about it and blown it off...Marine Hedge??<!--/Text--></td></tr>
+<!--/Post: 11496-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="9/550">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=9/550" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

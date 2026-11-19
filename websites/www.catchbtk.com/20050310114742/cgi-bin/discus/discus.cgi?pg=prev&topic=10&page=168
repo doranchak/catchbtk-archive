@@ -1,0 +1,258 @@
+<html>
+<!--Topic: 10/BTK Communications-->
+<!--Me: 33/Errors in Letters-->
+<!--Level 1: 33/Errors in Letters-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Errors in Letters</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Errors in Letters</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Communications</font></a> &#187;
+Errors in Letters
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=33"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=33"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 113--><!--Time: 1085771005-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST113"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sean<!--/name--></b></a><br>Username: <!--field:uname-->Sean<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 28, 2004 - 12:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->While my initial question is directed to Mike Kelleher,I would welcome any comments from all. <BR>Mike,in studying the various extracts we have from the BTK communications, have you formed an opinion on the various spelling,punctuation, and grammatical errors? A deliberate attempt to decieve, unconscious or combination? <BR>Thanks<!--/Text--></td></tr>
+<!--/Post: 113-->
+<!--Post: 114--><!--Time: 1085776521-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST114"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Mike_kelleher<!--/name--></b></a><br>Username: <!--field:uname-->Mike_kelleher<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 28, 2004 - 1:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Sean: <BR> <BR>That&#39;s hard to say because so much has been withheld by the investigators. There is probably some intent to deceive here but, as we learned in the Zodiac case, it really does little good if there is sufficient material to analyze. With BTK, it would be better if we had access to more material. Maybe, someday . . . <BR><!--/Text--></td></tr>
+<!--/Post: 114-->
+<!--Post: 115--><!--Time: 1085777266-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST115"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 28, 2004 - 1:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i>&#34;With BTK, it would be better if we had access to more material. Maybe, someday . . .&#34;</i> <BR> <BR>Not as long as he keeps writing to the Wichita news media. He might as well flush his letters down the toilet.<!--/Text--></td></tr>
+<!--/Post: 115-->
+<!--Post: 118--><!--Time: 1085783024-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST118"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Mike_kelleher<!--/name--></b></a><br>Username: <!--field:uname-->Mike_kelleher<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 28, 2004 - 3:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, Tom, now he has another option, as well as a group of individuals who will understand his need to communicate. Could prove interesting.<!--/Text--></td></tr>
+<!--/Post: 118-->
+<!--Post: 121--><!--Time: 1085786887-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST121"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sean<!--/name--></b></a><br>Username: <!--field:uname-->Sean<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 28, 2004 - 4:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I suppose the obvious explanation is that he was attempting to decieve. However, it may be possible that many of these errors could be down to the fact that he was typing.Many of the errors appear similar to those many of us have made in E-mail and on message boards. I think the extract from the Otero letter is a good example.In several instances he just drops an &#34;s&#34;. &#34;It&#34; instead of &#34;it&#39;s&#34; etc and of course, inappropriate <BR>use of punctuation. <BR>Mike, do you think the lack of sufficient samples <BR>would negate resonable comparison? In other words, <BR>do you think any type of a judgement could be made <BR>with regard to authorship,if one had a sample from a potential suspect? <BR>Thanks for the response <BR><!--/Text--></td></tr>
+<!--/Post: 121-->
+<!--Post: 127--><!--Time: 1085793142-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST127"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Mike_kelleher<!--/name--></b></a><br>Username: <!--field:uname-->Mike_kelleher<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 28, 2004 - 6:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This kind of comparison is always a bit risky. The best possible situation is to have as many exemplars as possible, written under a variety of circumstances and states of mind. <!--/Text--></td></tr>
+<!--/Post: 127-->
+<!--Post: 1722--><!--Time: 1102668109-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1722"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 10, 2004 - 12:41 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In the Feb 10, 1978 letter to KAKE he suggests nine possible names that he likes that he proposes the media should select one and call him that. One of those is &#39;The Garote Phantom.&#39; Is BTK once again misspelling a word here since Garrote is spelled with two r&#39;s not one?  <BR>Garrote can imply strangulation with an iron garrote collar as the Spanish used a few hundred years ago or it&#39;s other meanings as in strangulation with a rope or other instument of strangulation or strangulation from behind with robbery in mind.  <BR>A Garote with one r is a flat wooden fighting stick used in Arnis, the Filipino martial arts of north and central Phillipines.  <BR>Is BTK famiiliar with both words but when refering to a garrote as in strangulation he spelled it wrong because he also knows of the Filipino word? Could BTK be Filipino whose family came from northern or central Phillipines?   <!--/Text--></td></tr>
+<!--/Post: 1722-->
+<!--Post: 2189--><!--Time: 1103393744-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2189"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tbear<!--/name--></b></a><br>Username: <!--field:uname-->Tbear<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 18, 2004 - 10:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Does anybody have an idea as to why Ted Bundy was refered to as Ted of the West Coast? Is there a Ted of the East Coast that I missed somehow?<!--/Text--></td></tr>
+<!--/Post: 2189-->
+<!--Post: 2200--><!--Time: 1103403066-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2200"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 18, 2004 - 12:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Before Bundy was identified, only his first name was known and he was referred to in the news media simply as &#34;Ted.&#34; Perhaps BTK wasn&#39;t sure readers of his letter would know who he meant without a little help.<!--/Text--></td></tr>
+<!--/Post: 2200-->
+<!--Post: 2205--><!--Time: 1103405480-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2205"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Juno<!--/name--></b></a><br>Username: <!--field:uname-->Juno<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 18, 2004 - 1:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The same reason he said Panty Hose Strangler of Florida. <BR> <BR>Was it &#42;after&#42; he sent this letter &#40;panty hose reference&#41;that he used panty hose to strangle? <BR> <BR>Seems like he tried out lots of other peoples techniques.<!--/Text--></td></tr>
+<!--/Post: 2205-->
+<!--Post: 5765--><!--Time: 1107359797-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5765"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bluepup<!--/name--></b></a><br>Username: <!--field:uname-->Bluepup<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 7:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Does anyone know if his misspellings fit with being dyslexic, or a similar learning disability?  <BR> <BR>I know the general feeling is that the mistakes are intentional, but I still wonder. It could be another explanation for the difference in his writing and speaking abilities. And also an explanation for possible bad treatment by teachers, parents etc. &#40;Pardon if this topic was <BR>already posted, I couldn&#39;t find it mentioned&#41; <!--/Text--></td></tr>
+<!--/Post: 5765-->
+<!--Post: 5821--><!--Time: 1107391167-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5821"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 4:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->At first I assumed that BTK&#39;s poor writing skills were a diliberate attempt to throw LE off his trail.  But now I&#39;m not so sure.  It&#39;s been suggested that he has knowledge of Spanish and could even be Hispanic and speak Spanish as his first language &#40;see Pat Brown&#39;s profile of BTK on her site&#41;.   <BR> <BR>BTK&#39;s grammar is said to be similar to Spanish grammar.  I don&#39;t know Spanish, but I am familiar with French -- I&#39;m in Canada and work with a lot of people who speak French as their first language -- and I&#39;ve noticed similarities in the types of grammar and spelling errors BTK makes and the ones that French-speakers often make.  English may well be BTK&#39;s second language.  When someone learns a second language, the hardest skill to pick up is how to write in another language with correct grammar and spelling.  Learning how to read or speak a second language is much easier.  Most of the French-speaking coworkers I know can speak English with no French accent.  This is because they&#39;ve been around English people their entire lives. <BR> <BR>When I receive email from my French-speaking coworkers, they often make mistakes similar to the types of mistakes BTK makes.  They have difficulty with verb tenses, compound words &#40;two words that combine to make one word&#41;, articles &#40;like &#34;an&#34; or &#34;the&#34;&#41;, singular versus plural &#40;whether or not a word needs an &#34;s&#34; added at the end&#41;, and sometimes they spell words phonetically &#40;as they would be pronounced, not written&#41;.  BTK has made all of these mistakes in his written communications. Even though he speaks with an Anglo Mid-Western accent, English could actually be his second language, which would account for his writing mistakes.  And the older he gets, and the more familiar he is with writing English, the better his writing and spelling skills become. <BR> <BR>Here are a couple of examples of mistakes French-speakers made in recent emails to me.  One coworker had problems with compound words, she hyphenated words that didn&#39;t need hyphens between them.  This is understandable, since hyphenated French compound words are almost non-existant in French. BTK messes up compound words by separating them, as in when he writes &#34;some one.&#34;  Another example:  someone else sent me an email where she wrote &#34;I haven&#39;t read it in dep yet.&#34;  She left off the &#34;th&#34; in the word &#34;depth,&#34; another understandable mistake since French words rarely end in &#34;th.&#34; Some of BTK&#39;s mistakes look to me like he was spelling out words phonetically.  He has confused &#34;there&#34; and &#34;their&#34; in a letter, that&#39;s a common error, even for people who have English as their first language. <BR> <BR>So BTK may not be making diliberate mistakes at all.  He may actually believe that he&#39;s using good spelling and grammar.  Heck, he thinks he can write decent poetry, when he can&#39;t, so maybe he thinks he can guess the proper spelling and usage of English, when he can&#39;t. <BR> <BR>This theory of mine isn&#39;t air tight -- it doesn&#39;t explain some apparent typos, like spaces between words and punctuation.  Why would someone as meticulous as BTK made mistakes like that?  If he&#39;s using an old-fashioned typewriter, it could be as simple as the fact that he can&#39;t type as well as he&#39;d like to, and he doesn&#39;t want to use correction fluid to fix his mistakes.  Maybe his typewriter doesn&#39;t have a correction fluid function, if it&#39;s a pre-1980s typewriter it wouldn&#39;t.  And if he likes to write a long letter in one sitting, he wouldn&#39;t want to retype it over and over and over again every time he makes a typo.  I don&#39;t think he&#39;d have the patience for that. <BR> <BR>So in conclusion, I believe that BTK has a crappy writing style not because he&#39;s a crafty genius, but because he&#39;s a semi-literate, lazy dumba&#42;&#42;. <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 5821-->
+<!--Post: 5829--><!--Time: 1107394940-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5829"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 5:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m convinced BTK is using an old-fashioned &#40;pre-electric&#41; typewriter for his correspondence, and that this is why he leaves his typos without correcting them. <BR> <BR>I&#39;ve had experience doing a lot of typing with computers, manual typewriters, and an electric typewriter, so here&#39;s my explanation.  With a computer you can easily go back and correct a typo.  With an electric typewriter, it&#39;s almost as easy -- there&#39;s a correction fluid function, you type over your typo with this function, wait for it to dry, then back up and continue typing. <BR> <BR>With a manual typewriter, it&#39;s a huge pain to use correction fluid to fix mistakes.  If you&#39;re typing along and make a typo, you have to stop and lift the metal &#34;arm&#34; that holds the paper in place.  Then you get the bottle of correction fluid and brush it over the typo, and wait for it to dry. Then you have to manually line the paper back up so that you can put the arm back down and type over the typo -- it isn&#39;t easy to get this lined up again.  I have a pretty straight eye, and  when you retype over the typo, the new letter is almost always not lined up perfectly with the letter ahead of it.  It throws off the &#39;straightness&#39; of the entire line from the point of the typo onward.   <BR> <BR>If you&#39;re a perfectionist like BTK, this could be even more aggravating than leaving the typo there in the first place. And when you have to correct typo after typo with a manual typewriter &#40;BTK does write longish letters&#41;, you learn to either practice your typing, or leave the typos there. <BR> <BR>Using a manual typewriter would also explain why the &#34;to&#34; address on the latest postcard wasn&#39;t lined up with the &#34;from&#34; address. <BR> <BR>I wonder if BTK has a stockpile of old-fashioned typewriter ribbons in a closet?<!--/Text--></td></tr>
+<!--/Post: 5829-->
+<!--Post: 5855--><!--Time: 1107404879-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5855"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 8:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Interesting idea.  Since he fancies himself a poet or writer of some sort, he may be hanging on to it for literary sake &#40;which Stephen King author character didn&#39;t at least have a back-up typewriter, with a few hand-crushable sheets of typewriter paper on hand?&#41;.  Also, I think BTK is able to use his old typewriter as a way of authenticating his communications.  It&#39;s risky, but he apparently thinks he&#39;s pretty much invulnerable - at least he&#39;s acting that way on so many other levels. <BR> <BR>But also note that, if BTK is actually the person in the &#34;From BTK&#34; thread, then he doesn&#39;t seem to correct all his typos there, either.<!--/Text--></td></tr>
+<!--/Post: 5855-->
+<!--Post: 5983--><!--Time: 1107472764-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5983"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 3:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m gonna revise my theory about his typos.  I think for the most part my theory applies &#40;the theory that he&#39;s just a poor typist who won&#39;t stop and correct all his typos as he writes out his letters to LE&#41;.  There are instances where my theory wouldn&#39;t seem to work, though.  As an example, I&#39;m going to assume that a message in the &#34;messages from BTK&#34; thread is, in fact, from BTK:  the message &#34;the faceupthe facedown.&#34;  That&#39;s a lot of words running together to be explained by typos. He has words running together throughout his letters.  I think that he does this because he&#39;s dropping a clue about how to decode some of his messages.<!--/Text--></td></tr>
+<!--/Post: 5983-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/33">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/33" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

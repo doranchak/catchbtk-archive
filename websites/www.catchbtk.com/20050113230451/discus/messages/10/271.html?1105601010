@@ -1,0 +1,246 @@
+<html>
+<!--Topic: 10/BTK Letters-->
+<!--Me: 271/BTK&#39;s first Letter-->
+<!--Level 1: 271/BTK&#39;s first Letter-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK&#39;s first Letter</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK&#39;s first Letter</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Letters</font></a> &#187;
+BTK&#39;s first Letter
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=271"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=271"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 3111--><!--Time: 1104463843-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3111"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tornado<!--/name--></b></a><br>Username: <!--field:uname-->Tornado<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 30, 2004 - 7:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I was re-reading his first letter and this caught my attention.  The sentence where he talks about reading the paper the next day and then he knows who his victim or victims will be.  I am wondering if there was a article in the paper about his victims that caught his eye. <BR> <BR>&#34;I can&#39;t stop it so the monster goes on, and hurt me as well as society. Society can be thankful that there are ways for people like me to relieve myself at time by day dreams of some victims being torture and being mine. It a big complicated game my friend of the monster play putting victims number down, follow them, checking up on them, waiting in the dark, waiting, waiting.... the pressure is great and sometimes he run the game to his liking. Maybe you can stop him. I can&#39;t. He has already chosen his next victim or victims. I don&#39;t know who they are yet. The next day after I read the paper, I will know, but it to late. Good luck hunting.&#34; <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 3111-->
+<!--Post: 3137--><!--Time: 1104481715-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3137"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 31, 2004 - 12:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That sounds very promising.  I&#39;m not sure if I&#39;m reading it the same as you, or a slightly different way. <BR> <BR>If he can be taken at his word &#40;a big if&#41;, it reads to me like he&#39;s saying he doesn&#39;t/didn&#39;t know the names of his victims until it&#39;s too late &#40;the crime is in the paper&#41;.  Perhaps this means he had some prior attacks &#40;fatal or non-fatal&#41;, B&amp;E, stalkings, or other incidents with strangers &#40;or people whose names he did not know&#41; that got into the paper, and that is when he first learned their names. <BR> <BR>That could be a very promising angle.  I would imagine that he worked his way up through the lower levels of voyeurism and fetishism to get to his magnum opus.  Probably watched the local police blotter to see what the cops were doing on his close calls.  At least once, he discovered the name of his target&#40;s&#41; after the fact.  Perhaps there could be a fresh lead from an old peeping-tom or binding-type assault case.<!--/Text--></td></tr>
+<!--/Post: 3137-->
+<!--Post: 3140--><!--Time: 1104502094-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3140"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bridgieb<!--/name--></b></a><br>Username: <!--field:uname-->Bridgieb<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 31, 2004 - 6:08 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tornado- <BR> Too me it sounds like he is saying he has M.P.D. <BR>HE {factor x}has already chosen HIS next victim or victims. I don&#39;t know who they are yet. <BR>It seems to me that this Factor X is doing things that his &#34;normal&#34; personality isn&#39;t aware of untill the day after the murder. Of course,it&#39;s too late then. <!--/Text--></td></tr>
+<!--/Post: 3140-->
+<!--Post: 3762--><!--Time: 1105196145-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3762"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 08, 2005 - 6:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->anyone know the exact date of the first letter from BTK? I know it was in october 1974 but I haven´t been able to find the date. <BR> <BR>Anyone knows? <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 3762-->
+<!--Post: 3770--><!--Time: 1105207610-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3770"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->J<!--/name--></b></a><br>Username: <!--field:uname-->J<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 08, 2005 - 10:06 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree with Bridgieb&#39;s interpretation.  If the letter is to be believed, BTK is claiming to have at least two personalities.  One &#40;let&#39;s call him the Host&#41; is writing this letter claiming the other &#40;the Monster&#41; makes the decisions and carries out the &#34;deed&#34; without the Host knowing the details - even the names of the victims - until he reads it in the paper.   <BR> <BR>IF this is true, then some of the correspondences may have been written BY the &#34;Monster&#34; instead of the &#34;Host.&#34;  In fact, the phone call made about Nancy could have been the Monster&#39;s voice instead of the Host.  &#40;And, we know that in true MPD, the different personalities can have quite different sounding voices&#41;. <BR> <BR>HOWEVER....we can&#39;t overlook the fact that this guy is a KILLER.  He&#39;s a no good murderer and that&#39;s the worst crime of all.  So, we have to take much of what he says with a grain of salt - including a claim of split personalities.   <BR> <BR>In other words, a lie or deception or manipulation about any disorder is a good deal lower on the scale of crime than murder.  Anyone who does what he did should be considered capable of any additional infraction such as fibbing about himself.  &#40;This reminds me of when the Menendez brothers were on trial for killing their parents and tried to bring in the defense that they had been abused. Some said &#34;Kids wouldn&#39;t lie about such a thing!&#34;  To which I would respond: THEY KILLED THEIR PARENTS IN COLD BLOOD, for crying out loud; do you think telling a lie is somehow beneath them??&#41; <BR> <BR>So, I am not sure we can say BTK is truly a case of MPD, but I think HE either thinks he is -- or wants people to think he is. <BR> <BR>The one part that jumped out at me in what you wrote from his letter is &#34;putting victims number down.&#34;  Does this strike anyone as strange?  I think most of us would say &#34;writing&#34; instead of &#34;putting&#34;...but I can&#39;t figure out why this bugs me.  I need to think about this.<!--/Text--></td></tr>
+<!--/Post: 3770-->
+<!--Post: 3845--><!--Time: 1105325059-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3845"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 09, 2005 - 6:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->To me, these are the words of a classic, soulless psychopath -- I don&#39;t care to honor BTK with the current euphemism for a psychopath which is &#34;antisocial personality disorder&#34; -- and a few red flags are noticed. <i>One:</i> &#34;Society can be thankful that there are ways for people like me to relieve myself at time by day dreams..&#34; and &#34;Good luck hunting.&#34; I sense a contradiction here. BTK is &#34;sincere&#34; then ends with a taunt. Why? Because the entire letter is a taunt, unless one chooses to believe that there really is a &#34;monster;&#34; and it&#39;s a monster he is so unable to control that BTK as concerned citizen is suddenly possessed of said monster <i>six sentences later in the same letter</i>. <i>Two:</i> &#34;I can&#39;t stop it so the monster goes on.&#34; I think this is manifest BS. BTK fails to take responsibility and blames a &#34;monster&#34; for his abominable deeds. The implication here is that BTK has no impulse control. This belief of no impulse control is impeached by the crime scenes, which display extensive premeditation. <i>Three:</i> &#34;follow them, <b>checking up on them</b>, waiting in the dark, waiting, waiting....&#34; &#40;emphasis supplied&#41;. Here is more premeditation. Premeditation negates a lack of impulse control. He knew exactly what he was doing, it was a conscious decision. BTK <i>chose</i> to torture and murder. <BR> <BR>MPD is theoretically possible but the odds are one in several million. Mr. Kelleher, if you see this, I&#39;m happy to stand corrected on my MPD estimate.<!--/Text--></td></tr>
+<!--/Post: 3845-->
+<!--Post: 3850--><!--Time: 1105328586-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3850"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jujuree<!--/name--></b></a><br>Username: <!--field:uname-->Jujuree<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 09, 2005 - 7:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George, I totally agree.  One phrase you used stands out to me more than any other: <BR> <BR>&#34;...manifest BS.&#34; <BR> <BR>I think that describes BTK&#39;s uncontrollable monster claims to a &#34;T.&#34;<!--/Text--></td></tr>
+<!--/Post: 3850-->
+<!--Post: 3859--><!--Time: 1105333633-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3859"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 09, 2005 - 9:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Jujuree, thanks; BTK&#39;s first letter is one he probably wishes he had back, although it may have worked in the 1970s when there was little information about violent serial crime. <BR> <BR>In this letter, BTK twice cites &#34;society.&#34; Add to this &#34;the next day after I read the paper&#34; and it <i>may</i> denote Wichita <i>specifically</i> rather than society in general. If it&#39;s on the level, BTK referred to Wichita at least three times in the letter where he wanted a &#34;name.&#34; This may further suggest that BTK harbored an exceptionally hateful grudge against Wichita and it&#39;s inhabitants. It&#39;s a widespread belief that BTK was a lifelong Wichitan, I know, but here are a couple of things which may reinforce this premise. Just speculating.<!--/Text--></td></tr>
+<!--/Post: 3859-->
+<!--Post: 3916--><!--Time: 1105414946-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3916"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 10, 2005 - 7:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You know, another way to read that is that he read &#40;past tense&#41; the paper and <i><b>picked the Oteros then</b></i>. BTK said &#34;<i>He has already chosen his next victim or victims. I don&#39;t know who they are yet. The next day after I read the paper, I will know...</i>. Is he implying that this is how he settled on the Oteros? Does anyone know if the Oteros were in the Wichita paper&#40;s&#41; some time fairly soon before the murders? How about the other victims? I know that they probably have already checked this possibility out, but it is worth double checking. IF each of the victims were in the newspaper then perhaps there is some connection that is being missed. I realize that this is highly improbable, but at this point hightly improbable is at least worth checking out. <BR> <BR>What does everyone think about this possibility? <BR><!--/Text--></td></tr>
+<!--/Post: 3916-->
+<!--Post: 3937--><!--Time: 1105424833-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3937"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 10, 2005 - 10:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Possible - I never thought about it that way.  I had interpreted the &#34;too late&#34; as meaning the victims were dead and in the paper, but your idea works, too, depending upon when the monster knows what it knows. <BR> <BR>If his monster is his fetish, and his killings are more or less fetish-driven, then that is one way your interpretetion would make sense.  His fetish or fetishes would &#34;like&#34; whatever factors drive him to a particular victim, and it might indeed seem to him that the victim was almost condemned by his monster before he became aware of them.  Also, the idea that he shopped his victims from a written publication of some type is extremely likely for a fetishist like BTK, who in his earlier days was probably looking through newspapers for lingerie and whatnot.  In fact, the more I think about it, the more likely it seems that he could develop a fascination with particular individuals whose pictures he fixated on.  There would appear to be little to link the victims - to each other, or to the killer.  The pictures could even have appeared in different publications, separated possibly both in time and space.  If he had a job or an easily available MO that would allow fantasies to cross over into reality, then an obsession that would otherwise  have led to an annoying peeper or clothesline stalker instead created a deadly one. <BR> <BR>With that, he could have easily taunted, &#34;You guess the motive!&#34;  After all, no normal person - in fact, nobody but BTK himself - would ever begin to comprehend the motive. <BR> <BR>Unfortunately, if the picture-in-paper theory were correct, it wouldn&#39;t bode well for the case, since the linkage would therefore be as tenuous as the newspaper clippings in some apartment bedroom thirty years ago.<!--/Text--></td></tr>
+<!--/Post: 3937-->
+<!--Post: 4022--><!--Time: 1105542177-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4022"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Luvmysteries<!--/name--></b></a><br>Username: <!--field:uname-->Luvmysteries<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 12, 2005 - 7:02 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dpinva and Pax56 - I am fairly new to this message board, so please bear with me as I am still trying to come up to speed on all the posted information. I find both of your postings quite interesting pertaining to the tenses. However, I have one small question concerning the phrase - how did he know the intended victim&#39;s name &#40;Anna, I believe&#41; from the paper &#40;beforehand or afterwards&#41;? Perhaps he learned her name from being in the house or delivering something to her house? Was Anna&#39;s near-miss an article in the paper? According to the Crime Library article BTK was evidently more interested in her daughter. Her age - 63 seems a little &#34;old&#34; for the age range of his victims. I can&#39;t seem to find information on Anna&#39;s daughter as to her age, did she live with her mother, where was she that evening? <BR> <BR>If indeed BTK was more interested in the daughter, why didn&#39;t he send the &#34;Oh, Anna...&#34; poem to the daughter? <BR> <BR>Just thinking out loud......<!--/Text--></td></tr>
+<!--/Post: 4022-->
+<!--Post: 4060--><!--Time: 1105601010-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4060"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 12, 2005 - 11:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Luvmysteries - there was a fair lapse of time between crime and receipt of the poem - perhaps enough for there to be something in the paper.  In any case, BTK had enough time in the house to do some research on the occupants.  I don&#39;t think that BTK would care if his evil joke poetry would go to the victim or the mother.  If the poem is indeed related to the military school ode to &#34;Ana-lytical&#34;, then it may have just been convenience of the joke, even if his target was the daughter.  BTK&#39;s dark humor seems fairly unconstrained. <BR> <BR>Back to the thread &#40;Tom&#39;s a stickler on this&#41;, I don&#39;t know if the Anna letter sheds light on the first letter or not.  Despite what is said elsewhere, I&#39;m not sure everybody agrees on who the target was, much less when it was decided, so no help on when victims are identified. <BR> <BR>Personally, I believe that most of what he says is lies, and that we should not use his statements - even his pleas in the first letter - as sources of hard information, particularly about real MO. <BR> <BR>The extreme savagery of the attacks, combined with a variety of other data, lead me to this hypothesis &#40;this idea is totally off the wall - just my gut - so don&#39;t ask me for any real proof&#41;. <BR> <BR>I think these murders are planned in advance, with knowledge of the victim, because I believe they are vengeance-based.  Not vengeance for anything that most people would regard as normal.  Things on the order of &#34;I&#39;m sorry - I&#39;ve already got a boyfriend.&#34;  I think BTK is completely unable to handle rejection of any kind.  On the surface, he&#39;s like the nebbish in &#34;Office Space&#34; who lets everybody walk all over him, and mumbles to himself as people unknowingly abuse and ignore him.  But underneath, his rage is excruciating, and is simply never released.  And the key is that he got his sex and revenge wires crossed during his dysfunctional adolescence. <BR> <BR>I think each of the victims slighted BTK at some point in his life.  I don&#39;t know when it was, but I think it could have been something so minor that most people wouldn&#39;t think twice about it.  Turned down for a date.  Wouldn&#39;t dance with him at the one school dance he went to.  Rolled eyes.  Giggles, gossip, and pointing at work.  Down underneath, he never got past his first brush-off.  Whatever it is, he goes postal when it happens.  But instead of coming back to the office with an AK-47, he does some sexual rumination for a while, and then comes back with his bowling bag. <BR> <BR>So according to my theory, his target is his rage, which knows no boundary once it is incited by somebody.  Killing the whole family is more vengeful than just the person who slighted him, so why not?  The only question is what order.  Maybe Anna gave him a dirty look at Dillon&#39;s.  Maybe the daughter wouldn&#39;t go out with him.  After either, they&#39;re both targets.  Was it Mr. or Mrs. Otero?  Once his fantasy begins, it doesn&#39;t matter. <BR> <BR>I guess I got a little long-winded, there.  Hope I didn&#39;t bore you to tears.  Thanks!  -pax<!--/Text--></td></tr>
+<!--/Post: 4060-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/271">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/271" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,259 @@
+<html>
+<!--Topic: 9/BTK Suspects-->
+<!--Me: 454/&#34;Crazy Mike&#34;-->
+<!--Level 1: 454/&#34;Crazy Mike&#34;-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 9-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: &#34;Crazy Mike&#34;</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">&#34;Crazy Mike&#34;</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/9/9.html"><font color="#f7f7f7">BTK Suspects</font></a> &#187;
+&#34;Crazy Mike&#34;
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=9&page=454"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=9&page=454"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 6719--><!--Time: 1107981680-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6719"><font face="Verdana" size="1"><b><!--email--><a href="mailto:Iwillc@tchu.com" target="_blank"><!--/email--><!--name-->Catcher<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Catcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 12:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->For those of us that live in Wichita, you all know who I am referring to.  Is there anyone here that has lived in the area long enough to give a more detailed description of Crazy Mike, and let the internet community in on some of the interesting theories and history with WPD this man has been associated with?<!--/Text--></td></tr>
+<!--/Post: 6719-->
+<!--Post: 6725--><!--Time: 1107984045-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6725"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 1:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->WOW - are you talking about the crazy mike I knew from the late 70&#39; - early 80&#39;s???  <BR>Course it could be coincidental.  I am a Wichita Native - but I left for like 15 years the first time - and 17 years the second time. In my younger years I knew a &#34;crazy&#34; by the name of Crazy Mike....hmmm...it was a long time ago.  Lot&#39;s of parties at Cheney...and remeber the old &#34;Foundry&#34; bar? - on Douglas - he used to frequent there.<!--/Text--></td></tr>
+<!--/Post: 6725-->
+<!--Post: 6749--><!--Time: 1107994290-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6749"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Doone<!--/name--></b></a><br>Username: <!--field:uname-->Doone<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 4:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The guy that always wore headphones?<!--/Text--></td></tr>
+<!--/Post: 6749-->
+<!--Post: 6754--><!--Time: 1107996286-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6754"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Birdieict<!--/name--></b></a><br>Username: <!--field:uname-->Birdieict<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 4:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I hear he has been swabbed already. He was way up there on my list when BTK first returned.<!--/Text--></td></tr>
+<!--/Post: 6754-->
+<!--Post: 6762--><!--Time: 1107999837-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6762"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kansasgirl<!--/name--></b></a><br>Username: <!--field:uname-->Kansasgirl<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 5:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I haven&#39;t seem him around much lately. How old is he?<!--/Text--></td></tr>
+<!--/Post: 6762-->
+<!--Post: 6770--><!--Time: 1108002139-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6770"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 6:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->OMG I had to laugh when I saw &#34;that crazy guy with the headphones&#34; I had no idea who crazy  <BR>Mike was but I&#39;ve seen that guy all over Wichita. He&#39;s always wearing knee high socks and shorts. He looks like he stepped out of a 1970&#39;s disco rollerskating movie or something. He does scoot around on roller skates too I think doesn&#39;t he? Oh I needed a good laugh. Thank you. now I finally know who that funky lookin&#39; guy is.  <!--/Text--></td></tr>
+<!--/Post: 6770-->
+<!--Post: 6772--><!--Time: 1108002620-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6772"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 6:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m not from Wichita and have no idea who this Crazy Mike guy is but he sounds too flamboyently odd to be a sucessfull BTK. <BR>You are an important group though who have posted on this thread. You are the ones from Wichita who sit next to BTK at a traffic light and never know it. I think it&#39;s going to be someone who lives in Wichita or once lived there or frequents there often to visit relatives who is ultimately going to come up with some seemingly inconsiquential lead that ultimately identifies BTK.<!--/Text--></td></tr>
+<!--/Post: 6772-->
+<!--Post: 6773--><!--Time: 1108002834-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6773"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Neechi<!--/name--></b></a><br>Username: <!--field:uname-->Neechi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 6:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->LOL....&#34;Crazy Mike&#34;...I remember being in line behind him at Dillons at 21st and Rock several times many years ago.  He was always rude to the cashier and always paid with big bills, even if he was just buying gum.  I seem to remember a Corvette or some sort of sports car being associated with him.  The guy was/is definitely eccentric, but not a serial killer.  I hadn&#39;t thought about him in years! Thanks for the laughs!<!--/Text--></td></tr>
+<!--/Post: 6773-->
+<!--Post: 6774--><!--Time: 1108002875-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6774"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Doone<!--/name--></b></a><br>Username: <!--field:uname-->Doone<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 6:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK can not be that strange. He would be in jail if that were the case.<!--/Text--></td></tr>
+<!--/Post: 6774-->
+<!--Post: 6811--><!--Time: 1108016600-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6811"><font face="Verdana" size="1"><b><!--email--><a href="mailto:Iwillc@tchu.com" target="_blank"><!--/email--><!--name-->Catcher<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Catcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 10:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yea, he frequents this bar I frequent as well called &#34;The Shadow&#34;.  It&#39;s a copycat bar of the one in Vegas at Ceasar&#39;s Palace I believe.  He&#39;s a character all right!  I understand as well that he was cleared without much doubt from being BTK.  But hey, he did have his moment!<!--/Text--></td></tr>
+<!--/Post: 6811-->
+<!--Post: 8316--><!--Time: 1109052001-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8316"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dolphin24<!--/name--></b></a><br>Username: <!--field:uname-->Dolphin24<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 10:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->crazy mike or &#34;moonboots&#34; as my sister and i call him lives 4 houses away from my sister&#39;s best friend...very strange guy.....<!--/Text--></td></tr>
+<!--/Post: 8316-->
+<!--Post: 8322--><!--Time: 1109053929-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8322"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Puzzler<!--/name--></b></a><br>Username: <!--field:uname-->Puzzler<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 10:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->His parents live in California and are very wealthy.  He is schizophrenic and wears the earphones all the time so he won&#39;t hear the voices inside his head.  He has a Caddie that stays in his garage most of the time.  He sometimes rides a bike, but most of the time he walks.  His parents support him because he is unable to work. He owns his home in an upscale neighborhood on the east side of Wichita, but keeps the windows and sliding glass doors boarded up and covered all the time. <!--/Text--></td></tr>
+<!--/Post: 8322-->
+<!--Post: 8440--><!--Time: 1109129373-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8440"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brown_tornado<!--/name--></b></a><br>Username: <!--field:uname-->Brown_tornado<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 7:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->what a trip. i know exactly who you&#39;re talking about. that dude has been around for a long time...just like Cosmo... the dude who always ride his bike barefoot, winter and all..and you always see him at all the concerts.<!--/Text--></td></tr>
+<!--/Post: 8440-->
+<!--Post: 8464--><!--Time: 1109151347-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8464"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@yahoo.com" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 1:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Crazy mike has had to live a sad life.  A concert at the Coliseum were probably on eof his only times to take the head sets off.  His parents are extremely well, and I think it is a very sad life that Crazy Mike has had to live. <BR> <BR>wichitan<!--/Text--></td></tr>
+<!--/Post: 8464-->
+<!--Post: 8715--><!--Time: 1109295440-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8715"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bulldog87<!--/name--></b></a><br>Username: <!--field:uname-->Bulldog87<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 5:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I saw crazy mike at buckle &#40;towneast&#41; the other day. They say he comes in everyday. Walks around and leaves. Didnt seem to fit the profile, you would remember him if you saw him.<!--/Text--></td></tr>
+<!--/Post: 8715-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="9/454">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=9/454" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

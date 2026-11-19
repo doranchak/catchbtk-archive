@@ -1,0 +1,263 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 210/BTK: Zodiac buff, Part 2-->
+<!--Level 1: 210/BTK: Zodiac buff, Part 2-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK: Zodiac buff, Part 2</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK: Zodiac buff, Part 2</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+BTK: Zodiac buff, Part 2
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=210"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=210"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 2000--><!--Time: 1103241126-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2000"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 3:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Continued from <a href="http://www.catchbtk.com/discus/messages/11/38.html?1103154539"> <b>here</b></a>.<!--/Text--></td></tr>
+<!--/Post: 2000-->
+<!--Post: 2035--><!--Time: 1103261921-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2035"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 16, 2004 - 9:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->As Ed &amp; I discussed, and he posted in the &#34;Messages TO BTK&#34; thread: <BR> <BR>In the &#34;Messages FROM BTK&#34; thread, &#42;B&#42;T&#42;K&#42; writes to Tom &#40;in order to PROVE he&#39;s the Actual BTK&#41;: <BR>&#34;Why don&#39;t you ask the WPD about the running faucet I left at the scene of Ms Bright&#39;s demise ??&#34;  <BR> <BR>Which is virtually identical to Zodiacs&#39; 11-9-1969 letter:  <BR> <BR>&#34;To prove that I am the  <BR>Zodiac, ASK THE VALLEJO COP ABOUT THE ELECTRIC GUN SIGHT I USED TO START MY COLLECTING OF SLAVES.&#34; &#40;caps added&#41; <BR> <BR>ALSO, I further note that: In BLTs&#39; latest &#34;park package&#34; letter, his final chapter, Chapter 13, is titled &#34;WILL THERE BE MORE?&#34; <BR> <BR>This is the same exact phrase used in Zodiacs&#39; 2nd-ever letter of 1966! It was sent to the father of his 1st known victim, Cheri Jo Bates &#40;with duplicates sent to the Riverside cops &amp; the daily newspaper&#41;. It contained only 1 sentence: <BR> <BR>&#34;Bates had to die, THERE WILL BE MORE!&#34; <BR>Pretty stunning, huh? Victor<!--/Text--></td></tr>
+<!--/Post: 2035-->
+<!--Post: 3153--><!--Time: 1104520697-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3153"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 31, 2004 - 11:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->To me, one of the most glaring comparisons between Zodiacs Berryessa attack and BTK&#39;s Bright <BR>murder is what occured after these crimes. Both normally show offs and braggarts never spoke of either crime. Other then the car door at Berryessa Zodiac never spoke about this murder and Btk has never officially claimed Bright as his work.<!--/Text--></td></tr>
+<!--/Post: 3153-->
+<!--Post: 4374--><!--Time: 1106263822-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4374"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Essevi<!--/name--></b></a><br>Username: <!--field:uname-->Essevi<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 3:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I had been under the impression that BTK had omitted Zodiac from all of his communications. In reviewing earlier news articles, I came across a statement made by former police investigator Mike McKenna, in which he states that BTK had indeed mentioned Zodiac. <BR> <BR>&#34;He sent messages years ago, complaining that California&#39;s &#34;Zodiac Killer&#34; seemed to be getting more publicity than BTK&#34; <BR> <BR><a href="http://www.kansas.com/mld/kansas/news/special_packages/btk/archive/8294875.htm" target=_top>www.kansas.com/mld/kansas/news/special_packages/bt k/archive/8294875.htm</a> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4374-->
+<!--Post: 4389--><!--Time: 1106290096-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4389"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 10:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Referring to Bates, I&#39;ll play it safe; she&#39;s a possible. I hate to hang the potent word &#34;definite&#34;  on her. The same is true of Johns and Domingoes and Evans in 1963. Mr. Kelleher has made the most cogent assertions yet that Bates wasn&#39;t a definite Zodiac victim. I&#39;m with Mr. Kelleher concerning Bates. If you use Bates as  definite, then one must count SB as probable since Zodiac doesn&#39;t mind moving around. <BR> <BR>Above all, I try not to allow DR. Davis into my head. I bear in mind that Howard believes everything he reads concerning the Zodiac killings, he relies on a &#34;crew cut wig&#34; to explain away &#34;his guy&#39;s&#34; long hair on 10/11/69. And the capper is that in order for Bruce Davis to be the Zodiac, various Manson girls dutifully mailed letters from Bruce&#39;s prison. Newsflash: prisons read all mail being sent out, especially a murderer&#39;s, and especially a murderer with ties to Charles Manson. Okay, maybe Bruce had the letters already finished and stamped, and the subserviant Manson girls mailed each of them for him. The guards knew who these young women were and they have legal right to search anyone for any reason. I just can&#39;t see Bruce and his trusty crew cut wig doing Stine and I can&#39;t envision the girls getting away with sneaking out a bunch of &#34;Zodiac-Bruce&#39;s&#34; Zodiac letters. Howard is one of my favorites on the board. Top five. Finally, there is a tactic Howard sometimes employs. The self-absorbtion &#40;to put it mildly&#41; &#34;See past posts&#34; or &#34;this[read, I; Howard has already done this] has been asserted before&#34; aren&#39;t conducive to a normal message board dialogue. Yep I blew up twice at Howard. The second time he deserved it, the first time, not as much, but I quickly gave him an apology although he wasn&#39;t entirely without blame, either. <BR> <BR><i>He sent messages years ago, complaining that California&#39;s &#34;Zodiac Killer&#34; seemed to be getting more publicity than BTK, McKenna said.</i> I read that, too. Notice that there aren&#39;t any <i>quotations</i> from BTK. Are these messages available? I&#39;d love to read them. <BR> <BR><i>&#34;Other then the car door at Berryessa Zodiac never spoke about this murder</i> Well, actually Zodiac did communicate; he called Napa PD, &#34;I&#39;d like to report a murder, no a double murder..they were in a white Karman Ghia. &#40;Pause&#41; &#34;I&#39;m the one who did it.&#34; IMO Zodiac crowed about LB more than he did at LHR and possibly BRS - until he learned that Bryan Hartnell was alive and would be fine.  <BR> <BR>The Bates confession letter, typed doesn&#39;t impress me. That was someone who badly miscalucated Bates&#39; wounds and negates credibility. However, the crossed circle is interesting. Remember Bob Lord? <a href="http://www.zodiackiller.com/Inspiration1.html" target="_blank">BOB</a> It turned out to be a probable suicide but that doesn&#39;t explain the crossed circle. And did you notice Lord&#39;s fairly attractive female friend came from <b>Wichita</b>? <BR> <BR>I&#39;m 60/40 on Bates as a Z victim, possibly 70/30. It&#39;s probably semantics as I believe that &#34;definite&#34; should only apply to those who are 100/0 definite victims. <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4389-->
+<!--Post: 5797--><!--Time: 1107382537-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5797"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lmuncy316<!--/name--></b></a><br>Username: <!--field:uname-->Lmuncy316<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 2:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I do not know much about the Zodiac Killer, and I am new to the BTK killings as well; however, I am completely intrigued by serial killings and serial killer behavior.  I only learned about BTK <BR>by watching America&#39;s Most Wanted &#40;I have watched the show for years&#41;. <BR>Now, I do believe that BTK is a Zodiac buff, but I also believe he has more than one serial killer with which he imitates. <BR>I also understand by reading some postings that it is believed that the Zodiac Killer &amp; BTK had military training; but, I was under the impression that the Zodiac had poor eyesight.  How could either the Zodiac or BTK received extensive military training with such poor eyesight?<!--/Text--></td></tr>
+<!--/Post: 5797-->
+<!--Post: 6060--><!--Time: 1107509665-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6060"><font face="Verdana" size="1"><b><!--email--><a href="mailto:zodiacfiles@aol.com" target="_blank"><!--/email--><!--name-->Ed_neil<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 1:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->How would anyone know if the Zodiac had poor eyesight?  Just because he wore glasses certainly is suggestive, but is by no means conclusive.  He may have worn them only for a disguise but otherwise had good eyesight.<!--/Text--></td></tr>
+<!--/Post: 6060-->
+<!--Post: 7557--><!--Time: 1108574067-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7557"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 9:14 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->RE: Zodiac had poor eyesight. <BR> <BR>Maybe it&#39;s true what mamma said, you know... about master batin? <BR> <BR>It affects the eyes.... <BR> <BR>Okay, Tom, delete on... Haha!<!--/Text--></td></tr>
+<!--/Post: 7557-->
+<!--Post: 7578--><!--Time: 1108584813-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7578"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 12:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Some people where glasses to hide there guilt, he told that one couple I have to kill you now and his hands were shaking, Not sure how the police knew that. This guy was a true nut, he came back from the war and still dressed in camo killed anyone that looked good. He was a true Psychopath. <!--/Text--></td></tr>
+<!--/Post: 7578-->
+<!--Post: 8013--><!--Time: 1108793382-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8013"><font face="Verdana" size="1"><b><!--email--><a href="mailto:zodiacfiles@aol.com" target="_blank"><!--/email--><!--name-->Ed_neil<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 10:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It&#39;s interesting to note that the Otero&#39;s place at 803 N Edgemoor not only intersects with E Murdock, it also intersects with E Pine.  The Zodiac mailed the &#34;Pines&#34; card to the San Francisco <i>Chronicle</i> on 3-22-1971; that might be one reason why BTK chose the Oteros. <BR><!--/Text--></td></tr>
+<!--/Post: 8013-->
+<!--Post: 8184--><!--Time: 1108959213-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8184"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 20, 2005 - 8:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ed can I post this over in the thread where we are decoding BTK in communications, it will be useful<!--/Text--></td></tr>
+<!--/Post: 8184-->
+<!--Post: 8252--><!--Time: 1109015034-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8252"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 11:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I still think that there is at least a reasonable possibility that BTK and the Zodiac <i>are </i>the same guy, or are somehow intimately connected to each other directly.  <BR> <BR>BTK <i>might </i>just be a loyal groupie, but the similarities between the two, especially in obscure details such as the chapter names mentioned by <i>vscantu</i> above, make me think there is more going on there than simple copycatting. <BR> <BR>This is one we will not be able to authoritatively know about until BTK is caught, and even we might not know.<!--/Text--></td></tr>
+<!--/Post: 8252-->
+<!--Post: 8330--><!--Time: 1109056478-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8330"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 11:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;Bates had to die, THERE WILL BE MORE!&#34; <BR> <BR>This is a compelling statement, no question about it. One thing, though. This information has been out there for a long, long time. BLT may have made a little wink to Zodiac by using the phrase &#34;Will There Be More?&#34; In fact I think this observation is a good one. I only wish BLT would have referenced a Z letter which was about a definite Zodiac victim, rather than a possible one.<!--/Text--></td></tr>
+<!--/Post: 8330-->
+<!--Post: 8331--><!--Time: 1109056762-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8331"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 11:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I can&#39;t get over the young woman from Wichita who appears in the Bob Lord story. Now <i>that</i> is weird!<!--/Text--></td></tr>
+<!--/Post: 8331-->
+<!--Post: 8332--><!--Time: 1109056861-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8332"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 11:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I notice the recent post by Ryan at the Z board. I wonder. Anyone think that BTK probably has a collection of similar material? Just wondering, nothing more.<!--/Text--></td></tr>
+<!--/Post: 8332-->
+<!--Post: 8334--><!--Time: 1109057391-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8334"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 11:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Forgot the link. It appears that while the artist supplied the requisite ample bosom for Lois, he seemed more interested in detailed male muscle accuracy than anything else... <BR><a href="http://www.zodiackiller.com/discus/messages/14/581.html?1108351880" target=_top>http://www.zodiackiller.com/discus/messages/14/581 .html?1108351880</a><!--/Text--></td></tr>
+<!--/Post: 8334-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/210">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/210" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

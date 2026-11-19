@@ -1,0 +1,237 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 795/Dr William Eckert-coroner-->
+<!--Level 1: 795/Dr William Eckert-coroner-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Dr William Eckert-coroner</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Dr William Eckert-coroner</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Dr William Eckert-coroner
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=795"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=795"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 13330--><!--Time: 1115061217-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13330"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, May 02, 2005 - 12:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wichita Eagle - December 7, 1993 - 1A MAIN NEWS <BR> <BR>OUTDATED CONDITIONS DON&#39;T GET IN THE WAY OF CORONER&#39;S VISION During her first month in Sedgwick County, forensic pathologist Corrie May performed autopsies with a borrowed saw and a 10-inch Chicago Cutlery knife she bought at Dillards. May purchased the knife in a hurried trip to the mall after realizing the equipment on hand when she arrived wouldn&#39;t do the job. The private mortuary where May does her work helped arrange for other tools to be available temporarily for her use. Six months into her tenure as coroner/medical examiner, May has...  <BR> <BR>&#40;itty: So Corrie May comes on board in June and finds outdated practices, then 3-4  months after her starting,  longtime  Sedgwick county coroner resigns his post to work in florida.&#41; <BR> <BR> <BR>Wichita Eagle - September 27, 1993 - 1A MAIN NEWS <BR> <BR>ECKERT CLOSES FILES ON WICHITA FORENSIC CAREER Perhaps the quintessential William Eckert case occurred a few years ago when the Wichita pathologist re-investigated how a suspect sustained serious injuries after being arrested by a New Orleans police officer. The local coroner claimed the black man had fallen. But suspecting racism and police brutality, Eckert documented 15 to 20 skull fractures and an indentation that looked like it had been made by a foot. But &#34;you know New Orleans justice,&#34; Eckert recalled this past week...  <BR> <BR> <BR>Wichita Eagle - August 21, 1993 - 1D CITY AND STATE <BR> <BR>TOP PATHOLOGIST ECKERT HEADING FOR FLORIDA JOB World-renowned pathologist William Eckert who recently ended a quarter- century as Sedgwick County deputy coroner will become the chief medical examiner for six counties in Florida next month. Eckert, 67, plans to move to Panama City on the Gulf of Mexico about Sept. 15. He will serve Bay, Gulf, Jackson, Calhoun, Holmes and Washington counties. &#34;It&#39;s a great situation,&#34; Eckert said Friday night. &#34;It&#39;s like going to Mecca or the Taj Mahal.&#34; Besides.. <BR> <BR>&#40;itty: Sounds great, but only 9 months later…&#41;. <BR> <BR> <BR>Wichita Eagle - June 5, 1994 - 4B CITY AND STATE <BR> <BR>EX-SEDGWICK COUNTY CORONER EXPECTED TO LOSE JOB IN FLORIDA PANAMA CITY, Fla. William Eckert, former deputy district coroner for Sedgwick County, is about to lose his job in Florida after allegations of botched autopsies. Eckert, who left Wichita in September after serving in the coroner&#39;s office for 26 years, took a job in October as acting medical examiner for a six-county area of the Florida Panhandle. Late last month, a search committee told Eckert that his tenure as acting medical examiner would end June 14. The panel voted 8-2 to...  <BR> <BR>&#40;itty: I want to check on cases that happened between Sept 93 and June 94 in the counties he served, to see what kind of mistakes were made, if it has been proven that he botched autopsies, Then thats a big strike against the prosecution in the rader case.  Any locals, wichita or florida remember anything?&#41; <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 13330-->
+<!--Post: 13331--><!--Time: 1115061895-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13331"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, May 02, 2005 - 12:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->One more thing, He&#39;s also the one who said <BR> <BR>The Wichita Sun   <BR>Wednesday, December 11, 1974   <BR>Cathy Henkel, Sun staff writer  <BR> <BR>&#34;The fact that there was no great violence is the most unusual aspect of the case,&#34; commented Dr.   <BR>William Eckert, deputy coroner who was at the scene the day of the murder.   <BR>   <BR>The only sign of a struggle, said Eckert, was with Mrs. Otero who had bruises on her cheeks.   <BR> <BR> <BR>And: <BR> <BR>Woman Slain in S. Wichita   <BR>Apparent Victim of Strangulation   <BR>By Jeff Williamson   <BR>Staff Writer   <BR>Wichita Eagle-Beacon   <BR>March 18, 1977 <BR>   <BR>Shirley Vian <BR>An autopsy conducted by Deputy Dist. Coroner Dr. William Eckert showed no evidence of sexual   <BR>assault, leaving police with what Lester conceded to be a thin motive of robbery in the crime.  <BR> <BR>  <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 13331-->
+<!--Post: 13332--><!--Time: 1115063432-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13332"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, May 02, 2005 - 12:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Itty - you ABSOLUTELY amaze me.  Seriously, you should have your own PI business, OR be retained by either prosecutors or defense attorney&#39;s as investigator of prime cases.  Your knowledge on seeking out and discovering info is incredible. <BR>Perhaps you should forward this stuff to the d.a. - but then again perhaps they know - but then again they probably don&#39;t. <BR>Keep doing your research Itty - I will be waiting ernestly to read. <BR>Thankyou!<!--/Text--></td></tr>
+<!--/Post: 13332-->
+<!--Post: 13333--><!--Time: 1115068646-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13333"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, May 02, 2005 - 2:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I heard that Dr. Eckert died. He is not on the witness list. <BR>-Deb <BR> <BR><a href="http://www.sedgwickcounty.org/da/Dennis_Rader/Docs%20filed%20with%20CT/51040079.pdf" target=_top>http://www.sedgwickcounty.org/da/Dennis_Rader/Docs %20filed%20with%20CT/51040079.pdf</a><!--/Text--></td></tr>
+<!--/Post: 13333-->
+<!--Post: 13340--><!--Time: 1115104865-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13340"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Phoenix<!--/name--></b></a><br>Username: <!--field:uname-->Phoenix<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, May 03, 2005 - 12:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->William Eckert died September 17, 1999 in New Orleans. He was 73. <a href="http://www.time.com/time/archive/preview/0%2C10987%2C992160%2C00.html" target=_top>http://www.time.com/time/archive/preview/0,10987,9 92160,00.html</a>. <BR> <BR>About ten years ago, Cyril Wecht was testifying for me in a murder trial.  Bill Eckert heard about it and invited us to dinner.  They started talking about Kennedy, Jack the Ripper, other pathologists and trials.  It was one hell of an evening. <BR> <BR>Phoenix<!--/Text--></td></tr>
+<!--/Post: 13340-->
+<!--Post: 13342--><!--Time: 1115117346-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13342"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, May 03, 2005 - 3:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks Else, why dont you come live with me and talk to me like that all the time.... <BR> <BR>Phoenix, can you look up what mistakes were supposedly made by Dr Eckert? Or can you point me in the right direction?  <BR> <BR>Hopefully he will plead guilty, and it wont matter.<!--/Text--></td></tr>
+<!--/Post: 13342-->
+<!--Post: 13438--><!--Time: 1115298361-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13438"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Phoenix<!--/name--></b></a><br>Username: <!--field:uname-->Phoenix<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 05, 2005 - 6:06 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Else: <BR> <BR>He was a world-class pathologist in his prime.  Sometimes we retire in our prime, and sometimes we wait too long. <BR> <BR>I don&#39;t have any reason to think that the work he did in the 70&#39;s and 80&#39;s suffered.  He was the forensic pathologist in the Lockerbie Scotland case and was fine then.  That was 1991. <BR> <BR>Phoenix <!--/Text--></td></tr>
+<!--/Post: 13438-->
+<!--Post: 13439--><!--Time: 1115301321-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13439"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 05, 2005 - 6:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Phoenix, I have read of his reputation, and I will take your word for it. <BR> <BR>So, he was a pretty cool guy, huh? Tell us one of his stories. I love hearing history first hand, and really treasure our older folks.<!--/Text--></td></tr>
+<!--/Post: 13439-->
+<!--Post: 13478--><!--Time: 1115364488-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13478"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Phoenix<!--/name--></b></a><br>Username: <!--field:uname-->Phoenix<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 06, 2005 - 12:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Itty: <BR> <BR>I will but it&#39;s late now. <BR> <BR>Phoenix<!--/Text--></td></tr>
+<!--/Post: 13478-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/795">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/795" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

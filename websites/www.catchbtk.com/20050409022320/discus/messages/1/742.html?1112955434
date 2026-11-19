@@ -1,0 +1,253 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 742/LEWISTON CIVIC THEATRE-->
+<!--Level 1: 742/LEWISTON CIVIC THEATRE-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: LEWISTON CIVIC THEATRE</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">LEWISTON CIVIC THEATRE</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+LEWISTON CIVIC THEATRE
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=742"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=742"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 12000--><!--Time: 1111499823-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12000"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dlee<!--/name--></b></a><br>Username: <!--field:uname-->Dlee<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 22, 2005 - 5:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->reply to Scbenson from &#39;faceless monsters&#39; thread <BR>Yeah apparently Pearsol picked an unfortunate time to avail himself of the Theater&#39;s washer and dryer since apparently he became at some point in the Murder of the two young ladies a witness the killer needed to dispose of.At least that seems to be the investigators take on it I would agree given the limited info I have.Ill post more in a bit.<!--/Text--></td></tr>
+<!--/Post: 12000-->
+<!--Post: 12032--><!--Time: 1111515080-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12032"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dlee<!--/name--></b></a><br>Username: <!--field:uname-->Dlee<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 22, 2005 - 10:11 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If you punch &#39;lewiston civic theater&#39; into your search engine you&#39;ll probably be able to find a photo of the place on one of the idaho sites.Its an old converted heavy stone block church as you&#39;ll see a very gothic,forboding looking place. <BR>I&#39;ll try to fill you in on the Pearsol/Two Young ladies&#40;I cant recall the names at the moment,they were in their early twenties&#41; aspect of the case. <BR>Ill try to not be too confusing. <BR>First off the Lewiston Valley at that point runs aproximately east-west following the course of the Clearwater River. <BR>Downtown Lewiston lies at the bottom on the southside of the river then as you proceed south the land rises up a steep series of hills before reaching the prairie a few miles above. <BR>The Theater sits on the very edge of one of the first steep hills overlooking downtown. <BR>Surrounding it is a shady old residential area called &#39;Normal Hill&#39;&#40;a misnomer,I know&#41;.It has alot of students from the nearby university living there. <BR>The two girls lived in this neighborhood sharing an apartment.&#40;I would live in the same neighborhood three years later&#41;. <BR>I dont know how the investigators determined this but on this night in September 1982 they left their apartment on foot heading for a supermarket that was located on a street that ran along the bottom of the hill.Their most likely route would take them right past the theater on 8th street that runs along the east side of the building before it curves to the left and drops steeply down the hill. They never made it to the store and were never seen alive again. <BR>Combine this with Pearsol&#39;s simultaneus drop into the void and you wouldnt have to be a rocket scientist to look at the theater and go&#34;hmmm....&#34; I dont know how long it took them to tie thier suspect to the theater but im sure that only made things look worse.As I recall there was an uncashed paycheck at their apartment,and other indications that made it apparent they hadnt planned on being gone long. <BR>Now for my stupid theory: <BR>As I&#39;ve said,8th street runs along the east side of the building,there is a narrow tree-lined residential street along the south or &#39;front&#39; of the building and more houses on the west. <BR>The north side, the side im concerned with, has nothing but a narrow service driveway running between the building and a small grass prominatory then a steep drop off,with downtown below. <BR>When I lived in that neighborhood I spent a good deal of time car-less and on foot too,and used to frequent the same store the girls were going to.&#40;Its gone now.&#41; anyway you could follow 8th street past the theater down the hill past the theater and it would deposit you several block west of the store or-you could,once you were past the east end of the building turn right into the theater service driveway along the north end and proceed to the edge.then past some brush you would find a small rutted path that would wind steeply downhill and deposit you almost directly accross from the store.A great shortcut. <BR>Along this north end of the building is a door that leads to the backstage area of the theater as well as stairs that take you downstairs to a warren of rooms in the basement. <BR>I wouldnt be at all surprised if the girls were also aware of this shortcut and had used it before.It would be easy to be observed from the theater and it woould have been easy for the killer to intercept them at this door and lure them or force them inside without being seen . <BR>Also his chances of backing a vehicle into this driveway and loading bodies out that door unobserved would be excellent.If he planned this ahead of time then was interupted by Pearsol and his laundry..... <BR>Anyway thats it.I dont know if the investigators established a link between the women and their suspect that would support them going there to see him,if so I never heard of it.And I dont know I dont know how their recreated scenario matches up to mine-if at all, but there it is.Hope it was of interest   <!--/Text--></td></tr>
+<!--/Post: 12032-->
+<!--Post: 12056--><!--Time: 1111539008-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12056"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 22, 2005 - 4:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dlee <BR>Do you have a link to a site giving an overview of the crime and/or the present status of the investigation?<!--/Text--></td></tr>
+<!--/Post: 12056-->
+<!--Post: 12098--><!--Time: 1111570623-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12098"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dlee<!--/name--></b></a><br>Username: <!--field:uname-->Dlee<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 23, 2005 - 1:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->About the most your going to find on the net about the case is what Scbenson and I have written right here on this board. <BR>I was actually surprised to see someone mention it as it has recieved almost no national coverage I dont even know how he heard of it. <BR>I always thought of it as local weirdness. The Lewiston Tribune has been the main chronicler of the case over the years.They do a retrospective every so often.Its still open but the last I heard most of the original detectives are retiring or passed away.And the killer still out there apparently. <BR>Im sure the inside story on this investigation is something else. <!--/Text--></td></tr>
+<!--/Post: 12098-->
+<!--Post: 12099--><!--Time: 1111574094-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12099"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 23, 2005 - 2:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I read about the case years ago on I think it was called all points bulletin.com or apb.com. It went out of business but had some interesting webpages on unsolved serial crimes. One I remember was BTK and Green River. They had one also about this case. It has been very frustrating because very little can be found out about the case. Dlee is the first person I have ever found who had ever heard of the case other then myself. Much less someone with such inside knowledge of the area. Thats a real find. I have looked on the lewiston tribune web page but you need to subscibe to read anything. The last time I had heard the case mentioned was around the time the spokane serial killer was at large. I read fbi and police questioned the prime suspect in the lewiston case about the spokane killings. I find it remarkable Dlee that you lived in the same building as the missing girls&#40;a few years after them&#41; and also worked at the theatre. Thats amazing! About the girls and pearsol, I had always assumed there was some kind of show at the theatre or something like a concert and they disappeared from that. I had no knowledge of about the stuff you have talked about like the laundry and the short cut. Very useful stuff. Thanks. Do you have any info about the other two murders the little girl from the state fair or the college student who was found in the snake river? Bmodule, there is a small paragraph or two about the case on the serial killer hit list website. <!--/Text--></td></tr>
+<!--/Post: 12099-->
+<!--Post: 12101--><!--Time: 1111582619-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12101"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dlee<!--/name--></b></a><br>Username: <!--field:uname-->Dlee<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 23, 2005 - 4:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I lived in the same neighborhood but not the same building.And I didnt work for the Theater,I was just in one of the productions as an actor. <BR>I should have been clearer on that. <BR>Yeah, my knowledge is pretty sketchy on the other two murders.The little girl I believe had phoned her mother after being at the Asotin Fair from I think a friends house to say she was not feeling well and I think she was told by her mom to come home and disappeared.&#40;The main suspect had some connection to the people from who&#39;s house she phoned as I recall&#41; <BR>The College student,Another women in her 20&#39;S , she was traveling from Moscow&#40;North of the Lewiston Valley&#41; to Lewiston during the summer of 1981&#40;The killer seemed to get active during the late summer&#41;by bike when she disapeared.The Clearwater River I mentioned converges with the Snake river and turns south and flows between Lewiston and Clarkston Wa. Her dismembered body was found floating in pieces in the Snake. <BR>I had an inmate tell me one time ,after there was an article about the crimes in the paper,about seeing all the police show up at his nieghborhood along the river when he was a little kid,after the remains were found.He said he had nightmares for weeks.&#40;Understandable&#41; <BR>But yeah,its kind of frustrating there being so little info.Ive seen alot less interesting cases get alot more attention. <BR>Most of my knowledge simply comes from the Lewiston Tribune except for personal experience with the geography of some of the crime scenes.&#40;and local hearsay of course.&#41; <BR>I ought to see who regularly does the reporting on the case for the Paper and see if I can glean any new info the Police arent still sitting on.&#40;Like playing so close to the vest accomplished them a whole lot.&#41;     <!--/Text--></td></tr>
+<!--/Post: 12101-->
+<!--Post: 12102--><!--Time: 1111583942-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12102"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dlee<!--/name--></b></a><br>Username: <!--field:uname-->Dlee<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 23, 2005 - 5:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->P.S. Scbenson <BR>I checked again,you can see a picture of the Theater if you punch in &#39;Lewiston Civic Theater&#39; <BR>Thats the south or front side your looking at.By the way,correction in my previous post-8th street runs along the WEST side of the building.I got east and west mixed up while I was describing the building.Forgive me I just came off a long shift. <BR>And yeah,unless their was a production or rehearsal going on you would have that place to yourself.Very creepy.<!--/Text--></td></tr>
+<!--/Post: 12102-->
+<!--Post: 12168--><!--Time: 1111691913-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12168"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bbyrum9@foothill.net" target="_blank"><!--/email--><!--name-->Nightdriver<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nightdriver<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 24, 2005 - 11:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Some things that have come up here could point to a connection with Cabin 28 in Keddie CA, April, 1981. Some people have come out of the woodwork and claimed that 3 locals, all convienently deceased, were responsible. Plumas County just plain punted, blaming it on hobos off the WP. There is a sketch on a website that shows what appears to be a male about 23 years old who appears to be native american, at least partially. If you have the guts to read what happened, check it out. <!--/Text--></td></tr>
+<!--/Post: 12168-->
+<!--Post: 12170--><!--Time: 1111699243-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12170"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 24, 2005 - 1:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->ND - do you have a link? <BR>Thanks <BR>Else<!--/Text--></td></tr>
+<!--/Post: 12170-->
+<!--Post: 12210--><!--Time: 1111770996-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12210"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dlee<!--/name--></b></a><br>Username: <!--field:uname-->Dlee<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 25, 2005 - 9:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Im not familiar with the Cabin 28 case,I need to check that out.Thanks Nightdriver.That would be an amazing developement if there was a link between the two cases.Something else I remeber reading that Otis and Toole had confessed to the murder of the college student in &#39;81. <BR>Of course they probably would have swore they were driving the car that ran over my cat Steve in &#39;83 if someone had asked them for me.  <!--/Text--></td></tr>
+<!--/Post: 12210-->
+<!--Post: 12722--><!--Time: 1112929931-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12722"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 8:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dlee, <BR>thanks for the info about the theatre picture i checked it out. Looks very &#34;spooky&#34;. May I ask what kind of production you where in at the theatre. What kind of shows do they put on there. Also, are you serious that your cats name was steve? <!--/Text--></td></tr>
+<!--/Post: 12722-->
+<!--Post: 12735--><!--Time: 1112952304-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12735"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bbyrum9@foothill.net" target="_blank"><!--/email--><!--name-->Nightdriver<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nightdriver<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 08, 2005 - 2:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m sorry I forgot about this post, short term memory loss. This is a link to the site that has the discussion board I think: <BR><a href="http://asylumeclectica.com/sightseer/us/ca/keddie/htm" target=_top>http://asylumeclectica.com/sightseer/us/ca/keddie/ htm</a> <BR> <BR>Also you might try keying in &#34;cabin&#43;28&#43;keddie&#34; to see some other articles in sfgate.com that are recent. I repeat what I said earlier, this is not PG-13 material. I find it amazing that most people here in California have no clue how vicious this crime was. It begs to be solved. If it can be solved by linkage to another crime, so much the better. <BR>  <BR><!--/Text--></td></tr>
+<!--/Post: 12735-->
+<!--Post: 12736--><!--Time: 1112955434-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12736"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bbyrum9@foothill.net" target="_blank"><!--/email--><!--name-->Nightdriver<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nightdriver<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 08, 2005 - 3:17 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lets try this again, a little better URL: <BR> <BR><a href="http://asylumeclectica.com/sightseer/us/ca/keddie.htm" target=_top>http://asylumeclectica.com/sightseer/us/ca/keddie. htm</a> <BR> <BR>Plus for a keyword search try adding &#34;ca&#34; to &#34;cabin&#43;28&#43;keddie&#34; It did work in the past without the ca, but it doesn&#39;t now.<!--/Text--></td></tr>
+<!--/Post: 12736-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/742">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/742" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

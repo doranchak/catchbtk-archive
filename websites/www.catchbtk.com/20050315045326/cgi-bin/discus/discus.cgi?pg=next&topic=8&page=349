@@ -1,0 +1,260 @@
+<html>
+<!--Topic: 8/Possible BTK Victims-->
+<!--Me: 351/BTK Near Miss?-->
+<!--Level 1: 351/BTK Near Miss?-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 8-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK Near Miss?</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK Near Miss?</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/8/8.html"><font color="#f7f7f7">Possible BTK Victims</font></a> &#187;
+BTK Near Miss?
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=8&page=351"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=8&page=351"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4562--><!--Time: 1106531404-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4562"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bond007<!--/name--></b></a><br>Username: <!--field:uname-->Bond007<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 5:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This is a long post but interesting.  Please bear with me.  I&#39;m a Wichita native but no longer live there.  I had a conversation with a current resident and he gave me this, admittedly, hearsay, story.  I will post it hear for your evaluation. <BR> <BR>A mutual friend used to date a girl who lived on Pinecrest.  This girl said that at the time of the Anna Williams &#40;?last name&#41; incident, a neighbor had a visit from WPD.  WPD infomed her that they thought BTK had been stalking her and they strongly encouraged her to leave and stay elsewhere for an undetermined amount of time.  After some persuading, she left to stay with a friend.  After about 10 days, she got fed up with living at her friend&#39;s house and told WPD she was going to return to her house.   <BR> <BR>The WPD detective again strongly encouraged her to reconsider but she would not relent.  So, the detective had a uniformed officer meet her at the house to walk through and ensure it was undisturbed.  They found nothing.  The officer left and the woman put her daughter to bed.  As she started to look closely though, she noticed two things.  A gingerbread house her daughter had made, one that was intact when they left, was missing the rear corner.  Police would later point out that, if that were her house, the missing part was her bedroom.  The thing out of place was that the batteries in her vibrator, which was apparently very well hidden, were turned around.  She had gotten the thing out to use it and it wouldn&#39;t work.  She called the babysitter to ask if she had either damaged the gingerbread house or tampered with her vibrator.  After the babysitter assured her that she had done neither, she un-assed the area at warp speed.  Moving completely out within the month. <BR> <BR>It this story is true, then it supports what many have been saying and speculating:  that BTK has been communicating with WPD much more than we know and they are holding a lot back. <BR> <BR>What say you?<!--/Text--></td></tr>
+<!--/Post: 4562-->
+<!--Post: 4563--><!--Time: 1106531724-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4563"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 5:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I would agree, if true.<!--/Text--></td></tr>
+<!--/Post: 4563-->
+<!--Post: 4571--><!--Time: 1106533463-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4571"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 6:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I’d like to know how they concluded that she was indeed a target.  Did BTK send some communication directly to the WPD about her?   <BR> <BR>Let’s face it, if the communication initially went directly to her house, she sounds like she would have bolted out of that house right then and there, and not wait for some other odd signals. <BR> <BR>The vibrator thing is WEIRD!!!   How would BTK even know about the vibrator?  Was he peeking through her windows perhaps?   <BR> <BR>I’ve heard that many times they get good fingerprints off batteries – so turning them around without laying prints may have his way of taunting the police? <BR><!--/Text--></td></tr>
+<!--/Post: 4571-->
+<!--Post: 4579--><!--Time: 1106543336-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4579"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Denise<!--/name--></b></a><br>Username: <!--field:uname-->Denise<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 9:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->did they even have vibrators back then? <!--/Text--></td></tr>
+<!--/Post: 4579-->
+<!--Post: 4580--><!--Time: 1106546378-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4580"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Metalhead<!--/name--></b></a><br>Username: <!--field:uname-->Metalhead<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 9:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->maybe it was a mixer that doubled as a vibrator!!that would be an interesting story to verify.it would seem that the wpd does not have much credibility with people and after 30 years i understand why.<!--/Text--></td></tr>
+<!--/Post: 4580-->
+<!--Post: 4586--><!--Time: 1106559311-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4586"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 1:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have heard of this incident. Apparently the woman was sent drawings.<!--/Text--></td></tr>
+<!--/Post: 4586-->
+<!--Post: 4592--><!--Time: 1106569163-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4592"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 4:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If true, this really upsets me. Why wouldn&#39;t something like this be made known to the people of Wichita? Just one more thing to confirm all of the doubts that we, as a city, have about our LE and their concern for the residents they supposedly serve. <!--/Text--></td></tr>
+<!--/Post: 4592-->
+<!--Post: 4595--><!--Time: 1106569801-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4595"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bond007<!--/name--></b></a><br>Username: <!--field:uname-->Bond007<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 4:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, <BR> <BR>As recounted to me, it was the PD that was getting communications &#40;type unknown&#41; and not the woman.  She was initially skeptical.  When she asked them for proof or substantiation, the PD declined to tell her why they thought she was being stalked.  Just that they were concerned for her welfare. <BR> <BR>When they finally get this guy, it will interesting to see all the stuff we were never made privvy to.<!--/Text--></td></tr>
+<!--/Post: 4595-->
+<!--Post: 4617--><!--Time: 1106591026-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4617"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 10:23 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I would like to know why the house itself wasn&#39;t put under surveillance &#40;whether she was in the house or not&#41; ESPECIALLY having some evidence supporting suspicion. <BR> <BR>If this is true, it means BTK got inside this house &amp; tampered with these items unbeknownst to LE?<!--/Text--></td></tr>
+<!--/Post: 4617-->
+<!--Post: 4648--><!--Time: 1106619437-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4648"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 6:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The only part of this story that rings untrue to me is how in the world would a woman ask her babysitter if she had tampered with her vibrator? I would think that would be a hard subject to address and one that might be better left alone. Asking about the gingerbread house would have been sufficient. Don&#39;t you think? <!--/Text--></td></tr>
+<!--/Post: 4648-->
+<!--Post: 4681--><!--Time: 1106669037-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4681"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bojo<!--/name--></b></a><br>Username: <!--field:uname-->Bojo<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 8:03 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I assumed it was a back or muscle vibrator.<!--/Text--></td></tr>
+<!--/Post: 4681-->
+<!--Post: 4684--><!--Time: 1106674408-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4684"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 9:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Most men would. <!--/Text--></td></tr>
+<!--/Post: 4684-->
+<!--Post: 4696--><!--Time: 1106686481-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4696"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ginefur<!--/name--></b></a><br>Username: <!--field:uname-->Ginefur<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 12:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Regarding the woman who lived on Pinecrest...in my daily activities,  I routinely run into a woman that is a close personal friend of the woman who lived on Pinecrest.  She told me the story back in March after BTK&#39;s reappearance.   <BR>I had the opportunity to talk to her about it very recently and she&#39;s going to call the woman soon and see if she can add anything and possibly answer some of our questions.<!--/Text--></td></tr>
+<!--/Post: 4696-->
+<!--Post: 4740--><!--Time: 1106705142-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4740"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 6:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->LOL Cougar!<!--/Text--></td></tr>
+<!--/Post: 4740-->
+<!--Post: 4744--><!--Time: 1106706371-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4744"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 6:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Since BTK likes to coonfinger through everybody&#39;s stuff, I would not be surprised that he came across something as personal as her vibrator. Doing things like little alterations in placement of objects was what Manson termed &#39;creepy crawling&#39;. It messes with the mind. Again, I say that the citizens of Wichita will be outraged if they ever learn the entire truth about BTK&#39;s activities and what was hidden from them.<!--/Text--></td></tr>
+<!--/Post: 4744-->
+<!--Post: 6197--><!--Time: 1107573394-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6197"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lilymarie<!--/name--></b></a><br>Username: <!--field:uname-->Lilymarie<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 7:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->LMAO, Cougar! I&#39;d like to know why WPD was concerned for her safety. And....if it were me....and WPD showed me something &#40;or even TOLD me something&#41; I&#39;d be in hiding trying to figure out how to get into the witness protection program or something.<!--/Text--></td></tr>
+<!--/Post: 6197-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="8/351">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=8/351" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

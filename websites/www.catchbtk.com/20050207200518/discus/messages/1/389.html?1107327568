@@ -1,0 +1,252 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 389/BTK&#39;S MOVIES-->
+<!--Level 1: 389/BTK&#39;S MOVIES-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK&#39;S MOVIES</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK&#39;S MOVIES</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+BTK&#39;S MOVIES
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=389"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=389"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 5214--><!--Time: 1106951924-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5214"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 28, 2005 - 2:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->As movies are fantasy, and certain genres such as Sci-Fi and Horror can be extreme fantasy, might there be any mainstream movies which BTK enjoyed and which could be studied for images, dialogue, etc.? I started a thread for &#34;In Cold Blood&#34; several days ago. My idea here is to keep movies on one thread. BTK may well prefer hardcore porn the most but that doesn&#39;t mean he wouldn&#39;t enjoy any mainstream films. I have a few titles in mind, <BR>and will try to connect something between the movies and known BTK activity. Some of these are old but of course BTK could have rented. <BR><b>PSYCHO</b> 1960: BTK asked for this &#34;name&#34; specifically in one letter. <BR><b>SE7EN</b> 1995 : The serial murderer here, like BTK, controls everything, including the outcome. <BR><b>M</b> 1930: Very old but killer Peter Lorre speaks of something inside him which makes him kill, as does BTK. I don&#39;t buy it, but there it is. <BR><b>Follow Me Quietly</b> 1949: 59 minute movie about a serial killer called &#34;The Judge,&#34; who dispatches <BR>those he deems inferior. Fascinating and the case is solved by, believe it or not, what can only be called profiling. Like BTK, &#34;The Judge&#34; talks about motive. <BR><b>Silence of the Lambs</b> 1991: For obvious reasons. <BR><b>Shadow Of A Doubt</b> 1943: Hitchcock film about &#34;The Merry Widow Murderer,&#34; a man who <b>hates</b> and I mean <b>hates</b> women. &#34;..husbands who make a fortune and then leave it to their wives, their silly wives. You see them [women] in the best hotels every day by the thousands; eating the money, drinking the money, losing the money at bridge. Proud of their jewelry but nothing else. Horrible! Faded, fat, greedy women.&#34; --[Different character, addressing this comment] &#34;But they&#39;re alive, they&#39;re human beings!&#34; -- &#34;Are they? Are they human or are they fat, wheezing animals, hmm? And what happens to animals when they get too old and too fat?&#34; BTK didn&#39;t like women, as we know and as is profiled. The above lines were written by Thornton Wilder and this is one of the films pointed to when people say &#40;correctly, in my opinion&#41; that Hitchcock was a sadistic misogynist. <BR><b>White Heat</b> 1949: Mama&#39;s boy James Cagney is a sociopath who kills many unnecessarily, famous last line of film: &#39;Look Ma, I&#39;m on top of the world!&#39; then the large building Cagney is standing on explodes. The mother/son relationship in this film is most interesting, many have suggested BTK was similar to Cagney in this film. <BR><b>The Bad Seed</b> 1957: Possibly BTK&#39;s inspiration for his Factor X BS. <BR><b>Cape Fear</b> 1963: Original version. Robert Mitchum murders, rapes and terrorizes. I had a four second sound clip which sounds to me what BTK <BR>would say, but it&#39;s not supported. Mitchum also talks about and ogles menacingly other females in this film. <BR><b>Frenzy</b> 1972: Hitchcock film about a man who murders women via strangulation by necktie. <BR>I&#39;ll leave it at that. I&#39;m only looking for a chance bit of dialogue, or maybe a scene which might remind someone of BTK in some fashion. A direct quote is the ideal but people remember little visual quirks too and those little quirks stick in the memory. I cold have listed a couple of hundred films but didn&#39;t to save space, and I hope maybe one of the above &#40;a couple are hard to find, I know&#41; may summon a memory which relates to BTK.<!--/Text--></td></tr>
+<!--/Post: 5214-->
+<!--Post: 5578--><!--Time: 1107202997-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5578"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 31, 2005 - 12:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good job George...good list. <BR> <BR>As I was reading your post it occurred to me just how YOUNG or new psycho flicks were.  Already there were some Sci-fi&#39;s and dramas...but in the late 50&#39;s psycho thrillers were really almost unheard of.  The movie Psycho..one of the first ones.   <BR> <BR>Take a look at your list and you can see that psycho thrillers or movies with seriously demented characters were pretty scarce in the early, late 60&#39;s.  Now look...we have CSI, and a number of shows that present DEMENTED characters. <BR> <BR>You almost have to wonder if maybe BTK does not want to be a kind of MENTOR for these shows or shows of what he saw as the future back then......something on which all psycho thrillers will be based in the future.  If you really think about it, in some ways, that is exactly what has happened since the 70&#39;s.  The shows and movies that depict demented characters contain characters who make strange phone calls, or kill for a reason uknown and then position bodies.  TAUNTING the cops is also a major scene in some psycho thriller movies now.  I sometimes think the ZODIAC had a lot to do with the content and characters of some of these movies.  The ZODIAC inspired some of these things I am sure...and BTK wants his drama too...maybe? <BR> <BR> I keep wondering if ZODIAC was BTK&#39;s mentor and now BTK wants to be one..he really wants to have an AFFECT on something...that is for sure.   <BR>Thanks <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 5578-->
+<!--Post: 5579--><!--Time: 1107203485-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5579"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Featherw<!--/name--></b></a><br>Username: <!--field:uname-->Featherw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 31, 2005 - 12:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.sfheart.com/sixties/Films_60s_70s.html" target=_top>http://www.sfheart.com/sixties/Films_60s_70s.html</a> <BR>Popular Films &#39;60&#39;s and &#39;70&#39;s VHS/DVD <BR>-------- <BR>50&#39;s and 60&#39;s Horror Movies <BR><a href="http://www.mshepley.btinternet.co.uk/a50.htm" target=_top>http://www.mshepley.btinternet.co.uk/a50.htm</a> <BR>------- <BR>If you take a look at what some of these movies are about, you see that they are not near as AFFECTIVE as ones that we see today...in today&#39;s scary movies that depict demented characters, seems like the movies get more into the pshychology of the person who is affecting everyone with fear....adding mystery to the movie...I think BTK probably enjoys people getting into his psychology..because noone knows how he is...and he gets pleasure from that.  JMO.. <BR><!--/Text--></td></tr>
+<!--/Post: 5579-->
+<!--Post: 5624--><!--Time: 1107220671-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5624"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lubbock<!--/name--></b></a><br>Username: <!--field:uname-->Lubbock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 31, 2005 - 5:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->What was the name of that movie where Robin Williams played a demented photo-mat employee?<!--/Text--></td></tr>
+<!--/Post: 5624-->
+<!--Post: 5628--><!--Time: 1107221853-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5628"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 31, 2005 - 5:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Featherw: I have a sound wav file from the original &#34;Cape Fear.&#34; It won&#39;t play on this board, so I&#39;ll transcribe it. It won&#39;t have any punch if you haven&#39;t seen the thing, but the inflection Robert Mitchum uses in this line is done with such measured, wicked conviction as to be scary. I&#39;ll boldface the relevant portion: <BR> <BR>&#34;You just put the law in my hands <b>and I&#39;m.gonna..break..your..HEART WITH IT!&#34;</b> <BR> <BR>I agree with you about BTK&#39;s enjoying everyones speculation about him. If it stopped, I think he&#39;d slow down the communications. He has an audience these days.<!--/Text--></td></tr>
+<!--/Post: 5628-->
+<!--Post: 5630--><!--Time: 1107224917-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5630"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stealth<!--/name--></b></a><br>Username: <!--field:uname-->Stealth<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 31, 2005 - 6:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Robin Wms - One Hour Photo<!--/Text--></td></tr>
+<!--/Post: 5630-->
+<!--Post: 5675--><!--Time: 1107276771-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5675"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 8:52 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have wanted so badly to post something of significance on this thread - but, alas, I can&#39;t. <BR> <BR>It&#39;s a wonderful topic - and insightful.   <BR> <BR>But, I rarely see a movie.  I think Forrest Gump was the last one.  I read a lot, however, and I think that some of the books these movies were based on - are relevent. <BR> <BR>After reading the list - I am going to rent Se7en.  I&#39;ll have to watch it between my fingers. <BR> <BR>Thanks for a good topic.<!--/Text--></td></tr>
+<!--/Post: 5675-->
+<!--Post: 5682--><!--Time: 1107284429-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5682"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 11:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Just my opinion Tippy... <BR> <BR>7 is a sick piece of trash and not very good movie while it&#39;s at it.<!--/Text--></td></tr>
+<!--/Post: 5682-->
+<!--Post: 5695--><!--Time: 1107290978-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5695"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lakesguy<!--/name--></b></a><br>Username: <!--field:uname-->Lakesguy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 12:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->How about the 1960 British movie &#39;Peeping Tom&#39;, about a young man who murders women and films it as it happens. This was shown at a lot of college campuses during the late &#39;60&#39;s and early &#39;70&#39;s, and became a &#39;cult classic.&#39;   <BR> <BR>The killer had an abusive father, a psychologist who subjected the son to horrible experiments. <BR> <BR>The character of the killer is interesting, because he is capable of genuine feeling for other people. In other words, he&#39;s not the stereotypical psycho killer.   <BR> <BR>You can read some interesting comments and some more about the film at imdb.com or amazon.com. <!--/Text--></td></tr>
+<!--/Post: 5695-->
+<!--Post: 5704--><!--Time: 1107296987-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5704"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 2:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rod Steiger as theater manager/serial killer Christopher Gill in 1968&#39;s &#39;No Way To Treat A Lady.&#39;<!--/Text--></td></tr>
+<!--/Post: 5704-->
+<!--Post: 5706--><!--Time: 1107297527-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5706"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lubbock<!--/name--></b></a><br>Username: <!--field:uname-->Lubbock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 2:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m not sure when it came out but the original &#40;I believe&#41; version of Red Dragon - which contained the debut of the character Hannibal Lecter - may have been a favorite of BTK.  <BR> <BR>In it the psychopathic killer is involved in developing film.  <BR> <BR>He watched one family from a hiding place up in a tree at the perimeter of the victims&#39; property. <BR> <BR>I recommend the book over the movie - partially because to me Anthony Hopkins is the definitive Lecter &#40;sorry, I know this isn&#39;t a forum for movie reviews&#41; - I&#39;d like to check it out and read it again, and if I could I&#39;d do so from the main Wichita library, no telling who&#39;s hands the book might&#39;ve been in.<!--/Text--></td></tr>
+<!--/Post: 5706-->
+<!--Post: 5725--><!--Time: 1107306415-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5725"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dee<!--/name--></b></a><br>Username: <!--field:uname-->Dee<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 5:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->oK... and an avid lover of film would want to watch it on noThing less than a 42 in. Rear Projection HDTV-Ready Television; purchased for the Bargain price of $2,600.00.<!--/Text--></td></tr>
+<!--/Post: 5725-->
+<!--Post: 5753--><!--Time: 1107327287-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5753"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 10:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tippy, you did pick the most disturbing film of the lot. I agree with Leonard Maltin: three stars, <BR>but &#34;extremely disconcerting.&#34; I didn&#39;t have any problem with it, as it&#39;s a fictional movie, but I view film differently than most. I&#39;m more interested in the &#34;behind the camera&#34; stuff, especially the screenplay and the direction. I love the scene when Morgan Freeman is in the library photocopying old books; Milton, Dante, Aquinas, etc. The ending is predictable but I like the overall premise. BTK probably loved it.<!--/Text--></td></tr>
+<!--/Post: 5753-->
+<!--Post: 5754--><!--Time: 1107327568-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5754"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 01, 2005 - 10:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->george <BR> <BR>For film inspiration for the initials BTK, how about Yasaharu Hasebe’s cult classic “Black Tight Killers”? <BR> <BR>These BTK’s are go-go dancers who are also trained assassins; lap dancers and liquidators.   <a href="http://www.50footdvd.com/movies/b/black-tight-killers.html" target=_top>http://www.50footdvd.com/movies/b/black-tight-kill ers.html</a> <BR> <BR><a href="mailto:whoisbtk@yahoo.com">whoisbtk@yahoo.com</a> <BR> <BR>&#40;Like the kid said when he got caught throwing rocks at seagulls, “Leave no tern un-stoned”&#41; <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 5754-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/389">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/389" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

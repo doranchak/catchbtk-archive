@@ -1,0 +1,1 @@
+window.CBTK={"page":"3.html","title":"catch BTK .com -- KATHRYN BRIGHT","archive":"../index.html","versions":[{"t":"20041204112815","e":"20041204112815","n":1,"f":"history/3~20041204112815.html","a":0,"d":0,"sa":[],"sd":[]}]};

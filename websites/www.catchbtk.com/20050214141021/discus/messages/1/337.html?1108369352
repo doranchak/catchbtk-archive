@@ -1,0 +1,253 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 337/The Newspaper and the Victims-->
+<!--Level 1: 337/The Newspaper and the Victims-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: The Newspaper and the Victims</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">The Newspaper and the Victims</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+The Newspaper and the Victims
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=337"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=337"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4398--><!--Time: 1106318036-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4398"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 6:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I noticed in the BTK&#39;s letter he says &#34;he has already chosen his victims, but he doesn&#39;t know their names yet&#34;.  He then says &#34;The next day after I read the paper I will know, but it&#39;s too late&#34;. <BR> <BR>We know that he knew his victims names, he called in Nancy Fox&#39;s murder using her name the night of the murder.  He wrote a poem to Anna/Louisa.  So this is a load of B.S. <BR> <BR>My question then is, is he insinuating that he picks his victims names out of the paper and it&#39;s too late because the paper has already went to press? He has to choose them from the paper?  Is there anyway to look and see if the victims names had been in the newspaper the months prior to their murder?<!--/Text--></td></tr>
+<!--/Post: 4398-->
+<!--Post: 4400--><!--Time: 1106321517-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4400"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nugzter<!--/name--></b></a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 7:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->No Jrl, I think he meant he chose the victim but dont know who she is, so he has to read the name of his victim in the paper the next day, but then its too late for him to care what the name is before hand. This means to me he is stalking. And quite a while for sure. <BR>The name of Anna\Louisa he may have got from being inside the house. The poliece think his intended target may have been the daughter. Read that here somewhere. <BR>But looking at it outside of the box like you did is also not a bad idea. Maybe he didnt mean it literaly like I enterprated it.<!--/Text--></td></tr>
+<!--/Post: 4400-->
+<!--Post: 4402--><!--Time: 1106323457-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4402"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 8:04 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hello Nugzter.  I agree that your scenario is more likely, but I think he knew each of his victims names before killing them.  Perhaps he uses this to throw police off so they don&#39;t connect him to the victims.  I think this is a lie.<!--/Text--></td></tr>
+<!--/Post: 4402-->
+<!--Post: 4411--><!--Time: 1106334219-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4411"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 11:03 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Nugzter, I couldn&#39;t agree more. Stalking is certainly the most probable explanation. Jrl, he could have known his victims, of course. More likely, in my opinion, is that he knew them by <i>sight;</i> he recognized them. This is because he had stalked them and probably window-peeped them, too. BTK is a shrewd killer, very disciplined and worst of all, very patient.  <BR> <BR>I think there&#39;s a slight chance he may have known the Otero family a bit more than the others, but even if he had known them, it wasn&#39;t a friendship or anything like that. One thing which is possibly perplexing is that I recently read that Mr. Otero was a boxer. Taking this at face value, I can only assume that BTK saw Mr. Otero on the way in and attacked him. BTK must have had a firearm because even though I&#39;d describe BTK&#39;s physical strength as above average in the 1970s, someone who knew how to box could have dealt with that. <BR><!--/Text--></td></tr>
+<!--/Post: 4411-->
+<!--Post: 4412--><!--Time: 1106335728-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4412"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 11:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hello George.  Thanks for your thoughts.  I agree this is most likely. <BR> <BR>What do you think of Joseph, II, having three bags over his head?  These were described as hood like.  Why three?  Was he making sure Joseph couldn&#39;t see him? The others bags at other crime scenes I believe were described as plastic.  Did BTK know Joseph II?  Was Joseph II enrolled in Boy Scouts or some other extra curricular activity?  Just thinking outside the box...<!--/Text--></td></tr>
+<!--/Post: 4412-->
+<!--Post: 4413--><!--Time: 1106335829-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4413"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 11:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George, <BR>I also ask this about Joseph and his family because the BTK made sure to suggest that he had no idea who the Otero&#39;s were until he read about their murder in the paper.  I think this is B.S. and he is misleading police here, making them think there is no connection.  Just my thoughts.<!--/Text--></td></tr>
+<!--/Post: 4413-->
+<!--Post: 4415--><!--Time: 1106338048-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4415"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Run2win<!--/name--></b></a><br>Username: <!--field:uname-->Run2win<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 12:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe that you disfigure a face to destroy or hurt somebody from your past that has scared you.  I also believe that you would cover the face of one you want to in some small way cover up the guilt, or to depersonalize the situation.  It is possible that BTK was around the age of Joseph II when his hurts became most acute or remembered.  Also, it could be he had a son near that age, lost a brother who was near that age, etc... <BR> <BR>Finally, it could simply be he placed the first bag over him, went about the house to do his &#34;thing&#34;, came back minutes later to realize the bag had a small hole and Joseph could still breath.  The 2nd and 3rd bags could have just been his aggravation showing and a way of finishing, in frustration &#40;like I would do if I realize a piece of duct tape is not holding a sign up adequately... I would put on more than necessary in frustration... just as nonchalantly for an uncaring BTK&#41;, what he started so he does not have to worry about leaving a living witness.   <BR> <BR>Run<!--/Text--></td></tr>
+<!--/Post: 4415-->
+<!--Post: 4427--><!--Time: 1106353922-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4427"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 4:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Jrl asked: <BR><i>&#34;What do you think of Joseph, II, having three bags over his head? These were described as hood like. Why three? Was he making sure Joseph couldn&#39;t see him? The others bags at other crime scenes I believe were described as plastic. Did BTK know Joseph II? Was Joseph II enrolled in Boy Scouts or some other extra curricular activity? Just thinking outside the box...&#34;</i> <BR>Run2win answered this to a large degree. I&#39;ll add my two pennies. It&#39;s my understanding that Joseph II was strangled and I think this kill was the most difficult &#40;emotionally&#41; for BTK. Be they hoods or pillow cases, BTK didn&#39;t want to look at the boy&#39;s eyes. A lot of people are of the belief that BTK knew at least one Otero, probably Joe. I agree on this point. I don&#39;t think they were  friends but may have known each other by sight.<!--/Text--></td></tr>
+<!--/Post: 4427-->
+<!--Post: 4469--><!--Time: 1106395895-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4469"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nugzter<!--/name--></b></a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 4:11 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I dont know for sure, but I have the feeling he knew them to. It seems to me he chose a family to match his own. The youngest girl being the main target. But I agree with everything else. I just get this gut feeling he was killing his family symbolicly. And after that he was free. Then he started on women cause his family wasnt there to punish him.<!--/Text--></td></tr>
+<!--/Post: 4469-->
+<!--Post: 4522--><!--Time: 1106469983-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4522"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Laoise<!--/name--></b></a><br>Username: <!--field:uname-->Laoise<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 12:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i>No Jrl, I think he meant he chose the victim but dont know who she is, so he has to read the name of his victim in the paper the next day, but then its too late for him to care what the name is before hand.</i> <BR> <BR>If I understand this correctly, than I see a problem with this. He took licenses. He had the names then.<!--/Text--></td></tr>
+<!--/Post: 4522-->
+<!--Post: 4523--><!--Time: 1106476528-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4523"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nugzter<!--/name--></b></a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 2:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I thought about that too Laoise. But this is where I think he is lying.  When he says he finds out the next day in the paper. He is a habitual liar. All SKs are, just some better than others.He certainly chooses randomly. Maybe he knows them from sight, may have seen them somewhere he frequents &#40;job, fav resturant,anything&#41;. He says things and its hard to tell what is truth from fiction. Thats his game.<!--/Text--></td></tr>
+<!--/Post: 4523-->
+<!--Post: 4535--><!--Time: 1106502852-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4535"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 9:54 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have no doubt BTK knew the name of every one of his victims before he even entered their house. <BR> <BR>None of the killings were random.  They were planned out.  On the day of the murder he knew exactly where he was going, what he would be doing, who he would be killing and how. <BR> <BR>This statement in his letter is a lie.<!--/Text--></td></tr>
+<!--/Post: 4535-->
+<!--Post: 7283--><!--Time: 1108359344-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7283"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 13, 2005 - 9:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think that BTK is trying to say that &#39;the monster takes over&#39; and he kills someone,  and then wakes up to see in the paper that there was a murder. The memory slowly comes back to him as he finds evidence of the crime among his belongings &#40;much like a jeckle/hyde movie&#41;. <BR> <BR>I would think that he was insane if it weren&#39;t for the fact that he eagerly gives us all the symptoms and the diagnosis &#40;pshycho-personality w/sexual perversion, or something to that effect&#41;in his letters. <BR> <BR>He definately has some mental issues, but he is not as bad as he wants the public to believe. His entire criminal personna is a mosaic of other criminals, that he borrows to create his &#34;image&#34;.  <BR> <BR>I think he lives such a lie that he has lost it, like an alchoholic in the final stage before rock bottom. He knows he has a problem, and he knows he is in denial, and he knows that he has to face up, but he pushes the moment back, by minutes and or maybe hours at a time.  <BR> <BR>Tragically, it&#39;s not likely that he will face up before he is caught, or killed. Then it will be too late to take the initiative, and that is his best chance of salvaging anything of his life.  <BR> <BR>I&#39;m no psychologist, but I feel I am safe in saying that BTK is clinically proud. <BR> <BR>The dude needs to find a real good lawyer and straighten up.<!--/Text--></td></tr>
+<!--/Post: 7283-->
+<!--Post: 7291--><!--Time: 1108369352-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7291"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 14, 2005 - 12:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In the letter you quoted he goes on about how &#34;the monster&#34; takes over him, and he doesn&#39;t know who the victims are until after the next day when he reads the newspaper. He continues on to whine about how terrible he feels, and how he has to be stopped because he can&#39;t. <BR> <BR>The question I ask... was it the monster, or his &#34;normal&#34; self, writing the letter?  <BR> <BR>Because then he went on about how he killed the Oteros and in which directions he left them. He gave details about what materials he used, and about each of the victims during the attack, etc...  <BR> <BR>Too many precise details to remember, if he was taken over by the monster and had to read the newspaper to remember who his victims were... apparently he didn&#39;t need the newspaper to remember all the precise details of his attacks.<!--/Text--></td></tr>
+<!--/Post: 7291-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/337">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/337" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

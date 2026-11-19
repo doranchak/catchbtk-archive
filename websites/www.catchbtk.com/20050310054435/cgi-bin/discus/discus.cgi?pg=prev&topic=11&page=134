@@ -1,0 +1,246 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 132/H.H. Holmes Book in Feb. 2004-->
+<!--Level 1: 132/H.H. Holmes Book in Feb. 2004-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: H.H. Holmes Book in Feb. 2004</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">H.H. Holmes Book in Feb. 2004</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+H.H. Holmes Book in Feb. 2004
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=132"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=132"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 851--><!--Time: 1093134413-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST851"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Psychesknot<!--/name--></b></a><br>Username: <!--field:uname-->Psychesknot<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 21, 2004 - 5:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Long shot, I admit, but I found this interesting. <BR> <BR>In one of his letters, BTK mentions some serial killers, including .. H. H. Holmes. <BR> <BR>In February 2004 a book hit the stands called: <BR>&#34;The Devil in the White City &#34; <BR>subtitled &#34;Murder, Magic, and Madness at the Fair that Changed America&#34; <BR> <BR>It is an interweaving of the building of the 1893 Chicago World&#39;s Fair with Holmes building a strange hotel designed for murder. <BR> <BR><a href="http://www.randomhouse.com/crown/devilinthewhitecity/home.html" target=_top>http://www.randomhouse.com/crown/devilinthewhiteci ty/home.html</a> <BR> <BR>It sounds quite unique and interesting, so I&#39;ll be picking up this book soon.  My point is, this book, featuring a sort of &#34;hero&#34; of BTK&#39;s came out in Feb. 2004.  BTK started his communications again in March 2004.  I know it&#39;s a stretch, but he does seem to be a true crime reader? <BR> <BR>Here is a quote from Holmes confession: <BR> <BR>&#34;I was born with the devil in me. I could not help the fact that I was a murderer, no more than the poet can help the inspiration to sing.&#34; <BR><!--/Text--></td></tr>
+<!--/Post: 851-->
+<!--Post: 852--><!--Time: 1093139986-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST852"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Mike_kelleher<!--/name--></b></a><br>Username: <!--field:uname-->Mike_kelleher<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 21, 2004 - 6:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Psychesknot makes a very good point here. I haven&#39;t read the book but the view that BTK might be a true crime reader is a worthy one. Perhaps I should have included this in my original profile except that it is a fairly common element for contemporary serial killers. Nonetheless, it&#39;s a piece of BTK&#39;s rather large and complex puzzle, and I&#39;m happy that the poster brought it up. Good observation. <BR> <BR>As to the timing of the publication of the book, that&#39;s also not unreasonable if one accepts that BTK is a true crime reader. Horrible as it is to admit, some of my most avid fan mail over the years has come from serial killers sitting on death row. So, as I said, this is a good post with some good ideas. <BR><!--/Text--></td></tr>
+<!--/Post: 852-->
+<!--Post: 853--><!--Time: 1093141292-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST853"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 21, 2004 - 7:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The Devil in the White City By erik larson is a very good book but it was published several years ago not in 2004. I read it, almost 2 years ago. Maybe your talking about the paperback version, but any real true crime buff would want the hard-cover edition. <!--/Text--></td></tr>
+<!--/Post: 853-->
+<!--Post: 854--><!--Time: 1093147096-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST854"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Mike_kelleher<!--/name--></b></a><br>Username: <!--field:uname-->Mike_kelleher<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 21, 2004 - 8:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That&#39;s basically correct. According to randomhouse.com the hardcover version was published in February 2003, the paperback in February 2004.<!--/Text--></td></tr>
+<!--/Post: 854-->
+<!--Post: 855--><!--Time: 1093149451-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST855"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Psychesknot<!--/name--></b></a><br>Username: <!--field:uname-->Psychesknot<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, August 21, 2004 - 9:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks for the correction.  I see the second publishing date, most likely for the paperback version. <BR> <BR>Perhaps he&#39;s thrifty and only buys paperbacks<IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0> <BR> <BR>I have felt since hearing of the case that he was a true crime magazine reader back in his early years.  An adult might have logically progresses to true crime books. <BR> <BR>Remember also an article came out in January that a book on BTK was in the works.  I think that also could have sparked him to begin communicating out of the blue.  <!--/Text--></td></tr>
+<!--/Post: 855-->
+<!--Post: 861--><!--Time: 1093237645-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST861"><font face="Verdana" size="1"><b><!--email--><a href="mailto:zodiacfiles@aol.com" target="_blank"><!--/email--><!--name-->Ed_neil<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, August 22, 2004 - 10:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I also posted several possible reasons concerning the timing of BTK&#39;s return in the <a href="http://www.catchbtk.com/discus/messages/11/38.html?1092700111" target="_blank">BTK:Zodiac Buff</a> thread.<!--/Text--></td></tr>
+<!--/Post: 861-->
+<!--Post: 863--><!--Time: 1093238276-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST863"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, August 22, 2004 - 10:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think the capture of gary ridgeway, the green river killer and the subquent press he recieved had alot to do with btk&#39;s resurfacing. Green River was also thought to be gone, dead or in jail on another offence but was revealed to be around the whole time and still killing, although and a much reduced rate. Btk seems to be responding. &#34;Me too&#34; .<!--/Text--></td></tr>
+<!--/Post: 863-->
+<!--Post: 894--><!--Time: 1093411852-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST894"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Psychesknot<!--/name--></b></a><br>Username: <!--field:uname-->Psychesknot<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, August 24, 2004 - 10:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just have the feeling BTK reads lots of true crime.  Starting with the old True Crime, True Detective mags of his teen era, the ones with the lurid cover pics.  Then refining it to true crime books later.  I think he would like to see some truth and detail in any book about him and this may be why he&#39;s resurfaced. <BR> <BR>I ordered The Devil in the White City in any case... sounds like a good read to me.<!--/Text--></td></tr>
+<!--/Post: 894-->
+<!--Post: 6675--><!--Time: 1107954611-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6675"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Mel1pred<!--/name--></b></a><br>Username: <!--field:uname-->Mel1pred<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 5:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Has anyone checked to see if there is a pattern involving Dean Koontz books?  I keep feeling as if I am reading a Koontz novel as I weed through all of this info - I&#39;ve only read a few of them myself but there must be people on here who have read a lot of them.  If it is him posting in the from BTK thread, that tick tock comment is from Koontz. Not the first time i&#39;ve noticed something like that.  <!--/Text--></td></tr>
+<!--/Post: 6675-->
+<!--Post: 6712--><!--Time: 1107977673-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6712"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 09, 2005 - 11:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This is getting off-topic...<!--/Text--></td></tr>
+<!--/Post: 6712-->
+<!--Post: 7575--><!--Time: 1108583707-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7575"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 16, 2005 - 11:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If I were hiding from people I would buy books from somewhere other than US. Here&#39;s a book I&#39;m sure BTK is reading. John Harvey&#39;s Flesh and Blood Your going to love this. <BR>It&#39;s about a retired inspector haunted by an old case, the disappearance of a young girl. His search crosses the track of a chilling young psychopath who was released early from prison, It&#39;s from the Independantco.uk. true crime <BR>Any of this sound familiar?<!--/Text--></td></tr>
+<!--/Post: 7575-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/132">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/132" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,1 @@
+window.CBTK={"page":"puzzle.html","title":"?","archive":"../index.html","versions":[{"t":"20041204130813","e":"20041204130813","n":1,"f":"history/puzzle~20041204130813.html","a":0,"d":0,"sa":[],"sd":[]}]};

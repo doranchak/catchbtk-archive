@@ -1,0 +1,257 @@
+<html>
+<!--Topic: 76/BTK Media-->
+<!--Me: 564/Citizens Insistent on Information-->
+<!--Level 1: 564/Citizens Insistent on Information-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 76-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Citizens Insistent on Information</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Citizens Insistent on Information</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/76/76.html"><font color="#f7f7f7">BTK Media</font></a> &#187;
+Citizens Insistent on Information
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=76&page=564"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=76&page=564"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 8603--><!--Time: 1109230213-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8603"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 11:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.kake.com/news/headlines/1300212.html" target=_top>http://www.kake.com/news/headlines/1300212.html</a> <BR> <BR>Wow O.o   <BR> <BR>I really didn&#39;t expect this one.  I wonder how the police will react to this group.<!--/Text--></td></tr>
+<!--/Post: 8603-->
+<!--Post: 8609--><!--Time: 1109233399-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8609"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 12:23 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->cool<!--/Text--></td></tr>
+<!--/Post: 8609-->
+<!--Post: 8611--><!--Time: 1109235297-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8611"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 12:54 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wow! Good post, verm_inve. <BR> <BR>A grand jury investigation..... hmmm... <BR> <BR>:|<!--/Text--></td></tr>
+<!--/Post: 8611-->
+<!--Post: 8615--><!--Time: 1109249134-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8615"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 4:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This of course will tie up the Investigation even MORE they do realize ... I hope ...<!--/Text--></td></tr>
+<!--/Post: 8615-->
+<!--Post: 8626--><!--Time: 1109254206-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8626"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nancydrew<!--/name--></b></a><br>Username: <!--field:uname-->Nancydrew<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 6:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->These people are claiming to be doing this on behalf of victims&#39; families AND the citizens of Wichita.  Are any family members involved?  It&#39;s awfully presumptuous to interfere with the investigation in the name of the families.<!--/Text--></td></tr>
+<!--/Post: 8626-->
+<!--Post: 8631--><!--Time: 1109256142-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8631"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 6:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It is about time!!!! The police have confused MO and Signature, and BTK has gotten away with murder.<!--/Text--></td></tr>
+<!--/Post: 8631-->
+<!--Post: 8644--><!--Time: 1109263473-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8644"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Neechi<!--/name--></b></a><br>Username: <!--field:uname-->Neechi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 8:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m seriously conflicted about this.  I agree that the public could offer alot potentially, but at what cost.  We all want this case solved and to see BTK punished for his crimes. In the event that he is eventually caught, with the help of the public, what damage does the extensive disclosure do for potential jury selection?  Any potential defendant would be able to argue that the jury was tainted due to the release of information.   <BR> <BR>I want the information as much as the next person, but I think this group needs to realize that releasing EVERYTHING is just not practical or rational.<!--/Text--></td></tr>
+<!--/Post: 8644-->
+<!--Post: 8651--><!--Time: 1109266769-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8651"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 9:39 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->How can the LE ask for the public&#39;s help, when there is nothing to go on?  <BR> <BR>Sketches are bad. Personal information given out was the information that HE, BTK, provided. <BR> <BR>I know there may not be much to what has already been released. But, if some of the jewelry pictures, or letters are released, then someone may be able to help. <BR> <BR>I also feel they are holding on some information because they fear it would create hysteria among the people. <BR> <BR>I don&#39;t see how it will tie up the investigation. I mean, with so many people working on the case. After 30 years, a little time used in releasing some information may not be too bad. <BR> <BR>I don&#39;t think there is anything in the information being kept that would &#34;influenze&#34; a jury. It may add to the viciousness of BTK, but that he is vicious, that is already evident.  <BR> <BR>Now what information is provided of the person arrested as being BTK is the information that could hinder the conviction of the guy/gal/them. <BR><!--/Text--></td></tr>
+<!--/Post: 8651-->
+<!--Post: 8677--><!--Time: 1109280462-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8677"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bojo<!--/name--></b></a><br>Username: <!--field:uname-->Bojo<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 1:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This just reeks of an ulterior agenda.  O&#39;Hara is the attorney and he just happens to represent someone suing in a BTK related matter? <BR> <BR>They claim to represent the victims families.  Do the families want the information released?  I know if say Nancy Fox was my daughter I wouldn&#39;t want her post death photo&#39;s released. I also wouldn&#39;t want everyone to know excatly what happened to her unless it meant frying the animal that did it.  The public knowing he did x, y &amp; z is not going to bring us any closer to BTK. <BR> <BR>This is a high profile case and I can guarantee that everyone from the FBI, KBI, Mayor, Cheif on down are keeping a very close eye on things.  Nobady wants him caught more than LE.  Releasing all information to the untrained and uneducated  public &#40;as far as LE&#41; is not the answer.<!--/Text--></td></tr>
+<!--/Post: 8677-->
+<!--Post: 8693--><!--Time: 1109290612-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8693"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ztargate<!--/name--></b></a><br>Username: <!--field:uname-->Ztargate<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 4:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Authorities were at a dead-end in the Unabomber investigation, until they released the manifesto. <BR> <BR>That&#39;s all it took for someone to make the connection. <BR> <BR>Maybe someone has seen the jewelry BTK sent to the police, or read correspondence similar to those sent to the media. Or maybe someone can recognize another item that has not yet been shown. <BR> <BR>One other thing that may help is a reward. If the public wants someone to turn BTK in, they will have to raise the ante. No way someone is going to turn him in &#34;just because&#34;, or out of the goodness of their hearts... specially if they are friends or family. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 8693-->
+<!--Post: 8700--><!--Time: 1109292862-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8700"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 4:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have posted on this subect many times and made my opinion very clear. <BR>I also want to make it clear that releasing material without the proper discretion would defeat the purpose entirely. <BR> <BR>Items, or parts thereof, that would prohibit LE from determining the authenticity of future communications would be one of most important of this group.  <BR>But items, or parts thereof, that would substantially hinder the prosecution of a suspect should be everyone&#39;s top priorty.  <BR>Anything that does not fit into these categories, I feel, should be made public. <BR>The items that would be regarded as &#34;obsene&#34; should be available only to those that wish to view it.  <BR> <BR>One way to balance the two is to have select members of the District Attorney&#39;s Office, Law Enforcement, the citizens group &#40;couldn&#39;t they come up with a shorter name?&#41;, serial killer experts and possibly victims family members. The most important factor when assembling this group is that there be no possibility of conflict of interest of alterior motives. What I mean by that is, I had originally included members of the media in that list but after further thought relized the media has something to gain from information being released. <BR> <BR>The decision of what is to be released must be carefully considered by a group that has nothing in mind except identifying, arresting and prosecuting BTK. <BR>I feel strongly that the key to finding BTK will come from some unknowing citizen that recognize characteristics of BTKs writing, drawing, etc... <BR> <BR>iq<!--/Text--></td></tr>
+<!--/Post: 8700-->
+<!--Post: 8701--><!--Time: 1109293163-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8701"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 4:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t think they&#39;ll get anywhere with their efforts.  The FBI is involved in the investigation right along with WPD, and has been for 30 years -- are they going to take on the FBI too?  Presumably, WPD gets some direction from the FBI on what info to release.  Same with KBI. <BR> <BR>Heck, they can pursue it if it makes them feel better.  Although, LE will have to divert resources towards addressing this court action that could otherwise be spent looking for BTK &#40;or other criminals on the loose in the Wichita area&#41;. <BR> <BR>Hmm, if I were LE, I&#39;d look very closely at the members of this fringe group to see if there are any potential POI involved in it.  SK who are cop wannabes often enjoy criticizing LE investigations, and I&#39;m sure BTK would support these folks in spirit, at the very least. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 8701-->
+<!--Post: 8703--><!--Time: 1109293394-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8703"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Freya<!--/name--></b></a><br>Username: <!--field:uname-->Freya<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 5:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You guys all bring up some really great points on both sides either supporting or opposing the disclosure of info by WPD. I was wondering why I was going back and forth on the issue, then realized that it may help to define exactly what TYPE of information WPD should release. <BR>Bojo: I agree completely that some information just shouldn&#39;t be released because any small benefit it might lend to the investigation will be outweighed by any further pain caused to family members of the victims. <BR> <BR>So what information SPECIFICALLY should WPD release? Any thoughts? I get confused easily, and lists help a lot :-&#41;, so here&#39;s mine. Let&#39;s start with the obvious two: <BR> <BR>1. all confirmed letters &#40;excluding any parts that specifically and graphically refer to known victims&#41; <BR>2. the physical contents of all confirmed packages <BR> <BR>Any additions, guys? <BR>If someone has already tried this--sorry!<!--/Text--></td></tr>
+<!--/Post: 8703-->
+<!--Post: 8748--><!--Time: 1109305487-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8748"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 8:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If they were forced to release something here is what I would expect, and hope for: <BR> <BR>1. Unless I&#39;m mistaken, &#34;Curly Locks&#34; has not been released.  This poem could theoretically be released.  If it has already been released can someone show me?  It&#39;s not on Tom&#39;s site. <BR> <BR>2. Some good chunks, and maybe all, of the Fager Letter. <BR> <BR>3. Images of some evidence from the 2004 letters.  Perhaps a picture of a watche, necklaces, or any objects fully identified for what they are.  Things that are not identified would be scrutinized ... &#34;should we release this to find information, or keep it secret?&#34;  here I think it depends on the object.  They can&#39;t release everything or they risk loosing the control of their case. <BR> <BR>I do not expect them to release anything on possible victims unless they are sure the victim was BTK&#39;s.<!--/Text--></td></tr>
+<!--/Post: 8748-->
+<!--Post: 8762--><!--Time: 1109313367-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8762"><font face="Verdana" size="1"><b><!--email--><a href="mailto:williammichael@direcway.com" target="_blank"><!--/email--><!--name-->Oklahoma_mike<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Oklahoma_mike<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 10:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Whether or not it is a good idea to release information or not remember one thing:  the citizens of Wichita have the legal right to petition for a grand jury.  The state law spells out the proper steps, and, if these steps are legally met, a grand jury is held.  It does not matter if the WPD or the FBI does not want the grand jury.  The grand jury does not have total power, and, if I recall correvctly, the actual testimony given in grand jury hearings is sealed.  But the grand jury does have subpeona powers and the power to issue indictments. <BR>This is a great example of real democracy no matter if a grand jury helps or hinders the police investigation.<!--/Text--></td></tr>
+<!--/Post: 8762-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="76/564">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=76/564" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

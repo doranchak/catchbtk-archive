@@ -1,0 +1,269 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 713/Fron Kerri&#39;s link-->
+<!--Level 1: 713/Fron Kerri&#39;s link-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Fron Kerri&#39;s link</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Fron Kerri&#39;s link</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Fron Kerri&#39;s link
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=713"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=713"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 11507--><!--Time: 1110814266-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11507"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 14, 2005 - 7:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Kerris link &#34;things that make christians squirm&#34; <BR> <BR>With every shred of pride within them shrieking in protest, Christians feel driven to a crushing conclusion: the moral gap between them and a serial killer is invisible, compared to the terrifying expanse separating even their best efforts from the infallible holiness of God. They even argue that there is a sense in which babies are morally corrupt!  <BR>-------------------------- <BR><!--/Text--></td></tr>
+<!--/Post: 11507-->
+<!--Post: 11511--><!--Time: 1110817495-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11511"><font face="Verdana" size="1"><b><!--email--><a href="mailto:linnieskid@earthlink.net" target="_blank"><!--/email--><!--name-->Linnieskid<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Linnieskid<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 14, 2005 - 8:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;They even argue that there is a sense in which babies are morally corrupt!&#34; <BR> <BR>SICK!<!--/Text--></td></tr>
+<!--/Post: 11511-->
+<!--Post: 11515--><!--Time: 1110830532-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11515"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 14, 2005 - 12:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://my.espn.go.com/profile/user?username=klr6465#" target=_top>http://my.espn.go.com/profile/user?username=klr646 5#</a><!--/Text--></td></tr>
+<!--/Post: 11515-->
+<!--Post: 11516--><!--Time: 1110833677-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11516"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 14, 2005 - 12:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Religion and Politics... <BR> <BR>Things that make ya wanna go RADER!<!--/Text--></td></tr>
+<!--/Post: 11516-->
+<!--Post: 11518--><!--Time: 1110836073-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11518"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Hmmm<!--/name--></b></a><br>Username: <!--field:uname-->Hmmm<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 14, 2005 - 1:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In all fairness, not all serial killers are Christians, just as not all terrorists are Muslem.  Anyway, where else to get a good cover in a community but in a church.  Some predators like to hide in public in trustworthy places like schools, churches, at the Y, as coaches in team leagues, as boys and girls club people, working in nursing homes and hospitals.  Everywhere there is an advantage for a predator to gain, they will filter in.   <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 11518-->
+<!--Post: 11520--><!--Time: 1110838712-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11520"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 14, 2005 - 2:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Anyone notice she resembles her Dad? Or maybe what he&#39;d look like if he had a soul, that is.  <BR> <BR>I do not think it&#39;s fair to begin discussing the religion or politics of members of Denny the Dog Catcher&#39;s extended family. Even if you think one of the kids, or both, were right-wing nutjobs, or hollow-eyed Zombies for Christ, they still aren&#39;t the ones accused of multiple murder.  <BR> <BR>Everything I&#39;m seeing just keeps telling me that Dennis Rader&#39;s kids and wife are victims, too. I can&#39;t help but think they&#39;ve been convinced that the charges against him are valid; elsewise one of them - I get the feeling Brian&#39;s not shy about his opinion, for instance - would be out there loudly defending their Dad.  <BR> <BR>I say it again; if it were <b>your</b> Dad, how would you feel? It&#39;s hard to imagine, isn&#39;t it? Worse than him dying, I&#39;d think.<!--/Text--></td></tr>
+<!--/Post: 11520-->
+<!--Post: 11533--><!--Time: 1110893289-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11533"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 15, 2005 - 5:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I recieved two pictures yesterday of Kerri and Stefanie Walch, they look like twins, I agree with Steve, the entire family are victims of this madness.<!--/Text--></td></tr>
+<!--/Post: 11533-->
+<!--Post: 11573--><!--Time: 1110917220-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11573"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Zenith<!--/name--></b></a><br>Username: <!--field:uname-->Zenith<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 15, 2005 - 12:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sorry, but who&#39;s Stephanie Walch?<!--/Text--></td></tr>
+<!--/Post: 11573-->
+<!--Post: 11579--><!--Time: 1110918684-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11579"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bojo<!--/name--></b></a><br>Username: <!--field:uname-->Bojo<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 15, 2005 - 12:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Zenith, <BR> <BR>She&#39;s a possible victim.  You can read about her in that section.<!--/Text--></td></tr>
+<!--/Post: 11579-->
+<!--Post: 11647--><!--Time: 1110980427-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11647"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 5:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Just because DR was a member of a Christian church does not make him a believer or in a personal relationship with God&#39;s Son. Very often it is Christians who give Christ a bad name. And so it goes with many affiliations. If a WSU prof kills his wife, I doubt that all of their profs are murderers. Where did you find a picture of Kerri?<!--/Text--></td></tr>
+<!--/Post: 11647-->
+<!--Post: 11656--><!--Time: 1111011576-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11656"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 2:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->http://images.deviantart.com/i/2002/44/2/6/Kerri.j pg <BR> <BR>http://images.deviantart.com/i/2002/44/f/8/My_futu re_WIFE.jpg <BR> <BR>http://images.deviantart.com/i/2002/44/e/6/CJ_Nate _Darian.jpg <BR> <BR>these should work if you paste one at a time into them into your browsers address bar and hit go. <BR><!--/Text--></td></tr>
+<!--/Post: 11656-->
+<!--Post: 11661--><!--Time: 1111013821-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11661"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Angrywolf<!--/name--></b></a><br>Username: <!--field:uname-->Angrywolf<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 2:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->sheesh..what a plain young woman...I can sorta see the resemblance though...Are there any pics of Brian and Paula out there ?<!--/Text--></td></tr>
+<!--/Post: 11661-->
+<!--Post: 11662--><!--Time: 1111014990-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11662"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Angrywolf<!--/name--></b></a><br>Username: <!--field:uname-->Angrywolf<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 3:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->the my future wife addy seems to have an error in it...<!--/Text--></td></tr>
+<!--/Post: 11662-->
+<!--Post: 11668--><!--Time: 1111018227-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11668"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 4:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->remove the space that appears in the jpg&#39;s names. <BR>I think, not positive, but in the pic called cj nate darian, it may be brian at far right, he looks a lot like kerri, and in the middle of the same photo it must be darian the groom<!--/Text--></td></tr>
+<!--/Post: 11668-->
+<!--Post: 11677--><!--Time: 1111020966-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11677"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 4:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->IMO Rader was not a Christian or of any religious denomination. He was not a believer nor a practioner. <BR> <BR>Rader was &#34;posing&#34; &#34;imposter&#34; &#34;pretending&#34; to be a religious clean living family man.  .  .   <BR> <BR>Christians or any other religious people should not worry as a person&#39;s essence is not a &#34;facade&#34; <BR>or act.  .  .  Rader is and always has been what we now know: a predator sociopath willing to deceive and kill to satisfy his selfish wishes.  .  .  <!--/Text--></td></tr>
+<!--/Post: 11677-->
+<!--Post: 11722--><!--Time: 1111063177-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11722"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 17, 2005 - 4:39 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://natedillon.com/album/2003/20030506_darians_puppet_show/" target=_top>http://natedillon.com/album/2003/20030506_darians_ puppet_show/</a><!--/Text--></td></tr>
+<!--/Post: 11722-->
+<!--Post: 11723--><!--Time: 1111063215-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11723"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 17, 2005 - 4:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://natedillon.com/album/2003/20030501_project_mustache/" target=_top>http://natedillon.com/album/2003/20030501_project_ mustache/</a><!--/Text--></td></tr>
+<!--/Post: 11723-->
+<!--Post: 12386--><!--Time: 1112144931-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12386"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 29, 2005 - 5:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->found in a secret stash, cached far far away.... <BR>&#40;I am just way too nosey, but I like finding hidden stuff&#41; here are tidbits from Kerr&#42; <BR>-------------------------------------------------- <BR> <BR>6.23.2004 <BR> <BR>Reason #25 for moving apartments in August.  <BR>Police suspect gunmen killed wrong brother <BR> <BR>This happened across the street from where we live. These kind of things make me really miss Manhattan, Kansas.  <BR>posted by Kerri at 4:25 PM 0 comments <BR> <BR>----------------------------------------------  <BR> <BR>Hey, Look we have murders on our payroll  <BR>Farmington Hills teacher to be tried in husband&#39;s ax slaying <BR> <BR>So...this woman has &#40;had&#41; a teaching job even though she turned out be an axe murderer and I who have done no axe murdering, can not find a teaching job. This happened not to far from where we live. Maybe if I put on my resume, lethal with an axe, knife and sledgehammer then I could get a job. At least this means that there is one opening for a teacher for next year.  <BR>posted by Kerri at 4:12 PM 0 comments  <BR><!--/Text--></td></tr>
+<!--/Post: 12386-->
+<!--Post: 12387--><!--Time: 1112145155-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12387"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 29, 2005 - 5:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->http://images.deviantart.com/i/2002/44/e/6/CJ_Nate _Darian.jpg  <BR> <BR> <BR>correction: I guess Darian IS the one on the far right, but darn, he resembles the rader family, in my opinion<!--/Text--></td></tr>
+<!--/Post: 12387-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/713">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/713" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

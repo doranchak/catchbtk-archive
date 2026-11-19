@@ -1,0 +1,1 @@
+window.CBTK={"page":"mission.html","title":"catch BTK .com -- MISSION","archive":"../index.html","versions":[{"t":"20040822155631","e":"20040822155631","n":1,"f":"history/mission~20040822155631.html","a":0,"d":0,"sa":[],"sd":[]}]};

@@ -1,0 +1,251 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 364/River Festival Medallion Hunt-->
+<!--Level 1: 364/River Festival Medallion Hunt-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: River Festival Medallion Hunt</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">River Festival Medallion Hunt</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+River Festival Medallion Hunt
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=364"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=364"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4786--><!--Time: 1106750215-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4786"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 6:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK left another package in rural Sedgwick County.  A card sent to KAKE-TV led police to it.  The news article says this is package #8, and indicates there is a package #7, which has not been found. Link to article: <a href="http://www.kansas.com/mld/kansas/news/special_packages/btk/10735801.htm" target=_top>http://www.kansas.com/mld/kansas/news/special_pack ages/btk/10735801.htm</a>. <BR> <BR>This begins to sound like the medallion hunt at the River Festival.  <a href="http://www.bizjournals.com/wichita/stories/2002/03/11/daily36.html" target=_top>http://www.bizjournals.com/wichita/stories/2002/03 /11/daily36.html</a> <BR> <BR> <BR><a href="mailto:whoisbtk@yahoo.com">whoisbtk@yahoo.com</a> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4786-->
+<!--Post: 4804--><!--Time: 1106757342-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4804"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 8:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;This begins to sound like the medallion hunt at the River Festival.&#34; <BR> <BR>Hey whois, <BR>It began to sound like the Medallion hunt way back in March. I&#39;ve often wondered which Eagle employees were responsible for writing the clues. It&#39;s just too strange, what with the obvious affection he has for the Eagle and KAKE TV.  <!--/Text--></td></tr>
+<!--/Post: 4804-->
+<!--Post: 4899--><!--Time: 1106799936-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4899"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 8:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey Cougar and Whois: <BR> <BR>Note: The box was found on a road &#34;North of Ketchi&#34; <BR> <BR>Tom said he got a email a day before the drop from a women in a QT that saw a man open his wallet and he had a picture of Nancy Fox in it... he was asking directions if i recall Tom&#39;s message correctly. <BR> <BR>This QT is North of Ketchi... in fact it is &#34;on&#34; the North East corner of road called &#34;Ketchi&#34; I believe. <BR> <BR>A person in the chat yesterday called &#34;dreamer&#34; posted links to some maps. <BR> <BR>The first had a green line coming from the north &#40;off map&#41; south/right turn to a stop at... get this... Carol Moulds House. <BR> <BR>The road Carol Mould lived on is rt something but... becomes &#34;Ketchi&#34; something or other. <BR> <BR>I was told the names of some of these were changed such as 61st... <BR> <BR>When I asked said person &#40;dreamer&#41; why they had posted the map to Moulds Home... All I got was &#34;Who knows Q&#34; and &#34;I was just throwing it out there...trying to help&#34; <BR> <BR>Then &#34;dreamer&#34; quit chat... <BR> <BR>Hmmm... <BR> <BR>Tom told me he does not know who this is... <BR> <BR>Of course I have been in the chat before and saw some slightly sarcastic refs to Glen Campbell Lyrics &#40;actually song titles&#41; and assumed they were directed at me but would the bored and or intoxicated go this far to poke fun at me... doubt it! <BR> <BR>Really strange... especially when you keep in mind the only reason &#34;North of Ketchi&#34; came up was a apparent &#40;still not sure&#41; Map Quest snafu with the local of &#34;B&amp;K Storage&#34; at 11th &amp; Woodrow but listed as just &#34;North of Ketchi&#34; with no #s. <BR> <BR>That Dennis guy said he was in the general 11th &amp; Woodrow area &#40;my deduction by his description&#41; and got a strange feeling when he was there. <BR> <BR>Odd... Odd... Odd... <BR> <BR>Also: Post Toasties Corn Flakes in the past gave away: <BR> <BR>Train Sets <BR> <BR>Badges <BR> <BR>A Linda &#34;Williams&#34; Doll <BR> <BR>And a puppet set that has a display with cartoon children manipulating the puppets with strings that look like blind cords that go out a window &#40;see photos&#41;. <BR> <BR>Interested in your thoughts Cougar and Whois... also Analyzer if your reading this. <BR> <BR>Going to post in the &#34;North of&#34; thread as well. <BR> <BR> <BR>Here are the cereal box photo links: <BR> <BR><a href="http://theimaginaryworld.com/box60.jpg" target=_top>http://theimaginaryworld.com/box60.jpg</a> <BR><a href="http://theimaginaryworld.com/box61.jpg" target=_top>http://theimaginaryworld.com/box61.jpg</a> <BR> <BR> <BR><a href="http://theimaginaryworld.com/rnn28.jpg" target=_top>http://theimaginaryworld.com/rnn28.jpg</a> <BR><a href="http://theimaginaryworld.com/rnn29.jpg" target=_top>http://theimaginaryworld.com/rnn29.jpg</a> <BR> <BR> <BR><a href="http://www.timepassagesnostalgia.com/watermarked/images05/0553gmanad1.jpg" target=_top>http://www.timepassagesnostalgia.com/watermarked/i mages05/0553gmanad1.jpg</a> <BR> <BR> <BR><a href="http://theimaginaryworld.com/tic395.jpg" target=_top>http://theimaginaryworld.com/tic395.jpg</a> <BR> <BR> <BR>Side Note: The drop site was near the: <BR>Atchison Topeka &amp; Santa Fe RR <BR> <BR>Also a song covered by many including the oft associated with &#34;Kansas&#34; Judy Garland. <BR> Interesting too... there are a lot of &#34;versions&#34; of the lyrics. <BR> <BR>Lyrics: <a href="http://www.google.com/search?hl=en&amp;lr=&amp;q=Atchison%2BTopeka%2BSanta%2BFe%2Blyrics&amp;btnG=Search" target=_top>http://www.google.com/search?hl=en&amp;lr=&amp;q=Atchison&#43; Topeka&#43;Santa&#43;Fe&#43;lyrics&amp;btnG=Search</a> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4899-->
+<!--Post: 4911--><!--Time: 1106812548-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4911"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 11:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Q: <BR> <BR>Cougar: <BR> <BR>This is really too weird.  Unless I&#39;m really drifting away from the dock, this is the only “serial” killer who sends back trophies. <BR> <BR>Now there is this macabre humor creeping into his communications.  I mean, putting this in a “cereal” box?????    <BR> <BR>A &#34;cereal&#34; killer. <BR> <BR> <BR> <BR><a href="mailto:whoisbtk@yahoo.com">whoisbtk@yahoo.com</a> <BR><!--/Text--></td></tr>
+<!--/Post: 4911-->
+<!--Post: 4930--><!--Time: 1106829515-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4930"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stuart_m<!--/name--></b></a><br>Username: <!--field:uname-->Stuart_m<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 4:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Those kids with the puppets sure have a demented expression, do they not? Gives me the creeps more than BTK does.<!--/Text--></td></tr>
+<!--/Post: 4930-->
+<!--Post: 4936--><!--Time: 1106832826-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4936"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 5:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;That Dennis guy said he was in the general 11th &amp; Woodrow area &#40;my deduction by his description&#41; and got a strange feeling when he was there.&#34; <BR> <BR>Really? I would like to hear more on this. That location is just a couple of short blocks from the Arthur B. Sim golf course and the Booth Home, where I believe there is some connection to this case.  <BR> <BR>And fwiw, I echo Den&#39;s &#34;feelings&#34; about this area. I always felt it too.   <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4936-->
+<!--Post: 4939--><!--Time: 1106834882-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4939"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nugzter<!--/name--></b></a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 6:08 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Cougar, I&#39;m glad someone else mentioned golf. Its like a park, meaning wide open with trees and the sorts. What I would like to know is how close are the murder scenes to the golf course?<!--/Text--></td></tr>
+<!--/Post: 4939-->
+<!--Post: 4942--><!--Time: 1106835660-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4942"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 6:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey Nug, <BR> <BR>Wegerle is a shout away. From the golf course you go 2 blocks north to 13th and then maybe 5 minutes or less to the west on 13th. Not sure of the mileage. Has to be a mile or less. The other confirmed scenes are east of this area, within three miles. <!--/Text--></td></tr>
+<!--/Post: 4942-->
+<!--Post: 4953--><!--Time: 1106838752-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4953"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nugzter<!--/name--></b></a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 7:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thx Cougar, <BR>Guess my hunch was wrong. Thought he could have found his victims fom the golf course. My bad<!--/Text--></td></tr>
+<!--/Post: 4953-->
+<!--Post: 5073--><!--Time: 1106863107-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5073"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 1:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Couger: <BR> <BR>You&#39;ll have to ask Dennis yourself. When he was asking people in Chat where he was by describing how he got to an area in Wichita... I threw out 11th &amp; Woodrow and Riverside and got some confirmation from others but not Dennis. <BR> <BR>He &#40;Dennis&#41; either didn&#39;t see my questions and remarks about the whole Map Quest/North of thing or he chose not to answer me. <BR> <BR>I don&#39;t know. <BR> <BR> <BR>I do know that for me the 401 Kansas PJs 123 ABCs thing and the North of Ketchi thing at 11th &amp; Woodrow or where the mysterious B&amp;K should be/is/isn&#39;t... has some significance... <BR> <BR>Also: Things in some very obscure way but there none the less keep coming up &#34;Pittsburgh&#34; <BR> <BR>I don&#39;t know why. I know there is a &#34;Pittsburg&#34; Kansas &#40;no &#39;h&#39;&#41; but as a Steeler Fan I am tuned to Pittsburgh a bit but I didn&#39;t look for it it was there a few places that I won&#39;t go back over here. <BR> <BR>It&#39;s hard to trust anyone in this case and even on this board however Couger from talking to you I have found that I do trust you and admire your courage, as I&#39;ve said before. <BR> <BR> <BR>I have something I want to run by you but not here... I&#39;ll try and catch you on the Chat.<!--/Text--></td></tr>
+<!--/Post: 5073-->
+<!--Post: 9677--><!--Time: 1109596575-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9677"><font face="Verdana" size="1"><b><!--email--><a href="mailto:topsailgrl@yahoo.com" target="_blank"><!--/email--><!--name-->Topsailgrl<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 5:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Q-<b>WHERE</b> did you get that quote &#34;That Dennis guy said he was in the general 11th &amp; Woodrow area &#40;my deduction by his description&#41; and got a strange feeling when he was there.&#34; on Jan 26th?<!--/Text--></td></tr>
+<!--/Post: 9677-->
+<!--Post: 9681--><!--Time: 1109597832-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9681"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 5:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The 11&amp;Woodrow came from a mapquest search &#40;see the saga of north of kechi&#41; <BR> <BR>The Pittsburg thing...that entire area kept popping up in my searches. I still think there is a whole other side to this story. Also when they were first at the courthouse friday, the reporter mentioned vans with Missouri plates pulling in &#40;in the context that it was news&#41;then I never heard another word about them. <BR> <BR>Factor X Files<!--/Text--></td></tr>
+<!--/Post: 9681-->
+<!--Post: 9703--><!--Time: 1109608818-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9703"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stealth<!--/name--></b></a><br>Username: <!--field:uname-->Stealth<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 8:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Whois - His church participated/competed in the River Festival<!--/Text--></td></tr>
+<!--/Post: 9703-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/364">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/364" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

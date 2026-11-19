@@ -1,0 +1,254 @@
+<html>
+<!--Topic: 8/Possible BTK Victims-->
+<!--Me: 723/Sonya Gray-->
+<!--Level 1: 723/Sonya Gray-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 8-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Sonya Gray</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Sonya Gray</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/8/8.html"><font color="#f7f7f7">Possible BTK Victims</font></a> &#187;
+Sonya Gray
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=8&page=723"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=8&page=723"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 11683--><!--Time: 1111026700-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11683"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 6:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wow, this one would be huge, if true. &#40;Of course, the National Enquirer is involved, but the &#34;intended victim&#34; Sonya verified at least part of it to KAKE!&#41; <BR> <BR>Looks like &#34;Denny The Dog Catcher&#34; was looking to murder 25 yr. old Sonya Gray, just 2 months ago! She is a supervisor at Park Citys&#39; KFC. Denny came into her KFC on the Anniversary of the Otero murders, Jan. 15, 2005! He grilled her for several hours- and WASN&#39;T looking for a BLT! He even wrote her a poem &#40;how lovely&#41;, which she verified to KAKE! <BR> <BR>Here&#39;s the article: <a href="http://www.kake.com/home/headlines/1372967.html" target=_top>http://www.kake.com/home/headlines/1372967.html</a> <BR> <BR> &#34;TABLOID TALKS TO ALLEGED BTK TARGET&#34; <BR>KAKE News <BR> <BR> <BR>&#34;March 16 - A National Enquirer article claims an employee at Park City&#39;s KFC says BTK suspect Dennis Rader came to the restaurant and stalked her. The headline reads: &#34;BTK Killer Wanted Me Dead.&#34; The paper talked to 25-year-old Sonya Gray, a supervisor at the KFC. <BR> <BR>The article quotes Gray as saying &#34;A police officer told me I was lucky to be alive, and not BTK&#39;s 11th victim.&#34; Gray told KAKE News that&#39;s what an Enquirer reporter told her when he showed up on her doorstep. He had a copy of a letter she says Rader wrote her and she had turned over to police. <BR> <BR>Gray says when she asked the Enquirer reporter how he had obtained a copy of the letter, the reporter told her a police source had sent it to him. She says the reporter warned she would have likely been BTK&#39;s 11th victim. <BR> <BR>On January 15th, the 31st anniversary of the Otero murders, Gray told the magazine a man she would later recognize as Dennis Rader came into the restaurant. She says he stayed for the next five hours, asking her questions about her kids and her life. <BR> <BR>Gray says she was getting a little worried because he wanted to know too much. She says after an hour Rader left, but returned with a legal pad. She says he told her he was glad she didn&#39;t think she could sneak out of the back door and get away. Gray says Rader then spent the next hour and a half writing a poem to her. <BR> <BR>The KFC&#39;s manager told KAKE News he knew nothing about any of these events until he read about them in the Enquirer. The article also uses Wichita Police as a primary source, writing that they believe Gray was scheduled to become BTK&#39;s 11th victim. Police officials tell KAKE News no one familiar with the BTK investigation has ever talked to the National Enquirer.&#34; <BR> <BR>SPOOOOOOKEY!!! I&#39;m going out &amp; buy that &#34;Nat&#39;l. Enquirer&#34; article &#40;even tho&#39; I hate that rag - er mag.&#41; <BR> <BR>Victor<!--/Text--></td></tr>
+<!--/Post: 11683-->
+<!--Post: 11685--><!--Time: 1111027654-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11685"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 6:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->National Enquier in it&#39;s early origins was a magazine that mostly featured grissly murder stories like pulp detective magazines and then it evolved into unbelievable and gossipy expose-type stories about celebrities that was mostly false and untrue. A few years ago however after getting tired of fighting lawsuits they decided to legitimize there stories and in the past couple of years or so many national stories that were later picked up by the mainstream media were first reported in the National Enquierer.<!--/Text--></td></tr>
+<!--/Post: 11685-->
+<!--Post: 11686--><!--Time: 1111030018-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11686"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 7:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->True, John-O. The Enquirer sometimes has &#34;real&#34; articles. But the point is, the &#39;intended victim&#39; Sonya Gray has confirmed at least part of the story with KAKE. Especially BLTs&#39; &#34;poem&#34; he wrote to her.<!--/Text--></td></tr>
+<!--/Post: 11686-->
+<!--Post: 11697--><!--Time: 1111033587-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11697"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 8:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oh my God, I just got off the phone with my bestfriend back there and we were talking about that Sonya Gray.<!--/Text--></td></tr>
+<!--/Post: 11697-->
+<!--Post: 11706--><!--Time: 1111037059-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11706"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 9:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Vscantu, I&#39;m trying to follow this story you posted but the whole thing doesn&#39;t make a lot of sense.  <BR>It says he spent five hours at the KFC which is very hard to believe. Then it says he was there for an hour and then came back and spent and hour and a half writing a poem. So that&#39;s 2 and a half hours but where is the other 2 and a half hours? <BR> It says he told her that he was glad she didn&#39;t think she could sneak out the back door and get away. Was the KFC closed by this time? Where were the other employees while all this was going on? This was on a Saturday which I would imagine to be one of their busier days and would stay open longer than weekdays. Wouldn&#39;t this statement by a stranger be viewed as a threatening harassment? <BR> The article implies that she recognized this same man as Dennis Rader which would have been a month later after his arrest. She spent five hours talking to someone and never learned thier name? He also was fairly well known around the suburb of Park City but she didn&#39;t know who he was? She lets a stranger who is a man almost 35 years older than her spend an hour and a half writing a poem to her on a pad of legal paper in her place of business? <BR>I don&#39;t know about this woman&#39;s story. There is a lot of holes in it.<!--/Text--></td></tr>
+<!--/Post: 11706-->
+<!--Post: 11710--><!--Time: 1111038146-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11710"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 9:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yea, and when she told me who published the story of course we both denied ever buying it! HA! Your right Johno, can you say scam!<!--/Text--></td></tr>
+<!--/Post: 11710-->
+<!--Post: 11712--><!--Time: 1111038789-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11712"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 9:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just got the actual &#34;National Enquirer&#34; that has this whole BLT story in it. Very spooky. <BR> <BR>Johno &amp; All, here&#39;s the story: <BR> <BR>It seems that Denny came in around 11am as a customer eating KFCs&#39; all-you-can-eat buffet. He made all his comments to her as a guy would who is trying to &#34;pick-up&#34; on a lady. Even his scary line to her about being glad she didn&#39;t sneak out the back to get away was said in a half kidding way. He obviously never got so heavy as to be called an out-and-out stalker. He spent his first hour their eating, I guess. Then left for a few minutes. <BR> <BR>Came back &#34;flirted&#34; some more with her. Then asked her if he could write her a poem, explaining that&#39;s how he experessed his feelings. He had bragged about how he was real good at writing backwards. He spent 1 1/2 hours writing the poem. About half is written backwards. &#40;Good thing the Wichita cops didn&#39;t tell us this whole time that BTK had written several notes in BACKWARD WRITING, or else poor miss Gray might have had him busted right there!&#41;. <BR> <BR>Then &#34;Denny&#34; gave her the letter &amp; TOLD her he was going to stick around untill they went to dinner.  Didn&#39;t ask, TOLD her. I guess she was too petrified to tell him &#34;No&#34;. He then lingered inside till 3:45. She then had a co-worker secretly drive her &#40;Sonyas&#39;&#41; car to the back of KFC, at which time she hopped in &amp; sped away! She was terrified of the creep, but he hadn&#39;t actually done anything criminal or violent. <BR> <BR>But it&#39;s obvious &#40;if the story&#39;s true&#41;, that D.T.D.C. wanted to kill her in an anniversary tribute to his 1st Otero murders. Funny ol&#39; pops, always had a quirky way about him. <BR> <BR>And you wonder why his family hasn&#39;t visited him??<!--/Text--></td></tr>
+<!--/Post: 11712-->
+<!--Post: 11714--><!--Time: 1111039168-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11714"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 9:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->P.S. The Enquirer article also has a photo of Sonya Gray holding the very readable poem/ letter BLT wrote her. &#40;Small parts of it are obscured by the Enquirers&#39; red arrow.&#41; But most of it is visible &#40;including all the backward writing&#41; &amp; is signed &#34;Michael D. Lineberry&#34;.<!--/Text--></td></tr>
+<!--/Post: 11714-->
+<!--Post: 11715--><!--Time: 1111040342-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11715"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 10:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If the story is true and along with everything else we know about the BTK case it shows someone who never has to explain to his spouse his whereabouts or never has to account for unexplained absenses at any time of day or day of the week year round. <BR>Was his wife so under his control that he was free to do what he pleased when he pleased by himself away from her no questions asked? <BR>And this story of being flirtatious with a 25 year old restaurant worker is not happening on the other side of Wichita but in the town that they live. <BR>His wife never put two and two together living with the suspicious behavoir of her husband? <BR>I wouldn&#39;t be visiting him either unless I had good legal advice or have retained an attorney to protect me from being under suspicion of possible knowlege or suspicion of BTK activity..<!--/Text--></td></tr>
+<!--/Post: 11715-->
+<!--Post: 11727--><!--Time: 1111084091-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11727"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 17, 2005 - 10:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->OMG, I am done eating in fast food restaurants lol, can someone get me a pic of this girl and I still think behind closed doors Rader was a really mean person, who made his wife follow very strict rules.<!--/Text--></td></tr>
+<!--/Post: 11727-->
+<!--Post: 14378--><!--Time: 1127297512-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST14378"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, September 21, 2005 - 3:11 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->And the <i>bottom line</i> on this story is: take a look at Sonya&#39;s bank account. <BR> <BR>The way that the Enquirer gets juicy exclusives without lawsuits is to pay for them. The unspoken dynamic here is <i>tell me a story that the public will pay to read and I will pay you for exclusive rights to the story</i>. <BR> <BR>The symbiotic relationship between a source willing to say anything for a buck and a reporter willing to pay a source for a exclusive rights to a sensational story is truely a match made in heaven. A win-win situation.  <BR> <BR>They both make money. The reporter is protected from accusations of fabricating the story, because he is only printing what the source told him. The source is protected from cross examination because she is under exclusive contract for the story &#40;and Rader can&#39;t sue her because he has no money for a lawyer&#41; &#40;and it&#39;s her word agains&#39;t his anyway [the manager was unaware of a guy in uniform sitting for 6 hours in his restaurant drooling over his supervisor and scribbling on a legal pad]&#41;.<!--/Text--></td></tr>
+<!--/Post: 14378-->
+<!--Post: 14379--><!--Time: 1127297631-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST14379"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, September 21, 2005 - 3:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Definately not a BTK <i>victim</i>.<!--/Text--></td></tr>
+<!--/Post: 14379-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="8/723">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=8/723" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,1 @@
+window.CBTK={"page":"14.html","title":"catch BTK .com -- OTERO ARTICLE","archive":"../index.html","versions":[{"t":"20041204183108","e":"20041204183108","n":1,"f":"history/14~20041204183108.html","a":0,"d":0,"sa":[],"sd":[]}]};

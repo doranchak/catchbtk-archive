@@ -1,0 +1,499 @@
+<html>
+<!--Topic: 10/BTK Communications-->
+<!--Me: 508/BTK Novel written in his own clues-->
+<!--Level 1: 508/BTK Novel written in his own clues-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK Novel written in his own clues</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK Novel written in his own clues</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Communications</font></a> &#187;
+BTK Novel written in his own clues
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=508"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=508"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 7675--><!--Time: 1108652382-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7675"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 6:59 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Take the clues, the letters, and add them to the chapters btk wrote. Johno said that factor X was in the #1 issue of x-men 1963 marvel comics, a mutant is a being who possesses a genetic structure not present in his parents, In other communications someone ask what btk meant on Postcard #7 #8 to KAKE when he wrote C9 jewerly. and #11 that was just heard about says C4 jewerly everyone put that together to mean chapter 4 chapter 9, He&#39;s been giving us clues to each chapter. remember that line he gave us before 5A4B434... I think that&#39;s what this is. So here&#39;s the chapters can we fill in the clues? <BR>Chapters Released <BR>1. A Serial Killer is Born &#40;# 1 1963 marvel comics factor X&#41; <BR>2.Dawn <BR>3.Fetish <BR>4.Fantisy Land <BR>5.The search begins <BR>6.BTK&#39;s haunts <BR>7.Pj&#39;s <BR>8.Mo-ID-Ruse <BR>9.Hits <BR>10.Treasured Memories <BR>11.Final Curtain call <BR>12.Dusk <BR>13.Will there be more <!--/Text--></td></tr>
+<!--/Post: 7675-->
+<!--Post: 7679--><!--Time: 1108653846-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7679"><font face="Verdana" size="1"><b><!--email--><a href="mailto:BTK_Catcher@cox.net" target="_blank"><!--/email--><!--name-->Catcher<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Catcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 7:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks for getting this started, as I was about to do the same thing!  BTW, C. 4 is Fantasy World.  In communication #11, BTK writes:  c.4. the start of FWs. <BR>That pretty much clears the path for correlating his communications with the chapter list.  If we use this clue alone as the control, we can try to cross reference which communication corresponds to which chapter.  I hope that is where you are trying to go with this thread, at least as a starting point.  I think this needs to be looked into first.  Anyone feeling froggy, jump on in!  My interpretation to follow.<!--/Text--></td></tr>
+<!--/Post: 7679-->
+<!--Post: 7680--><!--Time: 1108654225-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7680"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 7:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I posted this elsewhere, but it fits here too.  Is this what he means by, &#34;novel thinking?&#34;  &#40;i.e. the chapters equal the novel&#41;<!--/Text--></td></tr>
+<!--/Post: 7680-->
+<!--Post: 7683--><!--Time: 1108655567-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7683"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 7:52 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Catcher you go for it, I ask Tom to start a link for this idea in the beginning  along with the BTK Theories, etc, Because I think this is big, thanks for fixing c.4, I believe everyone should put there ideas here in each chapter, what they think each clue and chapter means, so we can bring it all together.<!--/Text--></td></tr>
+<!--/Post: 7683-->
+<!--Post: 7693--><!--Time: 1108657665-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7693"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kansasgirl<!--/name--></b></a><br>Username: <!--field:uname-->Kansasgirl<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 8:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->What chapter is he on? I am guessing 10 since he is returning all of his treasures. Chapter 11 scares me? What is he planning? Another murder?<!--/Text--></td></tr>
+<!--/Post: 7693-->
+<!--Post: 7696--><!--Time: 1108658453-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7696"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 8:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think Final Curtain Call is possibly referring to his last murder already committed. Then Dusk is the time he just disappeared &#40;no communication&#41;. Then Will There Be More is the question we all had when he reappeared last March. I think he&#39;s done murdering and is ready to on, the day of his choosing, to turn himself in or becaught to end his story. <!--/Text--></td></tr>
+<!--/Post: 7696-->
+<!--Post: 7697--><!--Time: 1108658735-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7697"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 8:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If it&#39;s him in the From BTK section, this comment is pretty alarming: <BR> <BR>i can s ee you a ll. susan is my fantasy of a ll final fantasies...the morning dew on my lips.<!--/Text--></td></tr>
+<!--/Post: 7697-->
+<!--Post: 7699--><!--Time: 1108658964-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7699"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 8:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Kansasgirl, good call, I think your right about that, I believe what he did was take the chapters, add his own titles, then his clues and has been giving the pieces to us one at a time, so you are on the right line of thinking. If we have the number of clues right than we are suppose to be on #11 with this last letter to KSAS. I believe that is the one written to P.J. Fox 316N. West Street the card said C4 Jewerly. Someone correct me if I am wrong. Right now we are trying to put all the clues together from each of the 11 so I need help making sure we got them right. Thanks We also have to look for the clues he gave us like the Factor X which is what started this thread in the first place. He is the one that said we need to do our homework, I think this is what he meant.<!--/Text--></td></tr>
+<!--/Post: 7699-->
+<!--Post: 7701--><!--Time: 1108659198-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7701"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 8:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Has there been another chapter list released? The chapter list I have lists chapter 4 as Fantasy World &#40;not fantisy land&#41; and chapter 9 as Kits &#40;not hits&#41;. <BR> <BR>iq<!--/Text--></td></tr>
+<!--/Post: 7701-->
+<!--Post: 7702--><!--Time: 1108659386-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7702"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Topsailgrl<!--/name--></b></a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 8:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Embersage-you may be on to something with the chapters but please keep in mind that we are not and cannot be 100% sure that the communications in the FROM BTK thread are indeed from the actual killer. Those post should not be used as definite clues because they cannot be confirmed and could only be used hypothetically.<!--/Text--></td></tr>
+<!--/Post: 7702-->
+<!--Post: 7705--><!--Time: 1108659448-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7705"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Topsailgrl<!--/name--></b></a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 8:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Iq-You are correct. I think Embersage just had a typo or something.<!--/Text--></td></tr>
+<!--/Post: 7705-->
+<!--Post: 7707--><!--Time: 1108660051-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7707"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 9:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->sorry guys I had a typing problem, forgive me <BR>1. A serial Killer is Born <BR>2. Dawn <BR>3. Fetish <BR>4. Fantisy World <BR>5. The Search Begins <BR>6. BTKs Haunts <BR>7. PJs <BR>8. MO ID Ruse <BR>9. Kits <BR>10. Treasured Memories <BR>11. Final Curtain Call <BR>12. Dusk <BR>13. Will There be more <BR>my keyboard was crazy for a second making letters i wasnt typing lol <BR>yes i agree with you on the post Topsailgrl but we can use the actual letters, and clues he has given the police.<!--/Text--></td></tr>
+<!--/Post: 7707-->
+<!--Post: 7711--><!--Time: 1108663004-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7711"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Topsailgrl<!--/name--></b></a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 9:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->OH GOOD GREIF!!! Goofed yet again. Iq, between me and you and embersage, we should have this thread all screwed up.  <BR> <BR>Chapter 9 is 100% HITS not KITS <BR> <BR>Chapter 4 is Fantasy World<!--/Text--></td></tr>
+<!--/Post: 7711-->
+<!--Post: 7713--><!--Time: 1108663082-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7713"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rev<!--/name--></b></a><br>Username: <!--field:uname-->Rev<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 9:58 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It is not &#34;Kits&#34; it is &#34;Hits&#34; <BR> <BR><a href="http://www.kake.com/home/headlines/1274602.html" target=_top>http://www.kake.com/home/headlines/1274602.html</a><!--/Text--></td></tr>
+<!--/Post: 7713-->
+<!--Post: 7714--><!--Time: 1108663878-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7714"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 10:11 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I quit someone else type it lol<!--/Text--></td></tr>
+<!--/Post: 7714-->
+<!--Post: 7717--><!--Time: 1108664375-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7717"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 10:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->ok we can safely say that the puzzle we were working on from one of the letters had the three sections MO ID RUSE and Skov figured out what they were, I ask him to post them here. If we got by the chapters, that I cant seem to spell. lol then Mo ID RUSE would be the title to chapter 8, Which letter did this puzzle come from, what#<!--/Text--></td></tr>
+<!--/Post: 7717-->
+<!--Post: 7728--><!--Time: 1108666904-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7728"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rev<!--/name--></b></a><br>Username: <!--field:uname-->Rev<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 11:01 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The puzzle grid relating to MO-ID-RUSE came from communication #2, which was sent to KAKE in early May of 2004.<!--/Text--></td></tr>
+<!--/Post: 7728-->
+<!--Post: 7741--><!--Time: 1108671221-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7741"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 12:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks Rev I looked it up, Came around the same time as the chapter outline. Along with the photocopy of two ID cards, One Southwestern Bell, other, from former employee of Wichita schools<!--/Text--></td></tr>
+<!--/Post: 7741-->
+<!--Post: 7750--><!--Time: 1108672218-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7750"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 12:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think chapter 7. PJ´s might stand for  <BR>&#34;picture Journals&#34;, his collection of photos and drawings of his dead victims, maybe also pictures he took while stalking them. <BR> <BR>By the way I was not the one who found out the PUZZLE; MO ID RUSE theorie, I might have found it somwere else and posted it on this forum, but I didn´t dicover it, wish I did though <IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0><!--/Text--></td></tr>
+<!--/Post: 7750-->
+<!--Post: 7756--><!--Time: 1108673529-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7756"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 12:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I get confused sometimes, sorry the PJ thing is great I bet your right, because chapter seven in the original version was about the Fager murders, which he said had nothing to do with him, so he made up his own chapter PJ for pictures. Could you find out who came up with the MO theory so we can get the entire list he came up with. Thanks<!--/Text--></td></tr>
+<!--/Post: 7756-->
+<!--Post: 7757--><!--Time: 1108673884-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7757"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iq<!--/name--></b></a><br>Username: <!--field:uname-->Iq<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 12:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tops- <BR>Why do you say it&#39;s &#34;hits&#34;. Everywhere I have looked it says &#34;kits&#34;. Do you have a reliable link that says this is wrong? I just want to make sure I have my facts straight. Thanks. <BR> <BR>iq <BR><!--/Text--></td></tr>
+<!--/Post: 7757-->
+<!--Post: 7765--><!--Time: 1108675708-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7765"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 1:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK Chapters <BR>1. All American City- A Serial Killer is Born. <BR>Clue #1 Factor X- Issue #1 1963 Marvel Comics Publication. A mutant is a being who possesses a genetic structure not present in his parents. &#40;From Johno&#41; <BR>2. Dawn-Dawn   <BR>1/15/74 803 N. Edgemoor The Otero Murders <BR>3. Fetish-Fetish <BR>10/74 Letter In the Mech. Eng. Book &#34;Secret Witness Program&#34; 4/4/74 Bright and Vain  <BR>4.Different World&#39;s Collide- Fantasy World <BR>12/8/77 Nancy Fox <BR>5. Vanishing Act- The Search Begins <BR>1/31/78, letter poem about Shirley Vain, the factor x clue, 2/10/78-letter, How many do I have to Kill? <BR>6. Ghost Busters-BTK&#39;s Haunts <BR>The murders where 3 and 1/2 miles apart  <BR>Black Out <BR>7. The Next Step-PJ&#39;s <BR>Because he had nothing to do with the Fager murders, wrote them letters saying so. He made his own chapter which we now think stands for Picture Journals <BR>8. Cold Case Squad- Mo-ID-RUSE <BR>I don&#39;t have the list yet, still need to kind out who solved the puzzle. <BR>MO- Prowl, Fantasies, Follow, Victim, Details, Builds, go for it. <BR>ID- Larry, Anderson, Telephone Co. Gus, Officer <BR>RUSE- Realtor, Insurance, Serviceman, For Sale, Help, Lost Dog. <BR>9. Profile-Hits <BR>In the crime library, they may have hit on a few of his characteristis, not sure yet about this one. <BR>10. Aftermath-Treasured Memories <BR>Letter that he killed Vicki Wegerle, and someone said he may now be giving the police his treasures. <BR>This is where I am so far.<!--/Text--></td></tr>
+<!--/Post: 7765-->
+<!--Post: 7767--><!--Time: 1108676700-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7767"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 1:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here: <BR> <BR><a href="http://www.catchbtk.com/discus/messages/76/510.html?1108666957" target=_top>http://www.catchbtk.com/discus/messages/76/510.htm l?1108666957</a><!--/Text--></td></tr>
+<!--/Post: 7767-->
+<!--Post: 7768--><!--Time: 1108676940-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7768"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 1:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ember,  <BR> <BR>It&#39;s Wichitaboy&#39;s post under &#34;general&#34; and then &#34;puzzles.&#34;  You&#39;ll have to scroll down about 3-4 posts for it.<!--/Text--></td></tr>
+<!--/Post: 7768-->
+<!--Post: 7769--><!--Time: 1108677013-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7769"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 1:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ember,  <BR> <BR>Seventh post down: <BR> <BR><a href="http://www.catchbtk.com/discus/messages/1/197.html?1108660735" target=_top>http://www.catchbtk.com/discus/messages/1/197.html ?1108660735</a><!--/Text--></td></tr>
+<!--/Post: 7769-->
+<!--Post: 7774--><!--Time: 1108677596-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7774"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rev<!--/name--></b></a><br>Username: <!--field:uname-->Rev<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 1:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Iq:  According to KAKE last night, Chapter 9 is HITS.  Check out my first post in this thread for the link to the &#34;official&#34; chapter list according to KAKE. <BR> <BR>Kits was just speculated by us because that&#39;s what it looked like from a screen capture.<!--/Text--></td></tr>
+<!--/Post: 7774-->
+<!--Post: 7789--><!--Time: 1108683852-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7789"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 3:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you very much for the link, Ok I was going through the Crime Library&#39;s e-book and thought of something. They gave us three of the letters and the two poems from 1974-1978 to work with. So we know he wrote them before he wrote the outline for his story, so things like the factor X and the black out are more than likey in here. It would be interesting to see if we could get ahold of the rest of those letters from 1974-1978. <!--/Text--></td></tr>
+<!--/Post: 7789-->
+<!--Post: 7791--><!--Time: 1108684566-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7791"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 3:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks to Wichitaboy,  <BR>Chapter &#42;8&#42;  MO-ID-RUSE <BR>MO- Cruise, Sex, Prowl, Fantasies, follow, Spot, Victim, Details, Plan, Steam Builds, Go For It. <BR>ID- Telephone co, Anderson, Larry, School Officer, Wichita, Strong. <BR>RUSE- Realtor, Insurance, Serviceman, Handyman, Wrong Address, Lost Dog, Remodel, Help, Fake ID, Sale, Tag.<!--/Text--></td></tr>
+<!--/Post: 7791-->
+<!--Post: 7795--><!--Time: 1108685492-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7795"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 4:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The poster of the nickname &#34;IQ&#34; developed the MO ID RUSE theorie further,  here it is: <BR> <BR>I found this on another forum today and found it very interesting:  <BR>--------------------------- <BR>have solved part of his communications !  <BR>I know this isn&#39;t a huge part - But it is something.  <BR> <BR>MO-ID-RUSE - Is the word-find.  <BR> <BR>Look at the first block. The first line says &#34;MO&#34;.These are all of the MOs from the murders.  <BR>Prowl - Fantasies - Follow- Victim - Details - Builds - Go for it &#40;There are more&#41;  <BR> <BR>Now go down 13 lines  <BR> <BR>Look at the second block. The first line says ID.These are all of his IDs.  <BR>Larry - Anderson - Telephone Co. - Gus - Officer &#40;more&#41;  <BR>Also all of the numbers fall in this block. This may be the most important thing if we can figure out their significance.  <BR> <BR>Go down 13 lines  <BR> <BR>Look at the third block. The first line says RUSE. These are the ruses he used.  <BR>Realtor - Insurance - Serviceman - For Sale - Help - Lost Dog.  <BR> <BR>I know this is not a huge find, but a find nonetheless.  <BR>------------------------ <BR> <BR>and here is a link to where I posted &#34;IQ´s&#34; post, it is further down than Wichitaboys´s: <BR><a href="http://www.catchbtk.com/discus/messages/1/197.html" target=_top>http://www.catchbtk.com/discus/messages/1/197.html</a> ?1108660735<!--/Text--></td></tr>
+<!--/Post: 7795-->
+<!--Post: 7796--><!--Time: 1108685753-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7796"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 4:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, we obviously know he didn&#39;t always need a ruse.  Sometimes he was already in their homes waiting, having broken in.  No ruse there.<!--/Text--></td></tr>
+<!--/Post: 7796-->
+<!--Post: 7801--><!--Time: 1108686709-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7801"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 4:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe he used a ruse to case the victim. He could have gone to their homes before he broke in. Used the telephone repair or my dog is lost ruse. Then returned when victim was not home, then waited.  Did LE ask Anna if she had been solicited by someone before the break in?<!--/Text--></td></tr>
+<!--/Post: 7801-->
+<!--Post: 7808--><!--Time: 1108687903-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7808"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 4:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok thank you IQ,and skov for correcting me, he did a great job with it and so has everyone else, yeah the next thing I wanted to do was try to link some of those IDs, etc together. You could walk around the entire neighboorhood looking for a lost dog and no one would notice, because it&#39;s a normal thing to do.<!--/Text--></td></tr>
+<!--/Post: 7808-->
+<!--Post: 7812--><!--Time: 1108688664-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7812"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 17, 2005 - 5:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The cut phone line victims could have gone as follows. Not sue if murders were commited during day or night time but hee is the idea. <BR>He cuts phone line, then goes to door saying he fom the phone co. and askes victim to check there phone line is working while victim is checking phone, he pulls out weapon and does is thing.  <BR>We used to pull a pank as teenagers simila to this, but not harming anyone. <BR>We would call a random tel number and say we were fom the phone co. We would tell the peson we wee testing the phone line and not to answer phone when it rang. We would call 2 or 3 times and eventualy the peson would answe the phone. When they answered we would sceam into the phone and cuss the person out for answering. Its a stupid prank call, but it gives the proof about how people will do things that strangers tell them to do. He must have know this to exploit his victims.  <BR>School ID: <BR>Now this is fairly complicated but I think the victims with childen could have seen this ruse.  <BR>He played a truent officer or something along the lines. Not too sure on that tho. Would have taken alot of time stalking someone to pull of the school ID ruse.<!--/Text--></td></tr>
+<!--/Post: 7812-->
+<!--Post: 7873--><!--Time: 1108729557-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7873"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 4:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe the murders were in the morning, someone correct me if I am wrong. The phone line thing I agree with. Someone saw a van in the neighboorhood and a man wearing a gray uniform. There was something on the side of the van, a pic. or symbol. Anyone have an Idea what it was. That could be a big help if we could trace that van.<!--/Text--></td></tr>
+<!--/Post: 7873-->
+<!--Post: 7875--><!--Time: 1108730560-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7875"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 4:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lorenap, good call on the chapter Ideas. I have been thinking about the &#34;Will There Be More.&#34; I think he killed more people, one&#39;s that we could have linked him to, Like Dee, Strange that she and another woman both ate in the same Restaurant &#40;I believe in Park City&#41; someone correct me please. Anyway both women died right after eating in the same Restaurant. and One had a brick thrown through her window. Various victims around that area unsolved, some could be links.<!--/Text--></td></tr>
+<!--/Post: 7875-->
+<!--Post: 7880--><!--Time: 1108731845-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7880"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 5:04 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Chapter 1 A serial killer is born=baby picture<!--/Text--></td></tr>
+<!--/Post: 7880-->
+<!--Post: 7887--><!--Time: 1108736441-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7887"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rev<!--/name--></b></a><br>Username: <!--field:uname-->Rev<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 6:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Itty:  If we go by BTK&#39;s numbering on his communications, he does not account for the baby picture.  But that would make sense though, relating it to Chapter 1.<!--/Text--></td></tr>
+<!--/Post: 7887-->
+<!--Post: 7890--><!--Time: 1108736824-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7890"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 6:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--># 7 M, the cereal box, M= 13, the clues in the box go with chapter 13, More clues. Anyone ever find out what was in the box?<!--/Text--></td></tr>
+<!--/Post: 7890-->
+<!--Post: 7894--><!--Time: 1108738266-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7894"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 6:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have a sneaking suspicion it was a Wheaties box.  LE has not said a word about drop #7 and/or its contents.  It is blacked out on the P.S. section released by KAKE from BTK I noted on another thread.<!--/Text--></td></tr>
+<!--/Post: 7894-->
+<!--Post: 7900--><!--Time: 1108740037-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7900"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 7:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ember, where are you getting chapter 13 from? I have always read there were just 12. <BR> <BR>Rev, I know the baby pic wasnt linked with btk, but it was mailed only about a month before the first communication. maybe announcing himself?<!--/Text--></td></tr>
+<!--/Post: 7900-->
+<!--Post: 7906--><!--Time: 1108741578-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7906"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 7:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.catchbtk.com/discus/messages/10/525.html?1108741114" target=_top>http://www.catchbtk.com/discus/messages/10/525.htm l?1108741114</a> <BR>kake just made the public aware of our idea lol, guess they figured someone would catch on, go to this thread on the kake news update<!--/Text--></td></tr>
+<!--/Post: 7906-->
+<!--Post: 7907--><!--Time: 1108741655-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7907"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nancydrew<!--/name--></b></a><br>Username: <!--field:uname-->Nancydrew<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 7:47 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Surfietx:  Are we thinking Wheaties because of Tom&#39;s &#34;Charlie has been eating his wheaties,&#34; message, or is there something else?<!--/Text--></td></tr>
+<!--/Post: 7907-->
+<!--Post: 7912--><!--Time: 1108742040-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7912"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Surfietx<!--/name--></b></a><br>Username: <!--field:uname-->Surfietx<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 7:54 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That&#39;s what I was thinking, Nancy.<!--/Text--></td></tr>
+<!--/Post: 7912-->
+<!--Post: 7914--><!--Time: 1108742728-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7914"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 8:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Have to wonder why it took so long to publish that Info? I&#39;m going to see if they have more than we do.<!--/Text--></td></tr>
+<!--/Post: 7914-->
+<!--Post: 7916--><!--Time: 1108744464-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7916"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 8:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->KAKE didn&#39;t have all the chapters listed that we had so I thought I would be nice and give the 10-13. <!--/Text--></td></tr>
+<!--/Post: 7916-->
+<!--Post: 7933--><!--Time: 1108755465-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7933"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rev<!--/name--></b></a><br>Username: <!--field:uname-->Rev<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 11:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The baby picture was received a month after the first communication with Vicki Wegerle&#39;s driver&#39;s license.  I&#39;d really like to believe it&#39;s from someone who knows BTK and is trying to help ID him, but is afraid to come forward because of what BTK might do to them. <BR> <BR>If I remember correctly, Tom &#40;wasn&#39;t it the IP Frehley one?&#41; put up that note about Charlie eating his Wheatie&#39;s after KAKE discovered the Post Toastie&#39;s box &#40;#8&#41; so if #7 was a Wheatie&#39;s Box then Tom must know a lot more than he&#39;s letting out.  Or it was a heck of a coincidence.<!--/Text--></td></tr>
+<!--/Post: 7933-->
+<!--Post: 7938--><!--Time: 1108760021-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7938"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 12:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rev, I wonder if it&#39;s possible that BTK contacted Charlie Otero directly &#40;some kind of Wheaties taunt?&#41; and then Charlie contacted Tom?  I&#39;m stretching things a bit, but BTK contacted Anna Williams directly &#40;his missed victim&#41;, so maybe he has also tried to contact Charlie Otero.  It would be nice to know what <b>all</b> of BTK&#39;s communications have been, what the contents are, and who they have been sent to...sigh.<!--/Text--></td></tr>
+<!--/Post: 7938-->
+<!--Post: 7959--><!--Time: 1108767467-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7959"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 18, 2005 - 2:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I can only account for three of the communications from 1974-77 but here is a list of the recent one&#39;s. I myself would like to know what the clues in each were. <BR>3/19/04 #1 Bill Thomas Killman <BR>Letter arrived At Eagle containing single sheet of paper. Photocopy of Vicki&#39;s License, Three pics of the crime scene. <BR> <BR>5/5/04 #2 KAKE second letter, Contained the word search puzzle that we did Mo-Id-RUSE Photocopy of 2 I.D. cards, One South Western Bell workers, Other a former employee of Wichita schools, the Chapter List and badge. <BR> <BR>6/1/04 #3 letter, written about Otero murders <BR> <BR>7/17/04 #4 Letter in drop off box at library <BR> <BR>10/21/04 #5 Letter in UPS drop box, at Omni Center 250 N. Kansas St. Bio info on BTK <BR> <BR>12/13/04 #6 The package at Murdock Park, Plastic Bag, License of Nancy Fox Copy of Chapter List <BR> <BR>1/26/05 #7 Not found until instructions In #8 told them were to look. #8 was the Post &#34;Toasties&#34; box against the road sign, Jewerly and reference to chapter 9 <BR> <BR>1/21 #9 Post card  Happ KAKEMAN   <BR>2/2 #10 I think was another post card <BR>2/16 #11 Return addy PJ FOX card said Contents: C4, jewerly. <BR>Someone look and make sure I have this right, Thanks.<!--/Text--></td></tr>
+<!--/Post: 7959-->
+<!--Post: 8030--><!--Time: 1108823498-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8030"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 6:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->S. Skillet = kiss and tell<!--/Text--></td></tr>
+<!--/Post: 8030-->
+<!--Post: 8067--><!--Time: 1108850231-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8067"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 1:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Can someone figure out what the call letters, etc and numbers for Ham radio operators was in the 1970s, I think it is the code. For the jewerly etc<!--/Text--></td></tr>
+<!--/Post: 8067-->
+<!--Post: 8069--><!--Time: 1108852014-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8069"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 2:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here a a link for Ham Radio Lingo <BR><a href="http://en.wikipedia.org/wiki/NATO_phonetic_alphabet" target=_top>http://en.wikipedia.org/wiki/NATO_phonetic_alphabe t</a><!--/Text--></td></tr>
+<!--/Post: 8069-->
+<!--Post: 8071--><!--Time: 1108854971-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8071"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 3:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->thank you, and what I can think of so far, with the Petra, Tina thing other than drugs Is the word penatrate spelled wrong.  Pena Trait.<!--/Text--></td></tr>
+<!--/Post: 8071-->
+<!--Post: 8073--><!--Time: 1108855964-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8073"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 19, 2005 - 3:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think some of the pieces of information to the chapters are in Alphanumeric strings, Describes the combined set of all letters in the alphabet and the numbers 0 through 9. It is useful to group letters and numbers together because many programs treat them identically, and differently from punctuation characters. For example, most operating systems allow you to use any letters or numbers in filenames but prohibit many punctuation characters. Your computer manual would express this rule by stating: &#34;Filenames may be composed of alphanumeric characters.&#34;  <BR>Sometimes additional characters are considered alphanumeric. For example, on IBM mainframes the characters @, #, and $ are considered alphanumeric characters.  <BR>over on the decoding threat trying to help so we can add the peices in here.<!--/Text--></td></tr>
+<!--/Post: 8073-->
+<!--Post: 8227--><!--Time: 1109008647-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8227"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tecno242<!--/name--></b></a><br>Username: <!--field:uname-->Tecno242<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 9:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Related to the phone company repair theory, the most logical idea would be that he worked for The Sunflower Phone Company in Wichita.  It was in business at that time and was actually a smaller local business.  It&#39;s also interesting that the psychic mentioned that he drove a blue van with a sun or sunshine logo on it.  It could have been easy to confuse an image of a sun with a sunflower.  <BR> <BR>Maybe he worked there or otherwise had access to a van.  Maybe his father worked there?<!--/Text--></td></tr>
+<!--/Post: 8227-->
+<!--Post: 8229--><!--Time: 1109009091-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8229"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 10:04 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->great idea tec. I will try to do some research on the company.<!--/Text--></td></tr>
+<!--/Post: 8229-->
+<!--Post: 8232--><!--Time: 1109009779-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8232"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tecno242<!--/name--></b></a><br>Username: <!--field:uname-->Tecno242<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 10:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This will help start you off. <BR> <BR><a href="http://www.sunflowertelco.com/about_us.php" target=_top>http://www.sunflowertelco.com/about_us.php</a><!--/Text--></td></tr>
+<!--/Post: 8232-->
+<!--Post: 8238--><!--Time: 1109011608-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8238"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 10:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->thanks tec, I am going to add this in here so we can see if any of the dates corr.  <BR>5a4b434b353070686f746f42544b <BR>I have two Ideas of what this is, the first has to do with dates.<!--/Text--></td></tr>
+<!--/Post: 8238-->
+<!--Post: 8363--><!--Time: 1109094823-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8363"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 9:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think I have part of the letter code figured out, I sent BTK a message In code on AMW. we want to see if it&#39;s him or not, if it is then he can deciper it. If not then he can&#39;t, I will start giving you the pieces I have figured out after we see if he replys.<!--/Text--></td></tr>
+<!--/Post: 8363-->
+<!--Post: 8370--><!--Time: 1109096648-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8370"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 10:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I am not going to post this idea, because it is a partical coverup, everyone who reads this, needs to mail me asap, there is something we need to look into, without anyone knowing what we are doing.<!--/Text--></td></tr>
+<!--/Post: 8370-->
+<!--Post: 8375--><!--Time: 1109097775-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8375"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Suze<!--/name--></b></a><br>Username: <!--field:uname-->Suze<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 10:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Embersage, This code has already been decoded &#40;<a href="http://www.catchbtk.com/discus/messages/59/215.html#POST2075"> here</a>&#41; ... using ASCII code... <BR> <BR>5a4b43 = ZKC &#40;Kansas City&#41; <BR>4b3530 = K50 &#40;Cook Airfield&#41; <BR>70686F746F = photo  <BR>42544B = BTK <!--/Text--></td></tr>
+<!--/Post: 8375-->
+<!--Post: 8381--><!--Time: 1109099560-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8381"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 11:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you Suze....I needed that.<!--/Text--></td></tr>
+<!--/Post: 8381-->
+<!--Post: 8382--><!--Time: 1109099900-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8382"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 11:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->By the way...anyone...was it Cook Airfield &#40;Derby&#41; or Rose Hill Airfield where Joseph Otero was working when he was killed? I&#39;ve heard it both ways, but the earlier stories mentioned Cook. <BR> <BR>If they aren&#39;t the same airfield, they have to be within 5 or 10 miles of each other.<!--/Text--></td></tr>
+<!--/Post: 8382-->
+<!--Post: 8409--><!--Time: 1109115153-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8409"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 3:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you suze, I needed that to lol I was trying to learn ASC, figured I would be here forever. <BR>Hey Skov, I have a new clu for this page, Gas or Electric repair man. Witch one do you think it is, me not sure.<!--/Text--></td></tr>
+<!--/Post: 8409-->
+<!--Post: 8411--><!--Time: 1109115555-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8411"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 3:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yes Bmodule it was Cook<!--/Text--></td></tr>
+<!--/Post: 8411-->
+<!--Post: 8417--><!--Time: 1109117940-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8417"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 4:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Embersage, figured out &#34;What Is Made Cannot be Destroyed.&#34; <BR>Skov found this, does this freak you out or what; <BR> <BR>You could very well be right on this, it has logic hmmm <BR>I googled that &#34;What is made cannot be destroyed&#34; sentence and an interesting blog or whatever it is came up. <BR>Googleing that sentence, only this one single hit came up and this person is one of a kind. <BR> Follow the screenname HeNateMe Great Job Skov <BR>  <BR><a href="http://216.239.59.104/search?q=cache:HgdyEv1jlFMJ:www.blogit.com/Blogs/Blog.aspx/HeNateMe112/2004-03-19%2B%22What%2Bis%2Bmade%2C%2Bcannot%2Bbe%2Bdestroyed%22&amp;hl=en" target=_top>http://216.239.59.104/search?q=cache:HgdyEv1jlFMJ: www.blogit.com/Blogs/Blog.aspx/HeNateMe112/2004-03 -19&#43;%22What&#43;is&#43;made,&#43;cannot&#43;be&#43;destroyed%22&amp;hl=en</a> <BR>  <BR><!--/Text--></td></tr>
+<!--/Post: 8417-->
+<!--Post: 8418--><!--Time: 1109118158-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8418"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 4:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey, here&#39;s another clu from me, since we are in the chapter decoding and word decoding mood, Anyone ever see the movie The Hunted? If not WATCH IT, IT&#39;s important.<!--/Text--></td></tr>
+<!--/Post: 8418-->
+<!--Post: 8420--><!--Time: 1109118757-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8420"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bestbud<!--/name--></b></a><br>Username: <!--field:uname-->Bestbud<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 4:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Plot Summary of The Hunted Movie: <BR> <BR>In the green woods of Silver Falls, Oregon, Aaron Hallam, a trained assassin AWOL from the Special Forces, keeps his own brand of wildlife vigil. After brutally slaying four deer hunters in the area, FBI Special Agent Abby Durrell turns to L.T. Bonham-- the one man who may be able to stop him. At first L.T. resists the mission. Snug in retirement, he&#39;s closed off to his past, the years he spent in the Special Forces training soldiers to become skilled murderers. But when he realizes that these recent slayings are the work of a man he trained, he feels obligated to stop him. Accepting the assignment under the condition that he works alone, L.T. enters the woods, unarmed--plagued by memories of his best student and riddled with gulit for not responding to Aaron&#39;s tortured letters to him as he began to slip over the edge of sanity. Furious as he is with his former mentor for ignoring his pleas for help, Aaron knows that he and L.T. share a tragic bond that is unbreakable. And, even as they go into their final combat against each other, neither can say with certainty who is the hunted and who is the hunter. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 8420-->
+<!--Post: 8426--><!--Time: 1109122275-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8426"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 5:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Embersage, Skov...remember, this is only a theory. <BR> <BR><a href="http://www.catchbtk.com/discus/messages/9/557.html?1109120741" target=_top>http://www.catchbtk.com/discus/messages/9/557.html ?1109120741</a><!--/Text--></td></tr>
+<!--/Post: 8426-->
+<!--Post: 8430--><!--Time: 1109125628-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8430"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 6:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->saying What is made cannot be destroyed goes into chapter one, A Killer is born. best bud, that was great, thanks, so lets take this theory and try to add it into the first part of our outline, how the victims were killed. What evidence On Dawn, etc. do we actually know is true, we can do a crime scene layout, for each chapter. <BR>B. yes the theory is a possible profile, lets see if we can place him at the time of these murders. <BR> <BR>Tom, please don&#39;t kill us for getting off track.<!--/Text--></td></tr>
+<!--/Post: 8430-->
+<!--Post: 8432--><!--Time: 1109126378-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8432"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bestbud<!--/name--></b></a><br>Username: <!--field:uname-->Bestbud<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 6:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey Embersage,  <BR> <BR>Thanks, I&#39;m open to all possible theories; but, currently exploring this one: <BR> <BR><a href="http://forums.prospero.com/n/mb/message.asp?webtag=kr-kansas_news&amp;msg=6061.1&amp;maxT=15" target=_top>http://forums.prospero.com/n/mb/message.asp?webtag =kr-kansas_news&amp;msg=6061.1&amp;maxT=15</a><!--/Text--></td></tr>
+<!--/Post: 8432-->
+<!--Post: 8463--><!--Time: 1109150911-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8463"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@yahoo.com" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 1:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->embersge i have had a theory for some time now, on it if you scroll down, you will see a link to area ham operators, but please read the follow up to the link carefully. <BR> <BR>wichitan <BR> <BR><a href="http://www.catchbtk.com/discus/messages/11/163.html?1103890842" target=_top>http://www.catchbtk.com/discus/messages/11/163.htm l?1103890842</a><!--/Text--></td></tr>
+<!--/Post: 8463-->
+<!--Post: 8488--><!--Time: 1109175547-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8488"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 8:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->bestbud, yes, in profiling serial killers, that is a possible condition to an unnatural thinking process.  Wichitan, yes that idea goes along with one I am working on, can you get your hands on that type of thing around the 70s right before the killing started, I would say about six months, and see if anyone was fired for it <BR>I am currentlz trying to take all the things we know for sure and break them up into the chapters <!--/Text--></td></tr>
+<!--/Post: 8488-->
+<!--Post: 8537--><!--Time: 1109188831-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8537"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 12:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok lets say for example that the Otero murders do not have the same motive as the others. IE reason for the break into chapters, Let&#39;s say that BTK was a student of Joes In the Panama death squad, and decided to come to Kansas to pay him a visit, Joe didn&#39;t want to see him because he is a nut. So he killed them, didn&#39;t want Joe telling anyone who he was. or he just wanted to kill them, That would be why he can&#39;t be caught, that is why all the theories we have are not paning out. If we erase any theroy that we have about his past before the murders, then we can start with A Serial Killer is Born, In this case, he was already killing, but in those days in Panama, he was under orders from the government, so when he came to Kansas, he would have been on the out takes as he says of the law. If we concentrate on the actual cases, we can skip the theories and say, Yes, His MO ID Ruse chapter is how he got into the victims homes, it was all part of his previous training, The reason we have those puzzles, all part of his training and thinking, he thinks of everything in number letter sequences, including street names. they don&#39;t mean street names to him.  <!--/Text--></td></tr>
+<!--/Post: 8537-->
+<!--Post: 8660--><!--Time: 1109273422-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8660"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 11:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Chapter two dawn, and chapter 8 <BR>The Otero&#39;s killed, MO ID RUSE- police officer<!--/Text--></td></tr>
+<!--/Post: 8660-->
+<!--Post: 9350--><!--Time: 1109481954-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9350"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 9:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I put a timeline link for Rader under possible Victims, so we can now figure out what BTK has been doing all these years, and How his book came together, I still think he knew Joe Otero from the Air Force, I want the rest of this story, so maybe we can help answer the question why? and how he got away with it for so long<!--/Text--></td></tr>
+<!--/Post: 9350-->
+<!--Post: 9364--><!--Time: 1109484285-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9364"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 26, 2005 - 10:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;ve been thinking about his link to them too. I also saw a similarity between the P.I. post that skov put up and the true situation. Which begs the question...was Josephine the actual target afterall. I&#39;ve assumed since the Oteros were Hispanic that they were Catholic, I really don&#39;t know. Perhaps the reason Rader was such a busy bee around church was to gain access to children. <BR> <BR>Another thing that stands out, and I don&#39;t mean to be mean or unfeeling, because his family and friends are really rolling the stone uphill all of the sudden, but how did he hide all of BTK stuff from his wife. It is possible she has been in serious denial or scared to death, but surely there were some signs that people close to him could have seen.<!--/Text--></td></tr>
+<!--/Post: 9364-->
+<!--Post: 9444--><!--Time: 1109528469-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9444"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 27, 2005 - 10:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->B, I was thinking the same thing, maybe she was scared of him, here&#39;s the other thing that bugs me, remember when people were saying that they had seen an old man droping things off, cuold his dad have been doing thta for him?<!--/Text--></td></tr>
+<!--/Post: 9444-->
+<!--Post: 9843--><!--Time: 1109658931-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9843"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 10:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://spaces.msn.com/members/raderbtktimeline/PersonalSpace.aspx?_c11_BlogPart_blogpart=myspace&amp;_c=BlogPart&amp;_c02_owner=1" target=_top>http://spaces.msn.com/members/raderbtktimeline/Per sonalSpace.aspx?_c11_BlogPart_blogpart=myspace&amp;_c= BlogPart&amp;_c02_owner=1</a> <BR>here&#39;s the link to the timeline we are all working on to fill in these chapters. you have to sign in to use it if not mail me the info to post<!--/Text--></td></tr>
+<!--/Post: 9843-->
+<!--Post: 9848--><!--Time: 1109659376-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9848"><font face="Verdana" size="1"><b><!--email--><a href="mailto:rwmm@swbell.net" target="_blank"><!--/email--><!--name-->Lilymarie<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Lilymarie<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 28, 2005 - 10:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Chapter 14 - Damn!!! Wish I&#39;d fork&#39;d over the $$ for a new floppy disc. Doh! I&#39;m a stoopid cereal killer. <BR>Chapter 15 - Dogs Roam Free and Grass Grows Tall in Park City - and the residents don&#39;t even care. <BR> <BR>hahaha - couldn&#39;t help myself.<!--/Text--></td></tr>
+<!--/Post: 9848-->
+<!--Post: 10778--><!--Time: 1110226142-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10778"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 07, 2005 - 12:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->lol lily that&#39;s funny, This is the outline for the RaderTravel Timeline, so now that we have some of the info over under Victims in the time line, I want to start putting the info back into this thread, so that we can give it to Tom as an ebook for the website&#39;s history, First and foremost the Serial Killer is Born, Of course that is when Rader was working at Colemans and as soon as I get some feed back on the theory I will add it in to the first chapter<!--/Text--></td></tr>
+<!--/Post: 10778-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/508">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/508" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

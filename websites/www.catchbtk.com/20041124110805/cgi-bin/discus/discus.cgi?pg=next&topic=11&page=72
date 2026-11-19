@@ -1,0 +1,244 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 74/BTK is OLD-->
+<!--Level 1: 74/BTK is OLD-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK is OLD</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK is OLD</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+BTK is OLD
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=74"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=74"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 398--><!--Time: 1089299402-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST398"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, July 08, 2004 - 8:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BTK doesn’t regret that he killed people, but he regrets that his past behavior brought the consequences of his loneliness. There is nobody to listen to his story. BTK got busy with his life and tried to forget his crimes; hence the long periods of no killing. However, the news media kept reminding all of us whenever an anniversary of a death came around. The thirtieth anniversary of the Otero murders and the news about Beattie&#39;s book triggered him to send the letter to the Eagle and claim responsibility for the death of Mrs. Wegerle. BTK has always had the need to attract attention, to do something shocking, to hide and watch. Yes, he loves the torturing, but he takes great pleasure in reading or watching the scurry of activity that he has caused. However, the OLD and HELP words contained in his Chapter 8 puzzle seem to imply that he wants to end the cat and mouse game. He is old and it is time to retire. Time for the last roundup.  <BR>-Deb <BR><!--/Text--></td></tr>
+<!--/Post: 398-->
+<!--Post: 427--><!--Time: 1089603947-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST427"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Det_tiara<!--/name--></b></a><br>Username: <!--field:uname-->Det_tiara<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, July 11, 2004 - 8:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Deb, <BR>What you just wrote about BTK needing to hide and watch reminds me of an arsonist, the way they stand back and watch. <BR>I agree he has aged as time brings on winds of change. <BR>However, I&#39;m sure you&#39;ll agree that he&#39;s still dangerous and very capable of taking another person&#39;s life.  <BR>What I find very sad is, that the names of his victims will always be associated with the letters BTK.<!--/Text--></td></tr>
+<!--/Post: 427-->
+<!--Post: 442--><!--Time: 1089687377-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST442"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, July 12, 2004 - 7:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Det_tiara, I’m with you on the idea that BTK is still unpredictable and dangerous. Yet if he is as old as they say, and his letter in May had the word HELP in it, he may be unhealthy. He should turn himself in and get the medical and/or psychological treatment he needs. I don&#39;t think he would be mistreated in jail. The camera would be on in his cell 24 hours a day to make sure he was ok and record his every move. He would have all the rights and privileges that one is entitled to have; all the due process according to law. I don&#39;t want him to be surrounded and killed in a shootout. It would be better if he tells what he knows, what he did and why he did it. Then we normal people can understand him and get on with our lives, although the victims’ families may never get over this. <BR>-Deb <BR><!--/Text--></td></tr>
+<!--/Post: 442-->
+<!--Post: 500--><!--Time: 1089953923-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST500"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Det_tiara<!--/name--></b></a><br>Username: <!--field:uname-->Det_tiara<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, July 15, 2004 - 9:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Deb, I may have stumbled on this letter your referring to and can&#39;t seem to get a clear view of anything. <BR>I hope you don&#39;t mind if I bore you with a bit of a story. <IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0> <BR>I met a man on the net once while visiting a favorite detective website I frequented. He kind of joked around with the girls that he&#39;d spank them, which is fairly normal even sitting at an online card game. I soon found out that this guy was honestly NOT normal. <BR>He told be about how enjoyed bondage and sex...etc. Well, I&#39;m the curious cat! <BR>It didn&#39;t take long for me to find out why and how, along with all the names givin&#39;. I had a very willing subject for information. I even received images with his emails as he went into great detail. <BR>I guess what I&#39;m trying to say is, this must be what is driving him. Have you read the book, Hannibal? If I remember correctly, there is a piece in there where a guy actually hangs himself while he is masterbating. This is an ultimate thrill for this type of person. <BR>I have no doubt that all of the literature available to someone with these tendencies is absolutely lethal. They find out that others feel what they feel and so they aren&#39;t so concerned about doing anything about it. They even learn new ideas from others like them.<!--/Text--></td></tr>
+<!--/Post: 500-->
+<!--Post: 502--><!--Time: 1089972335-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST502"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, July 16, 2004 - 3:05 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->To add to the above. Unfortunately, I think BTK will only be caught if he wants to be caught. Because he&#39;s a sexual sadist, I don&#39;t expect him to help with any of the victim&#39;s families. The word &#34;help&#34; in a recent BTK letter may or may not be sincere. The Zodiac killer asked attorney Melvin Belli for &#34;help&#34; also, and it&#39;s one of the Zodiac&#39;s most sadistic letters, IMO. <BR> <BR>As my favorite former FBI profiler, Roy Hazelwood, <BR>has said, sexual sadists simply don&#39;t change. He offered the information as an &#42; opinion, &#42; but he knows sexual sadists better than anyone. &#40;see &#34;The Evil That Men Do&#34; as well as an interview of Roy Hazelwood at crimelibrary.com.&#41; <BR> <BR>HOWEVER. If BTK thinks the entire country will forever remember him the way they remember, say, the Zodiac killer, he is sorely mistaken. In Wichita, perhaps in other small pockets of the midwest, BTK will be a major memory for a few more decades but unless he identifies himself and signs a confession &#40;he could probably acquire a few favors; segregation in prison to preserve his safety, and something like a book deal, provided the profits go victims, charities and so forth&#41; most will forget him quickly.  <BR> <BR>The KEY here is that BTK CAN HAVE A LEGACY, in the form of the written word &#40;and the book would sell well, I think&#41; but HE needs to start the process. Zodiac had a major, major city &#40;San Francisco&#41; in his favor, as well as the turbulent era in which his activities occurred, the very &#34;West Coast&#34; flavor of his serial activity, the papers publishing just about everything he ever wrote, and much, much more. <BR> If BTK wanted to remain anonymous and be promised a legacy, he should have done his thing in New York, Boston, Philadelphia, Chicago, Los Angeles, San Francisco or one or two others; nothing against Wichita, but the above cities have the endless millions of people who could ensure a legacy.  <BR> <BR>If BTK remains anonymous, his legacy will exist but in a severely limited <BR>and comparitive sense. In other words, he&#39;ll be forgotten.<!--/Text--></td></tr>
+<!--/Post: 502-->
+<!--Post: 644--><!--Time: 1091075154-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST644"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Det_tiara<!--/name--></b></a><br>Username: <!--field:uname-->Det_tiara<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, July 28, 2004 - 9:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George,  <BR>I agree that BTK is a sadist and a zodiac copy-cat.  <BR>What is bothering me is that the profile of the man I&#39;m speaking of, fits to the tee. <BR>This site I went to regularly dealt with death and crime on the surface. Above surface it&#39;s a fictional sleuth site. Bottom line, it&#39;s made to look real. <BR>It&#39;s really taking a lot of nerve to say what I think because I&#39;m thinking that I could be wrong as anyone can be. <BR>This guy fits Kelleher&#39;s profile. I remember an email about his son being home from college. Also, when I ask about his wife, he responded that his sexual habits were in the past and I for some reason believed she had no knowlege of it. <BR><!--/Text--></td></tr>
+<!--/Post: 644-->
+<!--Post: 1056--><!--Time: 1095946380-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1056"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, September 23, 2004 - 6:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sylvestor Stallone is 58 and Chuck Norris is 64. It isn&#39;t how old you are but how you are old that tells the tale.<!--/Text--></td></tr>
+<!--/Post: 1056-->
+<!--Post: 1360--><!--Time: 1099650253-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1360"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Interested<!--/name--></b></a><br>Username: <!--field:uname-->Interested<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, November 05, 2004 - 2:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->To be honest most people don&#39;t even know who BTk is...I didn&#39;t till a few days ago and all my family lives in Kansas.They didn&#39;t know about it either.I think he is already fading.<!--/Text--></td></tr>
+<!--/Post: 1360-->
+<!--Post: 1362--><!--Time: 1099664564-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1362"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Dpinva<!--/name--></b></a><br>Username: <!--field:uname-->Dpinva<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, November 05, 2004 - 6:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George, <BR> <BR>I agree with your and Mr. Hazlewood&#39;s assessment. From what I understand from rumors on other Boards that are probably fairly authoritative, the letter left on the 22nd contained pictures and names of victims of unsolved cold case homicides that BTK is apparently taking credit for. BTK apparently never stopped, he simply changed his signature so that LE did not see him in these crimes. Who knows what the truth is, but the letter left on the 22nd scares the hell out of me. If even a little of what the rumor mill is saying is true, the BTK case has changed exponetially for the worse. Lets hope that these rumors are dead wrong.<!--/Text--></td></tr>
+<!--/Post: 1362-->
+<!--Post: 1366--><!--Time: 1099669833-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1366"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, November 05, 2004 - 7:50 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree, Dpinva. He is responsible for alot of killings. Because law enforcement has been so closed lipped about the case, his killing spree has been allowed to continue. They don&#39;t like to give away clues for fear that they won&#39;t get the full credit for solving the case. <BR> <BR>MO and Signature aside, in BTK&#39;s case, murder is murder, and the thrill of the kill is what he is after. Murders get caught because they keep the same old patterns and ruts. Wichita has too many unsolved homicides to attribute them to that many individual killers. He never stopped killing and he never will until he is caught or dies. <BR> <BR>Will someone please post the info from last night&#39;s KAKE BTK Secret Clues, please? <!--/Text--></td></tr>
+<!--/Post: 1366-->
+<!--Post: 1380--><!--Time: 1099712947-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1380"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, November 05, 2004 - 7:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->IMHO <BR> <BR>A person&#39;s body ages and they can take appropriate steps to stay healthy or fight off that process.  .  .   <BR> <BR>But the mind and attitude can be an ageless wonder. I know people in their 20s who act like stodgy retirees. I also know people in their 60s who continue to participate in their interests full speed ahead ! <BR> <BR>It is the image one has of him/herself that is most important. If BTK sees himself as vibrant and viable then he will continue to do his thing.  .  . until if ever caught. <BR> <BR>IMO it is less a question of age and more a question of attitude.  .  .  <!--/Text--></td></tr>
+<!--/Post: 1380-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/74">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/74" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,1 @@
+window.CBTK={"page":"4.html","title":"catch BTK .com -- OTERO CRIME SCENE","archive":"../index.html","versions":[{"t":"20041204114455","e":"20041204114455","n":1,"f":"history/4~20041204114455.html","a":0,"d":0,"sa":[],"sd":[]}]};

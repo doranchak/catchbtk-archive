@@ -1,0 +1,268 @@
+<html>
+<!--Topic: 1/General BTK discussion-->
+<!--Me: 232/ &#34;North Of Kechi&#34;-->
+<!--Level 1: 232/ &#34;North Of Kechi&#34;-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD:  &#34;North Of Kechi&#34;</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">&#34;North Of Kechi&#34;</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK discussion</font></a> &#187;
+&#34;North Of Kechi&#34;
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=232"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=232"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 2415--><!--Time: 1103615876-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2415"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 20, 2004 - 11:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Can someone with a knowledge of Wichita tell me why N. Woodrow &amp;/or 11th St is called &#34;North Of Kechi&#34;? <BR> <BR>Why? &amp; What does this refer to? <BR> <BR> Can someone with a knowledge of Wichita tell me why N. Woodrow &amp;/or 11th St is called &#34;North Of Kechi&#34;? <BR> <BR>Why? &amp; What does this refer to? <BR> <BR>My own investigation brought up an address listed as  &#34;North Of Kechi&#34; with no #s just the name. <!--/Text--></td></tr>
+<!--/Post: 2415-->
+<!--Post: 2416--><!--Time: 1103615983-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2416"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 20, 2004 - 11:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oops didn&#39;t mean to double that.<!--/Text--></td></tr>
+<!--/Post: 2416-->
+<!--Post: 2421--><!--Time: 1103637101-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2421"><font face="Verdana" size="1"><b><!--email--><a href="mailto:dammitslicky@cox.net" target="_blank"><!--/email--><!--name-->Cougar<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 21, 2004 - 5:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->North Woodrow and 11th street would be Riverside. It is nowhere near Kechi. <!--/Text--></td></tr>
+<!--/Post: 2421-->
+<!--Post: 2423--><!--Time: 1103637650-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2423"><font face="Verdana" size="1"><b><!--email--><a href="mailto:dammitslicky@cox.net" target="_blank"><!--/email--><!--name-->Cougar<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 21, 2004 - 6:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://img159.exs.cx/img159/7626/postwoodrowand11th4pj.gif" target=_top>http://img159.exs.cx/img159/7626/postwoodrowand11t h4pj.gif</a><!--/Text--></td></tr>
+<!--/Post: 2423-->
+<!--Post: 2437--><!--Time: 1103677920-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2437"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 21, 2004 - 5:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here&#39;s the deal: <BR> <BR>Someone on another thread asked about railroad maps of Wichita. <BR> <BR>I did a search. <BR> <BR>For some reason the first thing that came up was a Storage Facility and it&#39;s address is simply: <BR> <BR>North of Kechi, Wichita, KS <BR> <BR>The Map puts it on N. Woodrow just at 11th. <BR> <BR>My Question is what does &#34;North of Kechi&#34; refer to &#34;specifically.&#34; <BR> <BR>Not just where but what does Ketchi mean and why is where it is. <BR> <BR>The Map you posted is the same spot the storage facility is at. <BR> <BR>It is right in the middle of the crime scene areas and a short walk to at least one of them. It&#39;s by a park and by rivers and railroad tracks... <BR> <BR>Oh and I forgot to mention the name of the storage facility is: <BR> <BR>B &amp; K Storage.<!--/Text--></td></tr>
+<!--/Post: 2437-->
+<!--Post: 2438--><!--Time: 1103678093-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2438"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 21, 2004 - 5:14 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->From a Google search of &#34;railroads Wichita&#34; <BR> <BR>Comes up :&#34;Travel &amp; Transportation - Railroads, Wichita, Kansas, KS ...&#34; <BR> <BR>Click on this and the first choice is:  <BR>B &amp; K Storage. <BR> <BR>Map:  <BR> <BR><a href="http://yellowpages.superpages.com/supermaps/mapinit.jsp?SRC=portals&amp;C=Railroads&amp;T=Wichita&amp;S=KS&amp;PP=N&amp;STYPE=S&amp;CID=523168&amp;LID=0107094622&amp;map.x=212&amp;map.y=125&amp;level=8&amp;lat=037704791&amp;lng=-097359156&amp;POI1lat=037704791&amp;POI1lng=-097359156&amp;POI1name=B%2B%26%2BK%2BStorage&amp;streetaddress=North%2BOf%2BKechi&amp;city=Wichita&amp;state=KS&amp;zip=67203" target=_top>http://yellowpages.superpages.com/supermaps/mapini t.jsp?SRC=portals&amp;C=Railroads&amp;T=Wichita&amp;S=KS&amp;PP=N&amp; STYPE=S&amp;CID=523168&amp;LID=0107094622&amp;map.x=212&amp;map.y= 125&amp;level=8&amp;lat=037704791&amp;lng=-097359156&amp;POI1lat=0 37704791&amp;POI1lng=-097359156&amp;POI1name=B&#43;%26&#43;K&#43;Stora ge&amp;streetaddress=North&#43;Of&#43;Kechi&amp;city=Wichita&amp;state =KS&amp;zip=67203</a><!--/Text--></td></tr>
+<!--/Post: 2438-->
+<!--Post: 2440--><!--Time: 1103680157-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2440"><font face="Verdana" size="1"><b><!--email--><a href="mailto:dammitslicky@cox.net" target="_blank"><!--/email--><!--name-->Cougar<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 21, 2004 - 5:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This is puzzling for sure. I can tell you with 100% certainty that the area of 11th and Woodrow is in Riverside, miles from Kechi, and it is a residential area. I have lived in the neighborhood the better part of 20 years and I never recall seeing B&amp;K storage in Riverside or anywhere else in Wichita. Now, there are tiny little mom and pop shops scattered through Riverside - The Riverside Perk coffee shop, Curl up and Dye Hair Salon, Abracadabra Printing.....but storage? Seems to be an odd place to put a storage facility. <BR> <BR>Tomorrow I am going to take a drive down 11th street to see what&#39;s over there. What really has me curious now is that I am certain that there is a home on 11th street, just east a few blocks from Sim Park and the Booth Home, and it has in it&#39;s back yard a restored tractor much like the one on the stamp from BTK&#39;s March 17th letter. Also,on the same street, possibly the same house, there is also a birdhouse shaped like the tractor. It doesn&#39;t hang from a tree - it is up on a pole.  <BR> <BR>Here is a map of Kechi, Kansas. It is located way east and north of Riverside.  <BR><a href="http://maps.yahoo.com/py/maps.py?Pyt=Tmap&amp;&amp;csz=Kechi%2BKS%2B&amp;Get%A0Map=Get%2BMap" target=_top>http://maps.yahoo.com/py/maps.py?Pyt=Tmap&amp;&amp;csz=Kec hi&#43;KS&#43;&amp;Get%A0Map=Get&#43;Map</a> <BR><!--/Text--></td></tr>
+<!--/Post: 2440-->
+<!--Post: 2442--><!--Time: 1103681249-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2442"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 21, 2004 - 6:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Cougar the address is &#34;North of Kechi Wichita,KS&#34; <BR> <BR>There is no street #... that is odd. <BR> <BR>The fact that it came up in the railroad search is odd too. <BR> <BR>Again... what does &#34;Kechi&#34; refer to? <BR> <BR>This is the phone # &#40;316&#41; 688-1436  <BR> <BR>Since your there would you try calling it and see what you get. It might be the 24 hour attendant type. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 2442-->
+<!--Post: 2443--><!--Time: 1103681394-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2443"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 21, 2004 - 6:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Also it lists this as a description; Dump Trucks, Construction. <BR> <BR>Maybe not a Storage for goods but for construction equipment?<!--/Text--></td></tr>
+<!--/Post: 2443-->
+<!--Post: 2444--><!--Time: 1103682085-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2444"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 21, 2004 - 6:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Kechi, besides being a town in Sedgwick County Kansas, area code 67067, is also an electronic board game invented by a guy named Michael Marcus who goes by the name of Jacques Treatment. It is billed as &#39;Kechi-A Game of Capture.&#39; Link here: <BR><a href="http://www.treatmentlabs.com/kechi.html" target=_top>http://www.treatmentlabs.com/kechi.html</a><!--/Text--></td></tr>
+<!--/Post: 2444-->
+<!--Post: 2446--><!--Time: 1103682953-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2446"><font face="Verdana" size="1"><b><!--email--><a href="mailto:dammitslicky@cox.net" target="_blank"><!--/email--><!--name-->Cougar<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 21, 2004 - 6:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Doubtful that there would be any kind of storage of heavy equipment in that neighborhood. Riverside is an old neighborhood of lovely Victorian homes, bungalows, pretty things. I think the neighborhood association would not permit such a thing. And I think I would remember it if I ever saw it there. I used to live just a few blocks west and one north of that intersection. It&#39;s a quiet, residential area. Off to itself. Much like College Hill. One of the nicer, older areas in Wichita. <!--/Text--></td></tr>
+<!--/Post: 2446-->
+<!--Post: 2447--><!--Time: 1103683456-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2447"><font face="Verdana" size="1"><b><!--email--><a href="mailto:dammitslicky@cox.net" target="_blank"><!--/email--><!--name-->Cougar<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 21, 2004 - 6:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Just now saw your post about calling the number. I will and I&#39;ll let you know what comes of it.  <BR> <BR>Right off I can tell the number is a land line, east side. <!--/Text--></td></tr>
+<!--/Post: 2447-->
+<!--Post: 2558--><!--Time: 1103796499-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2558"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 2:08 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Waiting for your reply Cougar...<!--/Text--></td></tr>
+<!--/Post: 2558-->
+<!--Post: 2562--><!--Time: 1103807801-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2562"><font face="Verdana" size="1"><b><!--email--><a href="mailto:dammitslicky@cox.net" target="_blank"><!--/email--><!--name-->Cougar<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 5:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Q. Sorry for the delay.  <BR> <BR>I drove to 11th and Woodrow yesterday. Crumm Castle Bed and Breakfast sits on the SE corner. Across the street all directions are very nice Riverside homes. No storage facility. No signs for a storage facility. Nothing.  <BR> <BR>Called the number. &#34;Hi. You have reached B&amp;K Enterprises. Please leave a name and number and have a great day.&#34;  <BR> <BR>Perhpas the 11th and Woodrow address is simply a home office? No idea. Or maybe the map and online directory is in error?  <BR> <BR>Hmm... <BR> <BR>Oh....and the home with the tractor in the yard is one block to the north on 12th street.  <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 2562-->
+<!--Post: 2567--><!--Time: 1103814254-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2567"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Catcher<!--/name--></b></a><br>Username: <!--field:uname-->Catcher<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 7:04 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi!  I live in the Garvey Center here in Wichita.  It sounds like you are talking about that castle looking hotel on Riverside, Cougar, yes?  I gotta tell you, I think about BTK hanging around my area, corresponding with the media and police, right in my own backyard, and it&#39;s exciting to say the least.   <BR> <BR>Q -  <BR>I live right across the street from the Wichita Public Library.  The railroads in Wichita are numerous, as I&#39;m sure you&#39;ve noticed.  I, personally believe this to be a lost cause in finding out the identity of our suspect.  I think it had major influences in his past, and in his upbringing, but not so much anymore to where he will be caught &#34;hanging out on the tracks&#34; so to say.  But, I do see the validity in looking into storage facilities around railways, and I do know of one on the corner of Central and Zoo Blvd.  I believe that&#39;s the correct intersection.  It just looks eerie, and like the kind of place BTK would store things.  If you want me to check for sure on the intersection, I will.  Nice meeting you two!<!--/Text--></td></tr>
+<!--/Post: 2567-->
+<!--Post: 2570--><!--Time: 1103815941-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2570"><font face="Verdana" size="1"><b><!--email--><a href="mailto:dammitslicky@cox.net" target="_blank"><!--/email--><!--name-->Cougar<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 7:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Nice to meet you, Catcher. I remember when your apartment building was the downtown Holiday Inn - site of the infamous sniper shootings. I had my 30th birthday party up in the penthouse there - 29th &#40; 28th? &#41; floor room.  <BR> <BR>I feel the same as you. Ever since last March Wichita has taken on a gothic feel...exciting and frightening at the same time. I drive to the east side almost daily and take the same route each time - central business dist exit off Kellogg and up Broadway, over to William, right past the library. Often I see Police parked at the drive up drop box. I guess since the library drop all collections must be guarded? I don&#39;t know. The first time I saw the Police there they were accompanying a library clerk as she collected materials from the drop so I guess so. Also, I noticed this week that the north side of the duplex at 843 Pershing &#40; Fox scene &#41; is for rent.  <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 2570-->
+<!--Post: 2602--><!--Time: 1103836666-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST2602"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 23, 2004 - 1:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well the online map may be off but the address is still &#34;North of kechi&#34; with &#34;No&#34; street # <BR> <BR>Perhaps you can call back and find out where it is at?<!--/Text--></td></tr>
+<!--/Post: 2602-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/232">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/232" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

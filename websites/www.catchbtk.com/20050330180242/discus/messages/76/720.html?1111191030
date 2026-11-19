@@ -1,0 +1,369 @@
+<html>
+<!--Topic: 76/BTK Media-->
+<!--Me: 720/Robert Beattie &#34;Nightmare in Wichita Book&#34;-->
+<!--Level 1: 720/Robert Beattie &#34;Nightmare in Wichita Book&#34;-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 76-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Robert Beattie &#34;Nightmare in Wichita Book&#34;</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Robert Beattie &#34;Nightmare in Wichita ...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/76/76.html"><font color="#f7f7f7">BTK Media</font></a> &#187;
+Robert Beattie &#34;Nightmare in Wichita Book&#34;
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=76&page=720"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=76&page=720"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 11691--><!--Time: 1111031423-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11691"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 7:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dennis Mckenzie was right about the name Louise being on the poem &#34;Oh Anna Why Didn&#39;t You Appear&#34; because it is in the &#34;Nightmare in Wichita&#34; book Robert Beattie talked about on KAKE News. The book comes out Monday<!--/Text--></td></tr>
+<!--/Post: 11691-->
+<!--Post: 11698--><!--Time: 1111034179-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11698"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 8:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Also the book will be $14.00 in stores, and there is a website for it too: <a href="http://www.nightmareinwichita.com" target=_top>http://www.nightmareinwichita.com</a> . <!--/Text--></td></tr>
+<!--/Post: 11698-->
+<!--Post: 11716--><!--Time: 1111040532-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11716"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 16, 2005 - 10:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Megabyte: The link you gave is sort of bizarre. First, it claims BTK dropped from sight a FULL DECADE after he ACTUALLY disappeared from the public. It states, &#34;Then in 1988, he [BTK] vanished...&#34;- WHAT!? BTK in fact &#39;vanished&#39; from sight 10 years before that, in 1978 &#40;or &#39;79&#41;! <BR> <BR>Also the sight is all geared towards selling the book, &#34;Nightmare in Wichita&#34;, but doesn&#39;t tell you whether the book is a Hardback, paperback, &#39;trade-paperback&#39; &#40;that&#39;s a large-size paperback&#41;, or what! Who writes this stuff?! Hopefully the book itself isn&#39;t riddled with these kinds of errors &amp; blatant omissions! <BR> <BR>Victor<!--/Text--></td></tr>
+<!--/Post: 11716-->
+<!--Post: 11720--><!--Time: 1111051723-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11720"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 17, 2005 - 1:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Victor; <BR> <BR>It&#39;s Penguin&#39;s New American Library putting out the book. I have seen many instances of poorly informed copywriters putting out blurbs for books like you pointed out. I noticed it too, but am otherwise reserving judgement. &#40;As in, hoping that the dunderheadedness apparent at that site will not be seen in Mr. Beattie&#39;s book.&#41; <BR> <BR>I&#39;ll also be reviewing the book for blogcritics.org. I&#39;ll let y&#39;all know when that&#39;s up.<!--/Text--></td></tr>
+<!--/Post: 11720-->
+<!--Post: 11744--><!--Time: 1111106761-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11744"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 17, 2005 - 4:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok sorry guys didn&#39;t mean to put the wrong link out, anyways Robert Beattie will be doing book signings in Kansas, and possibly other places check your local book store to see if he is coming there.<!--/Text--></td></tr>
+<!--/Post: 11744-->
+<!--Post: 11766--><!--Time: 1111150303-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11766"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 18, 2005 - 4:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You can order an autographed copy on the net too.<!--/Text--></td></tr>
+<!--/Post: 11766-->
+<!--Post: 11802--><!--Time: 1111191030-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11802"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 18, 2005 - 4:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I suspect the narrative will be more accurate than the marketing campaign. The title seems to suggest it could be describing the latest Freddy Krueger adventure. I prefer &#34;Bound in Terror.&#34; <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 11802-->
+<!--Post: 11904--><!--Time: 1111373152-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11904"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 20, 2005 - 6:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think the book is going to be a hit, one day till it is released, man I can&#39;t wait to go and pick it up, then I plan on getting it signed I&#39;m going to have to get up early.<!--/Text--></td></tr>
+<!--/Post: 11904-->
+<!--Post: 11907--><!--Time: 1111373507-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11907"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 20, 2005 - 6:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Let me correct myself the book will be in tomorrow or Tuesday.<!--/Text--></td></tr>
+<!--/Post: 11907-->
+<!--Post: 11933--><!--Time: 1111440866-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11933"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 21, 2005 - 1:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok at some book stores the book has already came out, I&#39;m going to say this though when the book came in early at the East Borders it sold out in 3 hours!! The Borders that I&#39;m getting my copy from will have it tomorrow, it is best to reserve your copy now I know that all Border&#39;s Stores will give you a maximum reserve of 3 days because of the title.<!--/Text--></td></tr>
+<!--/Post: 11933-->
+<!--Post: 12015--><!--Time: 1111509316-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12015"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 22, 2005 - 8:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok I&#39;m waiting on Borders to give me that call that my book is in supossedly it is still on the truck, I can&#39;t wait to get my copy, anyways the book sold out in Atlanta, Georgia!!!!! The book has already hit the best seller list, it is going to be a great read, I&#39;m going to post at least one good excerpt from the book here, one only after that if you want to find out more you will have to buy the book.<!--/Text--></td></tr>
+<!--/Post: 12015-->
+<!--Post: 12016--><!--Time: 1111509412-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12016"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 22, 2005 - 8:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ivy_leaguer I think it would be better to get your book autographed in person.<!--/Text--></td></tr>
+<!--/Post: 12016-->
+<!--Post: 12027--><!--Time: 1111511078-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12027"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 22, 2005 - 9:04 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It is in!!!! The long anticipated book is in at my local Borders Store, I will post an excerpt in a hour. <!--/Text--></td></tr>
+<!--/Post: 12027-->
+<!--Post: 12037--><!--Time: 1111524616-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12037"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 22, 2005 - 12:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Alright, Megabyte! I can&#39;t wait to hear some of the juicy tidbits in the new book. Extremely hard to believe that after 31 years, this is the only book about BTK! <BR> <BR>We&#39;re all anxiously awaiting those &#34;exerpts&#34;! I&#39;ll probably go out &amp; buy my own soon, based on those.<!--/Text--></td></tr>
+<!--/Post: 12037-->
+<!--Post: 12046--><!--Time: 1111533356-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12046"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 22, 2005 - 3:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Just inside the door, in the dark, Bulla bumped into something. &#34;I&#39;ve had nightmares about that moment,&#34; he said. He had bumped into the body of Charlie&#39;s eleven year old sister, Josephine. She was wearing only a sweat shirt and socks; her bra was cut in front and dangling. She was hanging from a sewer pipe by her neck. Her panties were above the cord around her ankles and below the cord around her knees.<!--/Text--></td></tr>
+<!--/Post: 12046-->
+<!--Post: 12076--><!--Time: 1111553913-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12076"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 22, 2005 - 8:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Meg - This is the cop that everyone slammed under &#34;the first cop to Otero scene&#34; thread. This is his story and he told it on national T.V. I don&#39;t think I&#39;ll buy the book, I feel I&#39;ve already lived it. Unless, he donated a portion of the proceeds to the victims families.<!--/Text--></td></tr>
+<!--/Post: 12076-->
+<!--Post: 12107--><!--Time: 1111587948-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12107"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 23, 2005 - 6:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi all, can someone with the book verify that one of the &#34;dudes&#34; was picked up in his car with a duck?<!--/Text--></td></tr>
+<!--/Post: 12107-->
+<!--Post: 12142--><!--Time: 1111644216-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12142"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 23, 2005 - 10:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;Itty&#34;: I don&#39;t know if the animal that was with one of those &#34;dudes&#34; was a duck. But! If it looked like a duck and walked like a duck, and then even &#39;quacked&#39; like a duck, you can be pretty sure it WAS in fact, a duck. <BR> <BR>ALSO: Hint for anyone getting their &#34;BTK&#34; book autographed by Robert &#40;&#34;Notorious B.I.G.&#34;&#41; Beattie in person: <BR> <BR>Do yourself a favor &amp; have him autograph the FRONT COVER! I know from lots of experience that having the cover itself signed by the author is a much better collectors&#39; item. It definitely makes for an infinitely better keepsake to show off to others. Having an autograph on one of the inside pages is &#34;invisible&#34; and relegates the autograph to a kind of &#34;footnote&#34; status. It has to be carefully searched for in order to even know it exists. Whereas the signature put proudly on the cover is visible to all &amp; makes for a great showpiece on your mantle or wall, etc. <BR> <BR>Victor<!--/Text--></td></tr>
+<!--/Post: 12142-->
+<!--Post: 12150--><!--Time: 1111671632-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12150"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Juno<!--/name--></b></a><br>Username: <!--field:uname-->Juno<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 24, 2005 - 5:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Actually, it&#39;s better if the author inscribes the title page, leaving the dust jacket pristine. Another advantage is that if your dust jacket gets damaged you may be able to replace it, thus still having a &#34;mint&#34; signed book.  In addition, the signature becomes part of the book, and, in the case of a rare collection, will be included in the catalog entry. <BR> <BR>When signed editions are released the signature is NEVER on the dust jacket.  It is either on the title page ot a seperate page for the number and signature only.<!--/Text--></td></tr>
+<!--/Post: 12150-->
+<!--Post: 12169--><!--Time: 1111695016-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12169"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 24, 2005 - 12:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well I think the book is great, it gives everything that, such as autoposy reports, and like why the dispatcher asked BTK the address again becaus eshe wanted to stall him so the police could arrest him, but the operater was an idiot<!--/Text--></td></tr>
+<!--/Post: 12169-->
+<!--Post: 12171--><!--Time: 1111699533-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12171"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 24, 2005 - 1:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m just gonna wait and read the posts about the book &#40;little excerpts&#41; that you all are posting here...I&#39;m just not ready to read the book yet...the paperback comes out here @ Barnes &amp; Noble 04/01 - maybe then...I&#39;m afraid it will be just to frightening....I have five beautiful sisters and their children residing in Wichita...I am so grateful DTDC didn&#39;t stalk them... <BR>I sure enjoy your posts about it tho - so please keep them coming...<!--/Text--></td></tr>
+<!--/Post: 12171-->
+<!--Post: 12173--><!--Time: 1111702965-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12173"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megan<!--/name--></b></a><br>Username: <!--field:uname-->Megan<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 24, 2005 - 2:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Is this book out in Michigan?<!--/Text--></td></tr>
+<!--/Post: 12173-->
+<!--Post: 12175--><!--Time: 1111703332-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12175"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 24, 2005 - 2:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Megan - I don&#39;t know - If you have a local Barnes &amp; Noble you can do a search....that is how I found out the paperback will be released 04/01...OR you can do Amazon.com maybe... <BR>Maybe someone else knows how she can snag one?<!--/Text--></td></tr>
+<!--/Post: 12175-->
+<!--Post: 12184--><!--Time: 1111719307-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12184"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 24, 2005 - 6:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Beattie&#39;s book has gone through many name changes. At one point it was Bind Them, Torture Them, Kill Them, with a subtitle. Then something else and then Bound in Terror. It wasn&#39;t until the arrest of DR and Beattie wrote the final chapter that they named it Nightmare in Wichita. It is reportedly 333 pages. <!--/Text--></td></tr>
+<!--/Post: 12184-->
+<!--Post: 12185--><!--Time: 1111719512-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12185"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 24, 2005 - 6:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Don&#39;t get Embersage started on three three&#39;s.<!--/Text--></td></tr>
+<!--/Post: 12185-->
+<!--Post: 12186--><!--Time: 1111723917-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12186"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 24, 2005 - 8:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Megabyte, <BR> <BR>I appreciate the sentiment. The main obstacle is geography. I currently live in the north eastern United States and there is considerable distance between my locale and the Midwest.<!--/Text--></td></tr>
+<!--/Post: 12186-->
+<!--Post: 12187--><!--Time: 1111724199-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12187"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 24, 2005 - 8:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A guy was picked up by police for trying to have sex with a duck and the police noticed that the duck was making a commotion and getting loud and quacking loud.<!--/Text--></td></tr>
+<!--/Post: 12187-->
+<!--Post: 12195--><!--Time: 1111737850-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12195"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 25, 2005 - 12:04 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Kind of like some officials at the &#34;I Arrested BTK&#34; news conference.<!--/Text--></td></tr>
+<!--/Post: 12195-->
+<!--Post: 12196--><!--Time: 1111738257-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12196"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 25, 2005 - 12:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Mega, <BR> <BR>This only serves to illustrate why it is critical to take a duck to dinner and a movie first.<!--/Text--></td></tr>
+<!--/Post: 12196-->
+<!--Post: 12199--><!--Time: 1111756813-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12199"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 25, 2005 - 5:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Mega - I read a ways up there that you said &#34;Nightmare in Wichita&#34; was sold out in ATL...where&#39;d you go? I went to a borders that sits squarely between Marietta and Roswell <i>&#40;which are admittedly entirely separate cities from Atlanta, in spite of their inclusion &#34;in the greater Metro area&#34;&#41;</i> and they just didn&#39;t have it in stock yet. This was on the 22nd. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12199-->
+<!--Post: 12200--><!--Time: 1111756927-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12200"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 25, 2005 - 5:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i>&#34;...Robert &#40;&#34;Notorious B.I.G.&#34;&#41; Beattie in person...&#34;</i> <BR> <BR>OMG that was funny, Victor. Mean. But funny.  <BR><!--/Text--></td></tr>
+<!--/Post: 12200-->
+<!--Post: 12211--><!--Time: 1111778076-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12211"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 25, 2005 - 11:14 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I went to the West Borders in Wichita, KS and had my book signed yesterday. Robert Beattie is really nice.<!--/Text--></td></tr>
+<!--/Post: 12211-->
+<!--Post: 12212--><!--Time: 1111778241-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12212"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 25, 2005 - 11:17 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m currently writing a review on the book and that review will be posted on a blog on blogger.<!--/Text--></td></tr>
+<!--/Post: 12212-->
+<!--Post: 12215--><!--Time: 1111783858-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12215"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 25, 2005 - 12:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here is a link to the books cover: <a href="http://photos1.blogger.com/blogger/373/898/0/nightmareinwichita-715203.jpg" target=_top>http://photos1.blogger.com/blogger/373/898/0/night mareinwichita-715203.jpg</a> .<!--/Text--></td></tr>
+<!--/Post: 12215-->
+<!--Post: 12216--><!--Time: 1111784062-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12216"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 25, 2005 - 12:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here are some tips if you plan on going to one of Beattie&#39;s signings:  <BR><b>1.Make sure you have your name on a sticky note on the front cover so Robert can sign &#34;To: So and so&#34;.</b> <BR><b>2.Get there an hour early, it helps, because you possibly could be the first one in line.</b><!--/Text--></td></tr>
+<!--/Post: 12216-->
+<!--Post: 12252--><!--Time: 1111806725-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12252"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 25, 2005 - 7:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Itty readin the book right now, stil havenot found the duck lol chapter one, starts out with the Day Wichita Changed, details of January 15, 1974 As Charlie Begins his walk home from school. Danny and Carmen were already at the house, each cradling a parent, it is very sad. I will finish the book later tonight, Thanks E.<!--/Text--></td></tr>
+<!--/Post: 12252-->
+<!--Post: 12260--><!--Time: 1111809749-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12260"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bookworm<!--/name--></b></a><br>Username: <!--field:uname-->Bookworm<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 25, 2005 - 8:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Beattie didn&#39;t put the Shirleylocks poem in his book. Everything else seems to be there.<!--/Text--></td></tr>
+<!--/Post: 12260-->
+<!--Post: 12306--><!--Time: 1111947932-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12306"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 27, 2005 - 10:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I know it stinks, supposedly BTK brought a 6 pack to the Nancy Fox residence and waited for her then strangled her when she came home and after she was dead BTK drank the beer and watched her head swell and tongue protrude.<!--/Text--></td></tr>
+<!--/Post: 12306-->
+<!--Post: 12307--><!--Time: 1111947992-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12307"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 27, 2005 - 10:26 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The book I think tells the whole BTK story out the best than just what the news has said.<!--/Text--></td></tr>
+<!--/Post: 12307-->
+<!--Post: 12323--><!--Time: 1111989523-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12323"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tulip<!--/name--></b></a><br>Username: <!--field:uname-->Tulip<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 27, 2005 - 9:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I know most people that read the book have this new appreciation for WPD and their efforts to solve this case. IMO, Beattie did an outstanding job at making WPD look good by saying how many man hours were spent, stories of the &#34;extraordinary measures&#34; like the satelite photos, but at the same time he discreetly pointed out their many incomprehensible mistakes. I think he did this intentionally. He doesn&#39;t want to alienate any of his sources in LE, but he still wants the story told.  <BR> <BR>It seemed to me that over and over again, they were refusing to admit that a serial killer could be involved in the killings. I guess I was expecting to find out that they were downplaying BTK to the public, but behind the scenes they were on top of it. Not so.  There was continued debate over whether the letters were hoaxes.  They did not seem to be conecting the dots.   <BR> <BR>After Vian&#39;s murder Detective Cocking said, &#34;this looks like BTK&#34;. He was immediately scorned and told to &#34;Knock off that sh&#42;&#42;.&#34;  <BR> <BR>After Wegerle&#39;s murder, the Ghostbusters were consulted. Could this be a BTK hit? &#34;They were unanimous in agreement: No.&#34; The conclusion was made &#34;that the husband did it&#34;. They were not looking for another killer. They felt like they had their man. <BR> <BR>One of the most shocking things I read &#40;p.236&#41;- was referring to a breakfast Beattie had with a group of retired WPO on March 23, 2004. Jack Bruce said regarding the elder Joseph Otero, &#34;The ropes on Joseph were the only ones that he could have tied himself. ... Prove that Joseph Otero didn&#39;t murder his family then kill himself, either accidentally or on purpose.&#34; Beattie continues &#34;As we departed, Bruce told me that he agreed with Floyd Hannon. He didn&#39;t think there was a BTK.&#34; This was in 2004 after BTK wrote the letter to the police re-emerging and some WPD still don&#39;t think there is a BTK? To me, this is absolutely unbelievable. <BR> <BR>Even though none of the crime scenes were exactly the same, there were soooo many reasons to link them. Missing key chains, missing Drivers License, in 2 of murders car keys were found on the roof of Dillons and they didn&#39;t connect it?, complicated knots, panty hose, no sexual assault &#40;but sexually motivated&#41;, etc.  <BR> <BR>I&#39;ve ranted for long enough. I am just in shock. <BR><!--/Text--></td></tr>
+<!--/Post: 12323-->
+<!--Post: 12326--><!--Time: 1111991128-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12326"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 27, 2005 - 10:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok, I caved and bought two copies of the book. But, only because he dedicated it to the victims, their families and friends. Pretty good, thus far.  <BR> <BR>Itty - it was a duck. I remember when that happened, I was a teenager, and the jokes about this guy were abundant and severe because that song disco duck had just came out. HAAAAA!<!--/Text--></td></tr>
+<!--/Post: 12326-->
+<!--Post: 12327--><!--Time: 1111991505-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12327"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 27, 2005 - 10:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wow, TULIP! Amazing blunders by the WPD, as you&#39;ve posted from the &#34;NIGHTMARE IN WICHITA&#34; book. I had no idea that the murder victims&#39; keys were tossed onto the roof of a Dillons&#39; store in no less than 2 BTK killings! Nothing strange about that, huh? Happens every day. Ya, right.<!--/Text--></td></tr>
+<!--/Post: 12327-->
+<!--Post: 12330--><!--Time: 1111997325-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12330"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tulip<!--/name--></b></a><br>Username: <!--field:uname-->Tulip<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, March 28, 2005 - 12:08 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Beattie&#39;s book notes that the Otero&#39;s keys were on the roof of the Dillons.  There was a report on Kake that Dee Davis&#39; keys were found on her roof.   <BR> <BR>From KAKE:  &#34;The house&#39;s phone lines were cut, Dee Davis&#39; was strangled, and her body bound. And there were other strange parts of the murder scene, car keys thrown on the roof, shoes piled in pyramids, an object thrown through the back door.&#34;   <BR> <BR>Sorry about the misinformation that her keys were found on the roof of a Dillons.  I read that on another board.  I should have confirmed it on my own before posting it here. <BR> <BR>The WPD seemed very lazy in the Wegerle case.  She was killed on the same day as Al Stewart&#39;s retirement party.  They found tissue under her nails which was &#34;carefully preserved&#34; but not DNA tested.  You would think they could&#39;ve gotten around to testing it &#40;even 10 or 15 years later&#41; to either implicate or eliminate her husband.  They never did.  Disgraceful. Does the WPD have cold case detectives? <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12330-->
+<!--Post: 12392--><!--Time: 1112156555-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12392"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Foxfire<!--/name--></b></a><br>Username: <!--field:uname-->Foxfire<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 29, 2005 - 8:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just received my copy from Amazon.com this afternoon.   <BR> <BR>On the Introduction page, it says &#34;At one time police concluded that he murdered a New York resident in New Orleans, Louisiana, but they kept that secret.&#34; !<!--/Text--></td></tr>
+<!--/Post: 12392-->
+<!--Post: 12393--><!--Time: 1112156732-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12393"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brown_tornado<!--/name--></b></a><br>Username: <!--field:uname-->Brown_tornado<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 29, 2005 - 8:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->was Mr. Wegerle charged with his wife&#39;s murder? I never heard anything about that. And if he wasn&#39;t, was anybody?<!--/Text--></td></tr>
+<!--/Post: 12393-->
+<!--Post: 12394--><!--Time: 1112156877-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12394"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brown_tornado<!--/name--></b></a><br>Username: <!--field:uname-->Brown_tornado<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 29, 2005 - 8:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->and another question...remember the thread about what BTK took from victims? There has been a great deal of speculation on this matter. Apparently, he always took the victims keys/key chain.<!--/Text--></td></tr>
+<!--/Post: 12394-->
+<!--Post: 12395--><!--Time: 1112156927-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12395"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 29, 2005 - 8:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->How about Ruth Findley? Geez, I was embarrased for them and how much did they spend on that investigation? Whatever!  <BR> <BR>Ivy - I like your name for the book, it fits really well.<!--/Text--></td></tr>
+<!--/Post: 12395-->
+<!--Post: 12396--><!--Time: 1112157943-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12396"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 29, 2005 - 8:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here is another inaccuracy with regards to the 5000 being swabbed: <BR><a href="http://www.sedgwickcounty.org/da/Dennis_Rader/pdf_files/DNARELEASE.pdf" target=_top>http://www.sedgwickcounty.org/da/Dennis_Rader/pdf_ files/DNARELEASE.pdf</a><!--/Text--></td></tr>
+<!--/Post: 12396-->
+<!--Post: 12402--><!--Time: 1112167891-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12402"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 29, 2005 - 11:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky, <BR> <BR>I believe the title &#34;Bound in Terror&#34; is more appropriate for this particular case. It describes the modus operandi of the perpetrator and the affect of the crimes on the community of Wichita, Kansas. &#34;Nightmare in Wichita&#34; seems to emphasize the brutality of the crimes and sounds abrupt and unrefined.<!--/Text--></td></tr>
+<!--/Post: 12402-->
+<!--Post: 12406--><!--Time: 1112171078-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12406"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 30, 2005 - 12:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It also sounds like &#34;Nightmare on Elm Street&#34;, which to me, sounds campy. <BR> <BR>But, good book anyway, even if the title does sound like a Grade-B slasher flik.<!--/Text--></td></tr>
+<!--/Post: 12406-->
+<!--Post: 12414--><!--Time: 1112199965-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12414"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tulip<!--/name--></b></a><br>Username: <!--field:uname-->Tulip<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 30, 2005 - 8:26 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Brown tornado, <BR> <BR>No, Mr. Wegerle was never charged, but that was because they didn&#39;t have enough evidence to charge him.  They still thought he did it.  According to the book, they never really looked for anyone else.   <BR> <BR>Mr. Wegerle, on the other hand, hired a PI to try to find out who killed his wife.  Sad, huh?<!--/Text--></td></tr>
+<!--/Post: 12414-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="76/720">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=76/720" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

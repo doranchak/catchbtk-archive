@@ -1,0 +1,270 @@
+<html>
+<!--Topic: 9/BTK Suspects-->
+<!--Me: 557/Steve Hatfield-->
+<!--Level 1: 557/Steve Hatfield-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 9-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Steve Hatfield</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Steve Hatfield</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/9/9.html"><font color="#f7f7f7">BTK Suspects</font></a> &#187;
+Steve Hatfield
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=9&page=557"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=9&page=557"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 8391--><!--Time: 1109106246-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8391"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 1:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Does Steve Hatfield pop a red flag for anyone? <BR> <BR>He is/was the prime suspect in the anthrax mailings.  <BR> <BR>He was in the area &#40;Southwestern College, Winfield&#41; at the time of some of the killings and supposedly overseas after, although that if iffy at best. <BR> <BR>He has a murky record with military special forces, they say he washed out. <BR> <BR>He has experience in microbiology and would have understood the value of planting a false DNA trail before it was common knowlege.  <BR> <BR>He has a proven track record of baffling the FBI, the anthrax case is unsolved and cold. <BR> <BR>Any opinions? <BR> <BR>P.S. the anthrax killer pretty much imitated unibomber, except with germs. <BR>P.S.S. it might also explain what BTK was up to all that time. <BR>P.S.S.S anthrax had a media thing too.<!--/Text--></td></tr>
+<!--/Post: 8391-->
+<!--Post: 8395--><!--Time: 1109109691-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8395"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 2:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->how old is he<!--/Text--></td></tr>
+<!--/Post: 8395-->
+<!--Post: 8421--><!--Time: 1109120741-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8421"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 22, 2005 - 5:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->51 <BR> <BR><a href="http://www.prospect.org/print-friendly/webfeatures/2002/06/rozen-l-06-27.html" target=_top>http://www.prospect.org/print-friendly/webfeatures /2002/06/rozen-l-06-27.html</a><!--/Text--></td></tr>
+<!--/Post: 8421-->
+<!--Post: 8541--><!--Time: 1109194053-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8541"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 1:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->First of all, I keep calling this guy &#34;Hatfield&#34;, but his name is &#34;Hatfill&#34;. Second, I want to acknowlege Armchairpi, who&#39;s timeline I stole as a basis for the one below. Third, I know this POI seems really to be a &#34;way out there&#34; idea, but if you will read all of the information in the links &#40;a lot of similarities to BTK&#41;and check out the timeline, you will see that, not only is it possible for him to have been present for all of the killings, it explains where he was during the gaps. <BR> <BR>The only really close one is the aborted Williams case, when he was at school in Rhodesia, but he was also involved with his divorce case being finalized in the States at the same time. Several of the murders occur at high stress points for him and just reading the &#34;double life link&#34; will show you just how borderline this guy is. <BR> <BR> <BR><a href="http://www.angelfire.com/ex/projecthatfill/seed.html" target=_top>http://www.angelfire.com/ex/projecthatfill/seed.ht ml</a> <BR> <BR>The link above is a detailed history of the dude. <BR> <BR><a href="http://www.nndb.com/people/823/000052667/" target=_top>http://www.nndb.com/people/823/000052667/</a> <BR> <BR>This is a bio with photo. Below, providing I paste it correctly, is a Hatfill/BTK timeline&#40;thanks again armchairpi&#41;. <BR> <BR> <BR>-1974  <BR> <BR> <BR>[Hatfill is at Southwestern College <BR> in Winfield Kansas &#40;45 mi south of Wichita&#41;.He  will graduate in the spring of 1975.] <BR> <BR>| - 1/15: Oteros mass murdered |                                  <BR>| - 4/4: Brights attacked, Kathryn murdered  <BR>|  <BR>|  <BR>|  <BR>-1975 [Hatfill graduates Southwestern College] <BR>|  <BR>|     [Hatfill enlists in the Army] <BR>|  <BR>|  <BR>|  <BR>|  <BR>-1976 [Hatfill washes out of Special Forces] <BR>|  <BR>|     [Hatfill marries] <BR>|  <BR>|  <BR>|  <BR>|  <BR>-1977  <BR>|  <BR>| - 3/17: Vian murdered  <BR>|  <BR>|    [Hatfill&#39;s wife&#39;s father killed in battle in Angola or Zaire] <BR>|          &#40;april&#41; <BR> <BR>| - 12/8: Fox murdered  <BR> <BR>     [Hatfill discharged from Army] <BR> <BR>     [Hatfill marriage strained, leaves U.S..]  <BR> <BR>-1978  <BR>|     [Hatfill enrolls in medical school in Rhodesia] <BR>|  <BR>|  <BR>|     [Hatfill fails first year barrier exam, must repeat year] <BR>|  <BR>-1979 [Hatfills wife is still in U.S. filing for divorce and it is finalized two months into his studies &#40;May?&#41;] <BR>|  <BR>| - 4/28: Williams aborted attack  <BR>|  <BR>|  <BR>|  <BR>|  <BR>-1980 [Hatfill, Whilein medical school, worked as asst. medic forSelous Scouts would later claim major Role as combatant.] <BR>|  <BR>|  <BR>|  <BR>|  <BR>|  <BR>|  <BR>-1981  <BR>.  <BR>.  <BR>.1983 [Hatfill flunks med school, freaks out, throws security guard through plate glass. The school alows him to retest after almost        having him arrested.] <BR>- <BR>.1984 [Hatfill graduates.]  <BR>.  <BR>-1986  <BR>|  <BR>|  <BR>|  <BR>| - 9/16: Wegerle murdered  <BR> <BR>|     [Hatfill leaves for 14 month stay in Antarctica &#40;December&#41;.] <BR>|  <BR>-1987  <BR>|  <BR>|  <BR>|  <BR>|  <BR>|  <BR>|  <BR>-1988  <BR>| - 1/88: Fager murder &#40;??&#41;  <BR>|  <BR>|   [Hatfill takes research job in South Afrika &#40;late in year&#41;] <BR>|  <BR>|  <BR>|  <BR>-1989  <BR>.1993 [Hatfills research is discredited] <BR>.1994 [Hatfill takes job at Oxford, Eng] <BR>.1995 [Hatfill&#39;s credentials reviewed...many discrepancies] <BR> 1997 [Hatfill returns to U.S. Army Medical Research Institute of Infectious Diseases complex at Fort Detrick] <BR> 1999 [Hatfill takes job with Science Applications International Corporation &#40;SAIC&#41;.] <BR> 2000 [Hatfill accepted into the UNMOVIC weapons  inspections training program,] <BR> 2001 [Hatfill applied for a CIA contract requiring a high-level security clearance. Questioned about Africa. They don&#39;t buy        it.He is canned.] <BR> 2002 [Hatfill becomes POI in anthrax mailings, Fired. Fired again. Is voted Person most interesting in anthrax case by John Ashcroft    and is hounded by press and FBI, but they have no conclusive evidence so future hangs in limbo. Last seen holed up in girlfriend&#39;s apartment, unemployed.] <BR> 2003 [Hatfill lays low, FBI does not produce evidence, the anthrax scare blows over.] <BR> 2004 [BTK is back.] <BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR>{.... etc. etc. to present ....} <BR><!--/Text--></td></tr>
+<!--/Post: 8541-->
+<!--Post: 8543--><!--Time: 1109198512-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8543"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Armchairpi<!--/name--></b></a><br>Username: <!--field:uname-->Armchairpi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 2:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->bmodule-  wow! terrific.  this is exactly the sort of research and theorizing i was hoping the timeline might be useful for.  thanks for ensuring my efforts haven&#39;t been wasted. <BR> <BR>&#40;when i have some more time, i&#39;ll look over your hatfill theory; gotta run right now without being able to evaluate&#41;<!--/Text--></td></tr>
+<!--/Post: 8543-->
+<!--Post: 8548--><!--Time: 1109202054-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8548"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 3:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->intriquing...<!--/Text--></td></tr>
+<!--/Post: 8548-->
+<!--Post: 8549--><!--Time: 1109202111-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8549"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 3:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->soooooo, where is hatfil now???? <!--/Text--></td></tr>
+<!--/Post: 8549-->
+<!--Post: 8550--><!--Time: 1109202247-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8550"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 3:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->i wonder if joe o. taught at fort bragg. perhaps responsible for him failing out???<!--/Text--></td></tr>
+<!--/Post: 8550-->
+<!--Post: 8551--><!--Time: 1109202330-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8551"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nm_pi<!--/name--></b></a><br>Username: <!--field:uname-->Nm_pi<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 3:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->oh time is wrong sorry<!--/Text--></td></tr>
+<!--/Post: 8551-->
+<!--Post: 8554--><!--Time: 1109206325-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8554"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 4:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I don&#39;t know where he is but I&#39;m betting on Missourri. I&#39;m sure the FBI have been keeping tabs on him. He travels well though, Ihaven&#39;t found any evidence that he actually has a pilot&#39;s license but he has bragged about being a pilot. <BR> <BR>Up until around 2002 or 03 he was in DC or Virginia, he was born in missouri, grew up in Illinois.  <BR> <BR>I don&#39;t think he is under any travel restraints from the anthrax thing though, he was never charged. <BR> <BR>You are right though about finding a link between him and joseph or julie. I doubt that he was ever a spook but I&#39;m sure he knew some. He is an expert fraud though and claims to have been a double agent but it is B.S.<!--/Text--></td></tr>
+<!--/Post: 8554-->
+<!--Post: 8558--><!--Time: 1109207705-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8558"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 5:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You see. This is typical. I get pooped on for posting a POI link. And here is a thread with a persons name as a thread title. Double standard. Please!!!<!--/Text--></td></tr>
+<!--/Post: 8558-->
+<!--Post: 8592--><!--Time: 1109218569-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8592"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 8:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The Attorney General of the U.S. already declared him the main person of interest in the anthrax case. He&#39;s in public domain now. <BR> <BR>Hope One of us is right though. It&#39;d be cruel and unusual for him to be, first, blamed for mailing anthrax, then, branded BTK, and then have it turn out that he didn&#39;t do either. <BR> <BR>But he works for the government, with germs, and the CIA, he gotta be guilty of something...if nothing else he&#39;s guilty of having the worst timing I&#39;ve ever seen.<!--/Text--></td></tr>
+<!--/Post: 8592-->
+<!--Post: 8594--><!--Time: 1109218729-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8594"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 23, 2005 - 8:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->P.S. The tread title is misspelled too &#40;almost does&#39;t count&#41;.<!--/Text--></td></tr>
+<!--/Post: 8594-->
+<!--Post: 8719--><!--Time: 1109296286-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST8719"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bulldog87<!--/name--></b></a><br>Username: <!--field:uname-->Bulldog87<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 5:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->He is under watch 24/7. The Fbi has watched his every move and still does.  It would require a surogate to make the drops. Plus, his communication is also being monitored. The justice department is highly embarrassed by the anthrax case. They want to nail hatfill &#40;or whoever is responsible&#41; and will not let up till they get him. Sorry but he is not BTK.<!--/Text--></td></tr>
+<!--/Post: 8719-->
+<!--Post: 8722--><!--Time: 1109296996-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8722"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 24, 2005 - 6:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->how do you know all this?<!--/Text--></td></tr>
+<!--/Post: 8722-->
+<!--Post: 9018--><!--Time: 1109384024-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9018"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bulldog87<!--/name--></b></a><br>Username: <!--field:uname-->Bulldog87<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 6:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I live in Ark City and know someone at Southwestern. I really cant say more. But its not Hatfill.<!--/Text--></td></tr>
+<!--/Post: 9018-->
+<!--Post: 9049--><!--Time: 1109387048-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9049"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 25, 2005 - 7:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think that is pretty obvious now...pity though, a two for one would have been nice<!--/Text--></td></tr>
+<!--/Post: 9049-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="9/557">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=9/557" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

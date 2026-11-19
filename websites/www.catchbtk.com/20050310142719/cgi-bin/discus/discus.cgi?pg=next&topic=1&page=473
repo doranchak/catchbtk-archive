@@ -1,0 +1,280 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 480/Interesting post from yahoo group now locked down-->
+<!--Level 1: 480/Interesting post from yahoo group now locked down-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Interesting post from yahoo group now locked down</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Interesting post from yahoo group now...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Interesting post from yahoo group now locked down
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=480"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=480"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 7084--><!--Time: 1108174260-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7084"><font face="Verdana" size="1"><b><!--email--><a href="mailto:sugar@mhtc.net" target="_blank"><!--/email--><!--name-->Mcattitude<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Mcattitude<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 6:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->posted over at the eagle board and now they say that that yahoo group is on lockdown and no one can get in it. very interesting anyway read this. <BR> <BR>Im not sure if this is apporpriate but i am in a yahoo group and here is what precehr posted.....if it is not ok im sorry. Messages Messages Help  <BR> <BR>Reply | Forward | View Source | Unwrap Lines  <BR> <BR> <BR> <BR> <BR>Message 809 of 809 | Previous | Next [ Up Thread ] Message Index Msg #  <BR> <BR> <BR>From: &#34;exhortist&#34; &#60;<a href="mailto:exhortist@y.">exhortist@y..</a>.&#62;  <BR>Date: Fri Feb 11, 2005 5:23 am  <BR>Subject: I know BTK, really! <BR> <BR> <BR>ADVERTISEMENT <BR> <BR> <BR> <BR>This is the first of many posts that I plan to make concerning BTK. <BR>Being that I consider myself an &#39;average&#39; citizen of Wichita, Kansas <BR>I have heard about BTK. I was a senior in high school when he killed <BR>the four members of the Otero family. Being the &#39;normal&#39; self <BR>absorbed kid it didn&#39;t register much with me. I went off to college <BR>and never worried about it even when I came back to Wichita to get <BR>married and start a family. After the getting married and having a <BR>family didn&#39;t work out so well I was single again and living in <BR>Wichita. Having more bills than I could remember a single person <BR>having I started working second jobs to &#39;help&#39; with my &#39;bills&#39;. In <BR>some sort of rational way I started working in the bar scene. I say <BR>rational because I rationalized that I would be able to &#34;hang out&#39; <BR>where the singles were and make money instead of spending what I <BR>already couldn&#39;t afford. Needing to beat a dead horse is not my <BR>purpose in saying I met plenty of people. Wichita, just like any <BR>other large city has it&#39;s fair share of weirdos, wackos, flakes, <BR>freaks and psychopaths. I say that not meaning to insult my own <BR>hometown but as an observation having lived other places also. The <BR>big city is the best place for these people to hide out and find <BR>each other to feed off of. It may not seem like it but Wichita has <BR>been the biggest city around this area for the past fifty years or <BR>more. In the &#39;bar scene&#39; is where I met BTK. I actually hung out <BR>with a crowd or &#39;circle&#39; of people that he was a very manipulative <BR>part of. He came off as being a real hot-shot that knew way more <BR>than anyone else. He had a tendency in those days, the 80&#39;s, to pass <BR>him self off as a law enforcement type. Never being able to put up <BR>or shut up either one. That is how I know who he is. Let me <BR>elaborate. He liked to carry a Walther P-38 in a shoulder harness <BR>under his wool tweed jacket and wore jeans and cowboy boots. Much <BR>like an undercover but told many of the girls he was either CIA or <BR>DEA. The DEA part seemed plausible since he was always in the know <BR>on the &#39;coke scene&#39;. A very valuable &#39;knowlege&#39; in the 80&#39;s. He had <BR>a &#39;gold&#39; colored badge in a heavy leather badge wallet. He hardly <BR>ever got it out but had a tendency to get it out and give it a quick <BR>flip opened to closed under the nose of a drunk or seriously <BR>inebriated person while spouting in authoritative tones a line of bs <BR>meant to take that person off guard. I saw him do it a few times and <BR>it was very effective for him. I found the jacket to be interesting <BR>in retrospect as it was one of those with the leather patches on the <BR>sleeves at the elbows. A little dated for the 80&#39;s but highly <BR>favored amongst the college crowd in the early 70&#39;s where BTK was <BR>supposed to be impostering back then. It curiously is close now to <BR>the disclosures of Steve Relsford about his mothers attaker. BTK <BR>pulled his badge on me once at a private party. Not being much of a <BR>drinker even then I laughed at him and asked him why I would be <BR>afraid of &#39;the School Board Detective&#39;. Yes, unbelievably he reacted <BR>like no one had ever noticed that detail of his badge before. It <BR>made him so mad that when he slid it back into his pocket he came <BR>back out with a knife so fast even I couldn&#39;t believe how fast he <BR>had it at my jugular. He said &#34;ya know how easy I could kill you <BR>right now?&#34;. I could only reply, not easily enough or you&#39;d be doing <BR>and not talking. To which he only laughed pulling back and even <BR>letting me examine and hold the knife. Even then the touch of the <BR>knife had a chilling effect and I think he knew it. He only smiled. <BR>Sometime this summer an Article by Hurst Laviana in the Eagle about <BR>the package BTK sent to them had pictures of the stuff he sent. I <BR>believe it was the package of stuff he sent claiming Vicky Wegerles&#39; <BR>murder. There it was, that damn badge. I sort of dismissed it <BR>thinking that there could be other ones like it. A few days later <BR>Hurst wrote another article on a Sunday I believe asking people to <BR>ponder the new clues. &#34;Someone must know this person from the new <BR>clues&#39; then finnished the article by saying &#39;maybe someone from a <BR>small surrounding area town like Anthony.&#34; That&#39;s when it slammed me <BR>right up side the head. He had told me the story of when he was a <BR>kid in Anthony and how he had lifted that badge from the truant <BR>officer. Yes that night he showed it to me then bragged about how he <BR>got it. According to him it was his first &#39;trophy&#39; and was the first <BR>time he realized he had the power to &#39;trance&#39; people and take <BR>advantage of them. He claimed to have taken it right off the Truant <BR>Officer. I could tell back then that he meant it as a threat since <BR>the first two didn&#39;t work. I never was unduly afraid of this guy and <BR>just had forgotten about that incident until my memory was jogged by <BR>that story. That is partly the motivation for my expose&#39;. There are <BR>a lot of other things about this guy that will jog others memories <BR>when they hear them. I was amazed in retrospect how this guy fit <BR>when I actually knew who he was. I would have never guessed this was <BR>BTK, knowing him while evaluating his self-disclosed clues. That one <BR>braggadocious slip that he had forgotten about when he sent that <BR>badge. The fact he didn&#39;t think the WPD could trace the origin of <BR>it. The one slip that all criminals make and I saw it &#39;only by <BR>accident&#39; or as I believe, &#39;divine intervention&#39;. I hope this helps <BR>to answer whether or not the authorities know and if I think BTK <BR>knows who I am. My answer to both here again is yes. If he couldn&#39;t <BR>figure it out before he should know now.  <BR> <BR> <BR>  <BR> <BR>and this is about it being locked down now <BR> <BR>The moderator at the Yahoo! Group WichitaBTK has completely locked the group, it seems, as of this afternoon. <BR> <BR>I did read the same post Rockergirl replicated very early this morning while members still had access. <BR> <BR>All-in-all, very strange. <BR>  <BR>   <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 7084-->
+<!--Post: 7087--><!--Time: 1108176038-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7087"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 6:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Just a first impression hunch here. The poster claims he knows all kinds of BTK information; however, said data will be released &#34;in a series of posts.&#34; Okay, this guy doesn&#39;t contact LE, yet posts all this in a Yahoo discussion group. Additionally, his final sentence is <i>&#34;If he couldn&#39;t figure it out before he should know now.&#34;</i> That&#39;s a taunt, albeit a mild one. I think this is someone who is trying to imply that he is BTK, but isn&#39;t. <BR><!--/Text--></td></tr>
+<!--/Post: 7087-->
+<!--Post: 7088--><!--Time: 1108176409-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7088"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Newyorker<!--/name--></b></a><br>Username: <!--field:uname-->Newyorker<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 6:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I disagree George, I think WPD should follow-up on this. <!--/Text--></td></tr>
+<!--/Post: 7088-->
+<!--Post: 7095--><!--Time: 1108179452-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7095"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 7:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->They should follow-up anything; they have an IP number already. It just doesn&#39;t strike me as being BTK. Unless he&#39;s really become desperate. <BR> <BR>Just had a thought. Who has authority over Internet information? WPD, regardless? FBI?<!--/Text--></td></tr>
+<!--/Post: 7095-->
+<!--Post: 7096--><!--Time: 1108179933-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7096"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Fsu44<!--/name--></b></a><br>Username: <!--field:uname-->Fsu44<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 7:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->No one has direct authority, Yahoo has it&#39;s own gatekeepers and does AOL and all the others. All you need is a Judge&#39;s signture for information. <!--/Text--></td></tr>
+<!--/Post: 7096-->
+<!--Post: 7098--><!--Time: 1108180822-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7098"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 8:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In any event, I&#39;m tired of people <i>posting</i> &#34;I know who BTK is&#34; or &#34;I have a lot of information about BTK which I alone know,&#34; without first having contacted the appropriate authorities.  <BR> <BR>Example: <i>I actually hung out  <BR>with a crowd or &#39;circle&#39; of people that <b>he was a very manipulative  <BR>part of.</b> He came off as being a real hot-shot that knew way more  <BR>than anyone else. <b>He had a tendency in those days, the 80&#39;s, to pass  <BR>him self off as a law enforcement type.</b> Never being able to put up  <BR>or shut up either one. <b>That is how I know who he is</b>.</i> <BR> <BR>Anyone who believes they know this much needs to contact LE. Go ahead and post, but notify LE first. Maybe the poster did notify LE but he should have said so if he had.<!--/Text--></td></tr>
+<!--/Post: 7098-->
+<!--Post: 7099--><!--Time: 1108180863-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7099"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 8:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks, Fsu44.<!--/Text--></td></tr>
+<!--/Post: 7099-->
+<!--Post: 7111--><!--Time: 1108187378-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7111"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 9:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It should be unlocked now.<!--/Text--></td></tr>
+<!--/Post: 7111-->
+<!--Post: 7121--><!--Time: 1108201098-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7121"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 1:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The poster&#39;s friend is an interesting suspect, but I agree with both George and NY - if you have a good suspect, contact LE first, even if you think they&#39;ll laugh you up good.  Not sure what to make of the badge thing - is he saying he saw a picture that matched his old buddy&#39;s badge?  Or just &#34;a badge&#34;?  The jacket is interesting - wasn&#39;t the sketched person seen near the Otero&#39;s wearing a similar jacket? <BR> <BR>My main doubt here is that this suspect sounds too socially successful.  He sounds plenty psychotic, but a bit too social.  Not bookish at all.  I can&#39;t imagine this guy being a pseudo-poet in a library.  I guess I&#39;ll have to wait for the next installment....<!--/Text--></td></tr>
+<!--/Post: 7121-->
+<!--Post: 7125--><!--Time: 1108208576-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7125"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 3:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It sounds like this guy hung out in some rough bars and attended some rough parties. He might have found a crowd he could blend in with. I&#39;ve never heard of a bar owner who would tolerate guns in the place, permit or no permit. and apparently no one asked for a permit. <BR> <BR>Jackets with patches on the elbows always remind me of Mannix.<!--/Text--></td></tr>
+<!--/Post: 7125-->
+<!--Post: 7133--><!--Time: 1108223191-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7133"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Fsu44<!--/name--></b></a><br>Username: <!--field:uname-->Fsu44<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 7:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George is right, sounds good but reads like a &#34;True Detective&#34; story. Either way pass it on to LE. There was a tv show back in the 80&#39;s were this detective had a coat and a gun under his jacket: &#34;He liked to carry a Walther P-38 in a shoulder harness under his wool tweed jacket and wore jeans and cowboy boots on.&#34; I remember that show being on for may be one season. The location might have been Dallas or somewhere in Texas. The main actor was this  Magnum PI knock-off. Strange...Did the TV show &#34;Hunter&#34; dress this way also?  <!--/Text--></td></tr>
+<!--/Post: 7133-->
+<!--Post: 7138--><!--Time: 1108228866-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7138"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Mel1pred<!--/name--></b></a><br>Username: <!--field:uname-->Mel1pred<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 9:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->What the heck is a school board detective?<!--/Text--></td></tr>
+<!--/Post: 7138-->
+<!--Post: 7148--><!--Time: 1108236460-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7148"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Fsu44<!--/name--></b></a><br>Username: <!--field:uname-->Fsu44<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 11:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->truant officer maybe...they have been long gone!<!--/Text--></td></tr>
+<!--/Post: 7148-->
+<!--Post: 7150--><!--Time: 1108237610-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7150"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 11:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Fsu44 - wasn&#39;t it you who said that BTK made an error with his last drop and that you knew his ID because of this? If not, please accept my sincere apologies. If so this has me wondering if this poster &#40; Preacher3 - exhortist &#41; is you. <!--/Text--></td></tr>
+<!--/Post: 7150-->
+<!--Post: 7161--><!--Time: 1108245045-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7161"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Fsu44<!--/name--></b></a><br>Username: <!--field:uname-->Fsu44<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 1:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I did say he made a major mistake with the last drop. I wish I could say I know his ID, he would be in the hands of LE. <!--/Text--></td></tr>
+<!--/Post: 7161-->
+<!--Post: 7166--><!--Time: 1108247891-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7166"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 2:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->MCATTITUDE: Very interesting post at the top here. But for the life of me I don&#39;t see anywhere in that guys&#39; tale where it shows he was in fact BTK. No mention of murders, bondage or letter-writing at all! <BR> <BR>I agree with FSU44: It sounds like a fascinating &#34;true-detective&#34; tale. Only it has no evidence that this wannabe cop is BTK whatsoever!<!--/Text--></td></tr>
+<!--/Post: 7166-->
+<!--Post: 7172--><!--Time: 1108255820-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7172"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Fsu44<!--/name--></b></a><br>Username: <!--field:uname-->Fsu44<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 4:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Cougar: I am not Preacher3-exhortist, I&#39;m a homicide investigator from Florida. FSU is my almamater and I am 44 years old. Now that was easy, only if BTK was that easy..LOL! <!--/Text--></td></tr>
+<!--/Post: 7172-->
+<!--Post: 7179--><!--Time: 1108262138-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7179"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Mel1pred<!--/name--></b></a><br>Username: <!--field:uname-->Mel1pred<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 6:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->They had truant officers at all the high schools in Wichita in the early 70&#39;s still.  <!--/Text--></td></tr>
+<!--/Post: 7179-->
+<!--Post: 7188--><!--Time: 1108267636-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7188"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, February 12, 2005 - 8:07 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The poster claims:   <BR> <BR>“I never was unduly afraid of this guy and just had forgotten about that incident until my memory was jogged by that story.” <BR> <BR>Well, by gosh, don’t you think you ought to be afraid of a dude that pulls a sharp knife to your throat?  GEESH!!!! <BR> <BR>Okay, assuming this is authentic, the poster also states “. . . .lifted that badge from the truant officer. . .”   <BR> <BR>Well, was BTK an accomplished pickpocket?  Is that how he got his fake IDs?  Was the truant officer really the railroad detective that BTK supposedly knew in his childhood? <BR> <BR>A Walther P-38?  A gun was used in one the attacks on the victim’s brother – what type was it? <BR> <BR>My advice:  Stop wasting time posting in the forum; simply report the suspect to the authorities.<!--/Text--></td></tr>
+<!--/Post: 7188-->
+<!--Post: 7217--><!--Time: 1108287759-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7217"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bluepup<!--/name--></b></a><br>Username: <!--field:uname-->Bluepup<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 13, 2005 - 1:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hmmm  - That exact same message is posted on the Kansas.com board by Preacher3. And if you read back thru his posts it wasn&#39;t his first message about knowing BTK. And he also states he did tell LE.<!--/Text--></td></tr>
+<!--/Post: 7217-->
+<!--Post: 7240--><!--Time: 1108318730-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7240"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 13, 2005 - 10:18 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks, Fsu. I just HAD to ask, lol.  <BR> <BR>So is anyone actually taking this P3-Exhortist person seriously? <!--/Text--></td></tr>
+<!--/Post: 7240-->
+<!--Post: 7244--><!--Time: 1108320597-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7244"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 13, 2005 - 10:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Cougar, <BR> <BR>Well, I even wonder if this particular post is actually responsible for the Yahoo lockdown? <BR> <BR>I don&#39;t know if anybody is taking this seriously, but in fairness, everybody should at least give the story some consideration. <BR> <BR>The poster speaks of the &#34;small surrounding area town like Anthony&#34; -- that appears to be the discerning information &#40;at least for the poster&#41; that prompted his/her thoughts.<!--/Text--></td></tr>
+<!--/Post: 7244-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/480">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/480" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

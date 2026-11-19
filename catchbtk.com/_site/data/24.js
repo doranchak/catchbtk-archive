@@ -1,0 +1,1 @@
+window.CBTK={"page":"24.html","title":"catch BTK .com -- ANNA WILLIAMS","archive":"../index.html","versions":[{"t":"20050305002634","e":"20050305002634","n":1,"f":"history/24~20050305002634.html","a":0,"d":0,"sa":[],"sd":[]}]};

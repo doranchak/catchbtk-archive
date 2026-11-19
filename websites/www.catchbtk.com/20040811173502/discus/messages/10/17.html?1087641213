@@ -1,0 +1,257 @@
+<html>
+<!--Topic: 10/BTK Letters-->
+<!--Me: 17/Anyone got a lead on the ciphers?-->
+<!--Level 1: 17/Anyone got a lead on the ciphers?-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Anyone got a lead on the ciphers?</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Anyone got a lead on the ciphers?</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Letters</font></a> &#187;
+Anyone got a lead on the ciphers?
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=17"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=17"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 26--><!--Time: 1085170559-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST26"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pharaoh<!--/name--></b></a><br>Username: <!--field:uname-->Pharaoh<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 21, 2004 - 1:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Anyone know more details about the purported ciphers in the new BTK letters?  I&#39;d love to know what the status is &#40;solved?, unsolved?, how many?&#41;.  I&#39;ve read that they think BTK might be a fan of word-puzzle magazines, b/c his ciphers were similar to something recently published in one.  Any idea what magazine or puzzle they&#39;re referring to? <BR> <BR>Tom, you&#39;re probably familiar with obtaining stuff like this from the work you&#39;ve done on the Zodiac page - is there any hope of seeing these ciphers anytime soon or are they on lockdown since the case is still open?<!--/Text--></td></tr>
+<!--/Post: 26-->
+<!--Post: 28--><!--Time: 1085177980-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST28"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ibedamom<!--/name--></b></a><br>Username: <!--field:uname-->Ibedamom<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 21, 2004 - 3:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->also, could factor x refer to the old comic series?<!--/Text--></td></tr>
+<!--/Post: 28-->
+<!--Post: 29--><!--Time: 1085178096-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST29"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 21, 2004 - 3:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Pharaoh, when I get copies &#40;notice I said <i>when</i>&#41; I will post them. Until then, I&#39;m pretty much in the dark.<!--/Text--></td></tr>
+<!--/Post: 29-->
+<!--Post: 128--><!--Time: 1085840507-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST128"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 29, 2004 - 7:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom ,I found some information on what was in the letters at ezboard Crime &amp; Justice. The date is 4/14/04 the poster is The GoldenBoy37. The btk wrote the new letter some what like the Z did in his paradice slaves note,only upside down and backwards in the shape of a L. It reads wrong address, and diekaf &#40;fake ID&#41;. The word ruse was also in the puzzle.<!--/Text--></td></tr>
+<!--/Post: 128-->
+<!--Post: 133--><!--Time: 1085854810-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST133"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 29, 2004 - 11:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I am rather suspicious of intelligence data collected by someone called &#34;GoldenBoy37.&#34; Maybe it&#39;s accurate, maybe not. <BR> <BR>BTK certainly seems to be into word puzzles. Maybe one day we will see one.<!--/Text--></td></tr>
+<!--/Post: 133-->
+<!--Post: 137--><!--Time: 1085931740-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST137"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 30, 2004 - 8:42 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I found more than one list from the 5/5/04 note and they all have this as what was in the first page of the last note from btk.----1.A SERIAL KILLER_______   2.DAWN 3.FETISH  4.FANTASY WORLD  5.THE SEARCH BEGINS  6.BTK HAUNTS  7.PS&#39;s  8.MO-ID RUSE  9.KITS  10. TREASURED MEMORIES  11.FINAL CURTAIN CALL  12.DUSK  13.WILL THERE MORE  &#40;he left out the &#34;BE&#34; &#41;<!--/Text--></td></tr>
+<!--/Post: 137-->
+<!--Post: 138--><!--Time: 1085934704-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST138"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 30, 2004 - 9:31 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, Here is another part of the btk letter.I read that this was found at crime librery.com . It looks like the btk would like a book written about him, and these should be the chapters. 1.ALL AMERICAN CITY  2.A CHILLING DISCOVERY  3.BIND THEM,TORTURE THEM,KILL THEM  4.DIFFERENT WORLDS COLLIDE  5.VANISHING ACT  6.GHOST BUSTERS  7. THE NEXT STEP  8.COLD CASE SQUAD  9.PROFILE  10.AFTERMATH  11.BTK RETURNS  12.BIBLIOGRAPHY  13.THE AUTHOR <!--/Text--></td></tr>
+<!--/Post: 138-->
+<!--Post: 148--><!--Time: 1086031107-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST148"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Warren_b<!--/name--></b></a><br>Username: <!--field:uname-->Warren_b<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, May 31, 2004 - 12:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sandy, I believe that these are the chapters as set out by the editors of Crime Library, not BTK himself in a letter.  These predated the most recent letter&#40;s&#41;.  In your 8:42 am letter,  above, those are the chapters that BTK put in the most recent letter, if the letter is genuine.  He patterned them after the Crime Library chapters. <!--/Text--></td></tr>
+<!--/Post: 148-->
+<!--Post: 154--><!--Time: 1086052410-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST154"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, May 31, 2004 - 6:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks Warren b, The page I copied and posted at 9:31 was from ezboard.com and it was titled, Page one of the newest letter recieved 05-05-04.The 8:42am post was from someone who copied the other from a news broadcast on TV as being from the btk. That one I got off of Kansas.com. Both are numbered to 13, when you line them up side by side, they almost tell a story.<!--/Text--></td></tr>
+<!--/Post: 154-->
+<!--Post: 192--><!--Time: 1086378650-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST192"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sean<!--/name--></b></a><br>Username: <!--field:uname-->Sean<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, June 04, 2004 - 12:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;When you line them up side by side, they almost tell a story&#34;. That&#39;s a very interesting call Sandy &#40;assuming that the second list came from BTK&#41;. <BR>If so,then we have to wonder if there is an underlying message here that BTK was trying to tell.Pure speculation of course but some suggestions :- <BR>1.A serial killer in an all American city. <BR>2.A chilling discovery at Dawn or it begins with a chilling discovery. <BR>3.The killers fetish, to bind torture and strangle <BR>4. Different world colllide, the fantasy and the real! <BR>5.When the search begins&#40;when police know they are dealing with the same killer&#41;, he does a vanishing act. <BR>10.Treasured memories &#40;photographs&#41;in the aftermath. <BR>Perhaps no.11 and 13 are interesting in light of Mike Kelleher&#39;s profile. <BR> <BR> Final curtain call...BTK returns to take one last bow. <BR> <BR>Will there be more,&#40;yes&#41; the author! <BR>Appears to fit with Mike&#39;s assessment.<!--/Text--></td></tr>
+<!--/Post: 192-->
+<!--Post: 266--><!--Time: 1086972972-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST266"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jenkins<!--/name--></b></a><br>Username: <!--field:uname-->Jenkins<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, June 11, 2004 - 9:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The second list &#40;the one that begins all american city&#41; is from Crime Library, it is the titles they gave to the chapters they wrote. BTK had nothing to do with the list that begins All American City.<!--/Text--></td></tr>
+<!--/Post: 266-->
+<!--Post: 272--><!--Time: 1087141583-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST272"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sandy<!--/name--></b></a><br>Username: <!--field:uname-->Sandy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, June 13, 2004 - 8:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks, Sean and Jenkins. Did you see the killers note with the upside down &#34;ADDRESS&#34; and the backwards &#34;WRONG&#34; in the shape of a upside down 7 or a L ? Along with DIEEKAF in his puzzle? If the killer wants his puzzle&#39;s to be seen,he should post them here, for sure we like puzzles !<!--/Text--></td></tr>
+<!--/Post: 272-->
+<!--Post: 298--><!--Time: 1087320786-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST298"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sean<!--/name--></b></a><br>Username: <!--field:uname-->Sean<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, June 15, 2004 - 10:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I haven&#39;t seen that Sandy, where is it? Thanks<!--/Text--></td></tr>
+<!--/Post: 298-->
+<!--Post: 301--><!--Time: 1087618274-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST301"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, June 18, 2004 - 9:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Factor X comic books #1 series began in 1995? The BTK letter mentioning factor x was mailed to KAKE in 1978. <BR>-Deb<!--/Text--></td></tr>
+<!--/Post: 301-->
+<!--Post: 303--><!--Time: 1087641213-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST303"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, June 19, 2004 - 3:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Perhaps BTK meant to communicate that whatever the influence is that comes over him and causes him to commit murder, until we understand what that is, call it factor x.<!--/Text--></td></tr>
+<!--/Post: 303-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/17">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/17" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

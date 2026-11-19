@@ -1,0 +1,269 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 762/Definate online add by denny-->
+<!--Level 1: 762/Definate online add by denny-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Definate online add by denny</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Definate online add by denny</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Definate online add by denny
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=762"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=762"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 12626--><!--Time: 1112620752-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12626"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 04, 2005 - 6:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://groups-beta.google.com/group/rec.autos.marketplace/browse_thread/thread/b73c4b98501ce641/fdb57d4a70269d03?q=&amp;rnum=4#fdb57d4a70269d03" target=_top>http://groups-beta.google.com/group/rec.autos.mark etplace/browse_thread/thread/b73c4b98501ce641/fdb5 7d4a70269d03?q=&amp;rnum=4#fdb57d4a70269d03</a> <BR> <BR>OK, this is boring, but it is definately posted by <BR>denny himself. I am sure because the same email addy was used by someone with a nick of &#34;K&#34; under a religious group, and a &#34;Brian Rader&#34; with a sick <BR>squirrel. If I could see the whole email addy, I could do a search for that, but I dont know how to get it.<!--/Text--></td></tr>
+<!--/Post: 12626-->
+<!--Post: 12627--><!--Time: 1112624918-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12627"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Hmmm<!--/name--></b></a><br>Username: <!--field:uname-->Hmmm<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 04, 2005 - 7:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If that was really dennis rader, then he posted this also... <BR> <BR><a href="http://groups-beta.google.com/group/alt.org.promisekeepers/browse_thread/thread/ad24f1a7398c568f/0b7fd0cb129a3bed?q=&amp;rnum=1#0b7fd0cb129a3bed" target=_top>http://groups-beta.google.com/group/alt.org.promis ekeepers/browse_thread/thread/ad24f1a7398c568f/0b7 fd0cb129a3bed?q=&amp;rnum=1#0b7fd0cb129a3bed</a><!--/Text--></td></tr>
+<!--/Post: 12627-->
+<!--Post: 12628--><!--Time: 1112625466-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12628"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Hmmm<!--/name--></b></a><br>Username: <!--field:uname-->Hmmm<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 04, 2005 - 7:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Duh, you said that already.  I must be tired... <BR> <BR>I wonder why the use of Brian and K?  I forgot, what is his son&#39;s name?  Is it possible that his children were using this account?  I don&#39;t know how we can be sure it&#39;s him.<!--/Text--></td></tr>
+<!--/Post: 12628-->
+<!--Post: 12629--><!--Time: 1112629259-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12629"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tulip<!--/name--></b></a><br>Username: <!--field:uname-->Tulip<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 04, 2005 - 8:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->His son name is Brian.  I&#39;m sure his kids were using his account.  <!--/Text--></td></tr>
+<!--/Post: 12629-->
+<!--Post: 12635--><!--Time: 1112648106-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12635"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jed4258<!--/name--></b></a><br>Username: <!--field:uname-->Jed4258<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 04, 2005 - 1:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Southwind.net is a ISP from the Wichita area, also yhas become a part of earthlink.net <BR>So, my bet is this was his post.   <BR>Also frmo the looks of it he was a member of the Promisekeepers<!--/Text--></td></tr>
+<!--/Post: 12635-->
+<!--Post: 12636--><!--Time: 1112649383-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12636"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 04, 2005 - 2:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I completely do not doubt that Rader would have been a promise keeper for a minute. It would fit his lifelong pattern of hypocrisy to a &#34;t.&#34; <BR> <BR>Man, I knew all those uber-macho hugfests bugged me for a reason.<!--/Text--></td></tr>
+<!--/Post: 12636-->
+<!--Post: 12637--><!--Time: 1112651094-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12637"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 04, 2005 - 2:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think the promisekeepers group was joined by Kerri, hence th nick &#34;k&#34; and &#34;kr&#34;. <BR> <BR>Brian was in the alt.pets group <BR> <BR>And Im assuming the goodyear letters was denny. <BR> <BR>back in the day....a whole family used the same email addy.<!--/Text--></td></tr>
+<!--/Post: 12637-->
+<!--Post: 12640--><!--Time: 1112657834-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12640"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 04, 2005 - 4:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Why would promise keepers, a group started by a former pro football coach specifically for the bonding and positive reinforcement of the role of the man as household head and leader, be joined by a then - late teens early 20&#39;s woman? The group was founded to resurrect the old 50&#39;s archetype of Dad as Ward Cleaver, the all-knowing, all providing, morally incorruptible household leader. This would have fed so much into how it seems Rader wanted to be perceived.  <BR> <BR>I do agree that they all probably used the same e-mail, I remember those days myself, and know some families who still do this - however I doubt it was Kerri posting to promise keepers. <BR> <BR><i>If</i> it was her, she didn&#39;t know what the group was about. Note though, that the person never signs &#34;Kerri&#34; but leaves it with the gender neutral &#34;k&#34; or &#34;Kr,&#34; just as you pointed out, Itty. <BR> <BR>I certainly don&#39;t intend to seem argumentative, I just feel like where Rader is concerned you shouldn&#39;t take anything you see at face value. To most serials, and I have no doubt he is like this, lying is as natural as breathing. <!--/Text--></td></tr>
+<!--/Post: 12640-->
+<!--Post: 12651--><!--Time: 1112680620-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12651"><font face="Verdana" size="1"><b><!--email--><a href="mailto:kathiemoffett@yahoo.com" target="_blank"><!--/email--><!--name-->Dahlia<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Dahlia<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 04, 2005 - 10:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, I could see it being Kerri, because of the similarly impassioned Christian views she had posted on her own blog. Just seems like the kind of thing she was/is wont to discuss and debate online. Maybe her dad was a member of Promisekeepers and she got involved because of something he said? She seems like the type who&#39;d get right online and dive into the conversation. <BR> <BR>I&#39;d give a link, but I think the last of her blog pages have vanished. Can&#39;t find &#39;em now. Wish I&#39;d saved that one. She said something about how her life had been a nightmare of despair and hopelessness until she found Christ or whatever. Strong and rather disturbing sentiments from a healthy young college girl, but I guess it all makes sense now, eh. <BR> <BR>I think Denny would&#39;ve just strangled the squirrel.<!--/Text--></td></tr>
+<!--/Post: 12651-->
+<!--Post: 12654--><!--Time: 1112701952-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12654"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 05, 2005 - 4:52 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve and others, you may be correct. I had no idea what promisekeepers was, to tell the truth i didnt even read the post in front of the one from &#34;k&#34;.  Thinking about it, it seems denny could have used other peoples names, initials... <BR> <BR>I found some good quotes from Ke&#42;&#42;i&#39;s newer blog, and have added them under &#34;from Ke&#42;&#42;i&#39;s link.<!--/Text--></td></tr>
+<!--/Post: 12654-->
+<!--Post: 12658--><!--Time: 1112709307-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12658"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 05, 2005 - 6:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Very interesting post you have found, I wonder if it is not a ploy, like being a Boy Scout Leader to keep up appearances or be around children. He also named his children after the children of one of his victims. I had the strangest experience this morning. I walked into the store and this guy walking out Looked Exactly like Dennis Rader. I almost feel over, hegave me a creepy look. I am sure someone has told him who he looks like. I was a very odd encounter.<!--/Text--></td></tr>
+<!--/Post: 12658-->
+<!--Post: 12669--><!--Time: 1112721433-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12669"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 05, 2005 - 10:17 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi again, I just read the post in the promise keepers group, and the series of 4 posts on that one page are putting down the &#40;PK&#41; promise keepers org. <BR>So, it may well have been Kerri posting that. <BR>who knows? <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12669-->
+<!--Post: 12682--><!--Time: 1112764588-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12682"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 05, 2005 - 10:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Itty - very good point, and I missed it. I err toward thinking it was her after all with that in mind. She actually feels much the same about the organization as people like me tend to. It&#39;s really weak now, almost non-existent, but when PK was strong it was starting to get a pan-racial brownshirt feel about it. That is, it was not a racist organization at all - black men and white men participated equally. But it was a chauvinist and scarily fundamentalist <b>christian</b> organization. I don&#39;t think you could find such a thing as a jewish or muslim promisekeeper, let&#39;s put it that way. And it was staunchly anti-feminist and anti-male bonding as we might see in the days of Robert Bly&#39;s Iron John stuff - more sensitive male bonding. Promisekeepers had an undertone of fascism that was unmistakable.<!--/Text--></td></tr>
+<!--/Post: 12682-->
+<!--Post: 12684--><!--Time: 1112769559-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12684"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 05, 2005 - 11:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->As BTK was fading from the public memory Wichita became nationaly known not as the terror grounds of a serial killer but rather the anit-abortion movement took up shop there. <BR>Dr. George Tiller&#39;s clinic was bombed in 1985 and he was shot in 1993. In 1991 45 days of protests were called the Summer of Mercy. 2,700 protesters were arrested. At the largest rally held that summer police estimated a crowd of 30,000. <BR>What do you think was BTK suspect Dennis Rader&#39;s opinion of this? <!--/Text--></td></tr>
+<!--/Post: 12684-->
+<!--Post: 12685--><!--Time: 1112788808-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12685"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 06, 2005 - 5:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Johno, surprisingly, tiller was my suspect for a while. I am embarressed to admit it now. But I found an online biography of the butcher that freaked me out. It had  photos of him in younger years, and one of the pics actually looked hispanic, and the others of him, you couldnt even tell it was the same man. Look at the pics on this page, down on the right hand column. <BR><a href="http://www.dr-tiller.com/biography.htm" target=_top>http://www.dr-tiller.com/biography.htm</a> <BR> <BR>His parents were killed in a plane crash when he was pretty young. I just imagined him doing the btk stuff, then he found a &#34;legal&#34; way to get off on doing sh&#42;t to women. You probably know me well enough to say I have quite an imagination. <BR> <BR>note&#42;&#42;&#42;just my opinion for a few days back in january&#42;&#42;&#42;this is not true, tiller is not....well I cant really say he is not a murderer...ok, tiller is not rader.  <BR><!--/Text--></td></tr>
+<!--/Post: 12685-->
+<!--Post: 12725--><!--Time: 1112932303-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12725"><font face="Verdana" size="1"><b><!--email--><a href="mailto:rwmm@swbell.net" target="_blank"><!--/email--><!--name-->Lilymarie<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Lilymarie<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 8:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tiller was not a butcher. He was a legally practicing medical doctor - providing perfectly legal services to women that want and need them. More than 50% of the population in the U.S. support choice for women. <BR> <BR>Your statements deserve to be answered and balanced by the facts. Clearly what you stated is only your opinion.<!--/Text--></td></tr>
+<!--/Post: 12725-->
+<!--Post: 12730--><!--Time: 1112937995-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12730"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 10:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey people - long time no see.  Good to be back.  Just my read on this, but it looks to me like the PK thread in question is troubled by the &#34;left-wing&#34; aspects of PK - you know, religious unity and all that stuff.  Getting into a room with - OMG - Mormons!  Not sure what KR is troubled by - could be this aspect, or perhaps it&#39;s something more like Steve&#39;s or my issues with PK.  Personally, it was always a bit too much like an unholy &#40;n.p.i.&#41; mixture of Oprah and a football huddle.  Not to knock it totally - the general idea was to harmonize and equalize fundamentalist evangelical marriages where the asymmetrical roles had gone wobbly with male power imbalance - clearly not a bad thing. <BR> <BR>PS Steve - Love the idea of a Jewish Promise Keepers.  Not sure who would do it better - Woody Allen or Mel Brooks.<!--/Text--></td></tr>
+<!--/Post: 12730-->
+<!--Post: 12731--><!--Time: 1112939587-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12731"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 07, 2005 - 10:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Lily, of course they are just my opinions. <BR> <BR>But...I dont care how many in the poplulation support abortion, its clearly bad, bad, bad... <BR> <BR>Find me a women who has had an abortion and hasnt <BR>lived a lifelong guilt trip, find me one who hasnt <BR>regretted it all the days of her life, find me one that doesnt feel like a killer, find me one that doesnt hate herself, find me one that doesnt wish she could change the past, find me one that is proud of her selfishness. <BR> <BR>Find me one mother who has gone through pregnancy and birth and regrets it, who wishes she could change the past and abort the baby. <BR> <BR>Of course this is my opinion, just because its legal doesnt make it right.  Please dont be swayed by public opinion, be swayed by whats in your heart.  <BR> <BR>Not too long ago, I was in the car with my kids,  <BR>3 of em, 13, 10 and 9, and someone on the radio said something about abortion. They wanted to know what it was, So I told my kids what is was, in a matter of fact way, I also told them it was legal. Oh man, they were so up in arms, they could not believe a women could do this to her own, and they definately couldnt believe it was legal. I was very proud of them that day. <BR> <BR>Judge not lest ye be judged. I am not judging anyone, I am stating that it is wrong. Women can be forgiven by The Big Guy for having an abortion, if they are truly aware, but they are still probably gonna feel bad about it forever. <BR> <BR>I wish all the women that have had abortions would speak out, instead of cowering in shame. <BR>Hmmm, why would they feel shame for doing something that is legel? <BR> <BR>Im not against you Lily, but I absolutely hate tiller with all my guts and every last breath.He is the most disgusting mass of human cells ever to breath our air. His new practice for late term aabortions &#40;otherwise known as fully developed babies&#41; is to take a really long needle, stick it in the mommas belly, all the way through the protective tough muscular uterine wall, and poke the needle into the babies head, and shoot poisen into the little brain. He does all this while he&#39;s got the baby&#39;s picture on the ultra sound screen, and damn, I bet that little baby squirms and wriggles, trying to get away from the freakin needle.  <BR> <BR>Tell me, what kind of human could watch that on the screen, and go ahead and do it? One like rader, thats who. <BR> <BR>If I had to choose who to put in jail or let walk free, I would let rader out and put tillman in. <BR> <BR>Since toms not here to moniter, feel free to post what ever you want. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12731-->
+<!--Post: 12734--><!--Time: 1112945098-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12734"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 08, 2005 - 12:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well I just asked what anyone theorized Dennis Rader may have thought about those events of the summer of 1991 and what conversations he may have had about it with his church and family members. <BR>I&#39;ll put Itty in the column as being of the opinion of Rader&#39;s opposition to the anti-abortion rallies.<!--/Text--></td></tr>
+<!--/Post: 12734-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/762">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/762" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>Discus Program Error Message</title>
+</head>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Search Result Is Expired</td>
+<td class="topsect2">
+&nbsp;
+</td>
+</tr>
+</table>
+</p>
+<font face="Verdana" size="1">
+<p>The search you attempted to access has expired and is no longer available. Please perform a new search to continue accessing your results.</p>
+<p>
+Please contact
+<a href="mailto:webmaster@catchBTK.com">Tom Voigt</a>
+if this problem persists.
+</p>
+<p>
+<table border=0 bgcolor=#ffcccc width=100%><tr><td>
+<font face="arial,helvetica" size=1>
+<b>Discus 4.00.6</b><br>
+Copyright &copy; 2002, DiscusWare, LLC, all rights reserved<br>
+Perl 5.008004/MSWin32</font></td></tr></table>
+<!--
+<!-Begin Error Message-!>
+Search Result Is Expired:
+The search you attempted to access has expired and is no longer available. Please perform a new search to continue accessing your results.
+<!-End Error Message-!>
+-->
+</p>
+</body></html>
+<!--HTTP Cookie:  -->
+<!--Setting Cookies:
+  -->

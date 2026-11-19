@@ -1,0 +1,265 @@
+<html>
+<!--Topic: 1/General BTK discussion-->
+<!--Me: 190/&#34;CATCH BTK Trip Proposed&#34;-->
+<!--Level 1: 190/&#34;CATCH BTK Trip Proposed&#34;-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: &#34;CATCH BTK Trip Proposed&#34;</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">&#34;CATCH BTK Trip Proposed&#34;</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK discussion</font></a> &#187;
+&#34;CATCH BTK Trip Proposed&#34;
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=190"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=190"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 1638--><!--Time: 1102483307-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1638"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Vscantu<!--/name--></b></a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 07, 2004 - 9:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->TOM &amp; Everyone: This site is great &amp; I have an idea: What if we organized a 5-day &#34;CATCH BTK&#34; trip to Wichita? The aim of course would be to lead to a solution of the case. It would contain a BTK tour of the known murder scenes, places he left victims&#39; cars, letter-drops, etc. We could rent a mini-van once there &amp; travel / live fairly cheaply! Finding low air-fare would be the biggest challenge. <BR>Of course it would be rather spooky, but that might be part of the attraction....  <BR>Just a thought. What do you think?<!--/Text--></td></tr>
+<!--/Post: 1638-->
+<!--Post: 1745--><!--Time: 1102755532-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1745"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Vscantu<!--/name--></b></a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 11, 2004 - 12:58 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Allright, it&#39;s obvious you&#39;re all chicken. It tunrs out I can get Very cheap airfare to and from Kansas.<!--/Text--></td></tr>
+<!--/Post: 1745-->
+<!--Post: 1746--><!--Time: 1102773821-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1746"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 11, 2004 - 6:03 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think that it is a good idea. I am envious of those who live in Wichita as they have history and info at their disposal and a possible glimpse of BTK. <BR> <BR>I had an ESP revelation that BTK&#39;s homeground is Coffeyville. Take that for its psychotic worth! It is easier to be an upstanding citizen in a small town. Of course, people are nosier as well. Gossip travels quickly.<!--/Text--></td></tr>
+<!--/Post: 1746-->
+<!--Post: 1749--><!--Time: 1102792526-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1749"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Vscantu<!--/name--></b></a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 11, 2004 - 11:15 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yeah, Teardrop, the Wichita locals have an advantage. But by the same token, they&#39;ve had to live with that nightmare all these years. <BR> <BR>I think a few-day trip there by several of us would be a really fascinating adventure. And maybe lead to some excellent tips. Let&#39;s see if anyone else is interested in exploring this...<!--/Text--></td></tr>
+<!--/Post: 1749-->
+<!--Post: 1760--><!--Time: 1102817915-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1760"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Krista<!--/name--></b></a><br>Username: <!--field:uname-->Krista<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 11, 2004 - 6:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Vscantu, <BR> <BR>Count me in and a few other of us here from Texas. <BR> <BR>I&#39;m ready! <BR>Krista<!--/Text--></td></tr>
+<!--/Post: 1760-->
+<!--Post: 1761--><!--Time: 1102818477-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1761"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Krista<!--/name--></b></a><br>Username: <!--field:uname-->Krista<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 11, 2004 - 6:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe the first part of the year, after the Holidays.  I have a group of 3 right now, ready, willing and able.  I know that I can assemble a bigger group between now and then.  I can work on some of the details from here. Let me know your ideas, ie lodgeing, travel and such.  I can do investigation on this end via computer and a friend that I have met on this site that lives in Witchita. <BR> <BR>Kind Regards, <BR>Krista <!--/Text--></td></tr>
+<!--/Post: 1761-->
+<!--Post: 1764--><!--Time: 1102821033-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1764"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 11, 2004 - 7:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Please don&#39;t come before Spring Break. Winters are cold here. Unless you like being bundled up and freezing your face. lol <BR>-Deb<!--/Text--></td></tr>
+<!--/Post: 1764-->
+<!--Post: 1770--><!--Time: 1102825202-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1770"><font face="Verdana" size="1"><b><!--email--><a href="mailto:zodiacfiles@aol.com" target="_blank"><!--/email--><!--name-->Ed_neil<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 11, 2004 - 8:20 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->After spring break when it warms up... sounds like a plan!  It&#39;s going to be expensive for us here in California: airfare, place to stay, etc, etc, etc.  Maybe we can charter a bus, it&#39;ll take maybe 30 hours to drive.  And a group rate at a hotel...<!--/Text--></td></tr>
+<!--/Post: 1770-->
+<!--Post: 1776--><!--Time: 1102834371-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1776"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Vscantu<!--/name--></b></a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 11, 2004 - 10:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Great idea, Ed. A bus trip in the spring would be interesting, &amp; probably fun. Or maybe we can get some kinda WAY CHEAP group airfare discount that leaves from S.F. <BR> <BR>KRISTA: any ideas for us in the S.F. area?<!--/Text--></td></tr>
+<!--/Post: 1776-->
+<!--Post: 1777--><!--Time: 1102834817-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1777"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Vscantu<!--/name--></b></a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 11, 2004 - 11:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I wonder if we can also get that guy that runs this site interested in this CATCHBTK trip.  <BR> <BR>What&#39;s his name again?? TOM, or something, I think.<!--/Text--></td></tr>
+<!--/Post: 1777-->
+<!--Post: 1782--><!--Time: 1102837850-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1782"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, December 11, 2004 - 11:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Victor, it looks like I might just be headed to Wichita this month. <!--/Text--></td></tr>
+<!--/Post: 1782-->
+<!--Post: 1790--><!--Time: 1102867785-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1790"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wichitagirl<!--/name--></b></a><br>Username: <!--field:uname-->Wichitagirl<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 12, 2004 - 8:09 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->krist glad to have u all<!--/Text--></td></tr>
+<!--/Post: 1790-->
+<!--Post: 1792--><!--Time: 1102869540-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1792"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megan<!--/name--></b></a><br>Username: <!--field:uname-->Megan<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 12, 2004 - 8:39 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It sounds like a good idea to me, keep us posted on when we are supposed to go! <BR> <BR>I look forward to it!<!--/Text--></td></tr>
+<!--/Post: 1792-->
+<!--Post: 1793--><!--Time: 1102869914-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1793"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Krista<!--/name--></b></a><br>Username: <!--field:uname-->Krista<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 12, 2004 - 8:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, <BR>Your in Oregon right?  When are you planning your trip, December or January?   <BR> <BR>Vscantu, let me look and see what we can do to get the West Coast over to Kansas and I&#39;ll let you know.   <BR> <BR>Wichitagirl, how many people would you be able to &#34;put up&#34; at your place? I know there are 3 in my group now. <BR>But, if we end up with a lot of people coming, maybe you could help us out with searching for some hotel/motel group rates there in Wichita. <BR> <BR>More later, <BR>Krista <BR><!--/Text--></td></tr>
+<!--/Post: 1793-->
+<!--Post: 1795--><!--Time: 1102880101-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1795"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Vscantu<!--/name--></b></a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, December 12, 2004 - 11:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->TOM: Wow, that&#39;s amazing you&#39;re going to Witchita so soon. What&#39;s the occassion, if you can say? It may be a good pre-cursor to our &#39;group&#39; CatchBTK trip in the spring &#40;if that&#39;s the best time for us&#41;. You may want to re-visit Witchita with us then. What do you think? The best would be if BLT is caught by then! <BR> <BR>KRISTA: Thanks for offering to do that searching on low airfares &#40;or busfares?&#41; for us in the S.F. area! Let&#39;s see how many of us we can interest from here. And other places also. I think the main thing is to keep the prices down low! <BR> <BR>If we take a bus, don&#39;t forget to take a deck of cards! &#40;lol&#41;<!--/Text--></td></tr>
+<!--/Post: 1795-->
+<!--Post: 1816--><!--Time: 1102926733-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1816"><font face="Verdana" size="1"><b><!--email--><a href="mailto:zodiacfiles@aol.com" target="_blank"><!--/email--><!--name-->Ed_neil<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Ed_neil<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 13, 2004 - 12:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Make sure it&#39;s after March: I&#39;m going to the Grand Slam Sci Fi Summit that month.  When is Spring Break anyway?<!--/Text--></td></tr>
+<!--/Post: 1816-->
+<!--Post: 1817--><!--Time: 1102927112-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1817"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 13, 2004 - 12:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Victor, I might be able to announce details of my trip soon, but not yet.<!--/Text--></td></tr>
+<!--/Post: 1817-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/190">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/190" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,322 @@
+<html>
+<!--Topic: 11/BTK Theories-->
+<!--Me: 407/Discussions of &#39;OUR PROFILES&#39;-->
+<!--Level 1: 407/Discussions of &#39;OUR PROFILES&#39;-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 11-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Discussions of &#39;OUR PROFILES&#39;</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Discussions of &#39;OUR PROFILES&#39;</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/11/11.html"><font color="#f7f7f7">BTK Theories</font></a> &#187;
+Discussions of &#39;OUR PROFILES&#39;
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=11&page=407"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=11&page=407"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 5773--><!--Time: 1107363420-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5773"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 8:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->When you mentioned the orange jacket, it reminded me that I have a Naval flight rescue jacket. It is military green on the outside and rescue orange on the inside. One would wear it inside out if you wanted to be spotted and rescued. He could have turned it back to the green side before exiting the residence. I like your mention of the circle. Very observant. Most people cannot draw a perfect circle freehanded because of hemispheric dominance of the brain. BTK is such a perfectionist: a perfect circle.<!--/Text--></td></tr>
+<!--/Post: 5773-->
+<!--Post: 5775--><!--Time: 1107364800-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5775"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 9:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Teardrop - what is the significance of the orange jacket? <BR> <BR>Why do you think BTK drew the circle by hand?  <!--/Text--></td></tr>
+<!--/Post: 5775-->
+<!--Post: 5823--><!--Time: 1107391844-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5823"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 4:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tippy, the circle on the cereal box wasn&#39;t &#34;perfect,&#34; exactly -- it was definitely drawn with a black marker, from what I saw in photos of the box. The circle was too round, though, in my opinion, to have been drawn free-hand, I think he must&#39;ve traced around something to make the right size/shape circle that he wanted to go around the &#34;T&#34; on the box.  But he also went &#34;around&#34; the circle twice with the marker.  That&#39;s very visible in the photos.<!--/Text--></td></tr>
+<!--/Post: 5823-->
+<!--Post: 5893--><!--Time: 1107447377-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5893"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Bmodule<!--/name--></b></a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 8:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Re: Orange Jacket <BR>In a later interview, Kevin Bright corrected the media saying that it was originally reported that BTK was wearing an orange jacket when in reality it was camoflauge. <a href="http://www.kake.com/home/headlines/794962.html" target=_top>http://www.kake.com/home/headlines/794962.html</a>  He may have in his original interview said something about a &#39;hunting jacket&#39;. <BR> <BR>To clarify, camo jackets are used in duck blinds and deer hunting for concealment from prey, while the orange jackets are used in non exclusive hunting areas to keep other hunters from shooting you on the way to the blind,stand, etc. <BR> <BR>They are good quality,low cost jackets and camo jackets are frequently worn as work or knock-around coats. The orange one&#39;s however are rarely worn except by someone wanting to be easily seen, such as highway workers, airport workers, etc.. <BR> <BR>Military camo jackets are also common and wearing one would not attract any undo attention. <BR> <BR>I have noticed that the &#39;orange jacket&#39; keeps popping up, even in recent posts, and people seem baffled, and rightfully so, by the fact that no one noticed a guy leaving an interrupted crime scene in an orange jacket.<!--/Text--></td></tr>
+<!--/Post: 5893-->
+<!--Post: 5909--><!--Time: 1107452955-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5909"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lubbock<!--/name--></b></a><br>Username: <!--field:uname-->Lubbock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 9:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In his mini bio didn&#39;t BTK claim to be an avid outdoorsman? Maybe its true. If so maybe other items in his self description have a degree of veracity? This would indicate that he wasn&#39;t always just blowing smoke in his communiques.<!--/Text--></td></tr>
+<!--/Post: 5909-->
+<!--Post: 5832--><!--Time: 1107396252-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5832"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 6:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Observation: If he was raised as a Seventh Day Adventist, then he might not eat pork &#40;dietary restrictions&#41;.  Or celebrate his birthday -- Seventh Day Adventists don&#39;t observe birthdays, do they?  &#40;Unless it&#39;s Tom&#39;s?&#41;<!--/Text--></td></tr>
+<!--/Post: 5832-->
+<!--Post: 5838--><!--Time: 1107399658-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5838"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 7:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Crimone, I do like the joke about killing the whole box so I&#39;ll give you credit for that however the rest of what you say is obviously ridiculous. <BR>WPD knocked down a guy&#39;s door and arrested him simply because in being a 29 year Coleman employee he also happened to loosely fit the description as chronicled in BTK&#39;s highly questionable autobiography. <BR>You must have taken this theory and information linking your suspect to BTK to the police or FBI and they have outright dismissed it. Why did they  not take you seriously? <BR>For someone who doesn&#39;t want to harm or kill anyone he isn&#39;t very good it since indeed he is very sucessful at harming and killing and torturing and binding and bragging about it. <BR>Since you are so close to this individual that you even know his favorite cereals and share the secret of inspiration by Einstein than you must also have some fairly conclusive evidence that links this individual to the BTK crimes so again why don&#39;t the authorities believe you?  <BR>Your post is under profiles and theories but since you have dismissed the other profile posts than your&#39;s must be a theory and not a profile so without naming your suspect by name here how did you come up with this theory? <BR>What else do you have to give us so that we can consider your theory more seriously?<!--/Text--></td></tr>
+<!--/Post: 5838-->
+<!--Post: 5847--><!--Time: 1107402991-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5847"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lilymarie<!--/name--></b></a><br>Username: <!--field:uname-->Lilymarie<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, February 02, 2005 - 7:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->.....Has worked &#40;and continues to work&#41; in the helping field--and has had a great career of helping others.... <BR> <BR>......How frustrating it must be to read these profiles and theories as they are so far off.... <BR> <BR>???????????????????????? Huh?  <BR> <BR>This guy sadistically, horribly, hurt, tortured and killed CHILDREN! <BR> <BR>Since I cannot be as diplomatic as Johno was, I will try to let the first two statements above, your statements Crimone, speak for themselves. I will never take such cryptic nonsense seriously. It&#39;s frankly insulting.<!--/Text--></td></tr>
+<!--/Post: 5847-->
+<!--Post: 5861--><!--Time: 1107421433-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5861"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 1:03 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Mine comes in pretty close to yours, Moondog - I may not even bother to post it.  I&#39;m more doubtful than not about marriage, but the options you describe on that are pretty realistic.  I definitely agree that we shouldn&#39;t judge BTK&#39;s intelligence by his typos.  I&#39;m also seeing some agreement with Audrey and Ryddik on some points.  Crimeone&#39;s suspect isn&#39;t on my list, but it would be a hoot if it turned out to be him &#40;or possibly a libel suit if it&#39;s not!&#41;.  Thanks for the profiles, people.<!--/Text--></td></tr>
+<!--/Post: 5861-->
+<!--Post: 5896--><!--Time: 1107448573-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5896"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 8:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Moondog: The battle of the brain hemispheres. You are right. I struggle with that myself. He may have adult ADD, satisfying his hyperactivity via profession and hobbies. He likes to stay busy and on the move. That type adult gets their best ideas while driving. Interstates are a serial killer&#39;s best friend.<!--/Text--></td></tr>
+<!--/Post: 5896-->
+<!--Post: 5936--><!--Time: 1107458839-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5936"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 11:27 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->...perhaps BTK didn&#39;t even drive a car to stalk...or to his murder sites...what about a bike.  Perhaps he bikes everywhere he goes.  Perhaps he is independantly wealthy.  Perhaps he lived with his mommy all his life...no woman was ever acceptable in HER eyes.  Mommy is probably gone now.... <BR>highly intelligent man... <BR>EXTREMELY ARROGANT <BR>self serving <BR>ALONE <BR>very weak<!--/Text--></td></tr>
+<!--/Post: 5936-->
+<!--Post: 5968--><!--Time: 1107470201-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5968"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Crimone<!--/name--></b></a><br>Username: <!--field:uname-->Crimone<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 2:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Johno and Lilymarie, <BR> <BR>I could really care less whether you consider my theory serious or not. I could bash yours to pieces as well, but I have been nice...if you want to be jerks---go for it.<!--/Text--></td></tr>
+<!--/Post: 5968-->
+<!--Post: 5976--><!--Time: 1107471357-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5976"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lilymarie<!--/name--></b></a><br>Username: <!--field:uname-->Lilymarie<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 2:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok, Crimone. Duly noted and you are somewhat right. It just seems that when all of the professional profilers as well as the facts speak to someone that does not have the capacity for normal relationships, love, caring or compassion - well - I assumed you were not being serious.  <BR> <BR>Also, you, BTK and Einstein have an &#34;inside&#34; track? And &#34;daddy&#39;s little girl&#34; &#34;pains his heart&#34; almost seems like a shot to those that have experienced the heartless results of this freak of nature. <BR> <BR>I guess what I&#39;m saying is that when you put something out there that is completely contrary to what is generally accepted as logical - then you should explain why. <BR> <BR>Please accept my apology.<!--/Text--></td></tr>
+<!--/Post: 5976-->
+<!--Post: 5979--><!--Time: 1107471780-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5979"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 3:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I stand corrected on the orange jacket.  Kevin Bright has corrected this misinformation that was originally circulated in the Wichita press.  During the Bright attack, BTK was wearing a <b>camouflage</b> jacket. <BR><!--/Text--></td></tr>
+<!--/Post: 5979-->
+<!--Post: 5992--><!--Time: 1107475058-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5992"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 3:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Crimeone, I haven&#39;t submitted a theory or profile under this thread topic so as it is right now there is no theory or profile by me for you to bash but I&#39;ll work on something for you. You did however bash those who posted above you by saying they were so far off compared to yours so don&#39;t get to sensitive. <BR>At least you have now clarified that it is a theory. &#34;..he and I both know why&#34; and &#34;..he and I both know what it is.&#34; seems to imply that you not only have a theory but you have a suspect. <BR>Anyway I did like the joke about the cereal box. <BR><!--/Text--></td></tr>
+<!--/Post: 5992-->
+<!--Post: 6004--><!--Time: 1107477829-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6004"><font face="Verdana" size="1"><b><!--email--><a href="mailto:williammichael@direcway.com" target="_blank"><!--/email--><!--name-->Oklahoma_mike<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Oklahoma_mike<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 4:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Crimone, to me, your profile sounds more like the description of a specific suspect, someone you know or know of. While I disagree with some parts of your profile this is not meant as a criticism, as none of the points in your description/profile are impossible. <BR>My only wish is that if you do have a specific person in mind you honestly think could be the killer please inform law enforcement of the details and keep bugging them until they give you some kind of answer. <BR>Since there are thousands of possibilities, your suspect is probably not btk just by the law of averages&#41; but who knows?  Let the authorities know of your suspicions.<!--/Text--></td></tr>
+<!--/Post: 6004-->
+<!--Post: 6008--><!--Time: 1107479143-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6008"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 03, 2005 - 5:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Crimone - I already posted my theory on another thread - so I won&#39;t reiterate - but I would like to point out something on your theory.  You mention some good qualities in this person, whom you seem to believe is BTK.   <BR> <BR>That is one thing I hope everyone will take notice of.  Even serial killers possess qualities we think of a &#34;good&#34; and &#34;moral&#34;. <BR> <BR>I have to agree with Oklahoma Mike in that if you really DO believe this is the guy - go ahead and tell the police.  But - a word of warning here.  The Wichita PD embodies a &#34;shoot first&#34; and &#34;ask questions later&#34; mentality.  Be sure of your accusations before you do something that makes someone&#39;s life a living Hell - like that poor RV, who was descended upon by a pack of wolves, even though he was just one old man.  <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6008-->
+<!--Post: 6065--><!--Time: 1107517723-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6065"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 3:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George - your profile has many interesting and well-thought-out aspects.   <BR> <BR>I will try to post more on it later, but wanted to mention that here, in KS, we do not have concealed carry of firearms.  You must be in LE to carry.  I&#39;m sure that doesn&#39;t stop BTK, however.   <BR> <BR>And your mention that he will &#39;extremely difficult&#39; to apprehend.  Do you mean physically?  Will he resist?  Hole-up and shoot it out?  Or do you mean evidence-wise?   <BR> <BR>Great theory. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6065-->
+<!--Post: 6113--><!--Time: 1107536426-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6113"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 9:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tippy, <BR>What moral or good qualities are you speaking of? <!--/Text--></td></tr>
+<!--/Post: 6113-->
+<!--Post: 6114--><!--Time: 1107536864-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6114"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 9:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I can&#39;t speak for Tippy but btk is probably very polite in his every day dealings with people. You know, &#34;I never would have thought such a nice guy could do that&#34;! We&#39;ve heard it a million times, concerning people who have been found out to be involved in crimes either against others or themselves {suicide}. I can only guess that&#39;s what Tippy is referring to.<!--/Text--></td></tr>
+<!--/Post: 6114-->
+<!--Post: 6118--><!--Time: 1107538147-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6118"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 9:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yeah but that&#39;s not their genuine qualities. Those are false qualities they mascarade around to hide their geniune feelings and attidudes. Any good attributes a person like BTK has are usually just a cover. <!--/Text--></td></tr>
+<!--/Post: 6118-->
+<!--Post: 6119--><!--Time: 1107538692-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6119"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 9:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Exactly! Of course, he&#39;s not going to show that side of himself to any other than those he murders or violates. He&#39;s a very good actor. Are&#39;nt we all to some extent?  <!--/Text--></td></tr>
+<!--/Post: 6119-->
+<!--Post: 6123--><!--Time: 1107539848-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6123"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 9:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Everybody acts diffrently according to the situation and company they are keeping at any particulair time but that is a far cry for a true psychopathic personality like BTK and most serial killers. A psychopaths true persona is hidden behind a superficial veener. What good are false qualities if they used to only for deception.<!--/Text--></td></tr>
+<!--/Post: 6123-->
+<!--Post: 6126--><!--Time: 1107541012-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6126"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lorenap<!--/name--></b></a><br>Username: <!--field:uname-->Lorenap<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 10:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Point made Scbenson2001. I&#39;m hearin&#39; ya. I can&#39;t wait &#39;till they catch this guy, of course for what he&#39;s done, but also to finally see who this is. I wonder if he&#39;ll ever really divulge his secrets, what makes him tick. <!--/Text--></td></tr>
+<!--/Post: 6126-->
+<!--Post: 6127--><!--Time: 1107541387-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6127"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 10:23 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->When asked by LE what was diffrent in him then most people Gary Ridgeway, the Green River Killer, responded &#34;That caring thing&#34;. That is the most truthful thing I ever heard a serial killer say. True psycopaths like Ridgeway or BTK have no empathy for other people. They do not care at all. <!--/Text--></td></tr>
+<!--/Post: 6127-->
+<!--Post: 6142--><!--Time: 1107549952-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6142"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Crimone<!--/name--></b></a><br>Username: <!--field:uname-->Crimone<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 12:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Johno and Lily, <BR>Thank you for your comments. I really do appreciate them and it is nice to not feel so ridiculed now.<!--/Text--></td></tr>
+<!--/Post: 6142-->
+<!--Post: 6170--><!--Time: 1107564323-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6170"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 4:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tippy, by &#34;extremely difficult,&#34; I believe BTK is going to get away with everything and never be caught. I&#39;ll be ecstatic if I&#39;m wrong, which I often am.<!--/Text--></td></tr>
+<!--/Post: 6170-->
+<!--Post: 6177--><!--Time: 1107565420-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6177"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 5:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I was looking for info on &#34;organized&#34; serial killers à la BTK, and came across an interesting article on a Viennese murderer named Jack Unterweger &#40;written by Katherine Ramsland&#41;: <a href="http://www.crimelibrary.com/criminal_mind/profiling/profiling_2/index.html?sect=20" target=_top>http://www.crimelibrary.com/criminal_mind/profilin g/profiling_2/index.html?sect=20</a> <BR> <BR>Notice Unterweger&#39;s literary career?  The similarity with BTK on that note really struck me.    Interesting the way the European and American LE worked together on the profiling as well. <BR> <BR>When they capture BTK, I&#39;ll be interested in seeing if his real world, public face is as self-assured and polished as Unterweger&#39;s was.  Unterweger really knew how to suck people in. <BR> <BR>I&#39;m kinda doing a free-association here... Speaking of smooth serial killers, Paul Bernardo, a serial killer from the Toronto area, was interviewed by police based on a tip, quite a while before they were actually arrested in the case. He was very handsome and charming, and the police officer decided he couldn&#39;t possibly be a serial killer -- Bernardo&#39;s house was full of photos of himself and his pretty blonde wife, all domestic bliss.  Meanwhile, the two of them had been raping, torturing and killing teenaged girls in that very house.<!--/Text--></td></tr>
+<!--/Post: 6177-->
+<!--Post: 6204--><!--Time: 1107577407-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6204"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 8:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i>I will try to post more on it later, but wanted to mention that here, in KS, we do not have concealed carry of firearms. You must be in LE to carry. I&#39;m sure that doesn&#39;t stop BTK, however.</i> <BR> <BR>It must vary state by state. I haven&#39;t checked lately, but my old state, Virginia, did pass a law which allowed any citizen of twenty-one or better without a felony background &#40;of course&#41; to carry a <i>concealed</i> firearm. All one needed to do was attend and pass a course about firearm safety. I knew women who carried loaded firearms in their purses. <BR> <BR>Much of my profile is deliberately very speculative, as Mr. Kelleher pretty much has things covered as far as I&#39;m concened; however, my armchair profile point about BTK being armed, is, sad to say, one of the points I believe to be the most accurate. I see you&#39;re of a similar attitude on that score. <BR> <BR>To answer you a little more in depth, I think that should BTK be identified, they&#39;d need a fairly clever scheme to capture him alive. Would BTK put up a fight? Probably, as he&#39;d recognize it meant the end: suicide by cop is a strong possibility in this case. But the key thing is to identify him. It&#39;s been almost eleven months and, I&#39;m sorry, but &#34;the police are only being thorough&#34; line isn&#39;t easy to accept any longer. The Mr. V. fiasco demonstrates WPD&#39;s desperation, IMO.<!--/Text--></td></tr>
+<!--/Post: 6204-->
+<!--Post: 6205--><!--Time: 1107578099-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6205"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 8:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Audreyamw: How true about Bernardo! He was a sexual sadist and would be a decent person to study. He was only caught when Karla Homolka turned herself in. Her prison sentence was too light, she was as bad as he. I know about Stockholm syndrome and all that but per societal bias, her sentence wasn&#39;t nearly as harsh as Bernardo&#39;s was, even though she murdered and tortured right along with him.  <BR> <BR>You bring up a good point. BTK may have an accomplice. I don&#39;t mean someone like Karla but rather someone who has significant suspicions about someone being BTK, but suspicions they will never share with LE. I can&#39;t accept that <i>no one</i> doesn&#39;t have at least a significant hunch as to who BTK is.<!--/Text--></td></tr>
+<!--/Post: 6205-->
+<!--Post: 6373--><!--Time: 1107732948-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6373"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, February 06, 2005 - 3:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Scbenson2001:  Why do you think BTK could have a facial disfigurement/blemish?   <BR> <BR>I like how you pointed out that he reads a lot, especially newspapers.  If he wants to stay on top of the ongoing media blitz, maybe he has subscriptions to all the local papers?  He&#39;d also probably buy a lot of true crime paperbacks.  LE has probably already looked into that angle though.  There are a lot of people who read about true crime these days.  &#40;Looking over my shoulder...&#41;<!--/Text--></td></tr>
+<!--/Post: 6373-->
+<!--Post: 6443--><!--Time: 1107794976-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6443"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 8:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I based that on a article I read almost a decade ago about the case. Tom Harris the author of Red Dragon and Silence of the Lambs was interviewed he stated that he based the toothfairy killer in Red Dragon on the BTK case. Toothfairy killer had a soft palate if you recall, I agree its a far fetched idea elsewise or anyways. Mabye I should have taken it out. <!--/Text--></td></tr>
+<!--/Post: 6443-->
+<!--Post: 6450--><!--Time: 1107798720-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6450"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ryddik<!--/name--></b></a><br>Username: <!--field:uname-->Ryddik<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 9:52 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree with btk having cancer however prostate cancer is usually a slow moving cancer &#40;2-5 years&#41; its when the cancer moves such as into the bones that your days become numbered.<!--/Text--></td></tr>
+<!--/Post: 6450-->
+<!--Post: 6456--><!--Time: 1107803988-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6456"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 11:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I do not believe he is about to die. I think he may be facing death sooner then later but not in the near future. It&#39;s already been what almost a year since his first resurfacing right.<!--/Text--></td></tr>
+<!--/Post: 6456-->
+<!--Post: 6459--><!--Time: 1107806121-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6459"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 11:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Scbenson2001 - I agree...I do not think he is dying either...I think that perhaps he is ill...maybe just old..tired...no energy.however I do think he is isolated...totally alone..except for &#34;general public&#34; interactions....but no, I don&#39;t think he is dying either..but I do think he is sick - perhaps even a &#34;self diagnosed&#34; illness...<!--/Text--></td></tr>
+<!--/Post: 6459-->
+<!--Post: 6484--><!--Time: 1107819923-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6484"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 3:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think a lot of people are under the impression that this is some tottering old fool almost ready to kick the bucket and searching for his dentures on the nightstand. Some think he&#39;s on his deathbead. Even various profilers believe there may be something medically wrong with his physical condition that has caused him to resurface. <BR>Let&#39;s say BTK was around 27 years old &#40;just an abitrary age of a suspect between 25-30 during the Otero murders of 1974&#41; he&#39;d still be only 58 years old today. If you are 21 then 58 might seem old to you but it isn&#39;t very old at all. He may be at the very oldest 65 today. Heath problems may be occuring but this guy doesn&#39;t seem so ill to prevent him from driving around the kansas countryside in the cold of a Kansas January dumping off Post Toastie boxes and crusing Wichita parks in December dropping off murder victim belongings. <BR>This is still a very dangerous man. <BR>Anyone capable of taunting community,police, media and victims for the past 11 months after years of obscurity is capable of killing again given the ideal circumstances. He may have had a murder planned out already that didn&#39;t pan out because of it ending up as too risky. <BR>This guy may be pretty secretive but he&#39;s not invisible. He buys gas &#40;since we know he has to have a car today to do the cereal box drop offs&#41;, he&#39;s got to eat and buy essentials to live, he gets mail, gets his hair cut, buys stamps and postcards and envelopes, buys clothing and unless he&#39;s financially independent he&#39;s still holding down a job or has taken an early retirement. <BR>Maybe in early 2004 he turned 62 and took an early retirement.  <BR>In any event he has a paper trail out there of social security, retirement fund, banking statements, bill statements, credit card statements, benefits or whatever. <BR>Maybe he doen&#39;t live in Wichita but once did and still has relatives who live there that he frequently visits and he is currently living less than a gas tank away. Or always was. <BR>He can be stealth and somewhat reclusive but he still has to have regular contact with people. <BR>Thanks to Tom&#39;s site here we can profile and theorize and brainstorm but it&#39;s ultimately going to take someone from Wichita itself to put all this together. Maybe someone as inconsiquential as a convience store clerk who sell chewing gum to BTK is going to notice something no one else has and put two and two together.<!--/Text--></td></tr>
+<!--/Post: 6484-->
+<!--Post: 6492--><!--Time: 1107824543-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6492"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 07, 2005 - 5:02 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree compleatly Johno, I have never &#34;seen&#34; BTK as an old toothless man with a stick, and I think he is well capable of killing again if that is what he want. <BR> <BR>Just for people to take a look at what men can look like in the age range that BTK possible is I add a link to a danish&#40;my location&#41; model agency, the section with older men: <BR> <BR><a href="http://www.art-supply.dk/" target=_top>http://www.art-supply.dk/</a> <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 6492-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="11/407">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=11/407" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

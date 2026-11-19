@@ -1,0 +1,306 @@
+<html>
+<!--Topic: 10/BTK Communications-->
+<!--Me: 754/Factor X???-->
+<!--Level 1: 754/Factor X???-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 10-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Factor X???</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Factor X???</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/10/10.html"><font color="#f7f7f7">BTK Communications</font></a> &#187;
+Factor X???
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=10&page=754"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=10&page=754"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 12285--><!--Time: 1111868726-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12285"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 26, 2005 - 12:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Can somebody tell me what the heck he meant by Factor X??? I wonder if I should look up the topic??? If somebody has any info on this Factor X please reply to this thread<!--/Text--></td></tr>
+<!--/Post: 12285-->
+<!--Post: 12287--><!--Time: 1111876756-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12287"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 26, 2005 - 2:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Dear Meg, <BR> <BR>Even Dennis Rader doesn’t know exactly what Factor X is. <BR> <BR>There have been some good guesses on this site and some bad guesses… and some hilarious ones. <BR> <BR>How do I know that?... because I’ve read all the posts. <BR> <BR>There have been twenty one separate discussions on this board regarding Factor X -- <BR>Twenty two, if we count your new thread. <BR> <BR>Twenty two! <BR> <BR>How do I know that?...check this out Meg. <BR> <BR>Go to the upper right corner of your screen. Click on search… wait! Not yet… <BR>I’ve more to share with you. <BR> <BR>The search mode on this board is a terrific tool. <BR> <BR>You’re wondering about Factor X. Try this: <BR> <BR>Enter “factor x” in the key word subject field. Make sure to use the “ ”quotation marks. They will match your query to the exact phrase. <BR> <BR>Your search results will include some brilliant discussions which will really get your juices flowing! <BR>Some of these threads are just aching for a poster to come along and reinvigorate the topic. <BR> <BR>As more truths and rumors surface, many of these old threads will live again. <BR> <BR>I have two other reasons for recommending this course of action to you. <BR> <BR>1.	Some of Catch’s best posters have… how shall I put it?… short fuses. <BR>They might be tempted to unload on you if they perceive redundancy, lack of research or, Heaven forbid… <BR>That you are trolling. <BR> <BR>It could get ugly. <BR> <BR>Unless it’s Lilymarie who takes aim. <BR>I think she’s beautiful when she’s angry! <BR> <BR>2.	I have never seen Tom Voigt’s keyboard but I’ll guarantee you this… <BR>The nomenclature is worn off of his delete key. <BR>T.V. has read every post too… and then some.  <BR>All that reading… it’s given him an itchy trigger finger. <BR>Chances are that when Tom does his spring cleaning, this thread will get… the finger! <BR> <BR>I don’t mean to discourage you from asking questions or starting threads. <BR>Lord knows, I’ve started up some duds myself. <BR>You can be sure, no one died and made me sheriff. I appreciate your enthusiasm. <BR>I just think you’ll really love that “search” feature. I use it all the time. <BR> <BR>Happy Hunting, <BR> <BR>Xdog <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12287-->
+<!--Post: 12297--><!--Time: 1111898333-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12297"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsbarn<!--/name--></b></a><br>Username: <!--field:uname-->Elsbarn<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 26, 2005 - 8:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Factor X= perverse, euphoric and compulsive aspect of his personality.<!--/Text--></td></tr>
+<!--/Post: 12297-->
+<!--Post: 12298--><!--Time: 1111901494-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12298"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 26, 2005 - 9:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Mail  from Curious <BR> <BR>I have a thought about Factor X. I am sure you folks have dissected that one a zillion times. I remember reading from crimelibrary the semen at the crime scene was unique to the extent that 6-7% of men had it. Now 6-7% isn&#39;t THAT unique. It was never clear what was so unique about it -- genetic deformity? illness? interesting cross-breeding marker? Then I read on the catchbtk.com site that his grandparents were first cousins and his parents were second cousins &#40;which though not verified hasn&#39;t been disputed on the site&#41;. That is pretty odd -- does the family practise inbreeding and if so, why? Did they have someone important in their ancestry and wanted to preserve that link? Was inbreeding their way of leaving a marker? Would it explain why a family member, according to kerri&#39;s website, is a genealogist?  <BR> <BR>I had a discussion with someone on why they tried to get Kerri&#39;s DNA and not Brian&#39;s. You guys know better -- maybe it&#39;s a state jurisdiction thing, that Michigan allowed it and whatever state Brian is in didn&#39;t allow it. It may be something or it may be nothing, as to why they chose Kerri and not Brian. My friend said they simply wanted to find out if Kerri was his real daughter, since most people hadn&#39;t thought BTK capable of consumation. Then I read on your site it could be possible one of the brothers donated sperm to help a sibling out. It just gets stranger and stranger. Whatever the reason, I&#39;d like to know why the LE chose Kerri and not Brian. Did they know something we didn&#39;t?  <BR> <BR>Now here&#39;s a random thought. When you started the thread on the three dudes,  I got really intrigued. Because I had not been 100% convinced he acted alone. He may have killed alone, that I can believe. But he may or may not have ACTED alone. My theory is if he&#39;s into S&amp;M, he would be the master and had a slave. He may have had the slave pick him up or do some other errands &#40;make that Nancy Fox call? do some drops? pick up trophies?&#41; and the slave may never have known what the master was up to -- he may have noticed the master was sexually aroused or agitated but never wondered why &#40;in the way slaves dare not practise free thought&#41;. BTK being so sick, I am not past thinking the slave could be a sibling or a relative. Especially if as above, the X factor had something to do with some kind of inbreeding that made they feel special, allowed to do certain things, maybe even encouraged to do certain things. <BR> <BR>I remember that DR was arrested a brother said they got the wrong guy but hey if Dennis did do it, God help him. I always thought that was a bit weird. You&#39;re either shocked and outraged or outraged and defending your brother but to have that kind of reaction is a bit strange. ``O no, he couldn&#39;t have... Dennis BTK? No..... hmmm, o wait. Right.... well..... ok, maybe..... if so..... ah......we leave it to God eh......&#39;&#39;    A pretty strange pattern of thought if you ask me. It told me two things: there was enough doubt about Dennis. There was also enough oddness about that reaction for me to suspect a family member. Normal people don&#39;t react like that. <BR> <BR>Thanks for even reading my mail. If it&#39;s way dumb, you dont have to post it. Just some loose ends I keep thinking about.  <BR> <BR>&#40;Personal note not for publication: mental illness appears to run in my family. So I have grown up watching them get depressed, suicidal, paranoid, obsessive compulsive. I used to fear it was genetic &#40;though quite certain it was from domestic abuse&#41; and my time would come and went to see doctors but they said in my siblings&#39; cases there was evidence of abuse that may have caused or aggravated it, ie nurture not nature. I don&#39;t know if they said it to make me feel better but hey,  I am always alert to any deficiency. I was spared the abuse as i was the last child and parents already too old to hit me I guess. My friends say I am so sane something must have gone right but they cant figure out why my family has such a high incidence. Police have been called to my house for domestic violence in my childhood and i myself witnessed a near homicide attempt. But I am saying all this to mean: I have seen close up enough strange family behavior and reactions to know something isn&#39;t quite right. I think DR&#39;s brother&#39;s reaction isn&#39;t quite right. He may know something. Like maybe another brother could have done something that implicated DR? I.e. I am suggesting he knows DR did it, and he had help but since he cannot protect DR now, he can protect that someone else&#41; <BR> <BR>  <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12298-->
+<!--Post: 12299--><!--Time: 1111904792-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12299"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, March 26, 2005 - 10:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#40;oops&#41;<!--/Text--></td></tr>
+<!--/Post: 12299-->
+<!--Post: 12313--><!--Time: 1111970618-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12313"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 27, 2005 - 4:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The reference to Factor X  may serve two purposes. It allows the BTK Strangler to blame his violent sexual fantasies and desire to murder a particular type of woman on a genetic abnormality. A sadistic psychopath does not accept responsibility for their behavior and actions. Secondly, it allows him to maintain control and domination of the situation. Usually a medical professional diagnoses a patient, but in this case the BTK Strangler made the diagnosis. I suspect Rader does not understand the concept of Factor X. <BR> <!--/Text--></td></tr>
+<!--/Post: 12313-->
+<!--Post: 12317--><!--Time: 1111974655-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12317"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 27, 2005 - 5:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ahh...served up smartly, nicely appointed table setting, the bouquet is lovely and the flavor is rich and warm, a bit floral, always elegant. If it&#39;s a 5-star response to a post at catchbtk.com, it must be written by Chef Ivy Leaguer. Always a pleasure, Ivy. You take one brief paragraph to clearly state the case as it truly is where I sometimes write a whole book. That&#39;s a gift, my friend.<!--/Text--></td></tr>
+<!--/Post: 12317-->
+<!--Post: 12374--><!--Time: 1112128837-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12374"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 29, 2005 - 12:40 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I posted the rest accidently, but it is anom. Please fogive me, I have been under a lot of stress. I grew up myself it this same type of back woods mentality, there is enviromntal factors of course in all our lives, it is up to us to decide how we orselves are going to change what our families can not. my own sister is in and out of nut wards and extremely violent, my brother and I fought hard to be different. <!--/Text--></td></tr>
+<!--/Post: 12374-->
+<!--Post: 12375--><!--Time: 1112129413-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12375"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 29, 2005 - 12:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Emb - are you okay? Your post doesn&#39;t make alot of sense? <BR><!--/Text--></td></tr>
+<!--/Post: 12375-->
+<!--Post: 12405--><!--Time: 1112169505-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12405"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 29, 2005 - 11:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Embersage: Thanks for sharing that very personal side of your life history. It gives us all a new insight into you as a person. I too grew up in a family like that, only way less severe. <BR> <BR>But I don&#39;t think DR&#39;s brothers&#39; reaction is all that odd. After all, who knows how a &#34;normal&#34; person would &#39;typically&#39; react to being told their loveable, straight-laced brother was BTK! <BR> <BR>As for &#34;FACTOR X&#34;: I think it is like Algebra. When you have a quantity &#40;or trait&#41;, that is pretty similar in many situations, you call it &#34;X&#34;. You may not know the exact definition of it, but you know it EXISTS. Like if you people everywhere started getting a purple rash on their index fingers, you might call in &#34;Condition X&#34;. Even though you didn&#39;t know what caused it, it would be easy to just refer to it as &#34;Condition X&#34;. <BR> <BR>Oh, well, that&#39;s my 2 cents anyway. <BR> <BR>Now that I think about it, here&#39;s something really spooky: Charles Manson was on trial for the 7 &#34;Sharon Tate murders&#34; in 1970. In the midst of it, he carved a bloody &#34;X&#34; into his forehead, and released a statement saying he was &#34;X-ing&#34; himself out of this world because he hated it. All his followers, including the 3 girls also on trial, also carved this same &#34;X&#34; into their foreheads. This &#34;X&#34; has stayed on Charlies&#39; face to this day, tho&#39; now he has modified it into a swastika. <BR> <BR>Factor X????? Mwuhahahaha!!<!--/Text--></td></tr>
+<!--/Post: 12405-->
+<!--Post: 12412--><!--Time: 1112198954-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12412"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 30, 2005 - 8:09 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Emb - another thought for you.  I also come from a dysfunctional heartbreaking family....I too try to stay above the maddness...hence..the user name Elsewhere...I love my family tho... <BR>and Vs - remember Charlie&#39;s eyes - OMG...same evil look in DTDC&#39;s....not quite as crazy and wild...maybe all the acid did that to Charlies&#39;s and then again perhaps it was just his shee evilness...the &#34;Factor X&#34; protruding<!--/Text--></td></tr>
+<!--/Post: 12412-->
+<!--Post: 12419--><!--Time: 1112204915-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12419"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 30, 2005 - 9:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I recieved a mail &#40;above from Curious&#41; and I wasnt supose to paste the bottom half of it, I get over 50 of these a day, and like a dummy didnt catch that the person didnt want me post te second half of it. But since i did, I thought I might as well let that person know that they are not alone, we all have someone in our family with mental disorders<!--/Text--></td></tr>
+<!--/Post: 12419-->
+<!--Post: 12422--><!--Time: 1112206354-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12422"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 30, 2005 - 10:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I really think the whole entire family is a little off.  <BR>Whacked.  Curious is right...the brother&#39;s reaction is quite odd. <BR>It is odd DR&#39;s own wife and kids will have no contact with him.... <BR>course then again...DR is the bid oddball of all of them. <BR>Calling him &#39;oddball&#34; is my way of not getting banned from this board.  I have other names for him. <BR>This whole thing with his family really just doesn&#39;t make any sense.  Whatsoever.<!--/Text--></td></tr>
+<!--/Post: 12422-->
+<!--Post: 12423--><!--Time: 1112208774-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12423"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Phoenix<!--/name--></b></a><br>Username: <!--field:uname-->Phoenix<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 30, 2005 - 10:52 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Embersage: <BR> <BR>Picking up on your suggestion that DR&#39;s brother might be protecting someone. <BR> <BR>Suppose DR committed some but not all of the murders, and he knows who committed the rest.  Or, suppose he had an accomplice on some killings.  His confession would protect the other killer. <BR> <BR>Being convicted of ten murders is no worse that being convicted of six.  DR has nothing to lose by falsely confessing to a few extra killings if it protects an accomplice. <BR> <BR>Phoenix <BR><!--/Text--></td></tr>
+<!--/Post: 12423-->
+<!--Post: 12434--><!--Time: 1112226094-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12434"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 30, 2005 - 3:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Pho, <BR> <BR>I agree that there is no difference between 6 and 10. The norm has been that once caught these killers enjoy the retelling of their &#34;work&#34; as a way to dismay police. Many seemed to live to shock LE.  .  .  UNLESS <BR> <BR>Maybe in some of Rader&#39;s later crimes, he killed in order to either set up someone else as a suspect or as a murder for hire aka hitman ???????<!--/Text--></td></tr>
+<!--/Post: 12434-->
+<!--Post: 12455--><!--Time: 1112248501-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12455"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 30, 2005 - 9:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Denny DOES have something to lose. If he is protecting someone by staying quiet, he has &#34;connections on the outide&#34; that he can control by holding their involvement over their head. I&#39;m thinking that in prison, that would be good as GOLD, particularly to a control freak. <BR> <BR>Keep in mind that &#34;Ted of the west coast pantyhose killer Bundy&#34; was able to escape and kill more victims before being reapprehended.   <BR> <BR>Denny may have escape &#40;or release on technicality&#41; plans too. People on the outside would come in real handy.<!--/Text--></td></tr>
+<!--/Post: 12455-->
+<!--Post: 12458--><!--Time: 1112254071-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12458"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 30, 2005 - 11:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Very good point B, I believe he may just think by pleading not guilty that he can beat this<!--/Text--></td></tr>
+<!--/Post: 12458-->
+<!--Post: 12463--><!--Time: 1112257724-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12463"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tallulabay<!--/name--></b></a><br>Username: <!--field:uname-->Tallulabay<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 31, 2005 - 12:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree, Rader would not harrass the media unless he wanted to get caught, supplied enough to get caught,knowing the techicalities from his own archived resources from his degree in criminal profiling. This would not only look at US history, it would look at UK and other cases as part of the finals when there was no search engines to do this. It had to be inside the news offices and archives. Therefore, he had research skills, and once you have it, you use it. Hence why the uniform, and &#39;parade&#39; in his mentality in all he does, as he inspects, so he is inspected. That closes, however, from one manic depressive dyslexic to another we can see the way our writing changes aka Zodiac and his decent into writing that is shaky, as neural meltdown. Hence the great academics on this site will see it from a text book angle and one of strong definitions which Rader will have found very funny. For he has read all those and will have used Cicero in his pontifications inside and outside church. He is however, not a scientist or psychic. Whereas,I AM. Skeptical yes, media orientated, no, for I say facts can be backed up in science as maps and geological profiling, whereas the latter cannot,but has been in 7 major murder cases as proved to the owners of this board. LE do not disclose the information given to them in  a psychic content, nor should they do so. Therefore, there is no pass mark in what the spirit guides inform of and show. Practical investigation on site is what is best in a scientific way. However, there are many co-incidences in what is shown and later coming to be known as actually happened. I do not respond to those who ask me to prove the level of psychic ability, it is enough that it is used and developed to enable others that can make use of it in that field. <!--/Text--></td></tr>
+<!--/Post: 12463-->
+<!--Post: 12477--><!--Time: 1112286581-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12477"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 31, 2005 - 8:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><i>&#34;...In daily life I&#39;d suspect BTK to be very unassuming, in the opinions of those around him. However, I think a close examination of his social sphere, even his family, would show a history of people &#39;getting bad vibes&#39;, or feeling that he could be inappropriate. Not in the sense of taking liberties...I&#39;ve said before, this doesn&#39;t seem like a guy who would ever get in trouble for something as alpha male as say groping a woman...he&#39;d be more likely to say off-color things. He&#39;d be the guy who takes a lewd, or sick joke too far. He will probably have a history of &#39;pushing it&#39; with those whom he is comfortable with. He is the kind of person who I think may make people around him uncomfortable in a way they can&#39;t ever pin down, and I bet a lot of them feel guilty for feeling that way. Because I also feel he may seem altruistic to those whom he&#39;s worked with and socialized with, say, at church...&#34; <BR> <BR>&#34;...I believe a couple of interesting things about his appearance; he does have a mustache, and has probably worn one for years, and he wears glasses. The frames will be larger than actually necessary for his face, and heavy. They will make him appear almost jowly, even if his weight is normal. He will be known, too, by some, like women whom he has worked with, as a starer. Always polite, perhaps, accomodating, but very watchful, intent...&#34; <BR> <BR>&#34;I think perfection, cleanliness, order, are all extremely important to him...&#34;  <BR> <BR>&#34;...I think in his own mind he has a definite moral code, and may still go to church regularly. If not, I bet he knows his bible cold. He is either an evangelical lutheran or perhaps even a southern baptist, though that will not be the denomination he was familiar with growing up...&#34; <BR> <BR>&#34;...I wonder if he worked a job for a good deal of his life that he regarded as far beneath him, his intellect. I would think it was a job that required cleanliness and order, and though he knew the job was beneath him he still took great pride in these two things. <BR> <BR>I bet he more closely resembles the mustached, &#39;dark&#39; drawing, but has probably always resented the inference he might be latino or perhaps Italian...&#34; <BR> <BR>&#34;...I thought of the Air Force tech school in Wichita Falls, TX.It&#39;s one of those danged gut things on my part, and the bias I referred to might be the fact my own Dad studied there in the early 70&#39;s. There is just some ineffable nagging thing there that keeps telling me air force...&#34;  <BR> <BR>&#34;...I had a malevolent daydream once where an older, balding gentleman with dark hair and a mustache, who was a bit jowly and wearing a tan members-only style jacket over a yellow and red plaid shirt, wore aviator-frame prescription glasses with a tint &#40;not sunglasses, but regular glasses that perhaps darkened in the sunlight&#41;, was standing on the driveway outside, staring at me through the bedroom window. This approximated a vision, I suppose, as I did not actually perceive him there - that would have been psychosis - but had the image of this man come so vividly and forcefully into my mind that the hair stood up on the back of my neck and I forced myself to get away from the computer and watch a South Park DVD...&#34;</i> <BR> <BR>Tallulabay, I wrote all the above before February 25, 2005. This is proven - there are internet records, server date/time stamps I have no access to, that back it up. What I wrote above is only a portion of what I wrote. Several things I wrote along with what you read above were also decidedly wrong - I figured he&#39;d be single, he wasn&#39;t, I believed the stuff about railroading, and it was a lie - but if you read my words above you will see that I was accurate in some key places. <BR> <BR>- I surmised he&#39;d be lutheran <i>&#40;or baptist&#41;</i>. <BR> <BR>- I predicted he&#39;d be notably compulsively neat. <BR> <BR>- I predicted that he did look like the &#34;dark&#34; suspect description, and particularly that he&#39;d have kept his mustache. I predicted that he would be balding and wear a combover, and his style of prescription glasses. His driver&#39;s license photo, the only one where he&#39;s wearing a full beard, proved that.  <BR> <BR>- I was fairly sure that he was Air Force, that he attended the tech school at Sheppard in Wichita Falls, TX, and I said so.  <BR> <BR>- I had a &#34;vision&#34; that I still say was pure imagination of the man standing outside, on my property, in my driveway, wearing a tan jacket with epaulets - his Park City compliance officer shirts were tan with epaulets. <BR> <BR>- I said those at his church would think him altruistic - one of the stories seen a lot in the press is how the altruistic-seeming Rader and his wife even dropped off spaghetti and salad the Wednesday before his arrest at church supper, in spite of not being able to be there themselves. <BR> <BR>Yet, I do not claim to be psychic. I&#39;ve wondered a little, sure - especially after my very clear visualization that ended up being remarkably close - when I finally saw Rader&#39;s mugshot, I said to myself, &#34;THERE you are.&#34; <BR> <BR>Here&#39;s my point. I&#39;m not trying to James Randi you, really. But I&#39;ve presented evidence, over and over, complete with links to the original writings in other places, that I had thoughts, conclusions,  even &#34;visions&#34; that were inarguably close once we saw and learned about Dennis Rader. I reviewed my writing and wanted to call attention to things because I personally was amazed and wanted the insight others might have into what I did right. It&#39;s been suggested to me several times now by others that what I experienced was just flat-out psychic. Why are you claiming to be psychic, then, and where is that proof? I&#39;ve got proof, and yet I make no such claim. If I wanted I could easily claim psychic ability, but I&#39;m still not making that leap. The only proof I have, in my mind, is that I have good powers of deduction and an ability to draw, on occasion, pretty accurate conclusions.  <BR> <BR>I guess I&#39;m wondering what your point is. You say things that make little sense to me - <i>&#34;...for I say facts can be backed up in science as maps and geological profiling, whereas the latter cannot,but has been in 7 major murder cases as proved to the owners of this board...&#34;</i> - what do you mean, geological profiling? Are you speaking of psycho-geo<i>graphical</i> profiling as practiced by Dr. Maurice Godwin and a few others? If you don&#39;t feel the need to prove psychic ability, can you at least say which &#34;7 major murder cases&#34; you are talking about? <BR> <BR>I&#39;m asking you to help us make some clear sense of your words, because I for one am having trouble doing so.  <BR> <BR>You spoke of <i>&#34;...the great academics on this site...&#34;</i> and I couldn&#39;t tell where you were coming from with that - sarcasm or respect. Frankly, I must tell you, that&#39;s the very reason this is now the only BTK forum I bother with reading or posting to anymore. With thinkers like Ivy Leaguer, with the kaleidoscopic, almost beat-poet-like musings of a Lost Dog, with Victor&#39;s &#40;VSCantu&#41; snarky, smart humor, just to name a <i>few,</i> this messageboard sets itself above the others in general IQ points and discourse. Bring me those great academics over those who claim psychic ability - without a shred of actual proof presented, at all - every time. They are a pleasure and a relief after all the insane burblings found on other forums.  <!--/Text--></td></tr>
+<!--/Post: 12477-->
+<!--Post: 12488--><!--Time: 1112303490-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12488"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 31, 2005 - 1:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve you are still king thank You  I look forward to your future work <BR>e.<!--/Text--></td></tr>
+<!--/Post: 12488-->
+<!--Post: 12492--><!--Time: 1112307906-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12492"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tallulabay<!--/name--></b></a><br>Username: <!--field:uname-->Tallulabay<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 31, 2005 - 2:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I do not have to take media money to prove my psychic ability and my resume is with the people that matter. I am not being offensive  in saying great academics, are there are clearly qualified forensic profilers.  <BR> <BR>My work on the cases is with police officers and to say which cases and which crimes would be painful as the relatives know of me, and what I do and that is seek no fame from this. Because of this those of you who see tv shows judge proof to be in front of an audience, or maybe you would like me to be reeling off what has been proved before it became known. Mediums know that I would not do that, and yes as a scientist well past an honours degree the fact that it might be my imagination occurs to me all the time.  <BR> <BR>Because of the similarities in my background work and Raders I was able to see similarities that were picked up by the owners of this board. My aim is not to waste time on nit pickers, but to work in unity with all my abilities and disabilities. In geological profiling it is called environmental psychology, page 141, Criminal Shadows, written by an expert in  &#39;how people make sense and learn from to with their own surroundings&#39;. My term is the use of  my geology, medical imaging and behavioural sciences as progression post graduate. My research bases not on pure psychology, but in the method of using geological locations as that where a victim cannot possibly be, in contrast or to substantiate the behaviours. <BR> <BR>The seven cases I have looked at and been asked to on non verbal communication have since allowed new thinking with my own fellow scientists. Proof is a term for overt action. Most of my fellow  gifted persons stay in contact and do not respond to such demands. The owners yet again have had the instances which can and have been checked, so that is enough for me. However, if you or anyone else is a psychologist then I always work with those who can see another side, if they want a result. I do not claim psychic ability, one could say I am inflicted with it, others say spirit is using my knowledge of environment. So hey, lets not argue here, I did not ask for these flashes over the past 30 years, they have just come so acurate since a major accident, so learning to accept it. It would be great to boost my ego and post all that I have told Tom, but I am not going to do that. The fact is those of you have made large contributions that have become important enough for me to share with you if and when there is a breakthrough in the future. <!--/Text--></td></tr>
+<!--/Post: 12492-->
+<!--Post: 12493--><!--Time: 1112308285-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12493"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 31, 2005 - 2:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve, <BR> <BR>I believe what you are experiencing is of a psychic nature. Do not dismiss or ignore your possible gift&#40;s&#41;. I am a firm believer in &#34;visuallization&#34; in order to succeed. Visualize a action before you perform that sport, business call, or anything else.  .  . The power of positive thinking. You have taken it one step further.  .  .   <BR> <BR>If you have tapped into possible perception or future &#34;translations&#34; have you thought about focussing on the Zodiac ?  I am sure you have. <BR> <BR>You are familiar with worm holes ? Alternative universe concepts and time travel ? All of these concepts are &#34;possible&#34; and most likely probable. <BR> <BR>Consider your gifts along the same lines as finding a worm hole aka time tunnel.  .  .  attempt to foster and nurture this gift ! <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12493-->
+<!--Post: 12494--><!--Time: 1112308711-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12494"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 31, 2005 - 2:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tall, <BR> <BR>Help me understand one thing. Did I misinterpret your post above when you said &#40;paraphrasing&#41; that Rader&#39;s writing became shaky and different similar to the Zodiac&#39;s writing which seemed to deteriorate at times ?  <BR> <BR>To my understanding LE never was able to determine if the Zodiac&#39;s writing was deceptively contrived, natural to his writing style, traced from a grid, differing depending upon his state of mind, or if drug use during writing sesssions crippled him.  .  .  <BR> <BR> <!--/Text--></td></tr>
+<!--/Post: 12494-->
+<!--Post: 12495--><!--Time: 1112308929-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12495"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 31, 2005 - 2:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tall, <BR> <BR>Stop hitting Steve over the head with your &#34;sheepskin.&#34; <BR> <BR>The true mark of a communicator is the ability to inform and persuade without having to present your resume or qualifications.  .  .  <!--/Text--></td></tr>
+<!--/Post: 12495-->
+<!--Post: 12496--><!--Time: 1112309597-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12496"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 31, 2005 - 2:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks, Tac - frankly, Tallulabay&#39;s complete lack of clarity, the vague, impenetrable manner of communicating...it&#39;s pretty classic. I think I&#39;ve even run across her elsewhere under another name. Nothing she says is of merit to me anymore. <BR> <BR>The following; <i>&#34;...My term is the use of my geology, medical imaging and behavioural sciences as progression post graduate. My research bases not on pure psychology, but in the method of using geological locations as that where a victim cannot possibly be, in contrast or to substantiate the behaviours...&#34;</i> is completely lacking in coherence. &#34;My term&#34;? What does that mean? <i>&#34;The method of using geological locations&#34;</i> - what does <i>that</i> mean? A victim embedded in layers of rock? You see what I&#39;m saying. I&#39;m not going to respond to anymore of her blather and trust that others on this site, a group I find is generally very smart and sensible, will and have seen through this nonsense of hers for what it is. I probably shouldn&#39;t have bothered, but I was beginning to read posts that made odd, ungrounded assertions, and also smacked of a self-importance that had no ground. It&#39;s all fine and good to blow your horn if you have a good tune to play. <!--/Text--></td></tr>
+<!--/Post: 12496-->
+<!--Post: 12531--><!--Time: 1112374849-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12531"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 01, 2005 - 9:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve...as I said on another thread here...I would read your book- so get to writing<IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0> <BR>...I wouldn&#39;t read Tall&#39;s...as you said...there is so much there I just don&#39;t understand...I&#39;m thinking <BR>&#34;Whaaaat?&#34; <BR>Anyways...keep posting...love your thoughts.... <BR>Stay strong in you quest to develop your gift...you have many. <BR><!--/Text--></td></tr>
+<!--/Post: 12531-->
+<!--Post: 12538--><!--Time: 1112397872-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12538"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 01, 2005 - 3:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Curious says thank you to everyone for their understanding and support, that of all the message boards on the net, this one is filled with people who are kind and caring, thank you all for being so supportive. and as far as Factor X, it seems by the temp. flood of posts of strange ramblings by some we have never heard of goes to show that Rader isnt the only one with Factor X<!--/Text--></td></tr>
+<!--/Post: 12538-->
+<!--Post: 12543--><!--Time: 1112400915-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12543"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 01, 2005 - 4:15 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Steve, <BR> <BR>After reading your excerpt of one of Tall&#39;s posts it occurred to me that she or he might be writing but the word/definitions do not fit the meaning the writer is attempting to convey.  .  .   <BR> <BR>&#34;Geological locations.  .  .  &#34; seems that Tall meant to say geographical. Geology is the study of the structure of the earth aka the earth&#39;s physical features NOT location.  .  .  what is &#34;pure&#34; psychology ? <BR> <BR>Frankly this person sounds like a bored high school kid who is running a con.  .  .  no legit scientist with &#34;gifted&#34; inteligence communicates giberish.  .  .  <!--/Text--></td></tr>
+<!--/Post: 12543-->
+<!--Post: 12546--><!--Time: 1112404233-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST12546"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 01, 2005 - 5:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tac; <BR> <BR>Thanks - I figured that out, but felt it wasn&#39;t worth it to &#39;correct&#39; the language. This; <i>&#34;This person sounds like a bored high school kid who is running a con...&#34;</i> is close enough to my own conclusion as well. Actually my conclusion was that this kind of subject attracts both the subtly and severely disturbed on occasion. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 12546-->
+<!--Post: 12547--><!--Time: 1112405141-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST12547"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 01, 2005 - 5:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Then there is Tammy Faye Baker who is inflicted with Max Factor X.<!--/Text--></td></tr>
+<!--/Post: 12547-->
+<!--Post: 13324--><!--Time: 1115024292-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13324"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, May 02, 2005 - 1:58 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Argosy Mag. September 1970 page 7. <BR><a href="Http://www.zodaickiller.com/Argosy7.html" target=_top>Http://www.zodaickiller.com/Argosy7.html</a> <BR> <BR>....#6....Comparatively rare males who are cursed with the strange chromosome inbalance in their cell makeup. Presently known as XYY. <BR> <BR> <BR>Who said Rader couldn&#39;t read.<!--/Text--></td></tr>
+<!--/Post: 13324-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="10/754">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=10/754" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

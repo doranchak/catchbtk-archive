@@ -1,0 +1,280 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 333/We need someone from the outside-->
+<!--Level 1: 333/We need someone from the outside-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: We need someone from the outside</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">We need someone from the outside</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+We need someone from the outside
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=333"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=333"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4315--><!--Time: 1106143282-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4315"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Blade<!--/name--></b></a><br>Username: <!--field:uname-->Blade<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 19, 2005 - 6:01 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Folks, I am going to just throw this out there. It appears that the police do not have a solid suspect and we need someone with investigation skills to jump in. I am going to suggest the name of former LAPD detective Mark Furman. Do you think he might be a good candidate for the job, if he would agree to look at this case?<!--/Text--></td></tr>
+<!--/Post: 4315-->
+<!--Post: 4321--><!--Time: 1106149916-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4321"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 19, 2005 - 7:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Anyone with long-time detective experience who can come in and lend a <i>new perspective</i> on things is okay by me. However, I&#39;ll predict that WPD <i>won&#39;t</i> share any case files or other information.<!--/Text--></td></tr>
+<!--/Post: 4321-->
+<!--Post: 4322--><!--Time: 1106150185-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4322"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 19, 2005 - 7:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Blade, <BR> <BR>Mark is in Northern Idaho, near Sand Point. <BR>Never hurts to ask!<!--/Text--></td></tr>
+<!--/Post: 4322-->
+<!--Post: 4327--><!--Time: 1106159603-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4327"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 19, 2005 - 10:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Blade, I don&#39;t entirely disagree with your idea. However, WPD&#39;s lack of skill isn&#39;t to blame IMHO. Rather, it&#39;s the policy of not releasing info to the public that could stimulate the right kind of tips. For example, BTK&#39;s artwork &#40;sketches&#41; and /or &#34;secret&#34; symbol; I bet anything someone would quickly recognize the style.<!--/Text--></td></tr>
+<!--/Post: 4327-->
+<!--Post: 4328--><!--Time: 1106163304-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4328"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Shyra<!--/name--></b></a><br>Username: <!--field:uname-->Shyra<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 19, 2005 - 11:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I agree with Tom&#39;s opinion above.  I think there is someone who would quickly recognize his style.  Imagine being in the same room with this person?  Someone would recognize his artwork and/ or secret symbol.  If it were revealed, I don&#39;t think it would take long for someone to notice.<!--/Text--></td></tr>
+<!--/Post: 4328-->
+<!--Post: 4330--><!--Time: 1106164573-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4330"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 19, 2005 - 11:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, Why in the world would it be any PD&#39;s policy to not release something that would enable an arrest in addition to the interruption of more senseless murders?  Is it the legal aspects that perhaps a conviction could not be acheived?  Could stimulation of the &#34;tips&#34; blow their case and in a courtroom the individual&#39;s testimony be thrown out due to it being publicly released?  Maybe I just watch to much television.<!--/Text--></td></tr>
+<!--/Post: 4330-->
+<!--Post: 4348--><!--Time: 1106209302-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4348"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nugzter<!--/name--></b></a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 12:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think if you mix professional egos with a ever rising demand from the public, what you get is a massive conflict of intrest.  Example OJ. Now if BTK were to kill again, that might cause the WPD to finally release the info. Doubt that will happen tho. The idea about Mark Furman is not bad. But aren&#39;t there any other more prominate LE dectives that specialize in sexual serial killers? <!--/Text--></td></tr>
+<!--/Post: 4348-->
+<!--Post: 4352--><!--Time: 1106224604-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4352"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 4:36 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Nugzter, you nailed it. EGO. With the news about &#34;Federal involvement&#34; meaning only 15K of Federal money for DNA testing &#40;I had heard 15 million at least twice, including Federal involvement in the case&#41; WPD is fully in charge -- as they should be -- but an outsider? I think not, sad to say. Bringing in an outsider, I mean a great, experienced detective or world class profiler, is an admission of failure, even though  <BR>the public likes the idea. By all rights, the Zodiac killer should have been caught. He wasn&#39;t. In the words of a retired detective who didn&#39;t work any Zodiac crimes &#40;there&#39;s a slight chance a 1963 case he inherited in the early 1970s was the work of Zodiac&#41; has said, in his opinion the primary reason Zodiac was never caught was due to the unwillingness of police departments to share information. Sound familiar? Remember, too, that Vince Bugliosi has said that if LAPD and LASO hadn&#39;t shared information, the Manson trials had a very decent chance of never occurring. <BR> <BR>I wish the police would bring someone in, and my nomination is Roy Hazelwood. He specializes in crimes of sexual sadism.<!--/Text--></td></tr>
+<!--/Post: 4352-->
+<!--Post: 4355--><!--Time: 1106228929-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4355"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Beck<!--/name--></b></a><br>Username: <!--field:uname-->Beck<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 5:48 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George, you touched a little on what I was thinking. I think they should let in more top criminal profilers into the case. The only profiles I&#39;ve read about were from Michael Kelleher, and another one from a profiler who didn&#39;t get a look inside the file, that she was basically &#34;shooting from the hip&#34; in her assumption. Why not let in 3 or 4 different profilers to be able to examine the file, make their assertions, and then discuss why they came to that conclusion. I think that would help a lot.  <BR> <BR>How about Dayle Hinman? I&#39;m a little bias on her because she&#39;s helped solve two crimes in my hometown, LOL! <!--/Text--></td></tr>
+<!--/Post: 4355-->
+<!--Post: 4356--><!--Time: 1106230291-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4356"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 6:11 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Upon reflection, Mr. Kelleher has hit bullseye after bullseye with his profile, which was basically put together with extremely limited information. I&#39;d be pleased if WPD contacted him! <BR>I also wouldn&#39;t mind Hazelwood&#39;s input but again, WPD isn&#39;t going to give away vital information to &#34;outsiders.&#34; It&#39;s tragic but it happens all the time. A gigantic public demonstration &#40;several thousand people&#41; might have some influence as to bringing someone in but how much information is WPD willing to share? <b>That</b> is the key question. <!--/Text--></td></tr>
+<!--/Post: 4356-->
+<!--Post: 4357--><!--Time: 1106231144-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4357"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 6:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Even better, a petition of eighty or one hundred thousand names &#40;including address and telephone&#41;. If this occurrs, LE might try to be more proactive; use an outsider. Or like having Mr. Kelleher as a consultant. Imagine a team of Hazelwood and Kelleher. This case would be solved, provided BTK is still alive &#40;I believe he is, considering his December drop-off in the park during the wee hours&#41; and still in/near Wichita.<!--/Text--></td></tr>
+<!--/Post: 4357-->
+<!--Post: 4359--><!--Time: 1106232356-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4359"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 6:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->PS, BECK: I like Dayle Hinman too! She seems to prefer cases in Florida exclusively. Ever notice how she <i>never</i> alters the tone of her voice. That&#39;s the sign of a pro.<!--/Text--></td></tr>
+<!--/Post: 4359-->
+<!--Post: 4362--><!--Time: 1106239552-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4362"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 8:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->How about this guy? I think he&#39;s solved three coldcases recently.  <BR><a href="http://news.onemissingperson.org/GA-JUN-20-2004-Cold-Case-Clay--takes-on-old-cases.html" target=_top>http://news.onemissingperson.org/GA-JUN-20-2004-Co ld-Case-Clay--takes-on-old-cases.html</a> <BR><!--/Text--></td></tr>
+<!--/Post: 4362-->
+<!--Post: 4363--><!--Time: 1106243040-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4363"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 9:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sounds like a stand-up guy Cougar. Solving serial homicide murders are more difficult, but I&#39;d take Mr. Bryant, too. I&#39;d still like Hazelwood &#40;who on occasion has worked for free&#41; to have a serious glance at BTK. Mike Kelleher continues to astound me, much to my delight. Sadly, I don&#39;t think it matters who you or I choose: WPD doesn&#39;t want outside help. The Governor of Kansas may have the power to order WPD to accept outside help, but that&#39;s only a guess. This one should be solved, but will it be solved????<!--/Text--></td></tr>
+<!--/Post: 4363-->
+<!--Post: 4373--><!--Time: 1106263301-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4373"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Beck<!--/name--></b></a><br>Username: <!--field:uname-->Beck<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 3:21 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hinman is retired now, I just looked it up. &#40;LOL, Like I could call her up and be all &#34;Hey Dayle, I got a favor to ask you&#34;&#41; She was employed by the Florida Division of Law Enforcement, so it wasn&#39;t a matter of prefering FL cases, that&#39;s just where she was based. But she would assist on high profile cases, like the OJ Simpson case.  <BR> <BR>I completely understand that the WPD wants to do this on their own, and I&#39;m not saying that they are lacking the skills to solve this, but one would think that they would want this to be over. There is much more strength in numbers. IMHO they should hook up with another detective agency from an area that deals with serial killers more often, like California, and Florida. If there is an arrest in this case, &#40;that actually is the right guy&#41; it wouldn&#39;t take the attention away from the fact that they had a big hand in arresting him!  <BR> <BR>Hazelwood would be great paired up with Kelleher. Something has got to give in this case!<!--/Text--></td></tr>
+<!--/Post: 4373-->
+<!--Post: 4387--><!--Time: 1106285455-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4387"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 9:30 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I disagree that bringing in a &#34;Profiler&#34; would solve this case. Correct me if I&#39;m wrong, but if you look at all serial killer cases in history, I don&#39;t believe that there has EVER been one that was solved by a &#34;Profiler&#34;. Or even greatly helped. Not one ever. None.<!--/Text--></td></tr>
+<!--/Post: 4387-->
+<!--Post: 4391--><!--Time: 1106295823-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4391"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 12:23 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Psychological profilers are sources used by various police departments to assist in resolving serial murder, serial sexual offences and murder. The profiler provides a psychological portrait of an offender. The portrait could describe various suspects. The police tend to use the profiler&#39;s assessment along with any physical evidence, biological evidence, witness statements and crime scene analysis to determine a perpetrator.  <!--/Text--></td></tr>
+<!--/Post: 4391-->
+<!--Post: 4394--><!--Time: 1106306630-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4394"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nugzter<!--/name--></b></a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 3:23 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I was just watching a Peter Jennings report about the MATRIX program. It allows LE to come up with a list of possible suspects. Its sort of an outside source. Although I do not approve of this type of intel gathering, it could come in useful.<!--/Text--></td></tr>
+<!--/Post: 4394-->
+<!--Post: 4409--><!--Time: 1106331065-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4409"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, January 21, 2005 - 10:11 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Victor, you are absolutely right. It&#39;s a fantasy scenario of sorts; Roy Hazelwood could provide some tips, he has unique experience in cases such as this. As for Mr. Kelleher, he&#39;s doing just fine as it is. But I agree with you: <b>No</b> profiler has ever slapped the cuffs on a serial murderer. Best case scenario is something like Roy Hazelwood in the Mel Ignatow case. Ignatow&#39;s house was searched twice, nothing was found. Hazelwood was convinced that sadistic murderer Ignatow had an extremely well-hidden cache of filthy photos of the person he killed. About a year or two later, a new homeowner uncovered Ignatow&#39;s stash. By this time, Ignatow had been tried for murder, found not guilty &#40;no body&#41; and when this new stash of his photos were found, he went to prison, yes, but only for perjury. They couldn&#39;t recharge him with murder, as that would have been double jeopardy. <BR> <BR>Victor, I agree with you. Profilers are glamorized and blown out of proportion in our society, especially a certain few. I think you know who I mean -- the ones who write several books, always using the patronizing disclaimer, &#34;profiling is not a science, it is merely one tool to aid law enforcement,&#34; and then these authors ignore that and go on to claim how many cases they &#34;solved.&#34; I remember one former FBI guy who claimed he &#34;solved&#34; as case with one phone call. You&#39;re right on the money in that regard. Compounding the problem is someone like Ressler who still does his best to perpetuate his archaic belief that &#34;serial killers won&#39;t stop until they are dead or apprehended.&#34; WRONG! That is simply not true and if you don&#39;t believe me, ask Mr. Kelleher. It&#39;s true of some, but not true of many others. To the best of my ability, profilers have significantly <i>aided</i> in the Danny Rolling case, the above Mel Ignatow case, Larry Gene Bell case, and many others. Also bear in mind that profilers work on cases involving serial rape, serial armed robbery, individual murders and other serious felonies. So I can&#39;t say I fully disagree with you, Victor, but I&#39;m glad profiler Mike Kelleher is available to this website. <BR><!--/Text--></td></tr>
+<!--/Post: 4409-->
+<!--Post: 4460--><!--Time: 1106381634-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4460"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 12:13 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good point, George. These &#34;profilers&#34; certainly keep our INTEREST in the cases up. Now, as to whether they help to SOLVE any case or not is a totally different story....<!--/Text--></td></tr>
+<!--/Post: 4460-->
+<!--Post: 4690--><!--Time: 1106680497-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4690"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tippy<!--/name--></b></a><br>Username: <!--field:uname-->Tippy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 11:14 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think the problem lies &#40;one of them&#41; in the fact that the police have too much info.  I know, I know - how can one have &#34;too much&#34;?   <BR> <BR>From the get-go, BTK dropped little hints, puzzles, poems, etc.  Manpower was employed to &#39;check out these leads&#39;.   <BR> <BR>But it was likely &#40;IMHO&#41; never necessary.  Being a language major - it was obvious to me that BTK in that very first letter was faking his problems with English.    <BR> <BR>So why does he send it?  Why would anyone send it - and all the others?  To throw the police off. <BR> <BR>That means one thing.  BTK feels/felt that there was enough evidence of its own - to find him.  He needed to &#39;create a disturbance&#39; and by-gosh he sure did. <BR> <BR>When BTK is caught - if that ever happens - I&#39;ll bet anyone here dollars to donuts that there was evidence from the crime investigations, themselves, that pointed towards him.   <BR> <BR>Tom Voight is right in saying that the sketches need to be made public.  Artists have a definite style.   <BR> <BR>I don&#39;t really think anyone from &#39;outside&#39; needs to be brought in - but perhaps the way the case is looked at - could be revised.   <BR> <BR>Take some new detectives unfamiliar with the info donated by BTK and let them start from square one - with only the physical evidence. <BR> <BR>When BTK plants the idea that railroads &#40;or whatever&#41; are important - mentally the detectives will be looking for matches, sometimes to the exclusion of what could have led them to the killer. <BR> <BR>Just my thoughts.  <!--/Text--></td></tr>
+<!--/Post: 4690-->
+<!--Post: 5116--><!--Time: 1106877916-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5116"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Fsu44<!--/name--></b></a><br>Username: <!--field:uname-->Fsu44<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 27, 2005 - 6:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tippy, You have hit it right on the head. Trust me the police have a large pool of names. Our killer&#39;s name is hidden deep within the pool of names. Sometimes it&#39;s best to share information with other eyes outside of the loop. The PD is being looked at from a number of folks &#40;media, families, other L.E.A and within their own rank and file&#41; BTK made a major mistake with his last clue. I have been a Robbery/Homicide Inv.for the past 25 years. I have arrested two serial murders myself. Both times he was right there waiting to be picked. <a href="mailto:Santig@pbpd.org">Santig@pbpd.org</a>  <!--/Text--></td></tr>
+<!--/Post: 5116-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/333">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/333" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,310 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 265/BTK likes BK? -->
+<!--Level 1: 265/BTK likes BK? -->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK likes BK? </title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK likes BK? </td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+BTK likes BK? 
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=265"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=265"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 3070--><!--Time: 1104420552-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3070"><font face="Verdana" size="1"><b><!--email--><a href="mailto:dammitslicky@cox.net" target="_blank"><!--/email--><!--name-->Cougar<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 30, 2004 - 7:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yesterday a friend and I took my two year old to the Burger King on East Harry. For whatever reason this BK is decorated with war memorabilia: glass cases with helmets, patches, various military gear and quite a few displays with reference to WWII aircraft. I couldn&#39;t help but notice an old gent sitting to the left of us. His face looked unbelievably like the Dennis McKenzie rendering of old BTK! I am dead serious. He was wearing an old houndstooth coat, a ball cap with golf balls on it, blue jeans, and cheap sneakers. He stared at me as much as I was staring at him, making eye contact several times. His gaze was steady and sharp - not a feeble old man&#39;s &#39;look&#39;. I still cannot believe how much he looked like the sketch. My friend said that I should wait until he leaves and then get his cup for LE to swab but I told her that my guts were telling me that he wasn&#39;t going to leave until we did. And I was right. He took a long time, going from display to display, looking at the war memorabillia, carrying his cup the whole time. Honestly, if I had not had my toddler with me I would have spoke to him, saying that he looked familiar to me, just to see what he would say. We wound up leaving the restaraunt and waiting in the car to see if he left on foot or in a vehicle, and then, which way he went. We never saw him leave. After 15 minutes or so we drove away.  <BR> <BR>Just wanted to share. It was a strange experience for sure. <!--/Text--></td></tr>
+<!--/Post: 3070-->
+<!--Post: 3078--><!--Time: 1104432394-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3078"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 30, 2004 - 10:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi cougar <BR> <BR>Thanks for sharing you experience... <BR> <BR>I was thinking that maybe you could ask one of the employed at the BK if that know this guy and if he is a regular and maybe get som info on him? <BR> <BR>I think BTK is a man of very strict routines, so he might be a regular at that specific BK, IF ideed it is BTK, wich I doubt, but then again who knows?  <BR>just a thought. <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 3078-->
+<!--Post: 3091--><!--Time: 1104446549-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3091"><font face="Verdana" size="1"><b><!--email--><a href="mailto:dammitslicky@cox.net" target="_blank"><!--/email--><!--name-->Cougar<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 30, 2004 - 2:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good idea, Skov! Where were you yesterday when I needed you? It might be worth a trip back over there just to see if the employees remember him. If he is a regular I bet they do. How many old farts do you see sporting sneakers and a golfball cap? With a houndstooth coat no less........<!--/Text--></td></tr>
+<!--/Post: 3091-->
+<!--Post: 3093--><!--Time: 1104447152-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3093"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 30, 2004 - 2:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wish I was there Cougar, I sure would have taken a little chat with the guy, BUT I´m in Denmark, Europe you know! SO I guess I have to assist you by  spirt and on this board <IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0> <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 3093-->
+<!--Post: 3112--><!--Time: 1104464188-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3112"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 30, 2004 - 7:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Very interesting.  My top candidate for BTK lives quite close to there &#40;exact distance withheld from BTK&#39;s prying eyes&#41;.  If you have a cell phone, you might consider upgrading to a cam-phone for your next outing to BK.  Nothing wrong with taking a few pictures of your kid having a good time at BK. <BR> <BR>Poor BTK.  He&#39;ll see this post.  If it is him, and he&#39;s a regular as skov suggests &#40;I agree 100%&#41;, and he stops going there now, they&#39;ll notice.  If he keeps going there, he&#39;s gonna risk being spotted again. <BR> <BR>Justice.  It&#39;s time for BTK to start feeling the heat.  And living in fear. <BR> <BR>Something else is apparent - the golf course next to the BK.  Several of BTK&#39;s victims lived almost adjacent to what appear to be open &#40;non-residence&#41; tracts in the middle of residential areas.  I can&#39;t tell what they are from the maps.  Like Skov, I&#39;m not in the immediate neighborhood.  Possibly no connection, but it&#39;s interesting, this proximity to open areas.  There&#39;s something he likes about that. <BR> <BR>And the golf-ball cap.  I find that very interesting, too.  I think that&#39;s why he was at that BK.  Golf is the perfect late-life/retirement sport for an active type like BTK.  BTK can flee BK - but would he give up his favorite hobby if you did spot him?  Join a new club?  Or will he brazen it out?  I didn&#39;t buy the hunting/fishing/camping thing in his recent bogus confessions for a second.  I&#39;d be looking at golf/skiing/sailing/hiking.  Bingo. <BR> <BR>Time will tell.... <BR> <BR>Could be a good lead!  pax56<!--/Text--></td></tr>
+<!--/Post: 3112-->
+<!--Post: 3119--><!--Time: 1104469113-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3119"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 30, 2004 - 8:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Cougar, Your not saying Smokey Robinson is BTK are you? jk <BR> <BR>B2K<!--/Text--></td></tr>
+<!--/Post: 3119-->
+<!--Post: 3129--><!--Time: 1104473868-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3129"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 30, 2004 - 10:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->COUGAR: Sorry to disagree, but it just sounds like an old man killing time at a fast-food restaurant. I&#39;ve seen HUNDREDS of them in fast-food joints all my life. It&#39;s a cheap &amp; easy way for an elderly guy to hang out in public, get some walking excercise, catch up on the latest newspaper articles, etc. <BR> <BR>I know we all want to catch the culprit A.S.A.P. but just looking like an old white guy that some psychic THINKS might look like BLT is not really very solid evidence to go on. <BR> <BR>Now, if he ordered a BLT with chesse, well then, NOW you&#39;re cooking with gas!<!--/Text--></td></tr>
+<!--/Post: 3129-->
+<!--Post: 3134--><!--Time: 1104479101-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3134"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, December 30, 2004 - 11:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Did you say the _psychic&#39;s_ sketch, V? Ooooooooo....... sorry, I&#39;ll take that back.  That would be a bit of a stretch, even for me &#40;although I have to tell you, Cougar - the psychic&#39;s sketch actually does look a lot like my guy.....I&#39;m _not_ kidding!&#41;.  Truthfully, I assumed you were talking about an age progression on a witness sketch.  My bad.  If looking like a badly dressed old white guy in BK were a crime, I&#39;d be busted.  I&#39;ll see if I can get the egg back on my Croissandwich.... &#40;&#40;pax&#41;&#41; &#40;forbidden blushing emoticon deleted&#41; <BR> <BR>PS - Is there a legitimate age-progression sketch out there?  I know the earlier descriptions and the one Otero sketch I saw were terrible, so don&#39;t know if it would be helpful....<!--/Text--></td></tr>
+<!--/Post: 3134-->
+<!--Post: 3145--><!--Time: 1104510837-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3145"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, December 31, 2004 - 8:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->As far as I know, a &#34;legitimate sketch&#34; does not exist.  <BR> <BR>I think my two year old needs another SpongeBob trinket. We&#39;ll go back to the BK today and see if he&#39;s there - might ask an employee if they remember him if he&#39;s not. Nothing ventured, nothing gained, right? Besides, I hate housework, lol. <!--/Text--></td></tr>
+<!--/Post: 3145-->
+<!--Post: 3193--><!--Time: 1104602924-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3193"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 01, 2005 - 10:08 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have been thinking how it must be to be a white guy in his 60s in Wichita right now. If you do anything odd in public, someone may suspect you. But maybe that was him in Burger King.<!--/Text--></td></tr>
+<!--/Post: 3193-->
+<!--Post: 3207--><!--Time: 1104617884-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3207"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 01, 2005 - 2:18 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->And here I&#39;ve been thinking how it is to be a white female in her 40&#39;s right now, with three kids to worry about, hoping the serial killer loose in our city doesn&#39;t kill anyone else. How utterly selfish of me. <!--/Text--></td></tr>
+<!--/Post: 3207-->
+<!--Post: 3209--><!--Time: 1104618307-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3209"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wade<!--/name--></b></a><br>Username: <!--field:uname-->Wade<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 01, 2005 - 2:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Paranoia running wild!!!!!! <BR>LOL.....I think he is working in BK !!!!!!!<!--/Text--></td></tr>
+<!--/Post: 3209-->
+<!--Post: 3211--><!--Time: 1104619302-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3211"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 01, 2005 - 2:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wade, you don&#39;t know the half of it, lol. This whole BTK thing is making me crazy in more ways than one. I hate him more now than ever.  <BR> <BR>Sorry, Sherlock, if my post came off sounding harsh. It wasn&#39;t directed at you. I&#39;m just so sick of BLT invading my territory - and now my Burger King too, lol.  <BR> <BR>Peace. <!--/Text--></td></tr>
+<!--/Post: 3211-->
+<!--Post: 3219--><!--Time: 1104633335-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3219"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 01, 2005 - 6:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Cougar, thanks for the follow up. I bet it is different living there. <BR> <BR>Wade, would you be willing to go in undercover?<!--/Text--></td></tr>
+<!--/Post: 3219-->
+<!--Post: 3221--><!--Time: 1104636547-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3221"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Q<!--/name--></b></a><br>Username: <!--field:uname-->Q<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 01, 2005 - 7:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->BLT ?  <BR> <BR>Bind Lettuce Torture? <BR> <BR>Is this a bad salad bar experience? <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 3221-->
+<!--Post: 3227--><!--Time: 1104641059-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3227"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wade<!--/name--></b></a><br>Username: <!--field:uname-->Wade<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 01, 2005 - 8:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I would love to go undercover. <BR>Sign me up!!!!<!--/Text--></td></tr>
+<!--/Post: 3227-->
+<!--Post: 3228--><!--Time: 1104642805-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3228"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 01, 2005 - 9:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Okay, Wade, we&#39;ll station you at the counter and I&#39;ll work the drive-in window.<!--/Text--></td></tr>
+<!--/Post: 3228-->
+<!--Post: 3233--><!--Time: 1104645501-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3233"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 01, 2005 - 9:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Me Too! <BR>Me Too! <BR>I want to be the employee who is supposed to cleans the toilets.  That way when I spend &#42;all&#42; my time in the restaurant, &#40;drinking coffee and watching for BTK&#41;, no one will think anything is out of place.<!--/Text--></td></tr>
+<!--/Post: 3233-->
+<!--Post: 3236--><!--Time: 1104648424-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3236"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Pax56<!--/name--></b></a><br>Username: <!--field:uname-->Pax56<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 01, 2005 - 10:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I believe it would be more productive to search for BLT at a veggie place such as the Moosewood Cafe.  I was in there once, and this guy, who would now be in his early 60&#39;s, called me &#34;dude&#34;. <BR> <BR>Nevertheless, I would prefer to stake out BK.  To address any connection between myself and Spongebob merchandise, I would say that this is false. <BR> <BR>Tom - you are free to stop us at any time if we are becoming too rowdy.  &#40;Please don&#39;t!&#41;  -pax56<!--/Text--></td></tr>
+<!--/Post: 3236-->
+<!--Post: 3237--><!--Time: 1104649089-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3237"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 01, 2005 - 10:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->We get BM to make sandwich of Bacon,Tomato and Kale and tied with string.   <BR> <BR> <BR>I can see the Ad: <BR>            Order a  BTK. They&#39;re so slippery that even with our best knots they try to escape. Only $1.00 each.  Take two home eat them slowly and privately.  <BR>                <BR> <BR>                                                                                    I figure if anyone buys two as a takeout, we have enough PC for a citizens arrest; we leap from concealment and put the collective nab on him.  Cougar can blind him with her cell phone flashes. <BR> <BR> <BR> <BR>Count me in!! <BR> <BR> <BR><a href="mailto:whoisbtk@yahoo.com">whoisbtk@yahoo.com</a> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 3237-->
+<!--Post: 3241--><!--Time: 1104657583-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3241"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 1:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->URGENT UPDATE TO ALL POSTERS IN THIS THREAD <BR> <BR>The letters in the words: <BR> <BR>“bind lettuce torture dude moosewood café” <BR> <BR>if rearranged, &#40;through the use of Writing Style Analysis,to reveal their true meaning&#41;are: <BR> <BR>&#34;A bound cruet cowed foes, eluded our titter-comet!&#34;  <BR> <BR>The significance of this to our undercover operations at BM, cannot be taken too lightly. <BR> <BR>Perhaps Tom could ask the Catch BTK bus group to pose as a Grey Line Tour in case we need backup... <BR> <BR> <BR>&#40;happy new year everyone&#41; <BR> <BR><a href="mailto:whoisbtk@yahoo.com">whoisbtk@yahoo.com</a> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 3241-->
+<!--Post: 3242--><!--Time: 1104657836-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3242"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Whoisbtk<!--/name--></b></a><br>Username: <!--field:uname-->Whoisbtk<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 1:23 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Oops! <BR> <BR>For BM in the two previous posts, read BK <BR> <BR>&#34;there goes a man in a freudian slip&#34;<!--/Text--></td></tr>
+<!--/Post: 3242-->
+<!--Post: 3251--><!--Time: 1104681504-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3251"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 7:58 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Alright, alright. You&#39;ve succeeded in making me feel absolutely silly now. Happy?  <BR> <BR>Sheesh.......<!--/Text--></td></tr>
+<!--/Post: 3251-->
+<!--Post: 3252--><!--Time: 1104683695-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3252"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 8:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It`s NOT you who is the silly one Cougar! it is the posters posting silly posts who are silly... <BR> <BR>hugs...skov<!--/Text--></td></tr>
+<!--/Post: 3252-->
+<!--Post: 3253--><!--Time: 1104686971-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3253"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 9:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->No, Skov, I am absolutely silly. But thanks for the support, lol.  <BR> <BR>Hugs, <BR> <BR>Cougar<!--/Text--></td></tr>
+<!--/Post: 3253-->
+<!--Post: 3260--><!--Time: 1104703265-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3260"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wade<!--/name--></b></a><br>Username: <!--field:uname-->Wade<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 2:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Geeshhhh....Skov..you really think the BK lead is something that needs checked out? lol...I was just at mcdonalds and there were 5 old white guys that &#34;resemble&#34; the sketch.  Should we but them all?  Put out an APB for old guys in all fast food restraunts ?? <BR>There was also an old guy by himself at church.  Maybe we can do some undercover op&#39;s there too.<!--/Text--></td></tr>
+<!--/Post: 3260-->
+<!--Post: 3266--><!--Time: 1104705478-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3266"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 2:37 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Wade <BR> <BR>If you read my respons to post # 1 in this thred,  I wrote that did not think that the old man was BTK, but I still think that one should respect when a person has a strong intuitive feeling. But you are right the situation is a long shot, but then again who knows if a long shot is the right shot.  <BR>I´m sure a LOT of the leeds that WPD has recived also is based on intuitive feelings and one of those persons might be the once who are right. <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 3266-->
+<!--Post: 3275--><!--Time: 1104721683-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3275"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 7:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well my theory is that BTK is dead. Eating too much fast food may or may not have been a contributing factor. But I give Cougar credit. After getting a wee bit defensive she loosened up and let us have some fun. Keep your eyes open, Coug.<!--/Text--></td></tr>
+<!--/Post: 3275-->
+<!--Post: 3297--><!--Time: 1104757289-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3297"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 03, 2005 - 5:01 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m usually a good sport, Sherlock. God knows that if others can laugh at me I might as well have a good time laughing at myself too. Life&#39;s too short.......<IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0> <BR> <BR>Skov - it&#39;s all good. You just wait till LE nabs the old buzzard, waiting in line for a Whopper. We&#39;ll see who laughs last. &#42;wink&#42; <!--/Text--></td></tr>
+<!--/Post: 3297-->
+<!--Post: 3370--><!--Time: 1104838552-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3370"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nugzter<!--/name--></b></a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 04, 2005 - 3:35 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok if BTK doesn&#39;t eat BLT&#39;s at BK, what does he eat? Is there something that the profiler missed? Just kidding.. But the golf link seems to be something to look into. <!--/Text--></td></tr>
+<!--/Post: 3370-->
+<!--Post: 3380--><!--Time: 1104849920-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3380"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sherlock<!--/name--></b></a><br>Username: <!--field:uname-->Sherlock<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 04, 2005 - 6:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->PBJ at home. Beef jerky. McRib. <BR> <BR>Interesting question, Nugzter. What do you think he eats. I bet he has a crappy diet. He probably does go to the Burger King and Dairy Queen. TV dinners are a staple. Could you really imagine this guy being all that health conscious. <BR> <BR>And not a lot on this site about BTK&#39;s marital status. Or I&#39;m missing it &#40;very possible&#41;. Here&#39;s a new theory: He&#39;s lived with his mother all this time! She was cooking for him until she died about a year ago. Now he&#39;s got to fend for himself.<!--/Text--></td></tr>
+<!--/Post: 3380-->
+<!--Post: 3381--><!--Time: 1104852656-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3381"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cougar<!--/name--></b></a><br>Username: <!--field:uname-->Cougar<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 04, 2005 - 7:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think this warrants a check into the menu at the LW Clapp golf course. What do you think? <!--/Text--></td></tr>
+<!--/Post: 3381-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/265">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/265" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

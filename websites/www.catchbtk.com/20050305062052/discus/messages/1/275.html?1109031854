@@ -1,0 +1,262 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 275/Maps-->
+<!--Level 1: 275/Maps-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Maps</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Maps</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Maps
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=275"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=275"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 3257--><!--Time: 1104702262-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3257"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Analyzer<!--/name--></b></a><br>Username: <!--field:uname-->Analyzer<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 1:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://img.photobucket.com/albums/v622/JMTTS/Wichita_1.jpg" target=_top>http://img.photobucket.com/albums/v622/JMTTS/Wichi ta_1.jpg</a> <BR> <BR><a href="http://img.photobucket.com/albums/v622/JMTTS/wichita_2.jpg" target=_top>http://img.photobucket.com/albums/v622/JMTTS/wichi ta_2.jpg</a> <BR> <BR><a href="http://img.photobucket.com/albums/v622/JMTTS/Wichita_3.jpg" target=_top>http://img.photobucket.com/albums/v622/JMTTS/Wichi ta_3.jpg</a><!--/Text--></td></tr>
+<!--/Post: 3257-->
+<!--Post: 3258--><!--Time: 1104702585-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3258"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 1:49 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Great maps Analyzer, thank you ! <BR> <BR> But what is the nr 1 map about? <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 3258-->
+<!--Post: 3264--><!--Time: 1104704845-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3264"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Analyzer<!--/name--></b></a><br>Username: <!--field:uname-->Analyzer<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 02, 2005 - 2:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The first map shows some of the Wichita public transit routes in relationship to the murders and other locations of interest. <BR> <BR>My original &#40;not current&#41; theory was that BTK lived close to the central transit terminal and OldTown.<!--/Text--></td></tr>
+<!--/Post: 3264-->
+<!--Post: 3402--><!--Time: 1104874025-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST3402"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 04, 2005 - 1:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Found this,don´t know if has any significance: <BR> <BR><a href="http://www.google.dk/search?q=cache:StkyluHU1LkJ:pipin.tmd.ns.ac.yu/unimarc/unimarc-spec/appx-f.htm%2B%22astronomically%22%2B%2Bbtk&amp;hl=en" target=_top>http://www.google.dk/search?q=cache:StkyluHU1LkJ:p ipin.tmd.ns.ac.yu/unimarc/unimarc-spec/appx-f.htm&#43; %22astronomically%22&#43;%2Bbtk&amp;hl=en</a> <BR> <BR>CARTOGRAPHIC MATERIALS CODES <BR> <BR>btk = Phoenix Island, Phoenix Islands <BR> <BR>skov<!--/Text--></td></tr>
+<!--/Post: 3402-->
+<!--Post: 3598--><!--Time: 1105052649-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3598"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Nadeltanz<!--/name--></b></a><br>Username: <!--field:uname-->Nadeltanz<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 06, 2005 - 3:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good maps, much work.<!--/Text--></td></tr>
+<!--/Post: 3598-->
+<!--Post: 4372--><!--Time: 1106259388-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4372"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Analyzer<!--/name--></b></a><br>Username: <!--field:uname-->Analyzer<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 2:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here is an updated map <BR> <BR><a href="http://img.photobucket.com/albums/v622/JMTTS/NewMap.jpg" target=_top>http://img.photobucket.com/albums/v622/JMTTS/NewMa p.jpg</a><!--/Text--></td></tr>
+<!--/Post: 4372-->
+<!--Post: 4380--><!--Time: 1106272126-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4380"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Curious2<!--/name--></b></a><br>Username: <!--field:uname-->Curious2<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 5:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks, Analyzer - what a great view!  I&#39;m  <BR>from Texas and have never been to Wichita, <BR>so I&#39;m wondering whether Freeway 54 is the <BR>same as Freeway 400 on my Mapquest map?? <BR><!--/Text--></td></tr>
+<!--/Post: 4380-->
+<!--Post: 4381--><!--Time: 1106273282-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4381"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Curious2<!--/name--></b></a><br>Username: <!--field:uname-->Curious2<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 6:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Also, Analyzer - what about Kellogg Drive?? <BR>It&#39;s all so confusing to me - it appears to <BR>be the same as 400 and 54, also!  HELP!<!--/Text--></td></tr>
+<!--/Post: 4381-->
+<!--Post: 4383--><!--Time: 1106274728-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4383"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Analyzer<!--/name--></b></a><br>Username: <!--field:uname-->Analyzer<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, January 20, 2005 - 6:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Curious2 <BR> <BR>According to my maps they are all the same. By this I mean that 400 and 54 show up opposite the same freeway and the Freeway ends up dying out and becoming Kellogg Drive.<!--/Text--></td></tr>
+<!--/Post: 4383-->
+<!--Post: 4755--><!--Time: 1106713573-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4755"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Analyzer<!--/name--></b></a><br>Username: <!--field:uname-->Analyzer<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 8:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Latest Drop site <BR> <BR><a href="http://img.photobucket.com/albums/v622/JMTTS/Wichita7a.jpg" target=_top>http://img.photobucket.com/albums/v622/JMTTS/Wichi ta7a.jpg</a><!--/Text--></td></tr>
+<!--/Post: 4755-->
+<!--Post: 4764--><!--Time: 1106723827-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4764"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Skov<!--/name--></b></a><br>Username: <!--field:uname-->Skov<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, January 25, 2005 - 11:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks Analyzer, just one problem it is not possible to read the adresses ect,the letters are to small for my eyes at least<!--/Text--></td></tr>
+<!--/Post: 4764-->
+<!--Post: 4895--><!--Time: 1106799237-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4895"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Analyzer<!--/name--></b></a><br>Username: <!--field:uname-->Analyzer<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, January 26, 2005 - 8:13 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Another Map update <BR> <BR><a href="http://img.photobucket.com/albums/v622/JMTTS/Wichita8a.jpg" target=_top>http://img.photobucket.com/albums/v622/JMTTS/Wichi ta8a.jpg</a> <BR><!--/Text--></td></tr>
+<!--/Post: 4895-->
+<!--Post: 5290--><!--Time: 1107029831-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST5290"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hkenley@san.rr.com" target="_blank"><!--/email--><!--name-->Chiefron<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Chiefron<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 29, 2005 - 12:17 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Decided to use my free space for a useful purpose.  <BR> <BR>I used some USGS aerial photos to peice together a mosaic that covers the known crime scenes and drop locations and a comparison map of same scale with yahoo and mapquest maps of the area. <BR> <BR>The big map is pretty large and you ahve to scroll your screen around to see all of it, but I have also made individual scene maps that are zoomed in to 100% of the original USGS photos. <BR> <BR>If you notice any glaring errors in pin placements drop me an e-mail and I will correct them. <BR> <BR><a href="http://home.san.rr.com/illuminatis/" target=_top>http://home.san.rr.com/illuminatis/</a> <BR> <BR>Ron<!--/Text--></td></tr>
+<!--/Post: 5290-->
+<!--Post: 5292--><!--Time: 1107030597-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST5292"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lilymarie<!--/name--></b></a><br>Username: <!--field:uname-->Lilymarie<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 29, 2005 - 12:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ron - can&#39;t get to your link. Will you check it? - Lily<!--/Text--></td></tr>
+<!--/Post: 5292-->
+<!--Post: 6939--><!--Time: 1108085396-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6939"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Analyzer<!--/name--></b></a><br>Username: <!--field:uname-->Analyzer<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 5:29 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->As I am starting over again in my analysis here are  <BR> <BR>New Maps showing Wichita Murders by Year <BR> <BR><a href="http://img.photobucket.com/albums/v622/JMTTS/Wichita15a.jpg" target=_top>http://img.photobucket.com/albums/v622/JMTTS/Wichi ta15a.jpg</a> <BR> <BR><a href="http://img.photobucket.com/albums/v622/JMTTS/Wichita16a.jpg" target=_top>http://img.photobucket.com/albums/v622/JMTTS/Wichi ta16a.jpg</a> <BR> <BR>Red – 1974 – Otero, Kathyrn Bright, Sherry Baker <BR> <BR>Yellow – 1977 – Shirley Vian, Nancy Fox <BR> <BR>Dark Blue – 1979, 1980 – Anna Williams - Not a victim, Barbara Smith <BR> <BR>Light Blue – 1985-1987 – Marine Hedge, Linda Casey, Vickie Wegerle,  <BR> <BR>Green – 1991 - Delores &#34;Dee&#34; Davis <BR> <BR>Purple – 1996-2004 - Cherie Fox, Avanthea Williams, Deanna Law, Carol Mould <BR> <BR>White – BTK Drop Sites <BR> <BR>  <BR> <BR>Circles are Bodies and Drop Sites <BR> <BR>Squares are related items <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 6939-->
+<!--Post: 7457--><!--Time: 1108505777-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7457"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Analyzer<!--/name--></b></a><br>Username: <!--field:uname-->Analyzer<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, February 15, 2005 - 2:16 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I can&#39;t take credit for this as I built it based upon a posting by Christen Iman on another site of interest.  <BR>I found that analysis highly interesting. <BR> <BR><a href="http://img.photobucket.com/albums/v622/JMTTS/Wichita18.jpg" target=_top>http://img.photobucket.com/albums/v622/JMTTS/Wichi ta18.jpg</a> <BR><!--/Text--></td></tr>
+<!--/Post: 7457-->
+<!--Post: 8277--><!--Time: 1109031854-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST8277"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Analyzer<!--/name--></b></a><br>Username: <!--field:uname-->Analyzer<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 21, 2005 - 4:24 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A couple of new maps of interest <BR> <BR><a href="http://img.photobucket.com/albums/v622/JMTTS/Wichita21.jpg" target=_top>http://img.photobucket.com/albums/v622/JMTTS/Wichi ta21.jpg</a> <BR> <BR><a href="http://img.photobucket.com/albums/v622/JMTTS/Wichita22a.jpg" target=_top>http://img.photobucket.com/albums/v622/JMTTS/Wichi ta22a.jpg</a> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 8277-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/275">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/275" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

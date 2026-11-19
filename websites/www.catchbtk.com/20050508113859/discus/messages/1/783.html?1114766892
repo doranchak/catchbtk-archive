@@ -1,0 +1,332 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 783/Quick note from denny added 4-20-->
+<!--Level 1: 783/Quick note from denny added 4-20-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Quick note from denny added 4-20</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Quick note from denny added 4-20</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Quick note from denny added 4-20
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=783"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=783"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 13039--><!--Time: 1114011568-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13039"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 20, 2005 - 8:39 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey, check out the &#34;handwriting sample&#34; Tom added today on the catchbtk.com home page. <BR> <BR>It has some really juvenile mistakes in it, its like when he writes he just skips ahead and misses whole words, and uses wrong tenses on word endings.  <BR> <BR>Hmmm, it almost reads like a note from denny to Tom. Could Tom be corresponding with dogface?<!--/Text--></td></tr>
+<!--/Post: 13039-->
+<!--Post: 13044--><!--Time: 1114019201-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13044"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 20, 2005 - 10:46 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Itty - I looked but I don&#39;t see anything added? <BR>Am I crazy? <BR>Could you guide me? <BR>Thanx <BR><!--/Text--></td></tr>
+<!--/Post: 13044-->
+<!--Post: 13045--><!--Time: 1114019273-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13045"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 20, 2005 - 10:47 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Itty - I&#39;m the idiot - I found it  <BR>Thanx<!--/Text--></td></tr>
+<!--/Post: 13045-->
+<!--Post: 13046--><!--Time: 1114019384-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13046"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Foxfire<!--/name--></b></a><br>Username: <!--field:uname-->Foxfire<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 20, 2005 - 10:49 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom lives!!!!????<!--/Text--></td></tr>
+<!--/Post: 13046-->
+<!--Post: 13047--><!--Time: 1114019572-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13047"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 20, 2005 - 10:52 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->It is VERY hard to read.  I am going to try to decipher and I will post the findings - something about a black hole AND a gold star.. <BR>the a&#42;&#42; <BR>Makes me wonder if Tom went to visit him, Itty is right - it is like the note is written to Tom - the jacka&#42;&#42; even intialed his mispellings -  <BR><!--/Text--></td></tr>
+<!--/Post: 13047-->
+<!--Post: 13048--><!--Time: 1114020049-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13048"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 20, 2005 - 11:00 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Here is what I figured out so far: <BR>Yes, the Pastor has helped me a lot as well as the Detention Chaplain.  They help smooth out the hard bump that an inmate encounters. <BR>I&#39;m working toward one or more gold stars and hopefull in time leave behind a black hole on &#42;&#42;&#42;&#42;&#42;&#42;&#42; &#40;can&#39;t decipher&#41; <BR>I&#39;m curioustiy about how you know about me in certain contents.  Must be the internet or papers. <BR><!--/Text--></td></tr>
+<!--/Post: 13048-->
+<!--Post: 13049--><!--Time: 1114020093-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13049"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 20, 2005 - 11:01 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I feel so bad that the a&#42;&#42; has encounterd a bump as an inmate. <BR><IMG SRC="http://www.catchbtk.com/discus/clipart/sad.gif" ALT=":-&#40;" BORDER=0><!--/Text--></td></tr>
+<!--/Post: 13049-->
+<!--Post: 13050--><!--Time: 1114021320-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13050"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 20, 2005 - 11:22 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I had a co-worker look at it too. I think on the sentance &#34;I&#39;m working toward one or more gold stars <BR>it actually reads: <BR>&#34;one of these&#34; or &#34;them&#34; <BR>and then it is like an arrow pointing from the word black up to gold <BR>Also noticed a number three but could be the transposition of an s <BR>AND THEN AGAIN WHO KNOWS WITH THIS PUZZLE LOVER PIECE OF CRAP <BR>OMG - He is STILL doing it. <BR><!--/Text--></td></tr>
+<!--/Post: 13050-->
+<!--Post: 13053--><!--Time: 1114029881-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13053"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Foxfire<!--/name--></b></a><br>Username: <!--field:uname-->Foxfire<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 20, 2005 - 1:44 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->He&#39;s working on one of these gold stars IN PRISON?  What does that mean?  I mean &#34;gold star&#34; and &#34;leave behind a black hole&#34; sounds suspiciously like a murder/suicide or a &#34;suicide by cop&#34; to me.  But who knows what that means with Dennis. <BR><!--/Text--></td></tr>
+<!--/Post: 13053-->
+<!--Post: 13054--><!--Time: 1114032453-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13054"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Foxfire<!--/name--></b></a><br>Username: <!--field:uname-->Foxfire<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 20, 2005 - 2:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Does the last part of the sentence possibly say &#34;or abend start&#34; as in the trial or something. <BR> <BR>Also, he initials things with &#34;&#40;DSR&#41;&#34;?  The middle initial looks like his other s&#39;s more than his l&#39;s. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 13054-->
+<!--Post: 13055--><!--Time: 1114033699-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13055"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 20, 2005 - 2:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Foxfire...I know...it&#39;s hard to decipher isn&#39;t it? <BR>It makes me think it is like one of his puzzles. <BR>..and the initial thing..it is like he is intialing his own mistakes should the note fall into wrong hands - it has HIS approval..and verification -I just can&#39;t figure out that one part tho - leave behind a black _______ - and the arrow thing.. <BR>hmmmmm<!--/Text--></td></tr>
+<!--/Post: 13055-->
+<!--Post: 13066--><!--Time: 1114052203-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13066"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sidewalker<!--/name--></b></a><br>Username: <!--field:uname-->Sidewalker<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 20, 2005 - 7:56 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->its seems the line we cant read well, &#40;as he writes even crappier than me!@??&#41; <BR>says.......leave behind a black hole or &#40;on?&#41; bend &#40;?&#41; lend &#40;?&#41; &#42;&#42;&#42;&#42;and the next line, could it be 3 followed by a plus sign, and the next word maybe an abbreviation? or the word tapes? <BR> <BR>I hope they send him tapes all right.......some frickin Barney tapes, or something that drives him right over the edge.......and into that stinkin black hole.<!--/Text--></td></tr>
+<!--/Post: 13066-->
+<!--Post: 13069--><!--Time: 1114066656-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13069"><font face="Verdana" size="1"><b><!--email--><a href="mailto:bmodule_244@hotmail.com" target="_blank"><!--/email--><!--name-->Bmodule<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Bmodule<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, April 20, 2005 - 11:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yes tne Pastor has nelped me a lot a nr as the Deten&#42;ion Chaplain. The j help sniedtn ouittre hare bimp. tnat un innate en co intris. <BR> <BR>It&#39;s part English, part German, part French and part Latin. <BR> <BR> <BR>This actually makes me wonder if his Sentax was as bad as we thought or if the transposer&#40;...lator&#41; just omitted the words they couldn&#39;t read. Apparently the alphabet doesn&#39;t come under the heading of &#34;things that must be kept tidy and in their proper place&#34; in Denny&#39;s world.<!--/Text--></td></tr>
+<!--/Post: 13069-->
+<!--Post: 13074--><!--Time: 1114076754-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13074"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 21, 2005 - 2:45 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->For you good people looking on in awe at Denny the Dog Catcher&#39;s uneven and tortured writing, I present to you a very interesting concept developed the world&#39;s foremost authority on psychopathy, the good Dr. Cleckley.  <BR> <BR><b>Semantic Aphasia</b>.  <BR> <BR>Link - <a href="http://www.angelfire.com/zine2/narcissism/antisocial_sociopath_psychopath.html">Antisocial Personality, Sociopathy, and Psychopathy</a>.  <BR> <BR> <BR>Pertinent to this thread: <BR> <BR><i>PRIMARY PSYCHOPATHS do not respond to punishment, apprehension, stress, or disapproval. They seem to be able to inhibit their antisocial impulses most of the time, not because of conscience, but because it suits their purpose at the time. Words do not seem to have the same meaning for them as they do for us. In fact, <b>it&#39;s unclear if they even grasp the meaning of their own words, a condition that Cleckley called &#34;semantic aphasia.&#34;</b> They don&#39;t follow any life plan, and it seems as if they are incapable of experiencing any genuine emotion...</i> <BR> <BR>I added the &#34;bold&#34; emphasis on the part pertinent to this thread.  <BR> <BR>Of the four psychopathic subtypes I do not think Denny fits one squarely, by the way.  <BR> <BR>I suggest a careful reading of the page linked for an understanding and overview of the kind of criminal mind you might commonly encounter in a serial killer.<!--/Text--></td></tr>
+<!--/Post: 13074-->
+<!--Post: 13076--><!--Time: 1114083609-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13076"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 21, 2005 - 4:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->yes the pastor has helped me a lot as well as the <BR>detention chaplain. they help smooth over the hard bumps that an inmate encounters.  <BR>i&#39;m working toward one of those golden &#40;c-sr&#41; star <BR>and hopefully in time leave dehind a black hole  <BR>or d/b --  &#40;wsr&#41; 3tart. <BR>i&#39;m curiousity about how you know about me in certain contents. must be the internot or paper. <BR> <BR> <BR>I used a photoediting software to zoom and sharpen, and thats the best I can get. <BR>I am sure about the letters in parenthesis <BR>&#40;c-sr&#41; and &#40;wsr&#41;. what could that mean? <BR><!--/Text--></td></tr>
+<!--/Post: 13076-->
+<!--Post: 13078--><!--Time: 1114087156-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13078"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 21, 2005 - 5:39 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Gold Star was what children were taught to work toward during his growing up. A gold star on a paper, a finished piece of music for a lesson, behavioral charts, etc.  <BR> <BR>I still believe that Rader has some minimal brain injury as evidenced by his sentence construction. That is where his defense team should go to present a defense. If I were on the defense team, I would show that despite his cleverness, his brain cannot make the connections properly, his brain injury is a permanent condition, it was given no remediation while in public school, and therefore, he is handicapped from a neurological standpoint. It would be interesting to see what his performance would be on an intelligence test. The Wechsler Adult Intelligence Test is a good test of personality and the Rorschach is an excellent intelligence test as well. He is an overachiever, from a school work standpoint.<!--/Text--></td></tr>
+<!--/Post: 13078-->
+<!--Post: 13079--><!--Time: 1114088035-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13079"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 21, 2005 - 5:53 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->A handwriting analyst would have a field day with his writing above the lines, the combination of printing and cursive, the disjointedness, etc. I will try to look up some meanings of those items. Surely, someone on the board has delved into handwriting analysis.<!--/Text--></td></tr>
+<!--/Post: 13079-->
+<!--Post: 13082--><!--Time: 1114092562-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13082"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 21, 2005 - 7:09 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tear, about the handicap...If we have trouble making sense out of what he writes, do you think he has trouble reading and understanding things that are written properly? <BR> <BR>Knida ilke sepllnig erevy wrdo ngrow nad su siltl <BR>bigen lbea ot eard ti.<!--/Text--></td></tr>
+<!--/Post: 13082-->
+<!--Post: 13084--><!--Time: 1114114771-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13084"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 21, 2005 - 1:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Has anybody noticed that the second half of DR&#39;s prison note is gone. <BR>Looks like the note got folded in half. <BR>The sentance about the gold star..black hole and curiosity...gone <BR>Hmmmmmmmmmmmmmmmmmmm<!--/Text--></td></tr>
+<!--/Post: 13084-->
+<!--Post: 13086--><!--Time: 1114121127-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13086"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Foxfire<!--/name--></b></a><br>Username: <!--field:uname-->Foxfire<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, April 21, 2005 - 3:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just went to look.  I guess it&#39;s lucky that some of us got to see the other part yesterday! <BR> <BR>I wonder whom told whom to take the rest of it off?  So strange.<!--/Text--></td></tr>
+<!--/Post: 13086-->
+<!--Post: 13093--><!--Time: 1114175563-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13093"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 22, 2005 - 6:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Itty: I guess that it could go either way. His problem may be an &#39;expressive&#39; one. Visual and/or auditory sequencing/memory. I know someone who worked on the moon missions with NASA. A real spelling problem, despite his profound technical writing abilities. He spelled &#39;play&#39; as &#39;paly&#39;. All the visual elements and letter respresentations for sounds were there but in the wrong sequence. As far as I could tell, he did not have a problem with reading or reading comprehension. That is why a battery of testing on Rader as well as other people like him could be enlightening. Neuropsychologists often administer tests for surgeons to pinpoint a tumor prior to surgery or locate that part of the brain that is affected. Of course, modern imaging is probably making some of their skills obsolete. <BR> <BR>I am glad to see that others noticed a part missing from the note. I thought that I was having tumor issues myself. Has anyone else written Rader? I am considering giving it a shot and asking to write his story. Nothing ventured, nothing gained. He makes so few public appearances that we will have to watch closely to see any changes in physical appearance, like weight loss. Should he really have colon cancer, it should eventually begin to show on someone of his size.<!--/Text--></td></tr>
+<!--/Post: 13093-->
+<!--Post: 13102--><!--Time: 1114181739-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13102"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 22, 2005 - 7:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Want to know something funny. The Nut is writing in plain English and we still have to Decipher it. LOL Guess that is why he wrote to us in numbers in the past.  His writing is awful. LOL<!--/Text--></td></tr>
+<!--/Post: 13102-->
+<!--Post: 13103--><!--Time: 1114182145-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13103"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 22, 2005 - 8:02 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Emb you make me laugh - so true. <BR>KWCH channel 12 in WIchita..is reporting that a letter was sent to the church, the Pastor confirmed that he posted it for the congregation to read. <BR>BUT - he does not know if it is the same letter posted here. <BR>Surley, it isn&#39;t <BR>Why would he say to the congreation... <BR>I am curiosity on how you know about me in certain contents, must be the internet or papers. <BR>Okay, this guy is a NUT - a MORON..does he think he hasn&#39;t been plastered all over everywhere? <BR>That has always been his main desire anyway. Publicity. <BR>Right from the start. <BR>The demon a&#42;&#42;<!--/Text--></td></tr>
+<!--/Post: 13103-->
+<!--Post: 13104--><!--Time: 1114183472-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13104"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 22, 2005 - 8:24 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I read on some other board that Angie is the one who wrote to dogface and rec&#39;d a reply. <BR> <BR>Angie and Tom, sitting in a tree...... <BR> <BR>Tom, this is driving everybody nuts, is that the plan? give us a snippet, take it away...wait a few days and see how far it goes on the net. <BR>If you want to leak something, send me an email. <BR>I and many others consider you a &#34;reliable&#34; source, we have no idea how you get your info, but we do trust it.<!--/Text--></td></tr>
+<!--/Post: 13104-->
+<!--Post: 13105--><!--Time: 1114183848-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13105"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 22, 2005 - 8:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Itty, I saw the posts about &#34;Angie&#34; also. <BR>I wish Tom would resurface and cut out the &#34;snippets&#34; also. <BR>It would be nice to read his thoughts... <BR>AND your are right..we do trust him... <BR>Maybe he&#39;s never coming back. <BR><!--/Text--></td></tr>
+<!--/Post: 13105-->
+<!--Post: 13118--><!--Time: 1114202513-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13118"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 22, 2005 - 1:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ive been comparing the whole note posted here with <BR>handwriting from Christen iman. <BR> <BR>Looks like a match to me. <BR> <BR>has  anyone seen posts from him since the arrest?<!--/Text--></td></tr>
+<!--/Post: 13118-->
+<!--Post: 13136--><!--Time: 1114281008-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13136"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, April 23, 2005 - 11:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->someone at amw.com has posted the whole note that tom had originally put up, if you didnt get to see it.  I have posted 3 of christen imans drawings with handwriting over there at same thread, if you care to look. <BR> <BR>The way the t&#39;s connect to the h&#39;s is identical. <BR>look at the r&#39;s connecting to t&#39;s <BR>h&#39;s look the same. <BR> <BR><a href="http://forums.prospero.com/foxamw/?msg=3614.1&amp;post=y&amp;guest=y" target=_top>http://forums.prospero.com/foxamw/?msg=3614.1&amp;post =y&amp;guest=y</a><!--/Text--></td></tr>
+<!--/Post: 13136-->
+<!--Post: 13137--><!--Time: 1114281229-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13137"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, April 23, 2005 - 11:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->bad link above <BR> <BR>here <BR> <BR><a href="http://forums.prospero.com/foxamw/messages/?msg=3614.1" target=_top>http://forums.prospero.com/foxamw/messages/?msg=36 14.1</a><!--/Text--></td></tr>
+<!--/Post: 13137-->
+<!--Post: 13144--><!--Time: 1114306599-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13144"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, April 23, 2005 - 6:36 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Teardrop, <BR> <BR>I have read one book on handwriting analysis and imo it is as objective as a lie detector test or hypnosis.  .  .   <BR> <BR>If I am not mistaken more writing analysts are being subject to lawsuit when their &#34;opnions&#34; cause harm to an accused.  .  .   <BR> <BR> <!--/Text--></td></tr>
+<!--/Post: 13144-->
+<!--Post: 13147--><!--Time: 1114308067-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13147"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Embersage<!--/name--></b></a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, April 23, 2005 - 7:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, When we must have the attention we think we deserve. Since we can&#39;t send puzzles or threats to the media or the police we have to resort to letter writing. I agree Tac. As you know I make is a point to study text, and writing. Writing anaysis is opinion based because there is no way to prove that  a person was thinking or feeling a certain way at a certain time. &#40;IE differences in the way he write a word when he is angry or rushed as opposed to Happy&#41; They can only guess. But since he is writing letters. It shows he may now be harboring some guilt and searching for forgiveness. That is what I wanted. I prayed for him to develop emotions while in jail. So he could see wht he did to so many lives. I how he feels bad, and does for a very long time. I doubt if he will find too many people to feel sorry for him.   Thanks Sheila<!--/Text--></td></tr>
+<!--/Post: 13147-->
+<!--Post: 13157--><!--Time: 1114375436-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13157"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, April 24, 2005 - 1:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Em <BR> <BR>You have a good soul. Forgiveness is the basis of civilization but forgiveness is much easier when it is not your child who is the victim.  <BR> <BR>Unfortunately for the Rader&#39;s of the world we do not have the knowledge to rehabilatate them. Like a child molester or rapist, the fact remains that if they are released they are a solid bet to offend again.  .  .  <BR> <BR>I believe that we will not be able to help these people until we unlock more of the mysteries of the brain. <BR> <BR>Until that point our society needs to acknowledge that we can NOT rehab these lost souls. <BR> <BR>Instead of rehabilitation we must use a &#34;substitute&#34; for them. I believe that virtual reality technology and robotics hold the key to substituting the stimulus these offenders crave.  .  .   <BR> <BR>Creating a robotic/doll or object could act as a outlet for a pedephile or rapist when the &#34;urge&#34; hits. Virtual reality technology could create a &#34;video&#34; game that allows the same type of &#34;outlet&#34;.  <BR> <BR>All I know is that what we are doing now is NOT working.  .  .   <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 13157-->
+<!--Post: 13158--><!--Time: 1114408265-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13158"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, April 24, 2005 - 10:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->TAC said; &#34;All I know is that what we are doing now is NOT working. . .&#34;. <BR> <BR>I totally agree, Tac. That&#39;s why I created the &#34;Preventing Future BTKs&#34; thread &#40;under &#34;General&#34;&#41;. I&#39;ll post the rest of my response there, where it&#39;s more appropriate.<!--/Text--></td></tr>
+<!--/Post: 13158-->
+<!--Post: 13162--><!--Time: 1114441418-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13162"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 25, 2005 - 8:03 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->...something I noticed about the note... <BR>Some of his S&#39;s are made like dollar signs...?<!--/Text--></td></tr>
+<!--/Post: 13162-->
+<!--Post: 13165--><!--Time: 1114446096-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13165"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 25, 2005 - 9:21 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->His comments about how someone knows something about him hints that he is not as lucid at times as we would think. If questioned about their client, his lawyers might indicate that Rader does not at times appear fully cognizant of what is going on with him, i.e., the charges, mounting a defense. His &#39;world&#39; may be much smaller than we thought. He may also be developing &#39;intensive care-itis&#39;, where one has been so confined and without normal stimulation that they drift in and out of reality. <BR> <BR>I still maintain that he would be in special education if in the school system today. What must his term papers have read? Perhaps he had someone helping with his work, doing rewrites, checking spelling, etc. His thoughts are disjointed. He substitutes one similar word for another. His handwriting itself is atrocious. I could not have gotten out of first grade with that kind of work. I think that he schmoozed his way through school, substituting his affability and good boy approach to compensate for his difficulty with school work. This facade was essentially a wall that repelled feelings of inadequacy and he has maintained it to this day. His work required concrete things to do which provided him with the intensive structure that he required to function. A head injury in later life might account for a change in writing/expression. <BR> <BR>All that OC behavior and rigidity in his code enforcer work and ADT work could result in constipation, on a lighter note.<!--/Text--></td></tr>
+<!--/Post: 13165-->
+<!--Post: 13167--><!--Time: 1114446483-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13167"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Elsewhere<!--/name--></b></a><br>Username: <!--field:uname-->Elsewhere<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, April 25, 2005 - 9:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Maybe he&#39;s dyslexic?<!--/Text--></td></tr>
+<!--/Post: 13167-->
+<!--Post: 13190--><!--Time: 1114523795-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13190"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Beck<!--/name--></b></a><br>Username: <!--field:uname-->Beck<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 26, 2005 - 6:56 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Great. This is what the world needs, another obsessive-compulsive constipated dyslexic. LOL! <!--/Text--></td></tr>
+<!--/Post: 13190-->
+<!--Post: 13219--><!--Time: 1114563259-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13219"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Murco<!--/name--></b></a><br>Username: <!--field:uname-->Murco<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 26, 2005 - 5:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->i wonder if this is part of a possible insanity defense?<!--/Text--></td></tr>
+<!--/Post: 13219-->
+<!--Post: 13220--><!--Time: 1114565224-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13220"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 26, 2005 - 6:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think that&#39;s one thing you can bet on Murco, there will be an insanity defense.<!--/Text--></td></tr>
+<!--/Post: 13220-->
+<!--Post: 13225--><!--Time: 1114574936-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST13225"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, April 26, 2005 - 9:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I would think that he would object to an insanity defense, as he would have to admit that he was not in his right mind for the last 31 years. He would have to admit that all his work and accomplishments were a sham by a crazy person. He is too vain for that. <BR> <BR>The defense is going to have to show some overriding, beyond his control, physical anomaly which prevented him from discerning right from wrong during his &#39;killer&#39; times while allowing him to be a good worker, church member, etc. He will be pissing on a hot wire. An insanity defense will not fly. Just because his acts were horrendous to the rest of the world does not mean that they were insane to him. Quite the contrary, he tooted his own horn numerous times. He would hate being in a facility for the criminally insane. He will meet much worse individuals than himself and soon assume the fetal position. <BR> <BR>The only thing that I can think of would be to find that he has Jacksonian epilepsy and committed these acts while in such a state. However, the time he spent at the scene, the prep, the pics, all scream of a person fully cognizant and in control of his faculties. He is a dead man. Even if released to freedom, he won&#39;t stay alive for long. <BR><!--/Text--></td></tr>
+<!--/Post: 13225-->
+<!--Post: 13280--><!--Time: 1114766892-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST13280"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, April 29, 2005 - 2:28 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text--><a href="http://www.wichitanewsbrief.com/newsletter.aspx?id=recent" target=_top>http://www.wichitanewsbrief.com/newsletter.aspx?id =recent</a> <BR> <BR>is this the letter Tom got hold of? <BR> <BR>&#34;BTK:  MY PEN PAL <BR>  <BR>It&#39;s a claim a west coast woman can make after receiving a four page letter from Dennis Rader from his jail cell here in Wichita.  The woman thought that she would send him a letter, and did not know what to expect.  She was floored when she got a response, and that it was so long.  In the letter, he talks about how much he has relied upon his pastor and the jail&#39;s chaplain.  He also talks about his daily routine, and expresses that receiving any mail &#34;expressing Christian concerns for him and his family&#34; is a welcome perk.&#34; <BR><!--/Text--></td></tr>
+<!--/Post: 13280-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/783">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/783" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

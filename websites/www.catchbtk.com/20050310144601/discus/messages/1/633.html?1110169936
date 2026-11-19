@@ -1,0 +1,288 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 633/Don&#39;t Forget Steve Relford-->
+<!--Level 1: 633/Don&#39;t Forget Steve Relford-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Don&#39;t Forget Steve Relford</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Don&#39;t Forget Steve Relford</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Don&#39;t Forget Steve Relford
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=633"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=633"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 9910--><!--Time: 1109701182-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9910"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ozdude<!--/name--></b></a><br>Username: <!--field:uname-->Ozdude<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 10:19 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This guy has been plastered all over KAKE and only talking to them. It&#39;s almost getting to the point KAKE is exploiting him. This poor guy is very emotional. He can hardly speak he gets so upset and last night they took him to his former home where his mother was murdered. It was sad. I wish him well and pray for him, too.<!--/Text--></td></tr>
+<!--/Post: 9910-->
+<!--Post: 9929--><!--Time: 1109706207-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST9929"><font face="Verdana" size="1"><b><!--email--><a href="mailto:topsailgrl@yahoo.com" target="_blank"><!--/email--><!--name-->Topsailgrl<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 11:43 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I have been saying this all along. It appears to me that KAKE is making ratings out of him. This poor guy needs help and support big time. 5/6 years old or not, to witness your mother being murdered has got to be still with him every day. And now that BTK is caught, it is all coming back to him.  <BR> <BR>I wish I had the means to help this guy. He needs professional help especially with what is getting ready to take place.<!--/Text--></td></tr>
+<!--/Post: 9929-->
+<!--Post: 9967--><!--Time: 1109714032-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9967"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 1:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yeah I saw him on Larry, he was crying, I wish him the best of luck, strength to get through this nightmare, and I will pray for him. It it so humbling to me, I watch him, and I am sad, I don&#39;t know if I could handle something like this myself, I just pray for him and hope that someone reachs out to help him.  E<!--/Text--></td></tr>
+<!--/Post: 9967-->
+<!--Post: 10013--><!--Time: 1109725908-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10013"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Haytrader<!--/name--></b></a><br>Username: <!--field:uname-->Haytrader<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 5:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If KAKE &#40;Susan Peters&#41; really cares about him, they will see that he gets help. <BR>Dr. Phil is always &#39;arranging&#39; counseling for people in need. If ever there was person in need, here he is. The Oteros too.<!--/Text--></td></tr>
+<!--/Post: 10013-->
+<!--Post: 10034--><!--Time: 1109731533-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10034"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 6:45 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey what a good idea, I will sit down and write Dr. Phil a letter see if he repiles maybe you guys could do that to please.<!--/Text--></td></tr>
+<!--/Post: 10034-->
+<!--Post: 10037--><!--Time: 1109732133-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10037"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stormy74<!--/name--></b></a><br>Username: <!--field:uname-->Stormy74<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 6:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Yes, I think it would be wonderful to send an email or letter to Dr. Phil...He will be doing a piece on a family from MO tomorrow 3/2/05. I think there are plenty of people praying and wishing the best for Mr. Relford, but I think it would be a great thing to see if we can get some &#39;professional&#39; help for him that would not &#39;exploit&#39; him , his family, or their pain. This has got to be an awful time for him and his family. If anyone gets anymore information about how to contact Dr.Phil, please let me know....Embersage, if you want you can email the information to me. Thanks! <!--/Text--></td></tr>
+<!--/Post: 10037-->
+<!--Post: 10056--><!--Time: 1109737147-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10056"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 8:19 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I just saw that interview, damn you BTK! We have to start a victims fund! Somebody call Oprah, she is a kind hearted soul and I believe a victim herself to some type of crime!<!--/Text--></td></tr>
+<!--/Post: 10056-->
+<!--Post: 10068--><!--Time: 1109740087-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10068"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 9:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->OK I wrote to Dr. PHil and Oprah, maybe you guys should do the same, to get their attention, I put that those of us on the catchbtk message board were asking for their help, Thanks E.<!--/Text--></td></tr>
+<!--/Post: 10068-->
+<!--Post: 10076--><!--Time: 1109741281-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10076"><font face="Verdana" size="1"><b><!--email--><a href="mailto:rwmm@swbell.net" target="_blank"><!--/email--><!--name-->Lilymarie<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Lilymarie<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 9:28 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->E - great idea. I&#39;m in. Thanks for leading the way on this.<!--/Text--></td></tr>
+<!--/Post: 10076-->
+<!--Post: 10081--><!--Time: 1109742096-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10081"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, March 01, 2005 - 9:41 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Rocky, I believe Oprah was a molestation or rape victim as a youth by a family member or family friend.<!--/Text--></td></tr>
+<!--/Post: 10081-->
+<!--Post: 10130--><!--Time: 1109780445-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10130"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Cyndi<!--/name--></b></a><br>Username: <!--field:uname-->Cyndi<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 8:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wow.  I&#39;ve mailed a letter to Dr. Phil also.  Let&#39;s hope someone pays attention and sees the need to help this man.<!--/Text--></td></tr>
+<!--/Post: 10130-->
+<!--Post: 10134--><!--Time: 1109781535-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10134"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 8:38 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Cyndi - Not just Steve Relford but all of the victims families. These celebs could cover it!<!--/Text--></td></tr>
+<!--/Post: 10134-->
+<!--Post: 10159--><!--Time: 1109789081-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10159"><font face="Verdana" size="1"><b><!--email--><a href="mailto:nugzter@yahoo.com" target="_blank"><!--/email--><!--name-->Nugzter<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Nugzter<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 10:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Imagine how Steves life could have turned out if it hadnt been for this sick monster. But the only advice I can give is, Drive on Steve. They got him. Close this horrible chapter and enjoy your life. <!--/Text--></td></tr>
+<!--/Post: 10159-->
+<!--Post: 10169--><!--Time: 1109793101-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10169"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lostdog<!--/name--></b></a><br>Username: <!--field:uname-->Lostdog<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 11:51 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->As much as you and I wish  for it, he can&#39;t move on Nugzt. <BR> <BR>He&#39;s got a nasty case of post-traumatic stress syndrome raging inside. Who here would be shocked to find out that he&#39;s a substance abuser on top of it all? <BR> <BR>I watch this man on my TV and all I can see is a little boy being torn from his momma&#39;s loving embrace over and over and over again. <BR> <BR>Dr. Phil and Oprah? Brilliant idea. Everybody wins. I&#39;ll send my message today. <BR> <BR>The Otero kids, the Relford-Vians, Vicki&#39;s husband all nestled in a  Dr.Phil-i-buster and -- most importantly -- with top-notch coaching BEFORE they face off with the dirty dog DCK at the sentencing hearing. <BR> <BR>While we&#39;re at it The Dietz family could use more than a Pastor right now.  <BR> <BR>Poke fun at Dr. P and Big O &#40;or little o - depending on the season&#41; if you will -- I used to before South Africa -- but they have got the resources ready to get some lives back on track. <BR> <BR>Dog to Oprah... time to change more lives girlfriend. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10169-->
+<!--Post: 10185--><!--Time: 1109800879-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10185"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Essevi<!--/name--></b></a><br>Username: <!--field:uname-->Essevi<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 2:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Talk about exploiting him...  <BR> <BR>It breaks my heart to see him on TV, but did you know that they brought him back to the house where this nightmare began? Camera crew and all! <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 10185-->
+<!--Post: 10187--><!--Time: 1109802686-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10187"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Chiquitah<!--/name--></b></a><br>Username: <!--field:uname-->Chiquitah<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 2:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Great Idea for Oprah and Dr. Phil.  I mean, c&#39;mon...if she can give away cars to her audience.... <BR> <BR>I&#39;m in, too!<!--/Text--></td></tr>
+<!--/Post: 10187-->
+<!--Post: 10205--><!--Time: 1109813693-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10205"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rocky<!--/name--></b></a><br>Username: <!--field:uname-->Rocky<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 5:34 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Essevi- I just watched that on CNN. Susan Peters was all over that. What is she thinking?<!--/Text--></td></tr>
+<!--/Post: 10205-->
+<!--Post: 10210--><!--Time: 1109816720-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10210"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Haytrader<!--/name--></b></a><br>Username: <!--field:uname-->Haytrader<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 6:25 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Wish I would have thought of somthing like this. <BR>Winkety wink. <BR>I really would like to see the celebs get involved with the living victems here. <BR>Instead of the back patting news conferences and parades around the old house, how about some genuine phycological help for Relsford, the Oteros, and other victems. The Relsford son doesn&#39;t even appear to know he is being used for &#34;exclusive&#34; only exploitation. <BR>Dr. Phil and O, among others, have the where with all to genuinally help these guys. And writing them, sending E-mail, or just posting support here, all should help to secure that help. Also, spreading the word to other boards, sending this request to your personal E-mail friends, and verbally spreading the word, will surely help to get the word out. <BR>And just helping &#34;get this done&#34; will make ya feel better.<!--/Text--></td></tr>
+<!--/Post: 10210-->
+<!--Post: 10227--><!--Time: 1109828385-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10227"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Stormy74<!--/name--></b></a><br>Username: <!--field:uname-->Stormy74<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, March 02, 2005 - 9:39 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Alright, I have done it. I emailed both Oprah and Dr. Phil. I will be spreading the word to others who would like to see these victims families get some help. I think the overwhelming amount of emails will start to generate that. I will be trying to call both shows over the next couple of days. <!--/Text--></td></tr>
+<!--/Post: 10227-->
+<!--Post: 10249--><!--Time: 1109849104-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10249"><font face="Verdana" size="1"><b><!--email--><a href="mailto:topsailgrl@yahoo.com" target="_blank"><!--/email--><!--name-->Topsailgrl<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Topsailgrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 3:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m gonna jump on this wagon too! Will email Oprah and Phil today. <!--/Text--></td></tr>
+<!--/Post: 10249-->
+<!--Post: 10394--><!--Time: 1109919845-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10394"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 03, 2005 - 11:04 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thank you and God Bless all of you, you are truly great and caring people, I will pray that we get help for them E. if you go to the Possible vic, page and look at don&#39;t forget CC you will see how you have impacted my life by caring so much about these people Thanks E.<!--/Text--></td></tr>
+<!--/Post: 10394-->
+<!--Post: 10720--><!--Time: 1110150656-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10720"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Weeza<!--/name--></b></a><br>Username: <!--field:uname-->Weeza<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 3:10 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->on amw boards there&#39;s an address listed through kake that is apparently accepting donations for Relford....might be worth a try.You&#39;ll have to check it out yourselves though to make sure its legit.<!--/Text--></td></tr>
+<!--/Post: 10720-->
+<!--Post: 10734--><!--Time: 1110169936-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST10734"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 06, 2005 - 8:32 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That&#39;s Weeza I will<!--/Text--></td></tr>
+<!--/Post: 10734-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/633">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/633" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

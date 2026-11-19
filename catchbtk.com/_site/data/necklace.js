@@ -1,0 +1,1 @@
+window.CBTK={"page":"necklace.html","title":"Nancy Fox","archive":"../index.html","versions":[{"t":"20050305012650","e":"20050305012650","n":1,"f":"history/necklace~20050305012650.html","a":0,"d":0,"sa":[],"sd":[]}]};

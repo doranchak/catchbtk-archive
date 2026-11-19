@@ -1,0 +1,235 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 470/BTK analysis/profile-->
+<!--Level 1: 470/BTK analysis/profile-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: BTK analysis/profile</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">BTK analysis/profile</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+BTK analysis/profile
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=470"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=470"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 6953--><!--Time: 1108090830-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6953"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kbears<!--/name--></b></a><br>Username: <!--field:uname-->Kbears<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 7:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Greetings.  What do you all think of this BTK analysis and profile I&#39;ve put together from studying this case?  See it at: <BR><a href="http://members.dodo.com.au/kbears/btkprofile.htm" target=_top>http://members.dodo.com.au/kbears/btkprofile.htm</a><!--/Text--></td></tr>
+<!--/Post: 6953-->
+<!--Post: 6963--><!--Time: 1108096278-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6963"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, February 10, 2005 - 8:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You have raised some interesting issues. The BTK Strangler is a sadistic psychopathic serial murderer who craves the recognition of being a successful serial murderer. The unknown subject is definitely not an &#39;ordinary individual&#39;. He is considered to be very intelligent. Many psychological profilers suggest he has an undergraduate degree in the physical sciences or engineering. The Otero murders, Shirley Vian, Nancy Fox and Vicki Wegerle murders were motivated in part by violent sexual fantasies and the gratification derived from murdering his victims. I believe the violent sexual fantasies were present prior to the Otero murders. The fantasies were in an embryonic stage. <BR> <BR>You suggest the return of the BTK Strangler in 2004 was not &#34;necessarily indicative of any great change in his life.&#34; This contradicts many experts who suggest the unknown subject experienced a personal upheaval. A divorce or the death of a relative could have motivated his renewed communication with the media and Wichtia Police Department. I do not believe the unknown subject is suffering from poor health. The recent communication would suggest he is prepared to travel to the outskirts of Wichita. He definitely has more leisure to dedicate to taunting and manipulating the police, media and public. I agree, the unknown subject planned the activities of the last year. It could have preyed on his mind for some time, but he did not have the opportunity or the excuse to act. <BR> <BR>I do not believe the BTK Strangler will be apprehended. Its unlikely he has a criminal record. His willingness to communicate suggests this. His communications are well planned and most importantly he enjoys the freedom to taunt and manipulate the media, police and public. It provides him with a sense of control and domination. Two traits psychopaths enjoy.<!--/Text--></td></tr>
+<!--/Post: 6963-->
+<!--Post: 6990--><!--Time: 1108109330-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6990"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 12:08 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I think it as likely as not that BTK resurfacing with the Wegerle information resulted from his learning of a book being written about him. Yes, he&#39;s a psychopath, and <i>nobody</i> was going to tell BTK&#39;s story if BTK had anything to do with it. The imitation of chapters of the crimelibrary summary of BTK, <i>by</i> BTK also points toward a &#34;book&#34; being important to BTK. This idea may be dismissed if the Wegerle information preceded the news of an upcoming BTK book. Is it possible to get the date the book was first announced to the public?  <BR> <BR>I&#39;m suggesting the above, not clinging to it. BTK easily could have had an emotional upheavel as is believed. As BTK is a psychopath, I can easily see news of a book about his life and crimes upsetting him as much as anything else, including the loss of a loved one, and so forth. BTK is a superficial, boring individual who happens to be a serial murderer. Or maybe I was spoiled by the Zodiac. At least Zodiac&#39;s letters were interesting - at their best they were compelling, such as the <a href="http://www.zodiackiller.com/StineLetter.html" target="_blank"> Stine</a> letter, which is also Zodiac&#39;s most evil letter, IMO, <a href="http://www.zodiackiller.com/HalloweenCard.html" target="_blank"> Halloween</a> card, which has elements of wordplay a bit similar to BTK&#39;s, although it is fifty times as terrifying as anythng BTK has written which we have been allowed to see. The letter which reminds me the most of BTK is the <a href="http://www.zodiackiller.com/BelliLetter.html" target="_blank"> Belli</a> letter. <BR> <BR>Ivy Leaguer&#39;s final paragraph above, I think, is right on the money. I should point something out: I know that saying &#34;I don&#39;t think BTK will be caught&#34; is the last thing people want to hear, especially Wichitans. It&#39;s only an opinion, and  could change. I don&#39;t mean to deliberately sound pessimistic, it&#39;s just the way I see things <i>at this time</i>.  <BR> <BR>Another thing. I don&#39;t recall who posted it, but  I do know that even psychopaths have their own warped sense of justice, have emotions like anyone else and are even capable of demonstrating empathy toward others - although such empathy &#40;don&#39;t confuse &#34;empathy&#34; with &#34;sympathy;&#34; empathy is a much stronger word&#41; is in short supply. &#40;The etymology of each word is telling; empathy is basically &#34;passion;&#34; whilst sympathy is more akin to &#34;pity.&#34;&#41; Anyway, I do know that psychopaths have many traits all humans share. One difference is that psychopaths evince a very skewed perception of reality which most of us don&#39;t have. I don&#39;t mean hallucinations or psychosis. Most psychopaths are perfectly sane, but are usually, on the whole, incapable of grasping the proprieties and priorities which most of society take for granted. Psychopaths truly believe that the world owes them a living - 24/7/365 until they are no more. <BR> <BR>This is on topic as psychopathic/sociopathic behavior is in BTK&#39;s profile. Example of a psychopath: Ken McIlroy &#40;I probably misspelled the surname&#41; in and around Skidmore, MO. He had a whole town terrorized, nearly killed an elderly man and was a rotten person in general. However, having grown up poor, he was known to give money to the occasional impoverished boy who was racoon hunting and trespassed onto his, McIlroy&#39;s property. Or a more crude example: Hitler probably loved his dog, but that doesn&#39;t change my attitude toward him. Sorry for the long post. <BR><!--/Text--></td></tr>
+<!--/Post: 6990-->
+<!--Post: 6992--><!--Time: 1108110820-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST6992"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 12:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I posted the above before reading this particular profile. I stick by what I say. Interesting the word &#34;empathy&#34; arises. This profile is fairly generic, but not bad. I disagree with this profiler on the profiler&#39;s seeming acceptance that BTK has a normal sex life, probably has children, etc. Time will tell - I hope.<!--/Text--></td></tr>
+<!--/Post: 6992-->
+<!--Post: 6996--><!--Time: 1108114360-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6996"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ivy_leaguer<!--/name--></b></a><br>Username: <!--field:uname-->Ivy_leaguer<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 1:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->George, <BR> <BR>I agree with your opinion the BTK Strangler does not enjoy a normal sexual relationship. It seems the unknown subject can only derive sexual gratification from controlling and dominating his partner. He would most probably enjoy sadomasochistic sexual intercourse. <BR><!--/Text--></td></tr>
+<!--/Post: 6996-->
+<!--Post: 7005--><!--Time: 1108128313-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7005"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Essevi<!--/name--></b></a><br>Username: <!--field:uname-->Essevi<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 5:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The book was announced publicly on January 15, 2004 in a front page story which the Eagle ran. It was remembering the Otero&#39;s 30 years later. BTK&#39;s letter was received on March 19th.<!--/Text--></td></tr>
+<!--/Post: 7005-->
+<!--Post: 7072--><!--Time: 1108170688-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST7072"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 11, 2005 - 5:11 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ivy Leaguer, <BR>Thanks! The topic has been mentioned but not as much as I thought it may have been. Then again, that&#39;s why I&#39;m just an armchair sleuth. It does seem the majority don&#39;t see sexual problems with BTK, excepting the crime scenes. They may be right, we&#39;ll see. <BR> <BR>Essevi, thanks much! That was quick! Historically, a major emotional event taking place is probably the reason BTK resurfaced. I still like the book announcement as being the primary cause; it&#39;s now a pet belief.<!--/Text--></td></tr>
+<!--/Post: 7072-->
+<!--Post: 7297--><!--Time: 1108378509-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST7297"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kbears<!--/name--></b></a><br>Username: <!--field:uname-->Kbears<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, February 14, 2005 - 2:55 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There have been many examples of psychopathic killers who also had been married and procreative.  Gary Ridgway is one example; in fact, a stable marriage may have slowed down his killing, as the majority of the known murders occurred when he in between relationships.  True that Ridgway was not as blatantly sadistical as BTK and was basically killing for pleasure, getting the act over with quickly.  I wouldn&#39;t rule out that the person who is BTK is capable of basically normal human relationships; his problem could be that the inner rage he has would tend to leak out one way or another even if carefully controlled, making him rather overbearing or perhaps very distant in his relationships.  There is no mold that fits all psychopaths and BTK is no exception to this.  He is unique, as they all are.  I would see him as basically two contradictory persons, the Joe Citizen and the BTK.  They are different.  I think his monster problem is the result of deeply suppressed rage and hatred interacting with mental symbolism in his person.  He does not seem horrified by what he has done to his victims, and might enjoy sexual pleasure reliving those incidents.  Yet he has enough cognition to know what everyone else considers to be right and proper, and can act that role out perfectly, even in relationships if the need arises.<!--/Text--></td></tr>
+<!--/Post: 7297-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/470">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/470" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

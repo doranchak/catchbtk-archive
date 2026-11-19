@@ -1,0 +1,253 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 729/Another board leader drops from site....-->
+<!--Level 1: 729/Another board leader drops from site....-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Another board leader drops from site....</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Another board leader drops from site....</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Another board leader drops from site....
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=729"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=729"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 11776--><!--Time: 1111159828-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11776"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 18, 2005 - 7:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi all, there was another board that I read regularly for this case. It was cybersleuths.com <BR>The gal running the board &#40;miss teacup&#41;posted many many times each day. after the arrest, she didnt post anymore on this particular case. I think she posted on the day of the arrest, but not later than that. She also rec&#39;d in the mail some psychic drawings from Christen Iman. Analyzer &#40;of this board and cyber..&#41; has used Christens drawings and messed around with them. Now I go to the board, and its closed. this christen also posted many many times, and sometimes said his puter was broke so he would mail stuff to the mod &#40;miss teacup&#41;. Miss teacup would scan his stuff or type it and post it. <BR>You can still catch some of christens posts on google cache <BR> <BR>My deduction: Tom V and Miss Teacup were told by LE to quit the case, they had direct contact with btk. I think these are 2 boards that had definate posts from rader. <BR> <BR>Analyzer, Nadeltanz...help me out here, help me explain the crazy stuff from christen. Also, any word on why the site is now gone? I think she has been running that board for several years, its strange for it to just disappear. <BR> <BR>Any of you others that have read over there?<!--/Text--></td></tr>
+<!--/Post: 11776-->
+<!--Post: 11777--><!--Time: 1111160404-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11777"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 18, 2005 - 7:40 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->post by christen iman &#40;on board listed above&#41; <BR> <BR>Posted by Christen Iman &#40;Member # 1846&#41; on 10-31-2004, 03:27 PM:  <BR>   <BR>It would probably be of some value in evaluating several small parks in the vicinity of each crime scene &#40;Victim residence&#41;. <BR> <BR>Had any of the victim&#39;s spent time in these locations with their children? Walking the family dog? etc.. <BR> <BR>I believe the offender in this particular case communicates with his victim&#39;s prior to perpetrating his acts. <BR> <BR>I believe he befriend&#39;s them. Is very articulate and socially competent. <BR> <BR>Chris <BR> <BR>[ 10-31-2004, 03:37 PM: Message edited by: Christen Iman ]  <BR> <BR>itty:this was posted before the park drop <BR><!--/Text--></td></tr>
+<!--/Post: 11777-->
+<!--Post: 11793--><!--Time: 1111179303-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11793"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 18, 2005 - 12:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Itty, <BR> <BR>THANK YOU ! I have been screaming this thought for a week and still many posters act like spoiled children deriding Tom. <BR> <BR>Common sense alone would tell you: <BR> <BR>1.&#41; Tom, vacation or not, would not stop posting on the momentous occasion of BTK&#39;s capture. <BR> <BR>2.&#41; With the exception of Tom&#39;s death at the hands of BTK, he would not stay off his own site for an extended period of time like this. <BR> <BR>3.&#41; Tom is most likely under a gag order and is involved in the case since Rader most likely posted to this site.  .  .   <BR> <BR>4.&#41; And the winner of the MOST STUPID question goes to the poster in the &#34;Ask Tom&#34; section who asked Tom if he could tell us if he is under a gag order.  .  .  doesn&#39;t silence mean anything anymore ????????   <BR> <BR>nice job !<!--/Text--></td></tr>
+<!--/Post: 11793-->
+<!--Post: 11797--><!--Time: 1111186295-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11797"><font face="Verdana" size="1"><b><!--email--><a href="mailto:vscantu1@msn.com" target="_blank"><!--/email--><!--name-->Vscantu<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 18, 2005 - 2:51 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tac: You say the MOST STUPID question is the one in the &#34;Ask Tom&#34; section asking him to tell us if he is under a gag order. <BR> <BR>First of all, the section is called &#34;TALKING TO TOM&#34;. <BR> <BR>Secondly, I, and most others don&#39;t think it&#39;s such a &#34;STUPID question&#34;. I believe anyone who is under a gag order in a criminal case is free to tell others that they are in fact under that gag order. They just can&#39;t give out any details about the case itself. Though I&#39;m sure everyone on the board is dying to find out the mystery of Tom&#39;s absence &amp; now near-total silence on this BTK case.<!--/Text--></td></tr>
+<!--/Post: 11797-->
+<!--Post: 11798--><!--Time: 1111186721-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11798"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 18, 2005 - 2:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->If gag orders to webmasters is true because BTK may have posted on their sites than how come KAKE TV , KSN TV and the Witchita Eagle which BTK undisputably communicated with are allowed to show pictures and portions of those communications and comment and report on them. The reporters and newscasters may not be allowed to comment on everything they know but I don&#39;t see them being taken off the air or their beat. <BR>They are all still commenting and reporting on the BTK case.<!--/Text--></td></tr>
+<!--/Post: 11798-->
+<!--Post: 11799--><!--Time: 1111189438-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11799"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megabyte<!--/name--></b></a><br>Username: <!--field:uname-->Megabyte<!--/field--><br><br>Registered: <!--field:registered-->3-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 18, 2005 - 3:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The authorities can not stop reporting on the case but what they can stop is false information but they can not censor news on this case, they can how ever sue for false information put out and I doubt that KAKE will ever get sued by PD because they are a great station and KAKE reports the facts.<!--/Text--></td></tr>
+<!--/Post: 11799-->
+<!--Post: 11801--><!--Time: 1111190058-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11801"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 18, 2005 - 3:54 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->tac, I started this thread, i also asked the question about the gag order in talking to tom. <BR>lol. funny<!--/Text--></td></tr>
+<!--/Post: 11801-->
+<!--Post: 11809--><!--Time: 1111204120-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11809"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Scbenson2001<!--/name--></b></a><br>Username: <!--field:uname-->Scbenson2001<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 18, 2005 - 7:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Being a long time poster on Tom&#39;s other site zodiackiller.com, I can say without reservation that tom would not keep secret any connection he might have with the arrest of btk. If he was under a gag order he would simply state that. Tom has not posted at his other site either so take that under advisement. If this site had anything to do with the arrest of dennis rader or not, Tom should be commended for helping to bring publicity to this case and the zodiacs. Progress in each case was made because of his sites. Why tom is &#34;away&#34; is his own personal buisness and everybody should respect that. I&#39;m sure he will offer an explanation to everyone upon his return. Until then let&#39;s keep the conspiracy theories down to a dull roar.<!--/Text--></td></tr>
+<!--/Post: 11809-->
+<!--Post: 11814--><!--Time: 1111206443-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11814"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 18, 2005 - 8:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->You&#39;re right, he would have stated that he was under order not to comment or personaly editorialize on the arrest until further notice.<!--/Text--></td></tr>
+<!--/Post: 11814-->
+<!--Post: 11815--><!--Time: 1111206464-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11815"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Itty<!--/name--></b></a><br>Username: <!--field:uname-->Itty<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, March 18, 2005 - 8:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->&#34;Tom should be commended for helping to bring publicity to this case and the zodiacs.&#34; <BR> <BR>Amen to that. the more publicity, the more talk, the more ideas....the better the chance of catchin the bsturds  &#40;haha, I made a funny bs turds&#41; <BR> <BR>btw....that other site is back up now, but I still stand by saying that miss teacup quit posting about btk <BR> <BR>and you can now read all of christen imans posts<!--/Text--></td></tr>
+<!--/Post: 11815-->
+<!--Post: 11880--><!--Time: 1111350438-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11880"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 20, 2005 - 12:27 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->V, <BR> <BR>My point was simple. If we look at Tom&#39;s absence we can deduct that he is under gag order.  <BR> <BR>V you like to fancy yourself an investigator. How out of character is it for a totally dedicated web master and sleuth such as Tom Voight to go completely silent &amp; missing during one of the biggest arrests in LE history ? <BR> <BR>In the same vein if we know with a high probability that Tom is under gag order then asking him if he is under gag order is stupid. <BR> <BR>Why ?  Well he has been asked a number of times and have you seen a response other than silence ? <BR> <BR>There is your answer. If he wanted to talk about it he would.  <BR> <BR>Btw I live in San Francisco, I have shared a beer or 6 with Tom, and I KNOW that I understand what is going on right now more so than you.  .  . <!--/Text--></td></tr>
+<!--/Post: 11880-->
+<!--Post: 11881--><!--Time: 1111350947-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11881"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 20, 2005 - 12:35 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Johno, <BR> <BR>The answer may be as simple as KAKE is media while Tom may actually be an official part of the investigation unbeknownst to us all.  <BR> <BR>We also do not know the significance of BTK communications that were left on this site. These communications may point to other events that make it gag order material.  .  .  we don&#39;t know <BR> <BR>What I know and I would think you all would understand is that a man like Tom V., who is dedicated to being a web master &amp; sleuth, would never ever leave his site unannounced &amp; unattended without explanation during one of the biggest serial killer arrests in LE history ! <BR> <BR>Yes KAKE is still commenting and reporting on WHAT THEY KNOW to this point.  .  .   <BR> <BR>Is it NOT obvious that TOM knows something important that the media is not reporting at this time ? <BR> <BR>Why else place a gag order on Tom and not the media ?<!--/Text--></td></tr>
+<!--/Post: 11881-->
+<!--Post: 11882--><!--Time: 1111351366-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11882"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 20, 2005 - 12:42 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Itty, <BR> <BR>I never posted anything about a gag order because I thought it was too obvious why Tom V. was so uncharacteristically absent. I thought this was obvious. I thought people understood that Tom solicited BTK to communicate here and those communications likely would place Tom within the investigation itself. <BR> <BR>I don&#39;t give a 5hit about credit. All I care about is stopping all of this whining by posters about Tom leaving or being irresponsible for not communicating. <!--/Text--></td></tr>
+<!--/Post: 11882-->
+<!--Post: 11883--><!--Time: 1111351836-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11883"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, March 20, 2005 - 12:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Sc, <BR> <BR>I totally disagree. IMO he has been brought into the investigation which would prohibit him sharing information about BTK or his possible role within the investigation.  <BR> <BR>You are right Tom is very honest and he has always been forthright but.  .  .   <BR> <BR>IMO Tom is part of the investigation, through BTK communications to this site and possible LE moles that worked the site trying to flush out Rader, and what he is working on now just might make a facinating book in the near forseeable future.  .  .   <BR> <BR>Btw, I have been a long time Zodiackiller poster, I have shared a beer or 7 with Tom, and I don&#39;t think I am on the wrong track on this one.  .  .  <!--/Text--></td></tr>
+<!--/Post: 11883-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/729">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/729" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

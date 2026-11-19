@@ -1,0 +1,327 @@
+<html>
+<!--Topic: 1/General BTK discussion-->
+<!--Me: 13/Site feedback-->
+<!--Level 1: 13/Site feedback-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+<head>
+<title>catchBTK.com MESSAGE BOARD: Site feedback</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Site feedback</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK discussion</font></a> &#187;
+Site feedback
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=13"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=13"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 3--><!--Time: 1085015317-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST3"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt &#40;Tom_voigt&#41;<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, May 19, 2004 - 6:08 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ok, bring it on...<!--/Text--></td></tr>
+<!--/Post: 3-->
+<!--Post: 2--><!--Time: 1085014757-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST2"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Kore &#40;Kore&#41;<!--/name--></b></a><br>Username: <!--field:uname-->Kore<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, May 19, 2004 - 5:59 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hello, GREAT SITE. It&#39;s wonderful timing too, as Kansas.com is so hard to access anymore. Strangly enough a few days ago as I was trying to get on you temporary chat room from the zodiac site the catch BTK page came up along with the audio recording . At the time I thought it was some kind of computer glitch because  the site was not acessable the next day......... Glad to see it&#39;s real. Best of luck.  Kore<!--/Text--></td></tr>
+<!--/Post: 2-->
+<!--Post: 9--><!--Time: 1085080950-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST9"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Doone &#40;Doone&#41;<!--/name--></b></a><br>Username: <!--field:uname-->Doone<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 20, 2004 - 12:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi.  I am glad there is another site open pertaining to BTK.  And what a spooky homepage.  I live in Wichita and am obsessed with the capture of BTK.  The more help, the merrier. <BR>Congratulations on this site.  Must of been alot of work.  Kudos. <BR>               doone<!--/Text--></td></tr>
+<!--/Post: 9-->
+<!--Post: 10--><!--Time: 1085082635-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST10"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Haskins &#40;Haskins&#41;<!--/name--></b></a><br>Username: <!--field:uname-->Haskins<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 20, 2004 - 12:50 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Happy to be here. Fabulous site!  <BR> <BR>[Now if I can just get the chat function to work with my browsers....::grumbles::] <!--/Text--></td></tr>
+<!--/Post: 10-->
+<!--Post: 16--><!--Time: 1085100392-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST16"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rosalita<!--/name--></b></a><br>Username: <!--field:uname-->Rosalita<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, May 20, 2004 - 5:46 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Great site--I&#39;ve wanted to post on Kansas.com many times but didn&#39;t want to get caught in the cross-fire.<!--/Text--></td></tr>
+<!--/Post: 16-->
+<!--Post: 35--><!--Time: 1085199148-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST35"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Ohenry<!--/name--></b></a><br>Username: <!--field:uname-->Ohenry<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, May 21, 2004 - 9:12 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thi is truly heaven-sent...great site!<!--/Text--></td></tr>
+<!--/Post: 35-->
+<!--Post: 37--><!--Time: 1085217366-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST37"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Purplegrrl<!--/name--></b></a><br>Username: <!--field:uname-->Purplegrrl<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 22, 2004 - 2:16 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hi Tom, <BR>Some feedback on your site: <BR>1. Make the font bigger - white on black that small is just crazy <BR>2. break your content up with more space between each paragraph - makes it easy to skim read, otherwise looks like one massive piece of text. <BR>3. take the audio off the front page..or at least set it so that ppl can choose to play it if they want to - at work its fine because I run on a wireless cable system but from home on  dialup its ridiculously slow and buffers incorrectly with pauses.. <BR> <BR>Not sure if you want more feedback but I have lots. <BR> <BR>Purp<!--/Text--></td></tr>
+<!--/Post: 37-->
+<!--Post: 38--><!--Time: 1085229243-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST38"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Today4evr<!--/name--></b></a><br>Username: <!--field:uname-->Today4evr<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 22, 2004 - 5:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->So grateful you created this site about BTK. When the publicity dies down and the memories will fade, the BTK forum on kansas.com will thin out but this one will still be here for people who will remember forever and want to see an end to this monster. Thank you.<!--/Text--></td></tr>
+<!--/Post: 38-->
+<!--Post: 40--><!--Time: 1085231247-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST40"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Sunflowergirl<!--/name--></b></a><br>Username: <!--field:uname-->Sunflowergirl<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 22, 2004 - 6:07 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Just want to say &#34;thank you&#34; Tom for the catchBTK  site.  I have been a long time reader of the Kansas.com site and although I didn&#39;t  feel comfortable posting on it, I am looking forward to participating here!   <!--/Text--></td></tr>
+<!--/Post: 40-->
+<!--Post: 43--><!--Time: 1085246071-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST43"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Micaela<!--/name--></b></a><br>Username: <!--field:uname-->Micaela<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 22, 2004 - 10:14 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hello Tom, <BR> <BR>Thank you for inviting me to be a part of this board. GREAT opening page. Hearing BTK&#39;s voice frquently is a really good idea. <BR> <BR>BTK wanted as much noteriety as the Zodiac, and now you are giving him his day in the sun. I hope he feels more comfortable talking to you about his work than he does with WPD. I do have the utmost respect for WPD, but everyone can use a helping hand fro experienced individuals. <BR> <BR>Micaela <!--/Text--></td></tr>
+<!--/Post: 43-->
+<!--Post: 44--><!--Time: 1085253838-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST44"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 22, 2004 - 12:23 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Purplegrrl wrote: <BR><i>Some feedback on your site:  <BR>1. Make the font bigger - white on black that small is just crazy  <BR>2. break your content up with more space between each paragraph - makes it easy to skim read, otherwise looks like one massive piece of text.  <BR>3. take the audio off the front page..or at least set it so that ppl can choose to play it if they want to - at work its fine because I run on a wireless cable system but from home on dialup its ridiculously slow and buffers incorrectly with pauses. Not sure if you want more feedback but I have lots.</i> <BR> <BR>I&#39;ll answer in order -- <BR> <BR>1&#41; I&#39;ve experimented with larger text, but I feel it just looks dorky. Also, my monitor resolution is high but I can still read the text just fine even with bright sunlight hitting the screen. &#40;May dad can too -- and he&#39;s 65 and the first to complain about these things!&#41; <BR> <BR>2&#41; The paragraphs on all the pages are already seperated by breaks. Not sure what you&#39;re referring to. <BR> <BR>3&#41; The actual audio file on the main page is pretty small; only about 35KB in size, about the size of a typical page logo. I want everyone to hear it, as it is the best piece of evidence identifying BTK. Sure, some people do have a slow connection...but they are used to waiting for pages to load. I believe the benefits of having the audio automatically load far outweigh the negatives and that most people have an adequate connection speed for it not to be an issue. <BR> <BR>Regarding more feedback, I do appreciate it. Let&#39;s have some more!<!--/Text--></td></tr>
+<!--/Post: 44-->
+<!--Post: 45--><!--Time: 1085253964-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST45"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lightshineon<!--/name--></b></a><br>Username: <!--field:uname-->Lightshineon<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 22, 2004 - 12:26 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Congratulations on your terrific website! I&#39;m looking forward to positive information sharing and discussion. Thanks!<!--/Text--></td></tr>
+<!--/Post: 45-->
+<!--Post: 47--><!--Time: 1085263516-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST47"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Russell<!--/name--></b></a><br>Username: <!--field:uname-->Russell<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 22, 2004 - 3:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good mission statement ... good audio ... good reason for me to do whatever I can to help. I will lurk and haunt this site. I will do my best to contribute in a meaningful manner. <BR> <BR>Feel free to link to BRACEanalysis.com. <BR>Feel free to link to BRACEcharacterProfile.com <BR> <BR>I would encourage your &#34;posters&#34; to read the BRACE Character Profile of BTK at DeviantCrimes.com ... Serial Crimes/Serial Murderers section. <BR> <BR>When you get to the point of wanting to &#34;manage&#34; a BRACE Character Profile of BTK on your website, let me know. No charge. I suggest selecting the top 5 &#34;experts&#34; &#40;or teams of experts&#41; that you have available through your site 3, 6 or 12 months from now, and have them complete the 75 input ratings on the BRACE Character Profile. Then, average them and send them to me, decimal points and all. I will not only do a basic analysis, I will compare and contrast those you submit with the current profile available at DeviantCrimes.com. <BR> <BR>This is all about catching BTK. Right? I am at your disposal. <BR>Russell <!--/Text--></td></tr>
+<!--/Post: 47-->
+<!--Post: 48--><!--Time: 1085270285-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST48"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 22, 2004 - 4:58 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Russell, thanks for the offer. However, I&#39;m going to stick with Michael Kelleher for my profiling. He&#39;s supremely qualified and has done a great job with the Zodiac case. Plus, I&#39;ll only have to split the reward money two ways. &#40;Kidding!&#41;<!--/Text--></td></tr>
+<!--/Post: 48-->
+<!--Post: 53--><!--Time: 1085277345-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST53"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Russell<!--/name--></b></a><br>Username: <!--field:uname-->Russell<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, May 22, 2004 - 6:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->In that case, I&#39;ll take back my offer and just lurk and haunt ...<!--/Text--></td></tr>
+<!--/Post: 53-->
+<!--Post: 56--><!--Time: 1085333525-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST56"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Meestercranky<!--/name--></b></a><br>Username: <!--field:uname-->Meestercranky<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 23, 2004 - 10:32 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->guys, if this site gets to be anything like Tom&#39;s Zodiac site, this is going to be the place to come for information. Great job, looking forward to seeing this board grow also as people discover it.<!--/Text--></td></tr>
+<!--/Post: 56-->
+<!--Post: 60--><!--Time: 1085348595-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST60"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Rachel<!--/name--></b></a><br>Username: <!--field:uname-->Rachel<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 23, 2004 - 2:43 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Props to you, Tom...great site, as expected! I am looking forward to discussing this frustrating case and anxiously awaiting the info you uncover. Good job - No complaints! <BR>Rachel<!--/Text--></td></tr>
+<!--/Post: 60-->
+<!--Post: 65--><!--Time: 1085360773-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST65"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Doone<!--/name--></b></a><br>Username: <!--field:uname-->Doone<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 23, 2004 - 6:06 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks for this site.  I got my Java problem fixed and am now on my first chat room.Yours.  What fun.  I still get shivers on the homepage and after my husband got my new comp. speakers right, I&#39;ll be hearing BTKs&#39; voice in my sleep. <BR>You rock, as my 5 year old grandson says.<!--/Text--></td></tr>
+<!--/Post: 65-->
+<!--Post: 67--><!--Time: 1085367122-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST67"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Laoise<!--/name--></b></a><br>Username: <!--field:uname-->Laoise<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, May 23, 2004 - 7:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->and i got booted from the chat...said internet connection problems or some such thing... and now i cant get back in. it keep getting to a part where its loading a java class thing and freezes the loading... i can do anything else on the net i want...except your chat. I also went to the infinitechat website to see if i could find a help file on my problem and the main page there loaded just fine but when i tried to go to the help page, it couldnt connect to the site...<!--/Text--></td></tr>
+<!--/Post: 67-->
+<!--Post: 74--><!--Time: 1085428559-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST74"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Micaela<!--/name--></b></a><br>Username: <!--field:uname-->Micaela<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, May 24, 2004 - 12:55 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hey Tom, <BR> <BR>I see you are catching a lot of flack over at C&amp;J. I have never posted there, but I have watched them. They are very intimidated by outsiders, &#40;especially ones who are trying to help with the BTK case&#41;. They have insulted John Douglas, Ken Landwehr and Robert Beattie. So, you are in good company. <BR> <BR>You have a great reputation for running an honest, mature website at zodiackiller.com. This one will catch on soon enough. <BR> <BR>If you get a chance, read what some guy named &#34;Runes&#34; at C&amp;J website said about the WPD. He said something like WPD is not necessary to solve this case or even be involved in it!  <BR> <BR>I agree that WPD should do some things differently. But they have been working on this for 30 years. I&#39;ll just bet they have good reasons for not giving out all the information they have. Hindsight will be 20/20, I&#39;ll bet. <BR> <BR>Keep up the good work and I will keep watching, posting if I learn anything new. BTK wanted as much publicity as the Zodiac was getting back in the 70&#39;s. I think this is the perfect forum for him to communicate the things he feels are misunderstood about him and his actions. <BR> <BR>Micaela<!--/Text--></td></tr>
+<!--/Post: 74-->
+<!--Post: 75--><!--Time: 1085509770-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST75"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchbtk.com" target="_blank"><!--/email--><!--name-->Tom_voigt<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Tom_voigt<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, May 25, 2004 - 11:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Thanks for the feedback everyone. <BR> <BR>Micaela, that whole &#34;Crime &amp; Justice&#34; scene is a drag. I figured to take some heat because I&#39;m The New Guy, but sheesh! There are apparently even imposters posting silly things and claiming to be me. I guess I should be flattered, but I&#39;m not.<!--/Text--></td></tr>
+<!--/Post: 75-->
+<!--Post: 89--><!--Time: 1085539637-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST89"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Clarice<!--/name--></b></a><br>Username: <!--field:uname-->Clarice<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, May 25, 2004 - 7:47 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, I cannot open the Paging Sherlock Holmes article on your home page.  Is it working properly?<!--/Text--></td></tr>
+<!--/Post: 89-->
+<!--Post: 90--><!--Time: 1085540013-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST90"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lilahsue<!--/name--></b></a><br>Username: <!--field:uname-->Lilahsue<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, May 25, 2004 - 7:53 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Doone, how did you fix your chat problem?  I&#39;m having mine again.  I rebooted like last time I had this problem but it didn&#39;t fix it.  Anyone have any suggestions?<!--/Text--></td></tr>
+<!--/Post: 90-->
+<!--Post: 100--><!--Time: 1085628677-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST100"><font face="Verdana" size="1"><b><!--email--><a href="mailto:webmaster@catchBTK.com" target="_blank"><!--/email--><!--name-->Admin<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Admin<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, May 26, 2004 - 8:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Clarice, the article on my the main page isn&#39;t a link. It&#39;s just a small personal ad I&#39;ve posted in its entirety.<!--/Text--></td></tr>
+<!--/Post: 100-->
+<!--Post: 391--><!--Time: 1089142394-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST391"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Flytodeb<!--/name--></b></a><br>Username: <!--field:uname-->Flytodeb<!--/field--><br><br>Registered: <!--field:registered-->6-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, July 06, 2004 - 12:33 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Excellent website, Tom. On July 3, I posted a message &#40;that included a link to your website&#41; at the c&amp;j btk forum, and the moderators had it set up to disable the link. Instead of <a href="http://www.catchbtk.com" target=_top>www.catchbtk.com</a> as I typed it, it posted your website as www.@#%$.com which goes nowhere. Looks kind of like profanity. I was waiting to get banned from there for posting the link, but nothing yet. A couple of people asked me to post again; a thinly veiled query about your link? So on July 4, I posted: The catch phrase after the www is catch btk but don’t make it two words. I think if I had written catchbtk they would have busted me. <BR>-Deb <BR><!--/Text--></td></tr>
+<!--/Post: 391-->
+<!--Post: 447--><!--Time: 1089704237-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST447"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, July 13, 2004 - 12:37 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Good, serious posters who know it&#39;s okay to laugh once in a while will, and already have, begin to gravitate <BR>here. It&#39;s an excellent site which will keep getting better. Of course, I think <a href="http://www.zodiackiller.com" target=_top>www.zodiackiller.com</a> is one of the best sites -- of any kind -- on the entire Internet. The proof of that is the caliber of the regular posters. I have no doubt <a href="http://www.catchbtk.com" target=_top>www.catchbtk.com</a> will follow in Zodiac&#39;s size 10 1/2 footsteps. Great job, Tom!<!--/Text--></td></tr>
+<!--/Post: 447-->
+<!--Post: 730--><!--Time: 1092196981-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST730"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, August 10, 2004 - 9:03 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom, <BR>Is there space enough here for you to create a &#34;BTK Mail,&#34; along the lines of &#34;Z Mail?&#34;  <BR> <BR>As an unregenerate fan of the Z Mail feature on the Zodiac site &#40;which not nearly enough people read&#41; I thought I&#39;d ask.<!--/Text--></td></tr>
+<!--/Post: 730-->
+<!--Post: 770--><!--Time: 1092590426-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST770"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->George<!--/name--></b></a><br>Username: <!--field:uname-->George<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, August 15, 2004 - 10:20 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I would like to thank sincerely the Wichitans and <BR>Kansans who have helped those of us who live on the west or east coast. I appreciate it, for instance, if I ask a question about a specific Wichita location or anything else which can only be answered by <u>being in</u> Wichita. It&#39;s a perfect example of the importance of sharing information and I thank you all very much! <BR> <BR>George<!--/Text--></td></tr>
+<!--/Post: 770-->
+<!--Post: 1227--><!--Time: 1097848911-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1227"><font face="Verdana" size="1"><b><!--email--><a href="mailto:hackenmaster@cox.net" target="_blank"><!--/email--><!--name-->Wichitan<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Wichitan<!--/field--><br><br>Registered: <!--field:registered-->10-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, October 15, 2004 - 7:01 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom,  <BR> <BR>I think your web site looks great, I am a  webmaster myself, and from webmaster to webmaster....you have done a great job!  Thanks for the account, and hope anything i post is useful to someone. <BR> <BR>wichitan<!--/Text--></td></tr>
+<!--/Post: 1227-->
+<!--Post: 1370--><!--Time: 1099688959-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1370"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Megan<!--/name--></b></a><br>Username: <!--field:uname-->Megan<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, November 05, 2004 - 1:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->This great website, keep up the good work! <BR> <BR>I&#39;m new to this case, and I came across this site. <BR> <BR>Regards, <BR>Megan<!--/Text--></td></tr>
+<!--/Post: 1370-->
+<!--Post: 1381--><!--Time: 1099713157-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1381"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Tac<!--/name--></b></a><br>Username: <!--field:uname-->Tac<!--/field--><br><br>Registered: <!--field:registered-->11-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, November 05, 2004 - 7:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->tom, <BR> <BR>Your site is very user friendly. It is simple to navigate and the links are also very interesting.  .  .  <!--/Text--></td></tr>
+<!--/Post: 1381-->
+<!--Post: 1614--><!--Time: 1102334658-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1614"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 06, 2004 - 4:04 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Tom: The site is great. The threads are on topic and the comments are relative and logical. I have looked at other sites and there is name calling and other crapola. One cannot post because some comments not on topic do not even make sense. Clearly, those who post here are of superior intelligence and insight. You are doing a great job and doing the victims a service.<!--/Text--></td></tr>
+<!--/Post: 1614-->
+<!--Post: 1616--><!--Time: 1102354252-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1616"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Vscantu<!--/name--></b></a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, December 06, 2004 - 9:30 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->TOM &amp; Everyone: This site is great &amp; I have an idea: What if we organized a 5-day &#34;Catch BTK&#34; trip to Wichita? It would contain a BTK tour of the known murder scenes, places he left victims&#39; cars, letter-drops, etc. We could rent a mini-van once there &amp; travel / live fairly cheaply! <BR>   Of course it would be rather spooky, but that might be part of the attraction.... <BR>   Just a thought.<!--/Text--></td></tr>
+<!--/Post: 1616-->
+<!--Post: 1636--><!--Time: 1102480276-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1636"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Wichitaboy<!--/name--></b></a><br>Username: <!--field:uname-->Wichitaboy<!--/field--><br><br>Registered: <!--field:registered-->5-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 07, 2004 - 8:31 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->That would be fun.  Count me in. <BR> <BR>Mark<!--/Text--></td></tr>
+<!--/Post: 1636-->
+<!--Post: 1642--><!--Time: 1102486933-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1642"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Vscantu<!--/name--></b></a><br>Username: <!--field:uname-->Vscantu<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 07, 2004 - 10:22 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->To respond to this I&#39;ve started up a new thread; &#34;CATCH BTK Trip Proposed&#34;. Hopefully TOM will approve. Thank you.<!--/Text--></td></tr>
+<!--/Post: 1642-->
+<!--Post: 1881--><!--Time: 1103071923-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST1881"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Verm_inve<!--/name--></b></a><br>Username: <!--field:uname-->Verm_inve<!--/field--><br><br>Registered: <!--field:registered-->8-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Tuesday, December 14, 2004 - 4:52 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->The History Page is looking great.  You forgot to make a posting for the Oct. 26 letter though.  <IMG SRC="http://www.catchbtk.com/discus/clipart/happy.gif" ALT=":-&#41;" BORDER=0><!--/Text--></td></tr>
+<!--/Post: 1881-->
+<!--Post: 1914--><!--Time: 1103119817-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST1914"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Teardrop<!--/name--></b></a><br>Username: <!--field:uname-->Teardrop<!--/field--><br><br>Registered: <!--field:registered-->7-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Wednesday, December 15, 2004 - 6:10 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->On Nancy Fox-DMV, well done good and faithful webmaster.<!--/Text--></td></tr>
+<!--/Post: 1914-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/13">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/13" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

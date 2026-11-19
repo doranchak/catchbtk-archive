@@ -1,0 +1,238 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 347/Mementos...-->
+<!--Level 1: 347/Mementos...-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Mementos...</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Mementos...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Mementos...
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=347"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=347"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 4491--><!--Time: 1106423094-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4491"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 11:44 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Why is the BTK now willing to give his precious mementos to the cops?  Why didn&#39;t he just give them copies of Nancy&#39;s driver&#39;s license or copies of the pictures? <BR> <BR>I think this is a sign that he is terminally ill.  He is taunting police while getting rid of all evidence that would connect him to the crime, so upon his death, there is nothing that anyone can find. <BR> <BR>He doesn&#39;t want publicity.  If he wanted publicity he would be mailing every communication to Tom, for all the world to see.  He knows the media is going to cooperate with police, thus the public will never get to see half of his writings.  <!--/Text--></td></tr>
+<!--/Post: 4491-->
+<!--Post: 4511--><!--Time: 1106452878-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4511"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 8:01 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Jrl, <BR> <BR>Yes, I thought perhaps this was one way of him to get rid of the evidence. <BR> <BR>The other way  is to simply destroy it and toss in a public garbage bin. <BR> <BR>But actually it speaks to my suspicion that NOBODY is on to him &#40;or tailing him&#41; --  else he wouldn&#39;t dare drop this stuff at some park, library, or garbage can. <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4511-->
+<!--Post: 4512--><!--Time: 1106453110-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4512"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jrl<!--/name--></b></a><br>Username: <!--field:uname-->Jrl<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Saturday, January 22, 2005 - 8:05 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Icetea, <BR> <BR>I don&#39;t think he could bring himself to destroy it.  It&#39;s valuable to him.  I see him using it to taunt the police.  He&#39;s killing two birds with one stone, so to speak.<!--/Text--></td></tr>
+<!--/Post: 4512-->
+<!--Post: 4582--><!--Time: 1106549297-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4582"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Johno<!--/name--></b></a><br>Username: <!--field:uname-->Johno<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Sunday, January 23, 2005 - 10:48 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->But BTK isn&#39;t getting rid of all of the evidence.  <BR>In the 3/17/04 Bill thomas Killman letter he eclosed a copy of Vicki Wergerle&#39;s drivers&#39; license. He still has the original. Also in that letter were three photo&#39;s of her crime scene which would have had to have been taken by her killer but how many did he take? Three? I doubt it. I&#39;m sure he has dozens of photos of all the crime scenes still in his possession and maybe duplicates of those. <BR>Charlie Otero&#39;s watch. The keys to the Otero&#39;s car which were not found with the car or ever recovered. Nancy Fox&#39;s necklace. The .22 revolver used to shoot Kevin Bright which would ballistically match the bullets fired from it at Bright. Where are all of these? <BR>And what else does he have? Do we know if he took the Otero&#39;s drivers licenses? Did he ever cash those two money orders worth $40 that he took from the Vian murder? Could he still have those? <BR>After all his communications to the police and media and to potential victim Anna Williams and even going out of his way to send a letter to the widow of Phillip Fager saying he had nothing to do with the murder and his careful instructions to find items he placed in library books why the careless drop in a park of an actual drivers license from a crime scene? The Fox drivers license package seems very odd. The manilla envelope containing photographs found in the UPS drop box seems out of place too. Was this addressed to no one? What was it about that caused the UPS man to open it himself? <BR>The UPS drop in October of 2004 and the Fox package in Murdock Park in December 2004 were the last two communications from BTK and both do not fit his previous media-police communications pattern over the years.<!--/Text--></td></tr>
+<!--/Post: 4582-->
+<!--Post: 4585--><!--Time: 1106555354-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4585"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jujuree<!--/name--></b></a><br>Username: <!--field:uname-->Jujuree<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 12:29 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Johno, I&#39;m also curious as to why the UPS man opened the package.  If something alarmed him about it, why would he open it?  Did it say, &#34;To UPS man, please open?&#34;  I find that kind of bizarre.  With all the &#34;mysterious white powder&#34; scares, some real and some not, I wouldn&#39;t open it if I was the UPS person.  Screw that.  They pay well and have good benefits, but it&#39;s not worth getting anthrax over.  Or blown up. <BR> <BR>As far as the last two communications from BTK not fitting his previous communication patterns, maybe BTK is changing with the times?  There&#39;s so much video surveillance everywhere, at ATMs, banks, convenience stores and other assorted businesses that a person wouldn&#39;t even be aware of, he would have to be very careful.  Or maybe he&#39;s trying to be more exciting by doing things differently, hoping to get more media attention? <BR> <BR>And I agree with your point about the &#34;tropies/evidence&#34; BTK may still have.  I don&#39;t really see that he&#39;s made any huge sacrifices in what he&#39;s given away.  Just from the things you mentioned, he&#39;d still have quite a bit and that&#39;s just the stuff we know about.  Who knows what else the WPD has never reported or that the family members may not have realized was missing?   <BR> <BR>I wish the WPD would release more info.  I can understand them holding back on a few details so they can identify false confessions, but it seems like they&#39;re holding back a lot more than that and for what?  I think after 30 years, it&#39;s safe to say holding back information hasn&#39;t been the best path to solving this case.<!--/Text--></td></tr>
+<!--/Post: 4585-->
+<!--Post: 4591--><!--Time: 1106568772-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4591"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Birdieict<!--/name--></b></a><br>Username: <!--field:uname-->Birdieict<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 4:12 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Also, he still has the original badges he may have used to gain entry into the homes. The KAKE communication had photocopies only of the badges.<!--/Text--></td></tr>
+<!--/Post: 4591-->
+<!--Post: 4601--><!--Time: 1106580892-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST4601"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Iceteajan<!--/name--></b></a><br>Username: <!--field:uname-->Iceteajan<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 7:34 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Jujuree, <BR> <BR>Actually &#34;false confessions&#34; are probably found through DNA comparisons. <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4601-->
+<!--Post: 4644--><!--Time: 1106617138-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST4644"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Jujuree<!--/name--></b></a><br>Username: <!--field:uname-->Jujuree<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Monday, January 24, 2005 - 5:38 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Ice, I do realize false confessions can be ruled out through DNA comparisons.  I only know if I was a police officer I would appreciate some good, solid, early indicators &#40;i.e., during the confession itself&#41; that a person was lying, without having to wait on DNA results. <BR> <BR> <BR> <BR><!--/Text--></td></tr>
+<!--/Post: 4644-->
+<!--Post: 6092--><!--Time: 1107531590-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST6092"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lasagna<!--/name--></b></a><br>Username: <!--field:uname-->Lasagna<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Friday, February 04, 2005 - 7:39 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Hello! <BR> <BR>Has ANY information about Otero&#39;s watch ever been published?   Do we know what brand it was or what color it was?<!--/Text--></td></tr>
+<!--/Post: 6092-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/347">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/347" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>

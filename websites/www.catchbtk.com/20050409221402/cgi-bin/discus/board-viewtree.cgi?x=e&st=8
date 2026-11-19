@@ -1,0 +1,152 @@
+<html>
+<head>
+<title>Tree View</title>
+<style>
+<!--
+body { font-family: Verdana; line-spacing: 0 }
+-->
+</style>
+<script language="JavaScript1.2">
+<!--
+function loader() {
+}
+// -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="loader()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Tree View</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<font face="Verdana" size="1">
+<!-- Non-JavaScript Tree -->
+<img src="/discus/icons/tree_g.gif" height=16 width=20 align=top>catchBTK.com MESSAGE BOARD<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=264"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/264/264.html?1109996812"><b>Messages From BTK</b></a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=59"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/59/59.html?1111526323">Messages To BTK</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=1"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/1/1.html?1113081914">General BTK Discussion</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=2"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/2/2.html?1112886970">Definite BTK Victims: The Oteros</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=5"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/5/5.html?1111584167">Definite BTK Victim: Kathryn Bright</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=6"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/6/6.html?1112047872">Definite BTK Victim: Shirley Vian</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=3"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/3/3.html?1111551914">Definite BTK Victim: Nancy Fox</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=7"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/7/7.html?1113001680">Definite BTK Victim: Vicki Wegerle</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=c&st=8"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/8/8.html?1113082962">Possible BTK Victims</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/14.html?1113060813">Fager murders</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/34.html?1109967402">Cherie Fox</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/45.html?1109967518">79 Year old man beaten to death</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/67.html?1110492255">Barbara A. Smith</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/85.html?1110065317">Carol Marstellar</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/86.html?1110674781">Nina Berardi Murder</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/87.html?1110327806">Mrs. Rosy Spencer</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/88.html?1109968233">The Reverend James Henry Henderson and wife Louise</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/89.html?1109968326">Joann Phillips</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/90.html?1110260430">Romona Case</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/91.html?1113082962">Denise Rathburn</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/116.html?1112257379">Marine Hedge</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/117.html?1109968923">Sherry Baker</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/118.html?1111156294">Linda Shawn Casey</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/119.html?1110783266">Delores &#34;Dee&#34; Davis</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/121.html?1109971944">Kristi Hatfield</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/122.html?1113044345">Deanna Law</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/123.html?1109538170">Krista Martin</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/124.html?1110144457">Shannon Olson</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/125.html?1110331154">Dorothy Slaughter</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/126.html?1110319774">Hattie Smith</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/127.html?1110145604">Jacob Allen</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/154.html?1110324491">Carol Mould</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/177.html?1110144564">BTK &amp; Prostitutes?</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/211.html?1110321199">Avanthea Williams</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/221.html?1108771891">Opal J.  Trumpp</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/284.html?1108692857">Kelly Lynn Albright</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/298.html?1113061360">Jonbenet Ramsey</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/306.html?1109361622">Keddiemurders</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/323.html?1110319865">Family murdered in NJ, did BTK fooled us?</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/349.html?1110433691">TOTGA - Anna Williams</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/351.html?1107573394">BTK Near Miss?</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/363.html?1106750051">River Festival Medallion Hunt</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/376.html?1106845180">1-27-05-Marine Hedge,Delories Davis</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/379.html?1106857286">Brick = Hedge or Davis???</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/421.html?1107751850">Sandy  1979 - Old Manor</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/448.html?1109185946">BTK Victomology Timeline</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/449.html?1112227763">Jennifer Servo... Abilene, Texas</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/459.html?1110260857">Lupe Leo Ornelas</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/476.html?1108674581">Karen Pretty - Houston, TX</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/477.html?1108678138">Mr. X?</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/516.html?1110261180">Sandra K.  Talbott</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/517.html?1110260745">Jerry  Hunter</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/518.html?1112160661">Michael  J. Fowler</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/519.html?1109538936">Oct. 29,  1994 Unknown White Male</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/520.html?1110143395">Cassandra L. Jones</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/521.html?1109871968">Melvin D. Childress</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/526.html?1109714009">Agnes Hayes-found under a bridge</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/541.html?1110951765">BTK january 2005 victim MELISSA SCOTT!!!</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/542.html?1109186905">Bruce Douglas</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/553.html?1109175375">Texas &#40;ress less&#41; connection? Lubbock?</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/589.html?1109736672">Paula, Kerri, and Brian Rader</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/596.html?1109539634">Suzanne Johnson</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/600.html?1109532605">Pretty Family - Houston TX</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/603.html?1110570511">Rader&#39;s Travel Timeline</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/607.html?1109559172">Watson Lane</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/617.html?1111003626">Stefanie Welch</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/637.html?1111810994">Gail Sorenson</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/638.html?1111495702">Agnes Hayes</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/662.html?1110074849">Don&#39;t Forget CC</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/664.html?1110674544">1986 Unitenditifed Woman</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/669.html?1110074723">April Susanne Wiss</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/670.html?1110145995">Rachel Geraldine Pratt</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/671.html?1110145661">Tabitha Brewer</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/672.html?1110145361">Julie Ladd?</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/673.html?1110145803">June Bidleman</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/687.html?1111087922">Murder Victims and Odd Dates</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/699.html?1112708587">Kathryn Adam......please read...</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/719.html?1111506133">Update!!! on possible BTK victims</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/723.html?1111084091">Sonya Gray</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_e.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/732.html?1111358151">Gordon J Cameron</a><br>
+<img src="/discus/icons/tree_i.gif" height=16 width=20 border=0 align=top><img src="/discus/icons/tree_f.gif" height=16 width=20 align=top><img src="/discus/icons/tree_r.gif" height=16 width=20 border=0 align=top><a href="/discus/messages/8/741.html?1111610756">Carol Fleming - Beloit, KS</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=9"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/9/9.html?1112314380">BTK Suspects</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=10"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/10/10.html?1113016257">BTK Communications</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=11"><img height=16 width=20 border=0 src="/discus/icons/tree_e.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/11/11.html?1113082355">BTK Theories</a><br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi?x=e&st=76"><img height=16 width=20 border=0 src="/discus/icons/tree_f.gif" align=top alt="Expand/Collapse Topic"></a><img src="/discus/icons/tree_n.gif" height=16 width=20 align=top><a href="/discus/messages/76/76.html?1112991349">BTK Media</a><br>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=admin" target=_top><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>
+<!--HTTP Cookie:  -->
+<!--Setting Cookies:
+  -->

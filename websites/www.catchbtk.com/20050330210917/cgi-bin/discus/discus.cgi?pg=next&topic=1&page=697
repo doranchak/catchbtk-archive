@@ -1,0 +1,233 @@
+<html>
+<!--Topic: 1/General BTK Discussion-->
+<!--Me: 700/Some POSSIBLE Dennis Rader newsgroup postings-->
+<!--Level 1: 700/Some POSSIBLE Dennis Rader newsgroup postings-->
+<!--Properties: -->
+<!--Param: MessagesAdd-->
+<!--Parent: 1-->
+
+<head>
+<title>catchBTK.com MESSAGE BOARD: Some POSSIBLE Dennis Rader newsgroup postings</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<script language="javascript">
+<!-- ;
+function initpage () {
+if (document.userpass) {
+if (document.userpass.username) {
+if (document.userpass.username.value == "") {
+document.userpass.username.value = readcookie("user")
+}
+}
+if (document.userpass.passwd) {
+if (document.userpass.passwd.value == "") {
+document.userpass.passwd.value = readcookie("rpwd")
+}
+}
+}
+cookieinit();
+}
+function setcookie(name, value, store) {
+if (store >= 1) {
+var expire = new Date ();
+if (store == 1) {
+expire.setTime (expire.getTime() + (365*24*60*60*1000));
+}
+if (store == 2) {
+expire.setTime (expire.getTime() + (1*24*60*60*1000));
+}
+} else {
+var expire = null;
+}
+document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : "; expires=" + expire.toGMTString()) + "; path=/";
+}
+function cookieinit() {
+var last_time = readcookie("lastvisit");
+var last_session = readcookie("lastsession");
+var offset = readcookie("offset");
+var now = new Date ();
+var browser_time = now.getTime();
+setcookie("lastvisit", browser_time, 1);
+var server_now = "";
+if (server_now != "") {
+offset = browser_time - (1000*server_now);
+setcookie("offset", offset, 1);
+}
+if (last_time == "" || last_time == null || last_time == 0) {
+last_time = browser_time + (3*24*60*60*365*1000);
+}
+if (last_session == null || last_session == 0 || last_session == "") {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+if (browser_time - last_time > (15 * 60 * 1000)) {
+setcookie("lastsession", last_time, 0);
+last_session = last_time;
+}
+var server_gmt_offset = 0;
+var compare_time = (last_session - offset) / 1000;
+if (document.images) {
+img_new = new Image();
+img_new.src = "http://www.catchbtk.com/discus/clipart/new.gif";
+}
+if (document.images) {
+}
+}
+function readcookie(name) {
+var i = 0; var lookfor = name + "="
+while (i < document.cookie.length) {
+var j = i + lookfor.length
+if (document.cookie.substring(i,j) == lookfor) {
+var endstr = document.cookie.indexOf(";", j)
+if (endstr == -1) {
+endstr = document.cookie.length
+}
+return unescape(document.cookie.substring(j, endstr))
+}
+i = document.cookie.indexOf(" ", i) + 1
+if (i == 0) {
+break
+}
+}
+return ""
+}
+// end hide -->
+</script>
+<style type="text/css">
+<!--
+p.topborder { border-bottom: thin #999999 solid; padding-bottom: 4pt }
+p { font: 8pt Verdana; }
+table.topsection { }
+td.topsect1 { vertical-align: bottom; text-align: left; font: 12pt Verdana; font-weight: 600; }
+td.topsect2 { vertical-align: top; text-align: right; font: 8pt Verdana; }
+td.nb { font: 8pt Verdana; }
+td.b { font: 8pt Verdana; font-weight: 600;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#000099" alink="#ff0000" onLoad="initpage()">
+<basefont size="1"><font face="Verdana" size="1">
+<a name=MT></a>
+<p class="topborder">
+<table class="topsection" width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td class="topsect1">Some POSSIBLE Dennis Rader newsgroup ...</td>
+<td class="topsect2">
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=logout">Log Out</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics">Topics</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi">Search</a>
+<br>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-contact.cgi">Moderators</a> |
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-profile.cgi">Edit Profile</a>
+</td>
+</tr>
+</table>
+</p>
+<a name="MT"></a>
+<table border=0 cellpadding=4 cellspacing=0 width="100%">
+<tr bgcolor="#999999">
+<td valign=top align=left width="80%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">catchBTK.com MESSAGE BOARD</font></a> &#187;
+<a href="http://www.catchbtk.com/discus/messages/1/1.html"><font color="#f7f7f7">General BTK Discussion</font></a> &#187;
+Some POSSIBLE Dennis Rader newsgroup postings
+</b></font></td>
+<td valign=top align=right width="20%"><font size=1 face="Verdana" color="#f7f7f7"><b>
+&#171; <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=prev&topic=1&page=700"><font color="#f7f7f7">Previous</font></a>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=next&topic=1&page=700"><font color="#f7f7f7">Next</font></a> &#187;
+</b></font></td>
+</tr></table>
+<p></p>
+<table border=0 cellspacing=0 cellpadding=1 width=100% bgcolor=#000000>
+<tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor=#999999>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Author</b></font></td>
+<td><font size=1 face="Verdana" color="#f7f7f7"><b>Message</b></font></td>
+</tr>
+<!--Post: 11142--><!--Time: 1110469972-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11142"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Witchking<!--/name--></b></a><br>Username: <!--field:uname-->Witchking<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 7:52 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Begin speculation mode NOW over his computer knowledge or obvious lack of it. I mean there is no doubt the guy was named Dennis Rader or at least his posting name was, seems strange to make this name up over John Doe etc....It&#39;s archived so I can&#39;t get headers and the like past what is listed here... <BR> <BR>You could always try the email addy and see if anything pops back <BR> <BR> <BR> <BR>From: <a href="mailto:dra...@ionet.net">dra...@ionet.net</a> &#40;Dennis Rader&#41; <BR>Subject: Windows98 freeze when connected to internet <BR>Date: 1998/09/03 <BR>Message-ID: &#60;<a href="mailto:35eeade3.304593@news.ionet.net">35eeade3.304593@news.ionet.net</a>&#62;#1/1 <BR>X-Deja-AN: 387707082 <BR>Sender: <a href="mailto:a...@tulnasb-08.ionet.net">a...@tulnasb-08.ionet.net</a> <BR>Organization: ioNET Inc. <BR>Reply-To: <a href="mailto:dra...@ionet.net">dra...@ionet.net</a> <BR>Newsgroups: alt.windows98 <BR> <BR>For some strange reason my new PC installed with windows98 freezes <BR>frequently when moving mouse and selecting features while on the <BR>internet. The keyboard &amp; mouse become completely inactive. My only <BR>recourse is to reboot the system. <BR> <BR>Any suggestions would be greatly appreciated. <BR> <BR>Thanks <BR>------------------------------------------------- <BR> <BR> <BR>Newsgroups: alt.invest.penny-stocks <BR> <BR>From: Dennis Rader &#60;<a href="mailto:dra...@ionet.net">dra...@ionet.net</a>&#62; - Find messages by this author <BR> <BR>Date: 1997/08/15 <BR> <BR>Subject: Test-JR <BR> <BR>Reply to Author  | Forward  | Print  | Individual Message  | Show original  | Report Abuse <BR> <BR> <BR>J.R.  <BR> <BR> <BR>I hope this method of seeking possible investment methods is useful.  <BR> <BR> <BR>D.R.  <BR>------------------------------------ <BR> <BR>  Mar 2 1997, 12:00 am     hide options <BR> <BR>Newsgroups: alt.unix.wizards <BR> <BR>From: <a href="mailto:dra...@ionet.net">dra...@ionet.net</a> &#40;Dennis Rader&#41; - Find messages by this author <BR> <BR>Date: 1997/03/02 <BR> <BR>Subject: Screen Saver <BR> <BR> <BR>Is there a way with xlock to view a screen saver like &#39;swarm&#39;?  <BR>----------------------------------------------- <BR> <BR>Dennis Rader <BR>  Mar 2 1997, 12:00 am     hide options <BR> <BR>Newsgroups: comp.unix.aix <BR> <BR>From: <a href="mailto:dra...@ionet.net">dra...@ionet.net</a> &#40;Dennis Rader&#41; - Find messages by this author <BR> <BR>Date: 1997/03/02 <BR> <BR>Subject: How can I activate swarm screen saver? THANKS :-&#41; <BR> <BR>Reply to Author  | Forward  | Print  | Individual Message  | Show original  | Report Abuse <BR> <BR>Please help me activate a screen saver in X windows called &#39;Swarm&#39;.  <BR>Thanks!  <BR><!--/Text--></td></tr>
+<!--/Post: 11142-->
+<!--Post: 11147--><!--Time: 1110477437-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11147"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Steve_huff<!--/name--></b></a><br>Username: <!--field:uname-->Steve_huff<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 9:57 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I am erring now towards this having been Denny himself. The reason is I checked up on ionet and it&#39;s addresses and phone show an Oklahoma location. Considering Wichita&#39;s close proximity to the Oklahoma border it&#39;s not a stretch for me to think these were posted after Denny got his first computer and internet account and was learning the ropes. I&#39;d originally rejected them as possibly being the one dude, but I&#39;m changing my mind.<!--/Text--></td></tr>
+<!--/Post: 11147-->
+<!--Post: 11151--><!--Time: 1110479107-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11151"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Witchking<!--/name--></b></a><br>Username: <!--field:uname-->Witchking<!--/field--><br><br>Registered: <!--field:registered-->12-2004<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 10:25 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I kinda sorta looking over them had the feeling they were his. Something in my long IT background told me Oklahoma or not, it was him.  <BR>  <BR>Did he actually progress from not being able to access his screen saver to posting on boards &#40;I sincerely have my doubts--certainly he was an avid newswatcher as well as detective book reader and they do quite a few stories now on cold cases and how computer &#39;DNA&#39; catches crooks he&#39;d know not to involve himself online. <BR> <BR>We now know he&#39;s not as smart as he thought he was &#40;his 6th grade level dog catcher case folder filled with horrid syntax, misspellings and other assorted mistakes---his lack of computer disk understanding&#41; so logging on and discussing his own case seems like a stretch to me---I could be wrong but I have a hunch he wasn&#39;t talking, he MAY have been READING and smirking...<!--/Text--></td></tr>
+<!--/Post: 11151-->
+<!--Post: 11153--><!--Time: 1110479625-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11153"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Lakesguy<!--/name--></b></a><br>Username: <!--field:uname-->Lakesguy<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 10:33 am: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->Well, since he posted to alt.unix.wizards, maybe that&#39;s why Rader had to have his minister show him how to work the PC. Maybe BTK is a Unix guy! <BR> <BR>It&#39;d be interesting to see if this was him. I used to be a Unix sys. admin., and I know how anal other such creatures can be. <!--/Text--></td></tr>
+<!--/Post: 11153-->
+<!--Post: 11202--><!--Time: 1110499046-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11202"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Audreyamw<!--/name--></b></a><br>Username: <!--field:uname-->Audreyamw<!--/field--><br><br>Registered: <!--field:registered-->1-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 3:57 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->There&#39;s a Dennis Rader living in Oklahoma City who is a completely different person than DTDC.  I think.  The Oklahoma DR is a Tai Chi instructor.  Maybe this DR is the Oklahoma City DR.<!--/Text--></td></tr>
+<!--/Post: 11202-->
+<!--Post: 11203--><!--Time: 1110499240-->
+<!--p:--><tr bgcolor="#cccccc"><td valign=top width=200><a name="POST11203"><font face="Verdana" size="1"><b><!--email--><a href="mailto:embersageblue@aol.com" target="_blank"><!--/email--><!--name-->Embersage<!--/name--></b></a>
+</a><br>Username: <!--field:uname-->Embersage<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 4:00 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->wow if i were him i would change me name<!--/Text--></td></tr>
+<!--/Post: 11203-->
+<!--Post: 11208--><!--Time: 1110503346-->
+<!--p:--><tr bgcolor="#f7f7f7"><td valign=top width=200><a name="POST11208"><font face="Verdana" size="1"><b><!--email--><!--/email--><!--name-->Brady<!--/name--></b></a><br>Username: <!--field:uname-->Brady<!--/field--><br><br>Registered: <!--field:registered-->2-2005<!--/field--><br><!--field:ip_address--><!--/field--></font></font></td><td valign=top><font face="Verdana" size="1"><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align=left><font face="Verdana" size="1">Posted on Thursday, March 10, 2005 - 5:09 pm: &nbsp;&nbsp;</font></td><td align=right></td></tr></table><hr noshade size=0><!--Text-->I&#39;m getting the feeling that the postings above from &#34;Dennis Rader&#34; are not &#34;BTK, Dennis Rader.&#34;  I say that b/c the writing seems too concise and fluid for  BTK.  There is a thread started under &#34;Media&#34; called &#34;BTK and Writing Analyzed&#34; which talks about his writing styles and possible dyslexia.  <!--/Text--></td></tr>
+<!--/Post: 11208-->
+</table></td></tr></table>
+<a name="MB"></a>
+<form action="http://www.catchbtk.com/cgi-bin/discus/board-post.cgi" method="post" name="userpass">
+<input type=hidden name="HTTP_REFERER" value="1/700">
+<input type=hidden name="preview" value="1">
+<p></p>
+<table bgcolor=#000000 border=0 cellpadding=0 cellspacing=1 width=100%><tr><td><table border=0 cellpadding=4 border=0 cellspacing=1 width=100%>
+<tr bgcolor="#999999">
+<td colspan=3><font size=1 face="Verdana" color="#f7f7f7">
+<b>Add Your Message Here</b>
+</font></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Post:</b></font></td>
+<td valign=top bgcolor="#cccccc" colspan=2><textarea name="message" cols=50 rows=7 wrap=virtual></textarea></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Username:</b></font></td>
+<td bgcolor="#cccccc"><input type="text" name="username" value="" size=15></td>
+<td bgcolor="#cccccc" valign=top rowspan=2><font size="1" face="Verdana" color="#000000">
+<b>Posting Information:</b><br>
+This is a private posting area.  Only registered users and moderators may post messages here.
+</font></td>
+</tr>
+<tr>
+<td bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Password:</b></font></td>
+<td bgcolor="#cccccc"><input type="password" name="passwd" value="" size=15></td>
+</tr>
+<tr>
+<td valign=top bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000">
+<b>Options:</b>
+</font></td>
+<td bgcolor="#cccccc" colspan=2><font size="1" face="Verdana"><input type=checkbox name="html" value=1 checked>Enable HTML code in message<br>
+<input type=hidden name="html_a" value=1>
+<input type=checkbox name="active_links" value=1 checked>Automatically activate URLs in message<br>
+<input type=hidden name="active_links_a" value=1>
+</font></td></tr>
+<tr>
+<td valign=center bgcolor="#f7f7f7"><font size="1" face="Verdana" color="#000000"><b>Action:</b></font></td>
+<td valign=center bgcolor="#cccccc" colspan=2>
+<font size="1" face="Verdana">
+<input type="submit" value="Preview/Post Message" onClick="document.userpass.preview.value = '1';">
+</font>
+</td>
+</tr>
+</table></td></tr></table>
+</form>
+<p></p>
+<table border=0 cellpadding=4 border=0 cellspacing=0 width=100%>
+<tr bgcolor="#999999">
+<td valign=top align=left width=80%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=topics"><font color="#f7f7f7">Topics</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=1&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Day</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi?method=last&number=7&units=1440&tree=ON&where=all"><font color="#f7f7f7">Last Week</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/board-viewtree.cgi"><font color="#f7f7f7">Tree View</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/search.cgi"><font color="#f7f7f7">Search</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=help"><font color="#f7f7f7">Help/Instructions</font></a>
+| <a href="http://www.catchbtk.com/cgi-bin/discus/discus.cgi?pg=credits"><font color="#f7f7f7">Program Credits</font></a>
+</td>
+<td valign=top align=right width=20%><font size=1 face="Verdana" color="#f7f7f7"><b>
+<a href="http://www.catchbtk.com/cgi-bin/discus/board-admin-menuonly.cgi?cmd=start&startfrom=1/700" target="_blank"><font color="#f7f7f7">Administration</font></a>
+</b></font>
+</td></tr></table>
+</body></html>
